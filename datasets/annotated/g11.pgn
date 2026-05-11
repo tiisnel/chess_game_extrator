@@ -1,0 +1,63 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.12.04"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D58"]
+
+1. d4 {Tartakower starts from queen's gambit declined} 1... d5 2. c4 e6 (2...
+dxc4 3. e4 {has pressure and normally wins pawn back quickly} )  (2... c6
+{leads to Slav} )  (2... Nc6 {Chigorin defense} ) 3. Nc3 { puts pressure on d5
+and potentially prepares e4} 3... Nf6 4. Bg5 {removes option from black to
+recapture with knight, allowing white to choose pawn structure} 4... Be7
+{breaks pin and prepares castling} 5. Nf3 h6 6. Bh4 {bishop pair gives white
+more options to play for win}  (6. Bxf6 {anti-Tartakower} 6... Bxf6 7. e3 O-O
+8. Rc1 c6 {Semi Slav structure} 9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 e5 12. h3 (12.
+dxe5 Nxe5) 12... exd4 13. exd4 {isolated pawn structure, important to time d5
+push well} 13... Nb6 14. Bb3 Bf5 15. Re1 Re8 16. Rxe8+ Qxe8 17. Qd2 Qd7 18. Re1
+{equal position} ) 6... O-O 7. e3 b6 {Tartakower starting position} 8. Bd3
+{modern mainline}  (8. cxd5 {forcing approach} 8... Nxd5 9. Bxe7 Qxe7 (9...
+Nxc3 {loses} 10. Bxd8 Nxd1 11. Be7 Re8 12. Ba3 {traps knight} )  (9... Nxe7
+{undevelopes?!} 10. Bd3) 10. Nxd5 exd5 11. Rc1 Be6 {more played than Bb7}  (
+11... Bb7 12. Bd3 c5 13. dxc5 bxc5 14. O-O) 12. Qa4 c5 13. Qa3 {better than
+immediate taking} 13... Rc8 14. Be2 Qf8 15. dxc5 bxc5 16. O-O Nd7)  (8. Rc1 Bb7
+9. Bxf6 {same idea as before} 9... Bxf6 10. cxd5 Bxd5 (10... exd5 11. b4
+{prevents c5} 11... c6 12. Bd3 Qd6 13. Qb3 Nd7 14. O-O a5 15. a3 axb4 16. axb4
+Be7 17. Rb1 Rfe8 18. Rfe1 {slightly better for white} ) 11. Nxd5 Qxd5 12. Bc4
+Qd8 13. O-O {white is ahead in development} )  (8. Be2 dxc4 (8... Bb7 9. Bxf6
+Bxf6 10. cxd5 exd5 11. b4 c6 (11... c5 {possible if white rook isnt on c file
+yet} 12. bxc5 bxc5 13. Rb1 {cant take on c5} 13... Bc6 14. O-O Nd7 15. Bb5 Qc7
+16. Bxc6 Qxc6) 12. O-O Re8 13. Qb3 a5 14. bxa5 (14. a3 Nd7 15. bxa5 Rxa5) 14...
+Rxa5 15. a4 {limits opponent space}  (15. Rab1 Nd7) 15... Nd7 16. Rfe1 {in case
+bishop needs to drop back} 16... Qa8 17. Bd3 c5 18. Bb5 Rd8 19. Bxd7 Rxd7 20.
+Qxb6 Bc6 21. Rab1 {tries to exchange queens on b8, beore it gets trapped} 21...
+Kh7) 9. Bxc4 {or castle first} )  (8. Qb3 {older mainline} 8... Bb7 9. Bxf6
+{forces recapture with pawn later} 9... Bxf6 10. cxd5 exd5 (10... Bxd5 11. Nxd5
+exd5 {white pawns are blocking opponent dark squared bishop. c7 pawn is also a
+weakness} ) 11. Rd1 Re8 12. Bd3 c5 13. dxc5 {can't recapture!} 13... Nd7 (13...
+d4 14. Bc4 {is losing for black} ) 14. c6 {ruining opponent structure}  (14.
+cxb6 Nc5 15. Qc2 Nxd3+ 16. Qxd3 Qxb6 {and white is under pressure as Ba6 stops
+castling} ) 14... Bxc6 (14... Bxc6)  (14... Nc5 {Qxd5 doesnt work due of Bxc3+}
+15. cxb7 Nxb3 16. bxa8=Q Qxa8 17. axb3 {material inbalance works for white
+favour} ) 15. O-O Nc5 16. Qc2 Rc8 (16... Nxd3 17. Qxd3 {gives white pressure on
+isolated pawn} ) 17. Nd4 Bxd4 18. exd4 Nxd3 19. Qxd3 {equal} ) 8... Bb7 (8...
+dxc4 9. Bxc4 Bb7 10. O-O Nbd7 11. Qe2 Ne4 {"queens indian move"} 12. Bg3 Nxg3
+13. hxg3 {keeps sound structure} 13... c5 14. Rfd1 {dc allows black to develop}
+14... Bxf3 {most played move}  (14... Nf6 15. dxc5 Qc7 16. cxb6 Qxb6 {gives
+black activity for pawn} ) 15. gxf3 {gives white clear advantage} 15... cxd4
+16. exd4 Nf6 17. d5 exd5 18. Nxd5 Nxd5 (18... Bc5 19. b4 {white has more space}
+) 19. Bxd5 {forks rook and Bxf7+ discovery} ) 9. O-O Nbd7 (9... dxc4 10. Bxc4
+c5 11. dxc5 Bxc5 12. Qe2 {givews white open file} ) 10. Qe2 {waiting move to
+find best files for rooks: c,d or e} 10... Ne4 {c5 transposes to mainline, but
+then black must know the effects on captures in center}  (10... dxc4 11. Bxc4
+Ne4 12. Bxe7 Qxe7 13. Nxe4 Bxe4 14. Rfd1 {black pieces are not ideally placed} 
+14... c5 15. Rac1) 11. Bg3 (11. Bxe7 Qxe7 12. cxd5 exd5 13. Rfd1) 11... c5 (
+11... Nxg3 12. hxg3 Nf6 (12... dxc4 13. Bxc4 c6) 13. cxd5 Nxd5 14. Nxd5 Qxd5
+{black is not forced to take with pawn here} )  (11... c5 12. cxd5 exd5) 12.
+cxd5 exd5 13. Rad1 Nxg3 (13... Qc8 14. Rc1 {makes it riskier to open lines for
+black} 14... Rd8 15. Rfd1 Ndf6 16. Ne5 Qe6 17. Bh4 Rac8 18. f3 {trades pieces
+to equal endgame} 18... Nxc3 19. bxc3 Nd7 20. Bxe7 Qxe7 21. Nxd7 Rxd7) 14. hxg3
+Qc7 *
+

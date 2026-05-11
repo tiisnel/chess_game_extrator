@@ -1,0 +1,40 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.11.23"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A10"]
+
+1. c4 {in english, white wants to control d5; including moves Nc3, Bg2}  (1. d4
+Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 {fully accepted benko gives black
+development advantage and two open lines} )  (1. e4 c5 2. b4 {Wing gambit} 2...
+cxb4 3. a3 { Jaenisch gambit with colors reversed} ) 1... b5 {Jaenisch Gambit,
+removes d5 control} 2. cxb5 {gambit is afwul for black, if white knows what
+they are doing}  (2. e3 {not accepting gambit is worse for white} 2... bxc4 3.
+Bxc4 d5 {have to retreat bishop} 4. Bb3 e6 5. Nf3 c5 {center is controlled by
+black} ) 2... a6 {most common in Lichess, similar to Benko gambit or Wing
+gambit as white against sicilian}  (2... Bb7 3. Nf3 {best move, prevent e5: d5
+can't be prevented} 3... g6 {Bxf3 is one of engine suggestions, but it is
+afwul} 4. d4 Nf6 5. Nc3 {followed by e3; a6 or c6 will be taken; d5 blocks own
+bishop} )  (2... g6 3. Nc3 {support for e4; or Nf3 to stop e5} 3... Bg7 4. d4
+Bb7 5. e4 {early Nc3 allows to block both opponent bishops} 5... Nf6 6. e5 {f3
+also possible, but not recommended} 6... Nd5 7. Nf3 { if black takes, 4 white
+pawns are in centre} 7... O-O 8. Bc4)  (2... e5 {most challenging for human
+perspective} 3. e4 {recommended as pawn must be protected at some time} 3...
+Nf6 4. Nc3 {as e4 was hanging} 4... Bb7 5. Nf3 {d3 also good but passive} 5...
+d6 {blocks bishop}  (5... Nxe4 {only reasonably dangerous sequence} 6. Nxe4
+Bxe4 7. Nxe5 {can be taken now} 7... Qe7 8. d4 d6 9. Qe2 {defending everything}
+9... dxe5 10. Qxe4 exd4 11. Qxe7+ Bxe7 12. Bf4 {and one of the pawns falls} 
+12... Kd7 13. O-O-O {d4 falls} 13... Bf6 14. g3 { Bg2 ends game} )  (5... Qe7
+{also blocks bishop} ) 6. Qc2) 3. e3 { if black doesn't recapture now, bxa6 is
+great as bishop exchange won't ruin castling}  (3. bxa6 Bxa6 {is what black
+wants} )  (3. e4 {e3 is slightly safer} 3... Nf6 4. Nc3 {don't want d3 yet, as
+axb4 should be recaptured with bishop} 4... axb5 5. Bxb5 Bb7 6. d3 {or f3}  (6.
+Qe2 {best move} 6... e6 7. d4 {centre and extra pawn} ) )  (3. bxa6 {benko
+like, if e pawn moves, Bxf1 ruins castling; not a good idea} ) 3... axb5 4.
+Bxb5 c6 {most people will play it} 5. Be2 {all the best moves} 5... e5 {Nf6 is
+suboptimal} 6. Nf3 e4 7. Nd4 d5 8. d3 {starts to undermine black centre; unlike
+in Benko, our a&b pawns are safe, and black has no lead in development} *
+

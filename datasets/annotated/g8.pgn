@@ -1,0 +1,61 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.11.27"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C89"]
+
+{Saric-Gukesh, best game(?) from Croatian rapid tour} 1. e4 e5 2. Nf3 Nc6 3.
+Bb5 {Ruy Lopez} 3... a6 4. Ba4 {Marshall attack, "refuted" by Capablanca} 4...
+Nf6 5. O-O Be7 6. Re1 b5 {challenging the bishop} 7. Bb3 O-O 8. c3 {a4(anti
+marshall) or h3 are more popular. c3 invites Marshall attack main lines} 8...
+d5 {this is the Marshall attack} 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 {white has
+extra pawn} 11... Bb7 {Nf6 is original, while c6 is also promising alternative.
+Bb7 is only third most popular, but some strong players have tried it} 12. Qf3
+{considered the best, threats to win piece}  (12. d4 {not considered best} 
+12... Bf6 13. Re1 Re8 14. Bd2 {standard Marshall move defending e1} ) 12... Bd6
+13. Bxd5 (13. Rxd5 Qe7 {and white has problems} 14. Qe3 {white is dead lost} 
+14... Rae8 {only winning move} 15. Qxe7 Rxe7 16. Kf1 Rfe8 17. f4 {f3 does not
+stop checkmate} 17... Re1+ 18. Kf2 Bxd5 19. Bxd5 Rxc1 {other rook joins and
+white knight falls} ) 13... c6 14. Re1 cxd5 15. d4 Qc7 16. g3 {typical
+marshall: black has doubled bishops against pawn down; eventually black want to
+activate Bc8-h3} 16... Rfe8 {Rae8 is played more, but it is the engine
+preference} 17. Rxe8+ Rxe8 18. Be3 b4 {best move} 19. a3 bxa3 20. Nxa3 Qb6
+{putting pressure on b2} 21. b4 {top move, even if c3 is weakened} 21... Qc6
+22. Bd2 a5 {possible passed pawn if white does not exchange} 23. Nc2 a4 (23...
+axb4 24. Nxb4 Bxb4 25. cxb4 {Ba6-b5 blocks white extra pawn and black can cause
+some trouble} ) 24. Na3 Qd7 {Bc8, Qh3, Bb4 with possible checkmate ideas } 25.
+Re1 Rxe1+ 26. Bxe1 h6 {or Bc8} 27. h4 Bf8 {helps defending king and d5} 28. Bd2
+Ba6 {e4 is bishop dream square} 29. Kg2 Qe6 30. Qe3 Qf5 31. Qe8 {prepares b5} 
+(31. b5 Bc8 {black do not want to trade with pawn down} 32. Bc1 Qh3+ 33. Kg1
+Bf5 {Be4 is unstoppable as f3 blunders g3} ) 31... Bc8 {only move} 32. Bf4
+{losing move, but difficult to find} 32... Bd7 {gukesh missed winning idea}  (
+32... Be6 {queen is out of play} 33. b5 Qe4+ 34. f3 (34. Kh2 Qf3 35. Be3 Bf5) 
+34... Bh3+ {picks up queen} ) 33. Qe2 {can go back} 33... g5 34. hxg5 hxg5 35.
+Bb8 g4 (35... Qh3+ 36. Kg1 Bf5 37. f3 {is difficult, but holdable for white} ) 
+36. Bf4 Qh7 37. f3 Bf5 38. Kg1 {only move not losing on spot} 38... Qg6 39.
+fxg4 Be4 {Gukesh second pawn sacrifice follows Marshall true spirit } 40. Kf2
+{only move} 40... Qh7 41. Ke1 Bd3 42. Qe5 Qh1+ {Gukesh finally starts attack} 
+43. Kd2 Bg6 44. Qe1 Qg2+ 45. Qe2 Qh1 46. Qe1 Qh3 47. g5 {if white can exchange
+queens, endgame is better thanks to strong b pawn} 47... Be4 48. Kc1 Qg2 49.
+Qd2 Qf1+ 50. Kb2 Be7 51. Qh2 Qd1 52. Nc2 {only move again; a3 doesnt work if
+knight captures} 52... Qd3 53. Be5 Bh7 {mistake if white winds tricky move}  (
+53... f6 {probably best} 54. Bxf6 Bxf6 55. gxf6 Qc4 56. f7+ Kxf7 57. Qf2+ Ke7
+58. Na1 {is draw, but very difficult for both sides} ) 54. g6 Qxg6 (54... fxg6
+55. Qh6 Bf8 56. Qh3 Be7 57. Qe6+ Kf8 58. Bg7+ Kxg7 59. Qxe7+ Kg8 60. Qe3 {is
+winning for whitre} ) 55. Na3 {Qe2 is better if playing for win} 55... Qd3 56.
+Qc2 Qa6 57. Qd1 Bg6 58. Qd2 Qf1 59. Qh2 {treats checkmate} 59... f6 60. Bf4 Qd1
+61. Nc2 Qd3 (61... Bxb4 {pravtical solution} 62. cxb4 Qd3 {Qb3+ qnd pawn is
+free to go, but still draw with good defense} ) 62. Qd2 Qc4 63. Na1 {guards
+everything} 63... Kf7 64. Qc1 Bd3 65. Qd2 Bf8 66. Ka3 Be4 67. Kb2 (67. Kxa4
+Qa6+ 68. Kb3 Qxa1 {loses knight} ) 67... Qa6 68. Nc2 Qc4 {not allowing Na3} 69.
+Na1 Ke6 70. Ka3 Qf1 71. Qc1 Qd3 {must play Qe2 to defend a4: prepetual check if
+captured} 72. Kxa4 Qa6+ 73. Kb3 Qc4+ 74. Kb2 Qe2+ 75. Qd2 Qf1 {queen trade is
+no longer option with 2 pawns down} 76. Nc2 Kf7 77. Na3 Be7 78. Qc1 Qe2+ 79.
+Qd2 Qf1 80. Nc2 Bf8 81. Qe1 Qd3 82. Qd2 Qf1 83. Qe1 Qd3 {agreed to draw here} 
+84. Ne3 {a way to continue for win} 84... Qb5 85. Qf1 {knight defends important
+c2 and c4} 85... Bd3 86. Qd1 Be4 87. Kb3 {and black is out of attacking ideas,
+allowing white to realize extra pawns with activating queen} *
+

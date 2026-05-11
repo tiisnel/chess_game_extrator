@@ -1,0 +1,94 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.11.23"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C50"]
+
+{way for white to win quickly and spectacularly} 1. e4 e5 2. Bc4 {attacking f7
+with many potential sacrifice ideas to look for} 2... Nc6 {very natural move,
+happening 33% of games}  (2... Bc5 {symmetric response gives a bunch of tricks}
+3. d4 {Lewis gambit} 3... exd4 {looks like no problem for black, but}  (3...
+Bxd4 4. Nf3 {first thing to do is to bring out knight} 4... c5 {solidifies
+bishop}  (4... Nc6 {move you will always see. Bishop is strong and you'd like
+to see knight there instead} 5. Nxd4 Nxd4 6. O-O {must be patient} 6... Nf6
+{seen most often} 7. f4 {to get rook activated to f7 attack} 7... Nc6 (7...
+exf4 {cannot be taken} 8. Qxd4)  (7... d6 {defends pawn} 8. fxe5 {clear way for
+rook} 8... dxe5 9. Bg5 {black has no good moves! Be6 is best?!} 9... O-O {h6
+also triggers same response}  (9... Qd7 {if queend does not support f6, white
+wins pawn} 10. Bxf6 gxf6 11. Rxf6 {rook and bishop coordination is extremely
+strong} )  (9... c5 10. c3 {threats to win pawn outright} 10... Nc6 11. Qxd8+
+{capture  f6 and black position is falling apart} ) 10. Bxf6 gxf6 {can't take
+with queen so king remains weak} ) 8. Bxf7+ {now is time} 8... Kxf7 9. fxe5 {f6
+knight can't move} 9... Nxe5 10. Qd5+ {knight is still pinned,  recapture
+knight, and white pieces are more developed} ) 5. c3 {no moves for bishop,
+probably sacrifices on f2 for pawn, giving white nice position with bishop for
+two pawns} )  (3... Bd6 {use already learned ideas to figure this out!} 4. dxe5
+Bxe5 5. Bxf7+ Kxf7 6. Qh5+ g6 7. Qxe5 {pick up bishop, extra pawn and black
+king is horrible} ) 4. Bxf7+ {always look for sacrifice} 4... Kxf7 {if black
+moves away, they lose castling rights, giving white great position} 5. Qh5+
+{always need good follow-up plan after sacrifices} 5... g6 6. Qxc5 {d4 is under
+attack and king is in very precarious position} 6... Nc6 {most common reply in
+databases below master level} 7. Nf3 {attacking pawn once more} 7... d6
+{logical reply on surface level} 8. Qd5+ {black position goes from bad to
+worse} 8... Be6 {opponent attacks queen} 9. Ng5+ {full force of this opening,
+forking king and bishop} 9... Qxg5 { best move, but black is more likely trying
+to survive other ways}  (9... Ke7 10. Qxe6+ {simple check and mate} 10... Kf8
+11. Qf7#)  (9... Kf6 10. Qxe6+ {sniper bishop does not allow black to capture
+knight} 10... Kg7 11. Qf7+ Kh6 {only legal move} 12. Ne6+ {discovered check
+with bishop} 12... Kh5 (12... g5 13. h4 {checkmating hxg, no matter what black
+tries} ) 13. Qf3+ Kh4 14. Qh3# {checkmate} ) 10. Qxg5 {white is up a bunch of
+material} )  (2... Nf6 3. d4 exd4 (3... d6 {is problematic:} 4. dxe5 dxe5 5.
+Bxf7+ Kxf7 6. Qxd8 {as in many variations of this theme} ) 4. Nf3 {no rush in
+recapturing pawn} 4... Nxe4 5. Qxd4 Nf6 {Urusov gambit}  (5... Nd6 {with idea
+to get rid of white bishop} 6. O-O Nxc4 {don't neeed to take back!} 7. Re1+ Be7
+{only move that makes any sense} 8. Qxg7 {but queen is very strong on this
+diagonal} 8... Rf8 9. Bh6 {black is toast} 9... a6 (9... d5 10. Qxf8+ Kd7 {up a
+whole rook} 11. Qxd8+ {not best but easiest way} 11... Kxd8 12. Bc1) 10. Qxf8#
+{bishop is pinned} ) ) 3. Nf3 {trying to trick black into Bc5 transposition} 
+3... Bc5 {Italian game, played even by Carlsen}  (3... Nf6 4. d4 {black already
+in trouble} 4... Nxd4 (4... exd4 5. O-O {most thematic, but posible to
+transpose to other interesting openings too} 5... Nxe4 {beginner move}  (5...
+d6 {makes f8 bishop bad} )  (5... Bc5 {only sensible move leads back to tabiya}
+6. e5)  (5... Be7 {very unambitious} 6. Nxd4 {gets gambited pawn back quickly} 
+) 6. Re1 {king is in trouble} ) 5. Bxf7+ {always look for this move} 5... Kxf7
+6. Nxe5+ {no matter where king goes, pick up knight with extra pawn and
+development advantage. Bg5 and castle} ) 4. O-O {was not yet ready for d4} 4...
+Nf6 5. d4 {Max Lange attack} 5... exd4 {correct move for black; max lange
+tabiya}  (5... Nxd4 {even better for white than bishop capture} 6. Nxe5
+{threating f7 with both bishop and knight} 6... O-O 7. Be3 {winning piece} 7...
+Ne6 8. Bxe6 {must capture knight first for tactic to work} 8... Bxe3 {trying to
+be more clever}  (8... fxe6 9. Bxc5 {simply won the knight} ) 9. Bxf7+ {check.}
+9... Kh8 (9... Rxf7 10. Nxf7 {don't have time to move bishop away as queen is
+under attack} 10... Bxf2+ 11. Rxf2 Kxf7 12. e5 {knight is pinned} ) 10. fxe3
+{still piece up} )  (5... Bxd4 6. Nxd4 Nxd4 7. f4 {transposed to early Bc5} 
+7... d6 8. fxe5 dxe5 9. Bg5 {again in goood position} ) 6. e5 {Max Lange was
+known as Mad Max for discovering these opening ideas, black can go wrong many
+ways} 6... d5 {best defense, counterattacking bishop}  (6... Ng4 7. Bxf7+ {must
+always look for this idea} 7... Kxf7 8. Ng5+ {queen can't capture as knight is
+defendeb by other bishop} 8... Kf8 {no matter where king goes} 9. Qxg4)  (6...
+Ng8 7. Ng5 {coordinated attack, threating f7 fork} 7... Nh6 {black cant
+stabilize} 8. Qh5 {now there is big problem on f7; Nf7 Nf7 Qf7#} 8... O-O 9.
+Nxh7 {f7 was adequately defended} 9... Kxh7 {ignoring sacrifice is just better
+for white} 10. Bd3+ {Bishopi s flexible, and can sometimes be on other diagonal
+as well} 10... Kg8 (10... g6 11. Qxh6+ {wins pretty easily} ) 11. Bxh6 {we
+don't want defensive pieces} 11... gxh6 12. Qxh6 f5 {only move to stop
+immerdiate checkmate} 13. Bc4+ {meme culture "en passant is forced" is not best
+here} 13... d5 (13... Rf7 14. Qg6+ {dont' want opponent to be able to
+recapture} 14... Kh8 15. Qxf7 {captures full rook} ) 14. exd6+)  (6... Ne4
+{king has not castled, and knight is undefended} 7. Re1 d5 {can protect with f5
+too, but it fails to similar idea} 8. exd6 {en passant} 8... f5 9. Nbd2 cxd6
+{sample variation, played by most people} 10. Nxe4 fxe4 {have to recapture} 11.
+Rxe4+ Ne5 (11... Ne7 12. Bg5 {pile up an attack, black is going to collapse} ) 
+12. Nxe5 {push on!} 12... dxe5 13. Rxe5+ Kf8 (13... Kd7 14. Rd5+ {wins even
+faster} ) 14. Qf3+ {can also just capture bishop} 14... Qf6 {can't escape to
+corner because of a bishop} 15. Qxf6+ {delicious idea} 15... gxf6 16. Bh6#
+{checkmate} )  (6... Nd5 {just capture} 7. Bxd5) 7. exf6 dxc4 {otherwise they
+are down a piece, but now king is exposed} 8. Re1+ Be6 {90% of games in
+database}  (8... Kf8 9. fxg7+ {loses fast} ) 9. Ng5 {very sneaky move, 170 year
+old Max Lange trick} 9... Qxf6 {almost always played, as white has too many
+attackers on e6} 10. Nxe6 {common pattern:} 10... fxe6 11. Qh5+ {and pick up
+the bishop for two pawns, black position makes no sense} *
+

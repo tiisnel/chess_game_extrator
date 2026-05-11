@@ -1,0 +1,24 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.12.01"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B88"]
+
+{Magnus Smith trap, Fischer variation in Sicilian} 1. e4 c5 2. Nf3 {develops
+and controlling center } 2... d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 {attack center
+while defending e4 pawn} 5... Nc6 {attacking center} 6. Bc4 { Fischer
+variation; f7 is a bit of a weakness} 6... e6 {defensive/passive but covers the
+weakness well}  (6... g6 {many people rush to play Bg7 to counterattack centre,
+but here, it is a mistake} 7. Nxc6 bxc6 8. e5 dxe5 {tactically winning;}  (8...
+Ng4 {knight dont want to lose a tempo by going back to g8} 9. e6 {blocking c8
+bishop as defender} 9... Bxe6 10. Bxe6 fxe6 11. Qxg4 {and black king is
+completely unguarded} )  (8... Nh5 9. Qf3 {Fischer recommendation, another
+attacker to f7} 9... d5 (9... e6 10. g4 Ng7 {only move, but really passive as
+it blocks bishop ideal location} 11. Ne4 {Nd6 or Nf6; if king loses castling
+rights, white should bring rooks to attack with long castle} 11... Qa5+ 12. Bd2
+Qxe5 {another mistake} 13. Bc3 {queen trapped!} ) 10. Nxd5 {huge attack  allows
+sacrifises} ) 9. Bxf7+ Kxf7 {king can't go to d7} 10. Qxd8) *
+

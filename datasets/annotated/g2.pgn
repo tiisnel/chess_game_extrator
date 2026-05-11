@@ -1,0 +1,59 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.11.18"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A07"]
+
+{Video shows Amin Bassem new early idea in  KIA} 1. Nf3 {direct KIA}  (1. e4 e6
+2. d3 {example historic game from Fischer(1967 interzonal tournament) that
+helps to understand the idea} 2... d5 3. Nd2 Nf6 4. g3 c5 5. Bg2 Nc6 6. Ngf3
+Be7 7. O-O O-O {Typical KIA setup} 8. e5 Nd7 9. Re1 {automatic ideas: Nf1 to
+allow Bf4, h4, h5, h6 and Nh2-g4, white is hoping to checkmate} 9... b5 {black
+seeks queenside counterplay} 10. Nf1 b4 11. h4 {exact move order is not
+important as both sides play on their own wing} 11... a5 12. Bf4 a4 {black
+wants a3 and Nh7-b5 attacking c3&d4 squares} 13. a3 bxa3 14. bxa3 Na5 15. Ne3
+{Both sides keep playing on wings} 15... Ba6 16. Bh3 {knight sacrifises may
+happen laterif queen lefts d7 defense} 16... d4 {attacks knight} 17. Nf1 {Ng4
+is possible but Fisher wants option to atttack with queen directly on h5} 17...
+Nb6 {Bb7 and c4 were better options} 18. Ng5 {e6 becomes also potential
+sacrifise in futurefollowing Qh5 attack idea; potential treat to sacrifice on
+e6} 18... Nd5 {centralises knight and targets bishop} 19. Bd2 {defends c3 and
+attacking a5 knight} 19... Bxg5 {or forced later after Qh5} 20. Bxg5 Qd7 21.
+Qh5 {getting queen closer to kingside} 21... Rfc8 22. Nd2 {Common theme for
+knight to join via h2 or d2. d2-e4 is better than g4, as it targets both f6 and
+d6} 22... Nc3 {stops Ne4-d6, but loses control over f6:} 23. Bf6 {very often in
+KIA, white wants to weaken dark squares around king} 23... gxf6 (23... Qe8 {to
+defend with Qf8} 24. Ne4 {knight exchange allows rook join} 24... g6 25. Qg5
+{Qh6 triggers Qf8, now h5 is an idea} 25... Nxe4 26. Rxe4 c4 27. h5
+{unstoppable atack, opening h file has decisive effect} 27... cxd3 28. Rh4 {not
+wasting time to recapture d3, as immediate treat exist} 28... dxc2 (28... Ra7
+{defending seventh rank} 29. Bg2 {fantastic resource, coming to e4} 29... dxc2
+30. Qh6 {another threat is h:G6 and mating on h8} 30... Qf8 31. Qxh7+ {one of
+Fischer most famous tactics} 31... Kxh7 32. hxg6+ Kxg6 (32... Kg8 33. Rh8#) 33.
+Be4# {point of Bg2 earlier} ) 29. hxg6 hxg6 (29... fxg6 30. Rxh7 {Qh4-h8-g7
+mating} ) 30. Rh8#) 24. exf6 {fatal, as weakens black king too much} ) 1... d5
+2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. a3 {like in Fischer game, a3 is
+useful later + avoids Nc6}  (6. Nbd2 {automatic move, but Nc6 is annoying
+character-changing move:} 6... Nc6 7. e4 dxe4 8. dxe4 e5 {no attack} ) 6... b6
+{flexible way}  (6... c5 7. Nbd2 Nc6 {if black starts queenside pawn attack, a3
+is already useful addition} )  (6... a5 {stops b4} 7. Nc3 {b3 Reti is also
+playable, but this is more flexible, allowing e4 or Nb5} 7... d4 8. Nb5 e5 9.
+a4 { if c6, Na3-c4 targeting e5; e3 will be used to break center or e4 with
+more standard KIA} )  (6... Nc6 7. b4 {b5 threat doesnt allow black e5} 7... a6
+8. Bb2 {and e5 is under control. Reti type of position: c4 and develop knight
+to d2/c3} ) 7. e4 {immediate is better as diagonal is weak for black}  (7. Nbd2
+Bb7 8. e4 d4 {Ng5 and target centre} ) 7... dxe4 {if not taken, white can play
+e5 with standard ideas} 8. dxe4 Nxe4 (8... Qxd1 9. Rxd1 Bb7 10. e5 Nfd7 11. Bf4
+h6 {threatens g5} 12. h4 Rd8 {to allow knight development} 13. Nc3 {complex
+endgame, where black is a bit cramped; white wants to double rooks on d-file to
+increase pressure on knight} ) 9. Qxd8 Bxd8 {not obvious, but better than rook
+takes}  (9... Rxd8 10. Ng5 Bxg5 11. Bxg5 {bishop is attacking the rook} 11...
+Nxg5 12. Bxa8 {white wins material} ) 10. Nfd2 {attacks the knight}  (10. Ng5
+Bxg5 11. Bxg5 {in  this line, rook is not under attack} 11... Bb7 {and Nc5 or
+Nd6 remains with extra pawn} ) 10... Nxd2 11. Bxd2 c6 {rook was attacked, so
+only move} 12. Bb4 {attacks rook, c5 can't be played} 12... Re8 13. Nc3 Bb7 14.
+Rfd1 {unpleasant for black as c pawn nor knight, as rook d7 is threat} *
+

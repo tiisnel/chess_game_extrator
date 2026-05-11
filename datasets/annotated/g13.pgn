@@ -1,0 +1,35 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.12.09"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[ECO "A40"]
+
+{Attacking lines to beat opponents playing Owens defense} 1. d4 b6 2. e4 Bb7 3.
+Bd3 Nf6 4. Nc3 e6 5. Nge2 {most common setup} 5... d5 {played a lot over the
+board}  (5... Bb4 {played a lot online} 6. a3 Bxc3+ 7. Nxc3 {shows knight power
+on e2} 7... d5 8. e5 Ne4 (8... Nfd7 9. Qg4 {again attacking g7} 9... g6 10. Bg5
+f6 11. Qxe6+ {comes with check} 11... Qe7 12. Qxe7+ Kxe7 13. exf6+ Kf8 14. O-O
+{white is just winning} 14... h6 15. Bf4 g5 16. Bxc7 {simply takes the weak
+pawn; king is exposed and structure is betteret} ) 9. Qg4 g6 10. Bxe4 dxe4 11.
+Bg5 {instead of  taking} 11... Qxd4 {can't be taken} 12. Rd1 Qc5 13. Rd8#
+{boom! rook checkmate} )  (5... c5 6. d5 exd5 7. exd5 Nxd5 8. Nxd5 Bxd5 9. O-O
+{gets king safe} 9... Be7 10. Nf4 Bb7 11. Re1 O-O 12. Qh5 {looking at mating
+ideas} 12... f5 13. Re5 Bf6 14. Bc4+ d5 (14... Kh8 15. Ng6# {beautiful
+checkmate} ) 15. Nxd5 Bxd5 16. Rxd5 {danger of bishop eyeing king, whille rook
+threats queen} 16... Qe7 17. Rd7+ {boom! check with bishop, while rook eyes
+queenresignable for white} ) 6. e5 Nfd7 (6... Ne4 7. Nxe4 (7. Nb1 {surprising
+and innovative move} 7... c5 8. c3 cxd4 9. cxd4 {gives nice center} 9... Bb4+
+10. Nbc3 Nxc3 11. Nxc3 Nc6 12. O-O O-O 13. Qh5 {treats checkmate after
+castling} 13... g6 14. Qg4 h5 15. Qf4 Be7 16. Qh6 Nxd4 {black takes "free"pawn}
+17. Bxg6 {kamikaze!} 17... fxg6 18. Qxg6+ Kh8 19. Qxh5+ Kg8 20. Qg4+ Kf7 21.
+Qxd4 {winning withg safe position} ) 7... dxe4 8. Bb5+ c6 9. Ba4 b5 10. Bb3 {c3
+pawn chain and normal game} ) 7. Nf4 {almost killing Owens } 7... c5 8. Nxe6
+{kamikaze! attacking queen and bishop} 8... fxe6 9. Qh5+ g6 (9... Ke7 10. Bg5+
+Nf6 11. exf6+ gxf6 12. Bxf6+ {kamikaze} 12... Kxf6 {have to take} 13. Qh4+
+{queen is gone} ) 10. Bxg6+ {kamikaze!} 10... hxg6 11. Qxg6+ {ignores rook} 
+11... Ke7 12. Bg5+ Nf6 13. Qxf6+ Kd7 14. Qxd8+ {whip offs queen} 14... Kc6 15.
+Qe8+ Nd7 16. Qxe6+ Kc7 17. Nb5+ Kc8 18. Qe8# 1-0
+

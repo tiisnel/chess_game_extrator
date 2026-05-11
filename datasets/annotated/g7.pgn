@@ -1,0 +1,47 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.11.25"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[ECO "B23"]
+
+{Grand Prix against sicilian with checkmating ideas} 1. e4 c5 2. Nc3 {closed
+sicilian, most popular is Nf3, so it might surprise opponent more } 2... Nc6 (
+2... d6 {real life example game} 3. f4 g6 4. Nf3 Bg7 5. Bc4 Nc6 6. O-O e6 7. d3
+Nge7 8. Bb3 {proactive as d5 is coming anyway} 8... O-O 9. Qe1 a6 10. f5 {opens
+bishop and rook lines} 10... exf5 {makes white bishop more powerful} 11. Qh4
+{bring pieces to game} 11... fxe4 {mistake} 12. Ng5 {triple attack on f7} 12...
+h6 13. Nxf7 Rxf7 14. Rxf7 d5 15. Rxg7+ {rook sacrifice is good as it helps to
+attack king} 15... Kxg7 16. Bxh6+ Kg8 17. Qf6 {most powerful,going for
+checkmate; other moves also possible} 17... Nf5 18. Qxg6+ Kh8 19. dxe4 (19. Bg5
+{even stronger to go to Bf6} ) 19... dxe4 20. Rd1 (20. Bg7+ {beautiful mating
+attack} 20... Nxg7 21. Qh6#) 20... Ncd4 21. Bg5 Qf8 22. Bf6+ Ng7 23. Qh6#) 3.
+f4 {Grand Prix} 3... d6 (3... e6 4. Bb5 {if e6, Bb5 is often better than Bc4} 
+(4. Bc4 Nf6 5. Nf3 d5 {forces white to move with bischop again} ) 4... Nf6 5.
+Bxc6 bxc6 {main plan remains same} ) 4. Nf3 g6 (4... Bg4 {can be annoying} 5.
+Bb5 {counterpin against early pins recommeneded, as A Nd4 could cause problems}
+5... a6 6. Bxc6+ bxc6 7. O-O Nf6 8. h3 Bxf3 (8... Bh5 9. g4 Bg6 10. f5 {Noah's
+Arc trap} ) 9. Qxf3 {queen comes out to a really nice square, after opponent
+castles, g4,g5 is a suggested idea} ) 5. Bc4 {if d6, bishop is better here; but
+e6 preparing d5, Bb5 is often better} 5... Bg7 6. O-O (6. d3 Bg4 {later pins
+may give concrete tactic:}  (6... Nf6 7. O-O Bg4 8. h3 (8. Qe1 Bxf3 9. Rxf3 Nd4
+{likely needs Rf2 to defend against forks, but some lines direct attack is
+possible} ) 8... Bxf3 9. Qxf3 Nd4 10. Qf2) 7. Bxf7+ Kxf7 8. Ng5+ Kf8 9. Qxg4) 
+(6. d3 Bg4 {delayed pin might give a tactic} 7. Bxf7+ Kxf7 8. Ng5+ Kf8 9. Qxg4)
+6... Nf6 7. d3 O-O {main position}  (7... Bg4 {sometimes delayed pin tactic
+does not work!} 8. h3 {forces to make a trade}  (8. Qe1 {let them take} 8...
+Bxf3 9. Rxf3 Nd4 {can defend on f7 or sometimes even allow fork} ) 8... Bxf3 9.
+Qxf3 Nd4 10. Qf2 {deop queen back to defend c2} ) 8. Qe1 {key idea to slide
+queen over to h4} 8... a6 (8... Nd4 9. f5 {sometimes, fork can be allowed} 9...
+Nxc2 10. Qh4 Nxa1 {rook down, but computer evaluaes equal} 11. fxg6 hxg6
+{losing move} 12. Ng5 Nh5 (12... e6 {checkmate, if black is not paying
+attention} 13. Rxf6 Bxf6 14. Qh7#) 13. Nxf7 { g4 is also good, but its more
+powerful} 13... Rxf7 14. Bxf7+ Kh7 15. Qg5 {or Bxg6} ) 9. f5 {second key idea
+to open bishop, rook and black king. Order of 2 key ideas usually does not
+matter much } 9... gxf5 {not intended to recapture! grand prix is mostly about
+sacrifices} 10. Qh4 fxe4 11. Ng5 {already winning position} 11... exd3 12. Rxf6
+{sacrifices are fine as long as you get checkmate in the end} 12... Bxf6 13.
+Qxh7# {mate in 13 moves; main idea} 1-0
+

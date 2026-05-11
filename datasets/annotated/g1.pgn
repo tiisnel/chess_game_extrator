@@ -1,0 +1,103 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.11.16"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C11"]
+
+{Pawn gambit that cuts out a lot of theory:} 1. e4 e6 2. d4 d5 3. Nc3 Nf6 {Ding
+Liren choice for World Championship match }  (3... Bb4 {Winawer is currently
+less popular} )  (3... dxe4 4. Nxe4 Bd7 {and Bc6, Fort Knox} ) 4. Bg5 {was very
+popular, for example Fischer's favourite move}  (4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6
+{"Berlin endgame" in French; separate video available in French defence
+playlist} 7. Be3 cxd4 (7... Qb6)  (7... a6)  (7... Be7) 8. Nxd4 {forcing, leads
+to endgame} 8... Bc5 9. Qd2 {and exchange bishops} 9... Bxd4 10. Bxd4 Nxd4 11.
+Qxd4 Qb6 {b2 pawn is hanging so queens will be exchanged, interesting ideas in
+the endgame mentioned in instructive video} ) 4... h6 {engine recent
+suggestion, forcing white to decide what to do with bishop}  (4... Be7 5. e5
+Nfd7)  (4... Bb4 {MacCutcheon variation} )  (4... dxe4 {most calm, transforming
+to Rubinstein} 5. Nxe4 Be7 (5... Nbd7)  (5... Bd7 {lately appeared strange
+move, similar to fort knox after Bc6, Be7 } ) ) 5. Bxf6 {almost forced move}  (
+5. Bh4 {doesn't work after:} 5... g5 6. Bg3 Nxe4 7. Nxe4 dxe4 {Black is most
+likely better with extra pawn Bg7, Qd5, c5, Nc6} ) 5... Qxf6 6. a3 {most
+critical move, stopping Bb4! Should not just take the pawn}  (6. e5 {this is
+bad} 6... Qd8 {giving classical french without white dark squared bishop,
+meaning less control over dark squares} 7. f4 c5 8. Nf3 Nc6 {and Qb6, white
+really lacks the bishop}  (8... Bd7 {or more refined} 9. Qd2 Qb6 {targeting b2
+pawn} 10. O-O-O c4 {attack with very strong bishop} ) )  (6. Nf3 Bb4 7. Bd3
+{Naroditsky - Carlsen, online} 7... dxe4 (7... c5 {possible to sacrifice pawn
+on d5} 8. O-O (8. exd5 O-O 9. dxe6 cxd4 {can be very dangerous for white!} 10.
+Nxd4 {knight is taboo because of Bh7+} 10... Nc6 {developement advantage is
+big} 11. exf7+ {losing to Rf7} 11... Rxf7 {knight and f2 are hanging} 12. Nf3
+Bxc3+ 13. bxc3 Qxc3+ 14. Qd2 (14. Nd2 Re7+ {just awful if king loses right to
+castle}  (14... Bg4 {even stronger} ) ) 14... Qxa1+) 8... c4) 8. Bxe4 O-O 9.
+O-O Rd8 {other moves also possible:}  (9... c5 10. dxc5 Bxc5 11. Qe2 Nd7)  (
+9... Nd7 10. Qe2 c5 (10... Rb8 {queen drops back, a6,b6,Bb7 and eventual c5,
+Nf6 slowly equalizing} ) ) 10. Qe2 c5 11. dxc5 Bxc5 (11... Bxc3 12. bxc3 Qxc3
+13. Rfd1 Rf8 {avoiding trade of rooks,  because the lag in development, another
+pawn is also hanging so black is solid} ) 12. Rad1 Nd7 {Carlsen played Nc6, but
+its not good,} 13. Rd3 Nf8 {Black untangles: rook exchange, Bd7 as Bxb7 allows
+rook b8 and recapture b2} )  (6. exd5 Bb4 {that is why a3 was critical} 7. Bc4
+(7. dxe6 {obviously critical} 7... Bxe6 {compensation is in development
+advantage} 8. a3 (8. Nf3 O-O {Bxc3 ideas remain same} 9. Be2 (9. Bd3 c5 10. O-O
+Bxc3 {switches to positional play} 11. bxc3 Nc6 {quite simple Rd8 and pressure
+d4} 12. Rb1 {attacking b7} 12... b6 13. Be4 {trying to pin, but drops a2 pawn} 
+13... Bxa2 14. Ra1 Bc4 15. Re1 Rfd8 {black regained pawn and its at least equal
+game} ) 9... Nc6 {piece play}  (9... c5 10. O-O Rd8 {hard for white to defend
+the pawn in centre} ) 10. O-O Rad8 {pressure on d4} 11. Ne4 Qf4 {with good
+compensation} ) 8... Bxc3+ {Ba5 is possible, must likely must take later anyway
+to show their main idea} 9. bxc3 {active piece play gives black compensation
+for the pawn and d5-c4 clockade is possible} 9... O-O 10. Bd3 (10. Nf3 {dubious
+after Re8} 10... Re8 11. Be2 Bc4 {wins for black} 12. Ne5 Bxe2 13. Qxe2 Qe6
+{and f6 wins piece} ) 10... Bd5 {targets g2} 11. f3 Nd7 {Nb6-c4 blocks center,
+while Re8+ and Qh4 are promising attacks. engine sees equality} 12. Ne2 (12. c4
+Be6 13. Ne2 Rad8 {more thematic}  (13... Bf5 {engine prefferred} 14. O-O Bxd3
+15. Qxd3 Rad8 {engine evaluates 0.00, the point is:} 16. c3 Qa6 {putting
+pressure on c4, intending knight to join} ) 14. O-O Nb6 15. d5 (15. c5 Nc4 {b6
+challenges c4, bringing equality} ) 15... Bf5 {blockade on dark squares} ) 
+12... Nb6 {Qc6 block makes white extra pawn worthless} )  (7. Bb5+ Bd7 {c6 has
+been tried as well, but it is less good} 8. Bxd7+ Nxd7 9. dxe6 {pawn is hanging
+so white should take} 9... Qxe6+ 10. Ne2 (10. Qe2 Bxc3+ 11. bxc3 Qxe2+ 12. Nxe2
+O-O-O 13. O-O-O {blockade is giving black an equal game} ) 10... Bxc3+ 11. bxc3
+O-O-O 12. O-O Rhe8 13. Ng3 Nb6 {light squares blockade, no problems for black.
+g6, f5, h5,h4 can attack knight; rook swing to kingside may generate some sort
+of attack} ) 7... exd5 8. Bxd5 O-O {Re8+ is a threat} 9. Ne2 Rd8 {attacks
+bishop as c3 is pinned} 10. O-O Bxc3 {forces to recapture with knight to defend
+bishop} 11. Nxc3 Nc6 {d4 is under attack and can't be easily defended} 12. Bxc6
+bxc6 {keeps attack on d4} 13. Ne2 (13. Ne4 Qxd4 14. Qxd4 Rxd4 15. Ng3 Be6
+{Carlsen won that endgame} ) 13... c5 {black regains pawn, ensuring equal
+endgame: Abdusattorov-Kramnik 2023} ) 6... c6 {similar to semi slav/Moscow
+variation. Qd8 back and Be7} 7. Nf3 {g6 Bg7 may also be option,as is popular
+plan in Moscow} 7... Qd8 {Strong players like Kramnik, Carlsen prefer Qd8 plan}
+8. Bd3 (8. Qe2 {long castle plan is a bit dangerous (Abdusattorov - Kramnik)} 
+8... Be7 9. O-O-O b5 {and a5 attacking king}  (9... Nd7 {Kramnik made this move
+first} 10. h4 a5 11. Qe3 b5 12. Ne2 b4 {with big advantage} ) ) 8... Nd7 9. O-O
+Be7 {black is solid as e5 is answered by c5 quickly. Black bishop ensures no
+weaknesses on dark squares. White should prefer exd4, but after black has
+committed b6 to open bishop} 10. Qd2 { Pragg- Carlsen}  (10. exd5 {premature} 
+10... exd5 {black structure isnt weakened} 11. Ne2 O-O 12. Ng3 Nf6 {Carlsen has
+won this position with black in blitz} )  (10. Re1 O-O 11. e5 (11. exd5 exd5
+{fine without weakening pawn chain, Nf6 next} )  (11. Qe2 Re8 {good waiting
+move; allowing ed recapture without hanging e7 bishop} 12. Rad1 a5 13. Qe3 b5
+14. Ne2 Ba6 {b4 allows "bad bishop" ecchange} 15. Ng3 (15. Nf4 Bd6 { or Qb8 and
+b4. sharp and unclear, but black is not worse} ) 15... b4 {without bishop,
+white has no attack plan, especially if black can defend king with Bf8 or Nf8} 
+)  (11. Qd2 {a5 b5 ideas are still possible} 11... dxe4 {idea works if rook is
+on e file} 12. Nxe4 c5 13. dxc5 Nxc5 14. Nxc5 Bxc5 {if rook went to d1 instead
+of Qe2, bh7+ would have won exchange} 15. Rad1 Qb6 {or Qe7 and finish
+development; equal as black finishes development sooner or later} ) 11... c5
+{good for black} ) 10... b6 (10... dxe4 {standard french idea is possible} 11.
+Nxe4 b6 12. c4 Bb7 13. Rad1 {but white has grip on position with small
+advantage} )  (10... O-O {engine suggestion} 11. Rad1 a5 {attempt to keep game
+complex longer}  (11... dxe4 12. Nxe4 Qc7 {without b6, this is much better, as
+c5 and e5 are happening quickly} ) 12. Rfe1 b5 {better than b6 to develop
+bishop} 13. exd5 exd5 {black has more space in queenside} 14. Ne2 Nb6 {unclear
+position, with b4 Nc4 ideas} ) 11. Rad1 {already possible to take on d5} 11...
+Bb7 (11... a5 12. Rfe1 b5 13. exd5 exd5)  (11... dxe4 12. Nxe4 Qc7) 12. Rfe1
+Qc7 13. exd5 cxd5 {ed is dangerous as king is still in centre} 14. Ne2
+{reversed Karlsbad, white is regrouping and position remains double-edged } 
+14... Bd6 15. Ng3 O-O {long castle is more promising !?} 16. Nh4 {white has
+serious initative} *
+

@@ -1,0 +1,143 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.12.09"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B48"]
+
+1. e4 c5 2. Nf3 (2. Nc3 e6 3. g3 (3. Nge2 {white avoids showing their ideas} 
+3... Nc6 4. g3 d5 5. exd5 exd5 6. d4 cxd4 {can't afford white to play Be3-Bxd4}
+7. Nxd4 Nf6 8. Bg2 Bg4 9. Nde2 Bb4 10. h3 Bxc3+ 11. bxc3 Bf5 12. Rb1 O-O 13.
+Rxb7 Qa5 {is great for black} ) 3... d5 4. exd5 exd5 5. d4 cxd4 {can't allow
+white to play Be3 and recapture with bishop} 6. Qxd4 Nf6 7. Bg5 Nc6 8. Qa4 Bb4
+9. Ne2 Bg4 10. Bg2 Bxe2 11. Kxe2 Bxc3 12. bxc3 O-O)  (2. f4 d5 3. exd5 Nf6 4.
+Bb5+ Bd7 5. Bxd7+ Qxd7 6. c4 e6 {black doesn't mind being pawn down, as long as
+d4 is under control} 7. dxe6 Qxe6+ 8. Qe2 Qxe2+ 9. Nxe2 Nc6 10. O-O O-O-O
+{black wants g6-Bg7-Rhe8 and navigate knight to d3} )  (2. b4 {liked by lower
+rated players} 2... cxb4 3. a3 e5 {center control is more important than
+collecting pawns} 4. Nf3 Nc6 5. Bc4 Nf6 6. Ng5 d5 7. exd5 b5 8. Bf1 (8. Bxb5
+Qxd5 {and b4 stops Nc3} ) 8... Qxd5 {h6 and e4 ideas keep black much better} ) 
+2... e6 3. d4 (3. c3 {Alapin} 3... Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Nc3 (
+7. Bc4 Be7 {main idea b6 Ba6 or Bb7} 8. O-O O-O 9. Qe2 b6 10. Bd3 (10. Qe4 Ba6
+11. Bxd5 {bishop exchange leaves white with no attack} 11... exd5 12. Qxd5 Nc6
+{very important!} 13. Qxc6 {loses} 13... Bxf1 14. Kxf1 Rc8) 10... Nb4 {stops
+Qe4 checkmate idea} 11. Qe4 Nxd3 12. Qxa8 Ba6 {key move} 13. Rd1 dxe5 14. dxe5
+Qc7 {black is more than fine} ) 7... Nxc3 8. bxc3 Qc7 {developing with tempo
+attacking c3} 9. Bd2 Nd7 10. exd6 Bxd6 11. Bd3 b6 12. O-O Bb7 13. Re1 O-O
+{typical ideas rooks to d&c files, Bf4} ) 3... cxd4 4. Nxd4 Nc6 5. Nc3 (5. Nb5
+d6 6. c4 (6. Bf4 e5 7. Bg5 {loses} 7... Qxg5 8. Nc7+ Kd8 9. Nxa8 Nf6 {knight
+won't come out of a8 } ) 6... Nf6 7. N1c3 (7. N5c3 b6 {saves time as a6 isn't
+required} ) 7... a6 8. Na3 Qa5 9. Bd2 Be7 10. Be2 (10. Nd5 Qd8 11. Nxe7 Qxe7
+{and d5 equalises} ) 10... O-O 11. O-O Qe5 12. Bd3 Nb4 13. Bb1 d5 {after d5
+black position is easy in most cases} )  (5. c4 Nf6 6. Nc3 Bb4 7. Nxc6 bxc6 {or
+dc6?!} 8. Bd3 e5 9. O-O O-O 10. Bg5 (10. Qe2 Re8 {prepares d5} 11. Na4 d5 12.
+a3 Be7 13. cxd5 cxd5 14. exd5 e4 15. Bb5 Bg4 {important tempo} 16. Qc2 Bd7 17.
+Bxd7 Qxd7 18. Nc3 Bd6 19. Bg5 Ng4 20. h3 Nh2 21. Rfe1 Nf3+ 22. gxf3 exf3 {black
+is winning} ) 10... Bxc3 {or h8 before} 11. bxc3 h6 12. Bh4 d6 13. Qe2 g5 14.
+Bg3 c5 {solid structure} ) 5... Qc7 6. Be3 (6. f4 {reduces black options, and
+makes it easier for white to memorize ideas} 6... a6 7. Nxc6 Qxc6 8. Bd3 b5 9.
+Qe2 Bb7 10. Bd2 Bc5 11. a3 Ne7 12. O-O-O {main position after 6.f4. Ne7
+prepares f5 motif} 12... O-O 13. h4 {best scoring move statistically}  (13. Qh5
+b4 {must counterattack as queen left defense} 14. axb4 Bxb4 {a5-a4-a3 typical
+idea, also doubling rook and queen to b file} 15. f5 f6 16. g4 a5 17. e5 a4 18.
+exf6 Rxf6 19. g5 {mistake} 19... Rxf5 20. Bxf5 Nxf5 {white is under risk after
+a3} ) 13... f5 14. h5 d5 15. exd5 exd5 16. h6 g6 17. Rhe1 {Qe5 or Qe6 ideas} 
+17... Rf7 {defends knight} 18. g4 d4 19. gxf5 dxc3 20. Bxc3 gxf5 {black bishops
+are preventing white rooks entrance to g file} 21. Qe5 Ng6 22. Rg1 Bxg1 23.
+Rxg1 Kf8 {leads to draw} 24. Bb4+ Kg8 25. Bc3 Kf8)  (6. g3 {seems "easy to
+play" for white?!} 6... a6 7. Bg2 Nf6 8. O-O Nxd4 9. Qxd4 Bc5 10. Bf4 d6 11.
+Qd2 h6 {g3 mainline} 12. Rad1 e5 13. Be3 Bb4 (13... Bxe3 14. fxe3 Be6 (14...
+Ke7 {Caruana blundered here} 15. Rxf6 {and Nd5} ) 15. Qxd6 Rc8) 14. a3 (14. Nb5
+{must know both a3 and Nb5 to be able to play against g3 variants} 14... axb5
+15. Qxb4 Rxa2 16. Rxd6 (16. Qxb5+ Bd7 17. Qb4 Ra6 {protects d6. castle and Ne8
+if white doubles rook on d file} ) 16... O-O 17. Rd2 Be6 18. f3 {defends b5
+with c4 fork} 18... Rfa8 19. Rfd1 R8a4 20. Qxb5 Ra5 21. Bb6 Rxb5 22. Bxc7 Raxb2
+{balanced endgame} ) 14... Bxc3 15. Qxc3 Qxc3 16. bxc3 Be6 17. Rxd6 Rc8)  (6.
+Ndb5 {sideline for mostly blitz games} 6... Qb8 7. Be3 a6 8. Bb6 {point of Nb5}
+8... axb5 9. Nxb5 Bb4+ {check, otherwise Bc7 traps queen} 10. c3 Ba5 11. Nc7+
+Qxc7 12. Bxc7 Bxc7 {3 pieces give compensation for queen, often even easier to
+play with black} 13. Qg4 g6 14. Bb5 Kf8 15. O-O Kg7 {standard plan} 16. a4 Nf6
+17. Qe2 d5 18. exd5 exd5) 6... a6 7. Qd2 {English attack}  (7. Qf3 {with a
+point of Qg3 and exhcange with more space in endgame} 7... Nf6 8. O-O-O (8. Be2
+{must-know trick:} 8... Ba3 9. bxa3 Ne5) 8... Ne5 (8... b5 {fails because} 9.
+e5) 9. Qg3 b5 { if white starts f4-f5 attack, black must be reaady for b4
+counterattack} 10. f4 {most played}  (10. Bxb5 {not dangerous, but forcing} 
+10... axb5 11. Ndxb5 Qb8 12. Bf4 d6 (12... Nh5 {doesnt work} 13. Bxe5 Nxg3 14.
+Bxb8 Nxh1 15. Nc7+) 13. Rxd6 Nh5 {Bd6 is not very good} 14. Qg5 Bxd6 15. Nxd6+
+Qxd6 16. Bxe5 Ra5 {important move!} 17. Nd5 {or f4 is also possible idea} 17...
+Qd7 {messy and tactic-full position}  (17... Qd8 {loses;} 18. Qxd8+ Kxd8 19.
+Bc7+) )  (10. Ndxb5 axb5 11. Nxb5 Qb8 12. Bd4 d6 13. Bxe5 dxe5 14. Qc3 {appears
+dangerous if black doesn't know position well } 14... Nxe4 15. Qc6+ Ke7 16.
+Qxe4 Rxa2 {gives king f6 escape square} )  (10. a3 {stopping b4?!} 10... Bb7
+11. Bxb5 Rc8 (11... axb5 {is bad as allows Bb6} 12. Ndxb5 Qb8 13. Bb6 {and
+Nc7+} ) 12. Ba4 {Be2 is possible alternative} 12... Nxe4 13. Nxe4 Bxe4 14. Bf4
+Qa5 15. Bxe5 Qxa4 16. Rd2 {forced move} 16... h5 {with either h4-h3 or Rh6-g6
+ideas} ) 10... Neg4 11. Bg1 {or Nd2 also possible} 11... h5 {b4 Ne4 standard
+idea} 12. e5 b4 13. Nb1 Ne4 {if white would have escaped toNa4, Nd5 would be
+alternative} 14. Qe1 Bb7 15. Nd2 Nxd2 16. Rxd2 {rare ideas in classical chess,
+but well known in correspondence. Nh6, g6, Nf5 and king is very safe in e8} 
+16... Nh6 17. Kb1 g6 { if knights are exchanged on f5, g file opens for rook,
+making great combo with b7 bishop} 18. Bf2 {hopes Be7 Bh5 exchange and dominate
+on dark squares}  (18. Bd3 Be7 19. Bf2 Bxg2 {doesn't give white compensation
+for pawn} ) 18... Bc5)  (7. Be2 Nf6 8. O-O Be7 9. f4 d6 10. Kh1 {keeps both a4
+and Qe1-h4 ideas open }  (10. a4 O-O 11. Kh1 Re8 12. Bg1 (12. Bf3 Nxd4 13. Qxd4
+e5 14. Qd2 exf4 {Be6 Nd7 Ne5 is main idea here} 15. Bxf4 Be6 16. Rfd1 {or Rad1}
+16... Rad8 {but stops Nd7 manoeuvre} 17. a5 {careless}  (17. h3 h6 {Nh7 and
+Bg5, or Nf8-g6-e5} ) 17... Ng4 18. h3 Ne5 19. Nd5 Bxd5 20. exd5 Bf6 {excellent
+position for black} ) 12... Rb8 (12... e5 13. Nxc6 bxc6 14. fxe5 dxe5 15. a5
+{if black would play Rb8 first, b2 would be under attack} ) 13. Qe1 e5 14. fxe5
+dxe5 15. Qg3 Bd8 {importand move defending queen and e5} ) 10... O-O 11. Qe1
+Nxd4 12. Bxd4 b5 13. Qg3 Bb7 14. a3 Bc6 15. Rae1 Rad8 16. Bd3 Qd7 17. Nd1 Nh5
+18. Qg4 (18. Qh3 Nxf4 19. Rxf4 e5 20. Rg4 exd4 21. e5 g6 22. e6 Qe8 {fe6 loses}
+23. exf7+ Qxf7 {Bd7, Bf6-e5 and black has everything under control} ) 18... Nf6
+19. Qf3 Qb7 {treats d5 Ne4} 20. Nf2 Nd7) 7... Nf6 8. O-O-O (8. f4 {used to be
+very important line} 8... Bb4 {d6 would collapse Taimanov after e5, Be2, g4,
+g5} 9. Bd3 Na5 10. a3 Bxc3 11. Qxc3 Qxc3+ 12. bxc3 d5 {gave away bishop pair
+for c4 square control} 13. e5 (13. exd5 {Carlsen's simple idea} 13... exd5 14.
+Nb3 Nc4 15. Bd4 Ne4 16. Nc5 Nxc5 17. Bxc5 Bd7 18. O-O-O O-O-O 19. Bxc4 dxc4 20.
+Bb6 Rde8 21. Rd4 {Carlsen's point to have better rooks} 21... Bc6 22. Rxc4 Kd7
+{f6, Ke6, Kf7 allows black to reorganize rooks, while different colored
+bishops ensure equality} ) 13... Ne4 14. Nb3 Nc4 (14... Nxb3 15. cxb3 Nxc3 16.
+Rc1 {is nice for white} ) 15. Bxc4 dxc4 16. Na5 Bd7 {key move!} 17. Bd4 Rc8
+{Giri's idea to sacrifice pawn to get central bishop} 18. Nxb7 Bc6 19. Na5 Bd5
+20. Rb1 f5 {Kd7,g5 gives black harmonic position} ) 8... Be7 9. f3 {with ideas
+to g and h pawn storm} 9... b5 10. Kb1 {tricky move, waits for Bb7}  (10. g4
+Nxd4 11. Qxd4 {Bb7,Rc8, Bc5 is natural development}  (11. Bxd4 Bb7 12. g5 {e5
+it doesn't make sense to open black Bishop diagonal}  (12. Kb1 {proactive
+against Rc8} 12... O-O (12... Rc8 13. g5 Nh5 14. Be5 Qxe5 15. Qxd7+ Kf8 16.
+Qxb7 {same position as mainline, but Kb1 favours white more} ) 13. g5 Nh5 14.
+Ne2 {stops Nf4 and prepares to exchange on g3 or with Bh3-g4} 14... f5) 12...
+Nh5 13. Be5 Qxe5 14. Qxd7+ Kf8 15. Qxb7 {gives counterplay for pawn sacrifise,
+as Nc3 can't improve anywhere soon} 15... Qb8 (15... Bxg5+ {does not work here}
+16. Kb1 Qb8 17. Qc6 g6 18. Rd7 Kg7 19. Qxe6) 16. Qc6 g6 17. h4 Kg7 {black
+controls f5 and e4, making white's extra pawn meningless} 18. Ne2 Rc8 19. Qd7
+Ra7 20. Qd4+ Kg8 {e5 would allow to activate white bishop via h3. Black bishop
+should reroute to g7 via f8} ) 11... Bb7 12. Kb1 (12. g5 Nh5 13. Kb1 Rc8 14.
+Qd2 {fine as no Nxe4 tactic any more} 14... b4 15. Ne2 d5 {important break} 16.
+e5 d4 {thematic idea}  (16... O-O 17. Nd4 {white sacrifices e5, as Bb7 is out
+of game} ) 17. Nxd4 O-O {excellent compensation for pawn after Rfd1, a5, a4 and
+possibly g6 to reroute knight to f5} ) 12... Rc8 13. g5 (13. Qd2 {too passive} 
+13... b4 14. Na4 Nxe4 15. fxe4 Bxe4 16. Bd3 Bxh1 17. Rxh1 Qc6) )  (10. Nxc6
+dxc6 11. g4 O-O {better move order than 35} 12. Qf2 e5 {or Rd8} 13. h4 Rd8 14.
+Rxd8+ (14. Bd3 {now treatens Bb6 as rook can't exchange with check} 14... Rb8
+15. h5 (15. g5 Nh5 {Be6, Qa5, b4 gives black easy play} ) 15... Be6 16. g5 Nd7
+17. g6 h6 18. f4 (18. gxf7+ Bxf7 19. Rhg1 Kh8 {blocks Bh6} 20. f4 Bf6 21. fxe5
+Nxe5 22. Bxh6 b4 {gf6 loses to Qxf6+} 23. Na4 b3 24. axb3 Bxb3 25. cxb3
+{mistake, but white has already problems to find meaningful moves} 25... Nxd3+
+26. Rxd3 Rxd3 {looks good for black} ) 18... Qa5 19. gxf7+ Bxf7 20. Rhg1 b4 21.
+Na4 {fun but important idea} 21... Qxa4 22. fxe5 Qxa2 23. Bxh6 Nxe5 {must
+protect f7 as g7 can't be protected} 24. Bxg7 Qa1+ 25. Kd2 Rxd3+ 26. cxd3 Qxb2+
+27. Ke1 Qxf2+ 28. Kxf2 Ng4+ {crucial check!} 29. Rxg4 Bxh5 30. Rg2 Bxd1 31.
+Be5+ Kf7 32. Bxb8 a5 {black is not worse with strong pawns} ) 14... Qxd8 15. h5
+h6 16. g5 hxg5 17. Bxg5 Nxe4 18. Bxe7 Nxf2 19. Bxd8 Nxh1) 10... Bb7 11. Bf4 e5
+{with funny tactics} 12. Nf5 exf4 13. Nd5 Qb8 (13... Qe5 {is a mistake} 14.
+Ndxe7 Nxe7 15. Nd6+)  (13... Nxd5 14. exd5 Nb4 15. c4 {white has initiative,
+but black can hold} ) 14. Nxg7+ Kf8 15. Nf5 Qe5 16. Nxf4 {main line after
+bishop sacrifice} 16... h5 { blocks Nd3 Qh6+ attack} 17. g3 Bd8 (17... d5 {for
+fun game} 18. Nh4 dxe4 19. Nfg6+ fxg6 20. Nxg6+ Kf7 21. Nxe5+ Nxe5 {engine
+prefers white, but very hard to find progression} ) 18. Bh3 (18. Bg2 Ne7
+{challenges f5 knight} 19. Nh4 a5) 18... Qc7 19. Nd5 Nxd5 20. Qxd5 Ne5 21. Qd4
+Rh7 {unclear position} *
+
