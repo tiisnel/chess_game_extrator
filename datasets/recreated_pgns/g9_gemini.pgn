@@ -1,0 +1,114 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ [Source] The Nimzowitsch Defense is a very underrated and rare chess opening for black against the move E4. }
+1... Nc6
+{ [Source] It fights for these Central dark squares without yet using our central pawns. }
+2. Nf3
+{ [Source] now in online chess the most common move from White is Knight F3 so we're going to cover this first this is the NIMS wish defense declined { [%ai A flexible and popular response in online games, avoiding the main lines of the Nimzowitsch and often aiming for a transposition into open games.] }
+( 2. d4
+{ [Source] let's say we see this move d4 here's where a big decision again comes into play we can go with the Scandinavian variation or we can go with the Kennedy variation { [%ai A direct challenge for the center, leading to more standard Nimzowitsch structures.] }
+2... d5
+{ [Source] now I love the Kennedy variation I know a lot of you guys also like the Scandinavian variation with the move of D5 against this { [%ai This move characterizes the Scandinavian Variation of the Nimzowitsch Defense.] }
+( 2... e5
+{ [Source] but we also have this move with the cedy variation which is what I enjoy a ton { [%ai The Kennedy Variation (2... e5) is a combative response to the Nimzowitsch Defense, often leading to open positions or transposed Scotch games.] }
+3. Nf3
+{ [Source] Now by having white play D4 first and then we play the move of E5... and white playing Knight F3 we're in a scotch game. }
+( 3. dxe5
+{ [Source] Another thing that you could see is white capturing on E5. This transposes into a Diset Gambit or Charlotte Gambit type game. }
+3... d6 { [Source] I personally like playing this move of D6. } 4. exd6 Bxd6
+{ [Source] We capture back with the bishop; we have nice development and we're going to look to Castle Queen side. }
+5. Nc3 Qe7 6. Nf3 Bg4
+{ [Source] Pinning that knight; let's castle Queen side. Our Rook is eyeing up that Queen. }
+7. Be2
+{ [Source] Against the move of Bishop G4 pinning the knight, White develops normally with Be2, allowing us to prepare for queenside castling. { [%ai A solid developing move, though the resulting positions are very tactical for White.] }
+7... O-O-O
+{ [Source] Let's cast a queen side. Our Rook is eyeing up that Queen on d1. { [%ai This is a key part of the Charlotte Gambit's active piece play, putting pressure on the d-file immediately.] }
+8. h3
+{ [Source] If you see a move like h3, we have an interesting tactical opportunity. { [%ai White challenges the bishop, but this allows Black to set a dangerous trap.] }
+8... h5
+{ [Source] You can play h5, keeping that pin going and setting up a trap if White captures on g4. { [%ai The Fishing Pole trap in this specific Nimzowitsch variation is extremely potent.] }
+9. Bg5
+{ [Source] The most popular move in online chess is Bishop G5, in which case we have Knight E5. { [%ai A solid developing move by White, putting pressure on the Queen, but Black has the energetic response Ne5.] }
+( 9. hxg4
+{ { [%ai White accepts the piece sacrifice on g4, which opens the h-file for Black's rook.] }
+9... hxg4
+{ { [%ai Black recaptures, creating a direct line of attack against the h2 square.] }
+10. Nd2
+{ { [%ai White tries to reposition the knight, perhaps aiming for f3 or d2 to bolster the defense.] }
+10... Qe5
+{ [Source] we're threatening a mate in one right { [%ai Black creates a battery with the queen and bishop, threatening a scholar-style mate on h2 or e2 depending on white's move.] }
+11. g3 { { [%ai White tries to block the queen's path to h2.] } ( 11. f4
+{ [Source] An alternative for White at move 11. } 11... Bc5
+{ [Source] Black checks, forcing White into a difficult position. } ( 11... Qh5
+{ [Source] Instead of the immediate bishop check, Black can play Queen H5, creating a devastating threat on the h-file. { [%ai An excellent practical choice, shifting the attack to the h-file.] }
+12. Kf1
+{ [Source] White's king attempts to find safety, but the position remains critical. { [%ai Forced response to the mate threat on h1.] }
+12... Bc5
+{ [Source] Now the check is delivered with even greater effect. { [%ai Developing with a decisive check.] }
+13. Ke1
+{ [Source] White only has one move, which is to move the king to e1. { [%ai Forced response to the check.] }
+13... Qh4+
+{ [Source] Black throws in another check from h4. { [%ai Part of a forced mate sequence.] }
+14. Kf1 { [Source] White is forced back to f1. { [%ai Forced move.] } 14...
+Qf2#
+{ [Source] And this game is over. { [%ai A forced checkmate. Skill level: Beginner-Intermediate for White allowing this battery.] }
+) ) 11... Qh5
+{ [Source] G3 Queen H5 battery RAM on the H file not good for white { [%ai Black maintains the pressure on the h-file, eyeing h1 and taking advantage of the weakened light squares.] }
+) 9... Ne5
+{ [Source] Black does have an objectively better position in that case. { [%ai Centralizing the Knight and preparing to exploit the pin on the f3 Knight or exchange the strong dark-squared bishop.] }
+) ( 3. d5
+{ [Source] This starts the Kennedy Variation (or Link Springer variation), which is seen in about 60% of online games where Black plays 2... e5. { [%ai This is a solid, space-gaining move for White, closing the center and challenging Black to find a creative setup.] }
+) 3... exd4 { [Source] If e takes D4. } 4. Bc4
+{ [Source] If we see Bishop C4 there with the scotch Gambit. } ( 4. Nxd4
+{ [Source] if Knight takes D4 well yet again we can play Knight F6 } 4... Nf6
+5. Nxc6 { [Source] if you want to take on C6 we'll capture towards the center }
+5... bxc6 6. Nc3
+{ [Source] again Bishop B4 we got to pin that Knight that's a key idea in these type of in these type of lines }
+6... Bb4 ) 4... Nf6
+{ [Source] Knight F6 is the main line. { [%ai A solid and theoretical response to the Scotch Gambit, challenging the center immediately.] }
+) 3. exd5 { [Source] by the way if white takes we'll capture back the queen } (
+3. e5
+{ [Source] if white pushes with the move E5 here is where we don't want to play E6 because then our Bishop is absolutely horrendous on C8 okay it's almost worse than a French Bishop there cuz we don't even don't even have C5 on the board { [%ai The Advance variation of the Nimzowitsch Scandinavian, often transposing to Advance French or Caro-Kann structures.] }
+3... Bf5
+{ [Source] you might as well Play Bishop F5 and then the move of E6 { [%ai A thematic development, bringing the bishop outside the pawn chain before locking it with e6.] }
+4. e6 { { [%ai The solid center construction.] } 4... Bd3
+{ [Source] if white wants to play Bishop D3 let's defend it we're not going to take and let you develop after capturing we'll let you take on F5 on your own time { [%ai White challenges the f5-bishop. Black's strategy is to maintain the tension.] }
+) 3... Qxd5
+{ [Source] our idea here is that we're trying to put a put a bunch of pressure on D4 right away }
+4. Nf3
+{ [Source] and if we see moving Knight F3 let's advance in the center with E5 put even more pressure there }
+4... e5 { [Source] put even more pressure there } 5. Nc3
+{ [Source] Knight C3 let's pin that Knight } 5... Bb4
+{ [Source] let's pin that Knight } 6. Bd2
+{ [Source] If you defend it we can capture the Knight off } 6... Bxc3
+{ [Source] we can capture the Knight off play a move like E4 } 7. Bxc3
+{ [Source] and we're just playing chess } 7... e4
+{ [Source] and we're just playing chess { [%ai Black has established a solid central presence and simplified the position by removing a key defender.] }
+) 2... e5
+{ [Source] if you're an E4 E5 player you can play the move E5 here there's nothing wrong with that at this point it looks like we're just playing an E4 E5 opening { [%ai The most solid response, transposing into classical King's Pawn openings where Black has a wide variety of sound options.] }
+( 2... f5
+{ [Source] the last option that I do want to cover here is the move of F5 with the Colorado counter Gambit or Colorado Gambit I've had a ton of fun with this chess opening is black we're putting pressure on e4 { [%ai The Colorado Counter Gambit is a sharp, aggressive way for Black to seize the initiative.] }
+3. exf5
+{ [Source] the best move for white is to take which is what we usually see { [%ai Accepting the pawn is the standard theoretical response.] }
+3... d5
+{ [Source] in that case we're playing D5 { [%ai Black challenges the center immediately, taking advantage of the f-pawn's disappearance.] }
+4. Bb5
+{ [Source] now white should just play a move like Bishop B5 pin our Knight let us take this Pawn give the pawn back keep developing and try to get an advantage in positional chest { [%ai White prioritizes development and structural pressure over material.] }
+( 4. g4
+{ [Source] but sometimes what we go wait I have a pawn here I'm going to hold on to it right and if we see a move like G4 black is better { [%ai White tries to over-protect the f5 pawn at the cost of significant kingside weaknesses.] }
+4... h5
+{ [Source] we have this move of H5 putting pressure on that G4 Pawn { [%ai Standard response to g4, challenging the pawn structure immediately.] }
+5. h3
+{ [Source] if we see a move like H3 this does hold on to the pawn but then you lose your rook and it's move six and we have a black Rook on H1 { [%ai A catastrophic blunder for White as the pin on the h-file is ignored.] }
+5... hxg4 { { [%ai Forcing the opening of the h-file.] } 6. hxg4
+{ { [%ai White completes the opening of the file.] } 6... Rxh1
+{ { [%ai Black wins the exchange and likely the game.] } ) 4... Bxf5
+{ { [%ai Black regains the material and secures a solid position.] } ) *
+

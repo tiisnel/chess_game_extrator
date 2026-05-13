@@ -1,0 +1,37 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 Nf6 2. c4
+{ [Source] So he opened up with D4 and I'm thinking there's no way against such a positional fine player I'm going to play Dutch in such a critical game. So I'm just going to play something positional. { [%ai Standard opening play by both sides.] }
+2... e6 { [Source] He played C4, E6, Knight f3. } 3. Nf3
+{ [Source] He played C4, E6, Knight f3. } 3... a6
+{ [Source] I'm thinking, okay, let's play A6. This is a move I've been playing already more than once, even in some classical games against very good GMs. { [%ai This move characterizes the Janowski Variation or a similar hybrid setup, aiming to discourage the Catalan and expand on the queenside.] }
+4. g3
+{ [Source] If he play G3, I play B5. I don't know what he does like B3, Bishop b7, bishop G2, C5, and I'm getting the perfect the perfect setup that black would ever dream from for from this position. }
+( 4. Nc3
+{ [Source] So he is supposedly including knight C3. { [%ai Standard development in the Queen's Gambit, preparing center control and looking for d5-cxd5 exchange opportunities.] }
+4... d5
+{ [Source] 99% if not all 100 in this position, every single one of them takes on d5. { [%ai A solid center challenge, typical for the Janowski Variation or similar Queen's Gambit structures.] }
+5. cxd5
+{ [Source] White says, 'I know that normally I'm not supposed to trade the C pawn for the E pawn and open up your light-squared bishop, but I'm going to treat your pawn on E6 as a waste of time.' { [%ai The Exchange Variation leads to the Carlsbad pawn structure, which is the focus of the expert's analysis.] }
+5... exd5
+{ [Source] So, I play exd5. { [%ai The most standard recapture, maintaining a balanced center but opening the c8-h3 diagonal for Black's bishop.] }
+6. Qb3
+{ [Source] Tommy play queen B3. { [%ai An aggressive queen placement putting pressure on d5 and hindering Black's light-squared bishop development.] }
+( 6. Qb3
+{ [Source] Tommy play queen B3. { [%ai A thematic move in this structure, putting pressure on d5 and preparing development.] }
+6... c6
+{ [Source] I think I have played C6. So I want to play some bishop D6 etc. { [%ai Solidifying the center and preparing to develop the kingside.] }
+7. e4
+{ [Source] He played e4. { [%ai A central break aimed at opening the position and exploiting the lag in Black's development.] }
+7... dxe4
+{ [Source] So the big idea is dxe4. { [%ai Accepting the sacrifice leads to extremely sharp play where White gains a dangerous initiative.] }
+8. Ng5
+{ [Source] He plays Knight g5. { [%ai Directly attacking the f7 pawn and creating immediate tactical threats.] }
+) ) 4... b5 5. b3 Bb7 6. Bg2 c5 *
+

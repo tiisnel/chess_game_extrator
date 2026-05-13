@@ -1,0 +1,64 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4
+{ [Source] and this is the Fischer variation this is where I want to get into and as you can see here as many of if you watch my videos the F7 square is a huge weakness for black especially early on when White's light Square Bishop can eye on it very easily and it's not protected by much besides the black king { [%ai The Fischer variation is an aggressive choice against the Sicilian, specifically targeting the f7 weakness.] }
+6... e6
+{ [Source] Black has the option to bring his Pawn to E6. It is a little defensive and passive but it effectively blocks the light-squared Bishop's path to F7. { [%ai A solid, prophylactic move that neutralizes the immediate pressure from the Fischer variation.] }
+( 6... g6
+{ [Source] but a lot of times a lot of players in this variation tend to think that need to bring their Pawn to G6 and I've seen it quite a few times about half and half and a lot of players think that they need to fianchetto their Bishop to G7 so that they can get more attacking on the center control and try to have a Counterattack on the dark squares eyeing from the G7 square with their dark Square Bishop but this is going to be a mistake { [%ai The defining inaccuracy that sets up the Magnus Smith Trap. By choosing g6 over the more solid e6, Black creates weaknesses on the f7 and d6 squares.] }
+7. Nxc6
+{ [Source] and from here white can capture this Rook or excuse me this Knight on C6 { [%ai A key preparatory move that removes the knight's defense of the d4 square and prepares the disruptive e5 advance.] }
+7... bxc6
+{ [Source] and black after he recaptured { [%ai Forced recapture. Although it strengthens Black's center, it opens lines for White's tactical exploitation.] }
+8. e5
+{ [Source] then white has the nice little move of playing Pawn to E5 and this is really what I want to look at right here { [%ai The point of the trap. This move challenges the f6 knight and exploits the alignment of the black queen and king.] }
+8... dxe5
+{ [Source] if black looks at it very quickly if he tries to retake with his Pawn { [%ai Falling headfirst into the trap. Black must instead move the knight to avoid immediate material loss.] }
+( 8... Ng4
+{ [Source] his Knight really has two moves where he can go he can always bring it back to G8 but you never want to develop a move develop a piece and then bring it right back you're going to lose a lot of momentum as far as Tempo gaining and White's going to have a huge developmental Advantage { [%ai White capitalizes on the displacement of the knight to gain tempo and control.] }
+9. e6
+{ { [%ai An aggressive push that disrupts Black's coordination and opens lines for attack.] }
+9... Bxe6 { { [%ai Forcing the exchange or weakening Black's structure.] } 10.
+Bxe6 { { [%ai Recapturing and maintaining the initiative.] } 10... fxe6
+{ { [%ai Black's structure is compromised.] } 11. Qxg4
+{ [Source] as you can see the black King is completely unguarded doesn't matter which side he castles on it's going to be very hard for him to stay protected at the same time white has a very good defense he has three pawns three pawns he can Castle on the king side or the queen side { [%ai White wins a piece and maintains a dominant position.] }
+) ( 8... Nh5 9. Qf3
+{ [Source] Bobby Fischer recommended Queen to F3, which places significant pressure on the weak f7 square early in the opening. { [%ai A strong and thematic attacking move in the Fischer variation of the Sicilian.] }
+9... d5
+{ [Source] he can do this by one of two ways he can bring his Pawn to D5 or he can bring his Pawn to E6 { [%ai A direct challenge in the center, though it leads to sharp tactical themes.] }
+( 9... e6
+{ [Source] If instead if he plays E6 now we can bring our pawn and start to attack his Knight on H5 and again there's really only one move he can play now he can't bring it to F6 because we'll take it with our Pawn he's going to bring it back to G7 { [%ai Black chooses a defensive setup that blocks the white bishop but allows white to gain space and tempo by attacking the knight on the edge.] }
+10. g4
+{ { [%ai A thematic expansion to harass the knight, exploiting the lack of squares.] }
+10... Ng7
+{ [Source] he's going to bring it back to G7 as you can already see this is a very passive move he really wants to bring his dark Square Bishop to G7 and get it active attacking the dark squares along this long diagonal attacking the center but his dark Square Bishop is very passive now { [%ai The retreat to g7 is passive and obstructs the development of the f8-bishop, which is black's most important minor piece in this structure.] }
+11. Ne4
+{ [Source] from here we can continue and bring our Knight to E4 and this has a lot of problems for black there's not much can do here again we're attacking this Pawn on D6 we're also attacking this Square on F6 that would check the king he would be forced to move he couldn't take with his Queen because of our Pawn here { [%ai A strong centralizing move that eyes key weak squares in black's camp, specifically d6 and f6.] }
+11... Qa5+
+{ [Source] if black has the last ditch effort and tries to bring his Queen down to A5 you can see right now he's attacking this our King on E1 at the same time attacking our Pawn { [%ai A desperate attempt at activity, delivering a check and putting pressure on e5, but walking into a trap.] }
+12. Bd2
+{ { [%ai Meeting the check and developing a piece, setting up the trap.] }
+12... Qxe5
+{ { [%ai Greedily taking the central pawn, which leads to the immediate loss of the queen.] }
+13. Bc3
+{ [Source] we can now just develop our Bishop to D2 and if he does take this will be another mistake we can bring our Bishop to C3 and his Queen is trapped { [%ai The culmination of the trap. The queen is pinned and trapped on the long diagonal, winning the game for white.] }
+) 10. Nxd5
+{ [Source] again we can sacrifice because we have such a huge attack against black { [%ai A powerful tactical sacrifice typical of the Fischer variation to rip open the center.] }
+10... cxd5
+{ [Source] If he takes with his Pawn we can take with our Bishop { [%ai Natural recapture but allows White's pieces to dominate the center squares.] }
+11. Bxd5
+{ [Source] we can take with our Bishop and we have a queen defending it and it's going to be really hard for black to defend all the attacks that we have { [%ai White maintains immense pressure on f7 and the central files.] }
+) 9. Bxf7+
+{ [Source] then White has a nice little tactic he can play Bishop takes on F7 { [%ai A powerful deflection sacrifice that forces the black king to abandon the defense of its queen.] }
+9... Kxf7
+{ [Source] and this king is forced to take this bishop on F7 he can't bring his King to D7 because our Queen's here { [%ai Accepting the sacrifice is mandatory as d7 is covered by the white queen, leading to the loss of Black's queen.] }
+10. Qxd8
+{ [Source] after he takes our Bishop on F7 then we can bring in with our Queen and take his Queen his Queen was only defended by this King on E8 and once this King moves we can now take on d8 { [%ai White wins the queen for a minor piece, achieving a decisive material advantage.] }
+) *
+

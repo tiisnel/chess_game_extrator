@@ -1,0 +1,234 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. c4 b5
+{ [Source] So C4 B5, it makes no sense on first glance because it's it's a clean pawn. White wins a clean pawn if white decides to take. { [%ai The Yananish Gambit (1. c4 b5) is considered very dubious at the master level.] }
+2. e3
+{ { [%ai An objective mistake according to the presenter, but he covers it as the only sensible way to decline the gambit.] }
+( 2. cxb5
+{ [Source] The Yananish Gambit needs to be accepted. On first glance it looks like a clean pawn, and White should take it to maintain an advantage, as declining allows Black too much central control. { [%ai Accepting the gambit is the most principled way to deal with the Yananish (also known as the Wing Gambit in reverse).] }
+2... a6
+{ [Source] A6 is by far the most common move on Lichess. It's a full pawn gambit, similar to the Benko Gambit. { [%ai Black's main line, looking for development and pressure on the semi-open queenside files.] }
+) ( 2. e3
+{ [Source] White's immediately worse if they play any other move that doesn't take the pawn. But there is only one sensible way to decline it, which is to play E3. }
+2... bxc4 3. Bxc4 d5 4. Bb3
+{ [Source] Black has traded the B pawn for the C pawn and managed to gain control over the entire center of the board. So that's not something we wish to do. }
+4... e6 5. Nf3 c5 ) ( 2. cxb5
+{ [Source] So white should take that pawn. The Yan Gambit needs to be accepted. { [%ai Accepting the gambit is considered the only way to prove its dubiousness, as declining gives Black too much central control.] }
+2... a6
+{ [Source] However, A6 is by far the most common move. It's a full pawn gambit. { [%ai This is the core of the Yanisch Gambit, following the logic of the Benko Gambit or the Wing Gambit in reverse.] }
+3. e3
+{ [Source] As white, I would recommend that you play e3 or e4. The best move I think is e3. We can safely castle and so on. { [%ai A solid approach that avoids the typical tactical pitfalls of taking on a6, such as losing the right to castle after ...Bxa6 and ...Bxf1.] }
+( 3. e4
+{ [Source] Now, instead of E3, white can also play E4, which is fine according to the engine. Just a slightly smaller advantage compared to E3 because after knight F6, you now have to play knight C3. { [%ai SKILL_LEVEL: Intermediate - Committal alternative that controls d5 but allows more counterplay.] }
+3... Nf6 4. Nc3
+{ [Source] You don't really want to go D3 because you're you want to recapture on B5 with the bishop. { [%ai SKILL_LEVEL: Intermediate - Prioritizing piece activity and maintaining the pawn chain structure.] }
+4... axb5 5. Bxb5 Bb7 6. Qe2
+{ [Source] Takes bishop B7 and now D3 once the bishop has come out of the pawn chain is fine. ... and you can play queen E2 which I think is the best move. And now again you have a clean extra pawn. { [%ai SKILL_LEVEL: Intermediate - Prophylactic defense of e4 while preparing center expansion.] }
+) 3... axb5
+{ [Source] So black should take. { [%ai Black recovers the pawn on b5 but White will immediately win it back, maintaining the extra pawn.] }
+4. Bxb5
+{ [Source] The game went bishop B5. { [%ai Developing with tempo while regaining the pawn.] }
+4... c6
+{ [Source] Black played C6. { [%ai A standard reaction to kick the bishop, though it slightly weakens the d6 square.] }
+5. Be2
+{ [Source] The bishop retreated to E2. These are all the best moves. { [%ai Returning to safety while preparing development of the kingside.] }
+5... e5
+{ [Source] E5 is the best move. Black's going to want to go e4 and d5. That's usually the way to compensate for the pawn. { [%ai Black tries to seize space in the center to compensate for the missing b-pawn.] }
+6. Nf3
+{ [Source] But we're going to go knight f3 anyway. { [%ai Normal development, putting pressure on e5 and preparing to meet ...e4.] }
+6... e4
+{ [Source] And when the pawn advances to e4... { [%ai The thematic continuation for Black, aiming to restrict White's position.] }
+7. Nd4
+{ [Source] ...we go knight d4. { [%ai The knight occupies a strong central post.] }
+7... d5 { [Source] And after d5... { [%ai Black solidifies the center.] } 8. d3
+{ [Source] we start the undermining style. White is playing a Sicilian in reverse... and we are immediately challenging the pawn on E4, the pawn in the center. { [%ai Crucial move to break Black's center. White is objectively better here as Black lacks the typical Benko-style compensation.] }
+) ( 2. e3
+{ [Source] When white plays E3 or E4 or B3, any other move that doesn't lose the C pawn, white's immediately worse. { [%ai Declining the gambit is considered inferior because it allows Black to gain full central control with tempo.] }
+2... bxc4 { [Source] Black takes the pawn. } 3. Bxc4
+{ [Source] White recaptures. } 3... d5
+{ [Source] Black gains space in the center immediately. } 4. Bb3
+{ [Source] White has to retreat the bishop. { [%ai Bb3 is the natural retreat square to maintain pressure on d5.] }
+4... e6 { [Source] Solidifying the center. } 5. Nf3
+{ [Source] Developing normally. } 5... c5
+{ [Source] Black has traded the B pawn for the C pawn and managed to gain control over the entire center of the board. So that's not something we wish to do. { [%ai Black has achieved a very comfortable position here, which is why the presenter recommends accepting the gambit instead.] }
+) ( 2. cxb5
+{ [Source] White wins a clean pawn if white decides to take. On the other hand, there's a very clear idea behind the Yanish Gambit. { [%ai Accepting the gambit is the most principled way to proceed, though it allows black to fight for the d5 square.] }
+2... a6
+{ [Source] A6 is by far the most common move. It's a full pawn gambit. { [%ai The standard way to follow up the gambit, offering a second pawn to accelerate development and open files, similar to the Benko Gambit.] }
+) ( 2. e3
+{ [Source] When white plays E3... White wins a clean pawn if white decides to take. On the other hand, there's a very clear idea behind the Yanish Gambit. }
+2... bxc4 3. Bxc4 d5
+{ [Source] Black has managed to gain control over the entire center of the board. So that's not something we wish to do. }
+4. Bb3 e6 5. Nf3 c5 ) ( 2. cxb5
+{ [Source] The Yananish Gambit makes no sense on first glance because it's a clean pawn. White wins a clean pawn if white decides to take. The idea is similarly to what happens in the Benko: you are fighting for control over a certain square, in this case, D5. { [%ai Accepting the gambit is the most principled approach, challenging Black to prove compensation for the pawn.] }
+2... a6
+{ [Source] On Lichess, the most common move here is A6. It's a full pawn gambit. { [%ai A typical response in such gambits, aiming for rapid development and open files in exchange for material.] }
+3. e3
+{ [Source] As white, I would recommend that you play e3 or e4. The moves have a very similar idea of simply defending the b pawn and continuing our own development instead of helping black out. So the best move I think is e3. { [%ai A precise choice that solidifies the center while declining to speed up Black's development on the queenside.] }
+3... axb5
+{ [Source] Now if a b5 isn't played now by black, we are going to take on a6. So black should take. { [%ai Necessary for Black to maintain the spirit of the gambit and regain the semi-open file.] }
+4. Bxb5
+{ [Source] Now this has been played once in one game. White won. The game went bishop B5. { [%ai Recapturing with the piece is strong, maintaining the extra pawn while developing.] }
+4... c6
+{ [Source] Black played C6. { [%ai A standard move to challenge the bishop and prepare central expansion.] }
+5. Be2
+{ [Source] The bishop retreated to E2. These are all the best moves. { [%ai A safe retreat that maintains the bishop's utility on a more secure square.] }
+5... e5
+{ [Source] And now in the game, black played knight F6 which is suboptimal. E5 is the best move. Black's going to want to go e4 and d5. That's usually the way to compensate for the pawn. { [%ai The most aggressive attempt at central control, though objective evaluation still favors White.] }
+6. Nf3
+{ [Source] But we're going to go knight f3 anyway. { [%ai Developing naturally while challenging the newly established central pawn.] }
+6... e4
+{ [Source] And when the pawn advances to e4 { [%ai Driving the knight away, but at the cost of overextending.] }
+7. Nd4
+{ [Source] we go knight d4 { [%ai The knight occupies a powerful central outpost, characteristic of a reversed Sicilian structure.] }
+7... d5
+{ [Source] And after d5, we start the undermining style. White is playing a Sicilian in reverse. It's a Sicilian's reversed with the knight on d4 instead of f3 and we are immediately challenging the pawn on E4, the pawn in the center. { [%ai Black solidifies the center, but White's position is superior due to the extra pawn and lack of typical Benko-style activity.] }
+) ( 2. e3
+{ [Source] We are going to cover declining the capture first. There are several ways to decline it, but there is only one sensible way to do that, which is to play E3. { [%ai Declining the pawn is generally considered suboptimal for White in this specific gambit as it allows Black easy central equality.] }
+2... bxc4 { [Source] Black takes the pawn. } 3. Bxc4 { [Source] Bishop takes. }
+3... d5 { [Source] Black plays d5. } 4. Bb3
+{ [Source] Okay, you have to retreat the bishop. Let's say you choose B3. }
+4... e6 { [Source] e6. } 5. Nf3 { [Source] Knight F3. } 5... c5
+{ [Source] Look at black's center. Black has traded the B pawn for the C pawn and managed to gain control over the entire center of the board. { [%ai This structure is very comfortable for Black, who has achieved central dominance early on.] }
+) ( 2. cxb5
+{ [Source] The Yananish Gambit needs to be accepted. Okay, takes. The gambit is awful for black. If white knows what they're doing, they're going to have a clean extra pawn with enough central control to compensate for D5. { [%ai White takes the gambit pawn. Acceptance is objectively strong, leading to a significant advantage for White (+1.0 or more) if played correctly.] }
+2... a6
+{ [Source] On Lichess, the most common move here is A6 with 74,000 games. It's a full pawn gambit. The idea is that black is going to recapture bishop A6 and gets rapid development along with the two open files, the A and B files. { [%ai Black offers the pawn to gain development and semi-open files, similar to Benko Gambit ideas.] }
+3. e3
+{ [Source] As white, I would recommend that you play e3 or e4. The moves have a very similar idea of simply defending the b pawn and continuing our own development instead of helping black out. So the best move I think is e3. { [%ai White chooses to support the b5 pawn from the center rather than capturing on a6, avoiding the typical Benko-style piece activity for Black.] }
+( 3. e4
+{ [Source] Now, instead of E3, white can also play E4, which is fine according to the engine. Just a slightly smaller advantage compared to E3 because after knight F6, you now have to play knight C3. { [%ai Valid alternative, though e3 is preferred by the author for its solidity.] }
+3... Nf6 4. Nc3 axb5 5. Bxb5 Bb7 6. Qe2
+{ [Source] And now again you have a clean extra pawn. Black needs to fight against D4. So if black doesn't play E5 now you do play D4. { [%ai White consolidates the extra pawn with a strong central presence.] }
+) 3... axb5
+{ [Source] Now if a b5 isn't played now by black, we are going to take on a6. And if black recaptures with the bishop, we can trade that bishop off and our king is still on E1. So black should take. { [%ai Black captures back to regain the pawn, but this allows White to develop with a capture.] }
+4. Bxb5
+{ [Source] The game went bishop B5. { [%ai White recaptures the pawn with the bishop, developing a piece and controlling the center.] }
+4... c6
+{ [Source] Black played C6. { [%ai Black gains space and kicks the bishop.] }
+5. Be2
+{ [Source] The bishop retreated to E2. These are all the best moves. { [%ai White retreats safely while maintaining a solid structure.] }
+5... e5
+{ [Source] E5 is the best move. Black's going to want to go e4 and d5. That's usually the way to compensate for the pawn. { [%ai Black claims central space and prepares to harass the kingside knight.] }
+6. Nf3
+{ [Source] But we're going to go knight f3 anyway. { [%ai Standard developing move, challenging the center.] }
+6... e4
+{ [Source] And when the pawn advances to e4... { [%ai Black pushes forward to kick the knight, typical for these structures.] }
+7. Nd4
+{ [Source] ...we go knight d4. { [%ai The knight finds a strong central outpost.] }
+7... d5
+{ [Source] And after d5, we start the undermining style. White is playing a Sicilian in reverse. It's a Sicilian's reversed with the knight on d4 instead of f3. and we are immediately challenging the pawn on E4, the pawn in the center. { [%ai Black solidifies the center, but White has a very favorable version of a reversed Sicilian with an extra pawn.] }
+) ( 2. e3
+{ [Source] Declining the capture isn't sensible as White immediately loses the advantage. { [%ai Suboptimal move. White should accept the pawn to maintain an advantage.] }
+2... bxc4 3. Bxc4 d5 4. Bb3 e6 5. Nf3 c5
+{ [Source] Black manages to gain control over the entire center of the board after trading the B pawn for the C pawn. { [%ai Black has a very solid position here with good central presence.] }
+) ( 2. cxb5
+{ [Source] Okay, so C4 B5, white takes, black plays A6. { [%ai Accepting the Yananish Gambit is generally considered the best approach for white to claim an advantage.] }
+2... a6 3. bxa6 Bxa6
+{ [Source] However, if you take on A6, then black recaptures with the bishop and you have the Benko situation where if you ever move your E pawn forward, black's going to take on F1, misplacing your king. This is what black wants. { [%ai This allows black typical Benko-style compensation with rapid development and pressure on the queenside files.] }
+) ( 2. e3
+{ [Source] When white plays E3 or E4 or B3, any other move that, doesn't lose the C pawn, white's immediately worse. }
+2... bxc4 3. Bxc4 d5 { [Source] Okay, you have to retreat the bishop. } 4. Bb3
+e6 5. Nf3 c5
+{ [Source] Look at black's center. Black has traded the B pawn for the C pawn and managed to gain control over the entire center of the board. So that's not something we wish to do. }
+) ( 2. cxb5
+{ [Source] So white should take that pawn. The Yan Gambit needs to be accepted. White wins a clean pawn if white decides to take. }
+2... a6
+{ [Source] On Lichess, A6 is by far the most common move. It's a full pawn gambit. }
+3. bxa6
+{ [Source] In this case, by taking on A6, you're making sure that you keep the pawn whatever happens. Personally, I don't think the A pawn should be taken, although that is the most common move. }
+3... Bxa6
+{ [Source] If you take on A6, then black recaptures with the bishop and you have the Benko situation where if you ever move your E pawn forward, black's going to take on F1, misplacing your king. This is what black wants. }
+) ( 2. e3
+{ [Source] When white plays E3 or E4 or B3, any other move that, doesn't lose the C pawn, white's immediately worse. }
+2... bxc4 3. Bxc4 d5 { [Source] Okay, you have to retreat the bishop. } 4. Bb3
+{ [Source] It doesn't really matter. } 4... e6 5. Nf3 c5
+{ [Source] Look at black's center. Black has traded the B pawn for the C pawn and managed to gain control over the entire center of the board. So that's not something we wish to do. { [%ai An accurate assessment of declining the gambit; White hands over central control too easily.] }
+) ( 2. cxb5
+{ [Source] So white should take that pawn. The Yanish Gambit needs to be accepted. Okay, takes. { [%ai Accepting the gambit is indeed the engine's preference, as Black doesn't get enough compensation if White plays accurately.] }
+2... a6
+{ [Source] On Lichess, the most common move here is A6 with 74,000 games ... It's a full pawn gambit. { [%ai This is the true spirit of the gambit, looking for Benko-style compensation on the queenside.] }
+3. bxa6
+{ [Source] In this case, by taking on A6, you're making sure that you keep the pawn. whatever happens. { [%ai Greedy but theoretically strongest. However, it requires precise play to deal with Black's upcoming pressure.] }
+3... Bxa6
+{ [Source] However, if you take on A6, then black recaptures with the bishop { [%ai Black develops a piece and exerts immediate pressure on the f1-a6 diagonal.] }
+4. e4
+{ [Source] and you have the Benko situation where if you ever move your E pawn forward, and you're going to want to do that because black's going to go D5 { [%ai White attempts to claim the center, but this allows Black to execute their tactical plan.] }
+4... Bxf1
+{ [Source] black's going to take on F1 { [%ai Forcing the king to move and preventing castling.] }
+5. Kxf1
+{ [Source] misplacing your king. And this is exactly what black wants. This is what black wants. { [%ai White loses the right to castle, and Black has excellent compensation for the pawn due to the coordination issues White will face.] }
+) ( 2. e3
+{ [Source] Declining the capture by playing E3, E4, or B3 makes White immediately worse as Black gains full control of the center. }
+2... bxc4 3. Bxc4 d5 4. Bb3
+{ [Source] Black has managed to gain control over the entire center of the board after trading the B-pawn for the C-pawn. }
+4... e6 5. Nf3 c5 ) ( 2. cxb5
+{ [Source] The Yananish Gambit needs to be accepted. White should take that pawn. { [%ai Accepting the gambit is the most principled response and gives White an objective advantage.] }
+2... a6
+{ [Source] A6 is by far the most common move for black. It's a full pawn gambit, similar in spirit to the Benko. { [%ai Black seeks rapid development and open files in exchange for the pawn.] }
+3. e3
+{ [Source] As white, I would recommend that you play e3. This defends the b-pawn and continues development instead of helping black out. { [%ai e3 is a solid choice that avoids the tactical complications of taking on a6 immediately.] }
+( 3. e4 Nf6 4. Nc3 axb5 5. Bxb5 Bb7 6. Qe2 ) 3... axb5
+{ [Source] If white plays e3, black should take on b5. { [%ai Black must clarify the queenside structure.] }
+4. Bxb5
+{ [Source] White recaptures with the bishop. This has been played in master games, and white won. { [%ai Developing with check and regaining the piece while keeping the extra pawn.] }
+4... c6
+{ [Source] Black played C6 to challenge the bishop. { [%ai A standard way to block the check and force the bishop to move.] }
+5. Be2
+{ [Source] The bishop retreats to E2. These are all the best moves. { [%ai Maintaining the piece and keeping the extra pawn safely tucked away.] }
+5... e5
+{ [Source] E5 is the best move for black here to fight for central control. { [%ai Black attempts to gain compensation through central space.] }
+6. Nf3
+{ [Source] White continues with knight f3 anyway. { [%ai Developing toward the center and preparing to challenge black's expansion.] }
+6... e4
+{ [Source] When the pawn advances to e4... { [%ai Black continues to push, trying to cramp White's development.] }
+7. Nd4
+{ [Source] ...we go knight d4. { [%ai The knight occupies a strong central square, taking advantage of the space black left behind.] }
+7... d5
+{ [Source] After d5, we start the undermining style. White is essentially playing a Sicilian in reverse with the knight on d4, and we are challenging the pawn in the center. Unlike in the Benko, we have a lead in development and black has no typical compensation. { [%ai White's position is significantly better (+1.2) due to the extra pawn and lack of concrete dynamic compensation for Black.] }
+) ( 2. cxb5
+{ [Source] The Yananish Gambit needs to be accepted. White wins a clean pawn if white decides to take. }
+2... g6
+{ [Source] If they go G6 straight away, we're going to treat it the same way as the bishop to B7 lines. }
+( 2... e5
+{ [Source] The final move I want to have a look at once you take the pawn is e5, which I think is the most challenging move from a human perspective. }
+3. e4
+{ [Source] This pawn needs to be prevented from moving forward and we are going to have to defend the pawn at some point. So e4 is what I would recommend. }
+3... Nf6 4. Nc3 { [Source] Knight f6. E4 is hanging. So knight c3. } 4... Bb7
+5. Nf3
+{ [Source] I would recommend the move knight f3 challenging their e5 pawn. }
+5... d6
+{ [Source] If they passively defend it with a move like D6, then the bishop is blocked. }
+( 5... Nxe4
+{ [Source] or they are simply going to trade and this is the only reasonably dangerous sequence white needs to remember }
+6. Nxe4 Bxe4 7. Nxe5 Qe7 8. d4 d6 9. Qe2
+{ [Source] You have queen E2 and you're defending everything after D E5. Queen takes E4, E takes D4, queen E7, bishop E7. }
+9... dxe5 10. Qxe4 exd4 11. Qxe7+ Bxe7 12. Bf4
+{ [Source] It may seem like we have given the pawn back, but there is no way for them to keep the material because we go bishop F4 and one of these two pawns is hanging either after castles long or simply rook C1. }
+12... Kd7 13. O-O-O
+{ [Source] If they try something like I don't know king D7 then the immediate castles queenside is game over something like castles queen side bishop f6 to defend followed by g3 and bishop g2 is going to be the end of the game. }
+13... Bf6 { [Source] Black defends the d-pawn with the bishop. } 14. g3
+{ [Source] White proceeds with g3... } ) 6. Qc2
+{ [Source] We can continue with a move like queen C2. So this is perfectly fine. Now they have a very bad bishop. }
+6... Qe7
+{ [Source] Most people are going to either play queen E7 which is less committal but again it restricts the bishop, evaluated at plus two and a half according to the engine. { [%ai An inferior alternative to the tactical main lines, though it avoids immediate crises for black.] }
+) ( 2... a6
+{ [Source] When black plays B5, the Yanish Gambit, you're not controlling D5 anymore. However, A6 is by far the most common move. It's a full pawn gambit. }
+3. bxa6
+{ [Source] If you do take that pawn, black recaptures with the bishop and you have the Benko situation where if you ever move your E pawn forward black is going to take on F1, misplacing your king. This is what black wants. }
+3... Bxa6 ) 3. Nc3
+{ [Source] I would recommend starting with knight C3 here to play against D5. }
+3... Bg7 4. d4 Bb7 5. e4
+{ [Source] When the other bishop inevitably comes to the diagonal, you can play E4 and claim the center. }
+5... Nf6 6. e5 Nd5 7. Nf3 O-O 8. Bc4
+{ [Source] It's not just that white has an extra pawn, but white has a significantly better position as well. }
+) 2... bxc4 3. Bxc4 d5 4. Bb3 e6 5. Nf3 c5
+{ [Source] Look at black's center. Black has traded the B pawn for the C pawn and managed to gain control over the entire center of the board. { [%ai Black achieves full central control.] }
+*
+

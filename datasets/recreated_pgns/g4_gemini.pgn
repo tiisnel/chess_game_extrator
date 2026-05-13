@@ -1,0 +1,191 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ [Source] you open the game with the King's Pawn to E4 { [%ai Standard opening move.] }
+1... e5
+{ [Source] and when they play Pawn to E5 { [%ai Symmetrical response.] } ( 1...
+e5 { { [%ai Standard response to 1. e4.] } 2. Bc4
+{ { [%ai The Bishop's Opening, preparing to target the weak f7 square.] } 2...
+Bc5
+{ { [%ai A common response, leading to a symmetrical position similar to the Giuoco Piano.] }
+( 2... Nc6
+{ [Source] what if black doesn't play Bishop C5 what if they play very natural move that you will see in many games I think 33% of the games in the database they have Knight C6 { [%ai A common and solid alternative for Black, but White has tricks ready via transposition.] }
+3. Nf3
+{ [Source] now after we play Knight F3 here what are they going to do { [%ai Developing the knight and transposing into an Italian Game structure.] }
+3... Bc5
+{ [Source] the most plate move in this position is Bishop C5 and this is an opening called the Italian game { [%ai Transposing back to the mainline Italian structure, which White intends to disrupt.] }
+4. O-O
+{ [Source] here we castle the waiting move just saying okay what do you want to play { [%ai Castling keeps White's options open and waits for Black's commitment.] }
+4... Nf6
+{ [Source] Knight to F6 { [%ai Black develops and prepares to castle, playing logically.] }
+5. d4
+{ [Source] now we play D4 so they think they're going to play a normal Italian game we're saying no now we go into the max laying attack { [%ai The thematic central thrust of the Max Lange Attack.] }
+5... Bxd4
+{ [Source] in this position if they play Bishop takes D4 { [%ai Black accepts the challenge, though taking with the pawn is more common at higher levels.] }
+6. Nxd4
+{ [Source] we play Knight takes D4 { [%ai Simplifying the center to maintain the initiative.] }
+6... Nxd4
+{ [Source] Knight takes D4 { [%ai Black recaptures, but now White can use the f-pawn aggressively.] }
+7. f4
+{ [Source] F4 { [%ai The classic expansion in the Max Lange to open the f-file and pressure f7.] }
+7... d6
+{ [Source] remember we had this takes takes { [%ai Black reinforces e5, attempting to solidify the center.] }
+8. fxe5
+{ [Source] takes takes { [%ai White clarifies the central tension to open lines for the attack.] }
+8... dxe5
+{ [Source] takes takes { [%ai Black maintains material parity but allows a dangerous pin.] }
+9. Bg5
+{ [Source] and Bishop G5 and we have the good position again { [%ai White reaches the targeted aggressive position despite the different move order.] }
+) ( 2... Nf6
+{ [Source] what if they don't play this bishop move and they don't play this knight move What If instead they play this knight move here { [%ai A solid defense that challenges the center, though here it leads into a sharp gambit line.] }
+3. d4 { [Source] we start by playing D4 we want to get this in immediately }
+3... exd4 4. Nf3
+{ [Source] we will get this Pawn in due time don't worry we don't have to rush }
+4... Nxe4
+{ [Source] so they think it's a it's a hanging pawn { [%ai Accepting the pawn is risky in the Urusov Gambit structures due to White's quick development.] }
+5. Qxd4
+{ [Source] we are just going to play Knight F3 ... I'm going to capture Queen takes D4 }
+5... Nd6
+{ [Source] Knight to D6 where the idea is to get rid of this pesky Bishop } 6.
+O-O { [Source] we're not trying to save the bishop we just Castle } 6... Nxc4
+{ [Source] why because when they capture the bishop Knight takes Bishop we don't recapture the Knight we just sacrifice the bishop { [%ai A standard sacrificial theme in these aggressive lines where White prioritizes the initiative and King safety.] }
+7. Re1+ { [Source] and we play Rook to E1 and that is check } 7... Be7
+{ [Source] only move that makes any sense is Bishop here } 8. Qxg7
+{ [Source] this queen is very strong on this diagonal comes in and takes on G7 ... we are attacking The Rook if we capture here it will be Checkmate the bishop is pinned { [%ai A lethal entry. The pin on the e7-bishop leaves the f8-rook undefended and the king vulnerable.] }
+8... Rf8 { [Source] the only move in the position is Rook to f8 } 9. Bh6
+{ [Source] now we play Bishop H6 and black is toast once again ... we just come in here with a queen and take and that is Checkmate the bishop is pinned by The Rook can't come in and capture { [%ai White exploits the multiple pins to deliver a decisive tactical sequence.] }
+9... d5
+{ [Source] Even if they try to avoid Checkmate by playing something like D5 we still come in and capture the king would have to go here. }
+10. Qxf8+ Kd7 11. Rxe7+ Qxe7 12. Qxe7+
+{ [Source] Just play Queen takes and King takes. You have won an exchange. White has a safe King, active Rook, and active Queen. You're just way ahead here and you're going to win. }
+12... Kxe7 ) ( 2... Nc6
+{ [Source] Moving into variations where black plays Knight to C6. { [%ai Transposes towards typical Italian or Two Knights structures depending on white's choice.] }
+3. Nf3
+{ [Source] Getting to a tabiya position with Knight to f3. { [%ai Standard development.] }
+3... Nf6
+{ [Source] The other sensible development for black. { [%ai Challenging the center immediately.] }
+4. d4
+{ [Source] You can just play Pawn to d4 right away. { [%ai The Perreux Variation or a central break typical of the Max Lange complex.] }
+( 4. Nd4
+{ [Source] if they play Knight takes we just win right away { [%ai Black captures the d4 pawn, which allows White to initiate a classic attacking sequence based on the weakness of the f7 square.] }
+4... exd4
+{ [Source] what if they don't play Knight takes but instead they play e takes and the interesting thing here is that you are just completely happy with this { [%ai Main line response to the d4 gambit.] }
+5. O-O
+{ [Source] there are multiple openings you could go into here but what do you want to do you want to be in the comfort of the opening knowledge that you have gained in this video so what do you do you play castles { [%ai White transitions into the Max Lange Attack or similar gambit structures by castling before recapturing.] }
+5... Bc5
+{ [Source] the only sensible move is to play Bishop C5 that's the most popular move in the position { [%ai Entering the main line Max Lange Attack. Other options like 5... d6 or 5... Nxe4 are considered inferior by the presenter.] }
+6. e5
+{ [Source] E5 and we are in the position again with all the tricks remember Knight can't go anywhere have to play this and there's all the stuff I already taught you that you can go and watch again { [%ai The thematic central thrust of this system, regaining tempo and destabilizing the f6 knight.] }
+) 4... Nxe4
+{ [Source] If they play Knight takes e4, we win right away. { [%ai A risky capture that invites tactical complications on f7.] }
+5. Bxf7+
+{ [Source] Sacrifice the bishop on f7 with check. { [%ai The standard tactical theme of this opening video.] }
+5... Kxf7 { { [%ai Forced response.] } 6. Nxe5+
+{ [Source] Capturing on e5 with check instead of taking the knight on e4. { [%ai Double attack on the king and the e4 knight.] }
+6... Ke8 { { [%ai Placeholder for the king's retreat.] } ) 3. d4
+{ { [%ai A gambit line (Ursov or similar) aiming for quick development and central control.] }
+( 3. Nf3
+{ [Source] We're tricking black into getting into exactly the same position through an opening called the Italian game. Magnus Carlsen even plays this sometimes. { [%ai A solid developing move, transitioning from the Bishop's Opening to a more standard Italian Game setup.] }
+3... Nc6
+{ [Source] We are cheating black; we're tricking black into a standard opening that has been with us for more than 400 years. { [%ai The most common and natural response, developing the knight and defending the e5 pawn.] }
+4. O-O
+{ [Source] We castle as a waiting move, just saying: 'Okay, what do you want to play?' { [%ai A flexible move that secures the king and prepares d4.] }
+4... Nf6
+{ [Source] The number one move, most played and also the best move in this position. { [%ai Continues logical development and attacks the e4 pawn.] }
+5. d4
+{ [Source] Now we play D4. They think they're playing a normal Italian game; we're saying: 'No, now we go into the Max Lange attack.' { [%ai The central strike that defines the gambit nature of this line.] }
+5... Bxd4
+{ [Source] The so-called main line of the opening, where black accepts the challenge in the center. { [%ai A very standard capture that leads to complex tactical struggles.] }
+6. Nxd4
+{ [Source] We trade off the bishop to clear the way for our attacking ideas. { [%ai Simplifies the center while preparing further aggression.] }
+6... Nxd4
+{ [Source] They recapture with their Knight thinking all is well. { [%ai Standard recapture by black.] }
+7. f4
+{ [Source] Coordinate this rook and make the castling move an aggressive move. You want to activate this rook and make it work together with the bishop on f7. { [%ai Highly aggressive. White is not playing for positional equality but for a crushing kingside attack.] }
+7... d6
+{ [Source] The first variation I will show you is if they defend the pawn with Pawn to d6. { [%ai A solid defensive attempt by black to maintain their center.] }
+8. fxe5
+{ [Source] You capture and because they recapture, it clears the way for our next move. { [%ai Opens the f-file for the rook, a key element of white's strategy.] }
+8... dxe5
+{ [Source] Black recaptures, fulfilling the reason they played d6 in the first place. { [%ai Maintains material equality but at the cost of opening lines for white.] }
+9. Bg5
+{ [Source] A simple move: Bishop G5. You haven't sacrificed anything spectacular yet, but black is in trouble. { [%ai A strong positional pin on the f6 knight that is very difficult for black to handle comfortably.] }
+9... O-O
+{ [Source] If they castle kingside, you just capture and they can't recapture with the queen because you'll lose the queen, so black would have to capture with the pawn. }
+10. Bxf6
+{ [Source] Black will have to capture with the pawn and this gives them a very exposed king and a very easy attacking game for you. }
+10... gxf6
+{ { [%ai A classic destruction of the kingside pawn structure, leaving the king vulnerable to the coming queen attack.] }
+) 3... Bxd4
+{ { [%ai Taking the central pawn with the bishop is the most popular choice at lower levels.] }
+4. Nf3
+{ { [%ai Developing the knight and adding pressure to the bishop on d4.] } 4...
+Nc6
+{ [Source] But the move that you will always see is Knight to C6 defending the bishop and you're still trying to find a good way to sacrifice here. This bishop is very strong and you want to lure this Knight to this square instead where it can be subject to attack. { [%ai Developing and defending. This is a very common move in the database for this position.] }
+5. Nxd4
+{ [Source] If you see this variation which is very common you just take the Knight capture the bishop. { [%ai White chooses to simplify and remove Black's active bishop.] }
+5... Nxd4
+{ [Source] And they recapture with the Knight. { [%ai Maintaining material equality while centralizing the knight.] }
+6. O-O
+{ [Source] You play a very patient move now you're not sacrificing immediately you just Castle your king like this. { [%ai Prioritizing king safety before launching the attack.] }
+6... Nf6
+{ [Source] The move that you will see the most often Knight here attacking. { [%ai A natural developing move, though it allows White to strike in the center.] }
+7. f4
+{ [Source] You want to coordinate this rook and make the castling move not a defensive move but an aggressive move you want to activate this rook and make it work together with the bishop on F7 so you play Pawn to F4. { [%ai The thematic break. White creates pressure on the f-file.] }
+7... Nc6
+{ [Source] Let's first look at Knight back to C6 defending here. { [%ai Black retreats the knight to bolster the center, but it loses time.] }
+8. Bxf7+
+{ [Source] Now it's time to sacrifice the bishop so you just pick up your Bishop take on F7 let's check. { [%ai A spectacular sacrifice to expose the Black king.] }
+8... Kxf7
+{ [Source] They recapture. { [%ai Black accepts the sacrifice, having no better option.] }
+9. fxe5
+{ [Source] And you Pawn takes Pawn. { [%ai Opening the f-file for the rook and regaining a piece via tactical means.] }
+9... Nxe5
+{ [Source] They think it's no problem I capture here with their Knight they're thinking okay you gave up a bishop my king is a little bit exposed but I have two knights developed. { [%ai Black overlooks the tactical sequence White has prepared.] }
+10. Qd5+
+{ [Source] What you are going to say is no you don't control a lot of squares because all your pieces are in fact pinned and queen to D5 is check it cannot be captured by the Knight because it's pinned to the king. { [%ai A powerful fork using the pin along the f-file.] }
+10... Ke8 { { [%ai The king must move to escape the check.] } 11. Qxe5+
+{ [Source] No matter what they do you just come in and capture the KN now you have equal material but the quality of your pieces is of course absolutely vastly Superior. { [%ai White regains material with a crushing advantage due to Black's exposed king.] }
+) 2. Bc4
+{ [Source] play Bishop to C4 attacking F7 { [%ai Bishop's Opening. Direct pressure on the f7 weakness.] }
+2... Bc5
+{ [Source] they reply with Bishop to C5 { [%ai Developing into a Giuoco Piano style position.] }
+3. d4
+{ [Source] you start with Pawn to D4 { [%ai Lewis Gambit. Challenges the center immediately.] }
+3... exd4 { [Source] they play Pawn takes Pawn { [%ai Accepting the gambit.] }
+4. Bxf7+
+{ [Source] now we can take Bishop takes F7 check { [%ai Jerome-style sacrifice, though usually considered sounder in this specific gambit context to lure the king out.] }
+4... Kxf7
+{ [Source] the critical move to look at of course is King takes bishop { [%ai Forced if black wants to maintain material equality.] }
+5. Qh5+
+{ [Source] the followup is Queen check Queen H5 check { [%ai A double attack on the king and the bishop on c5.] }
+5... g6
+{ [Source] black can block the check { [%ai Standard way to block the check while attacking the queen.] }
+6. Qxc5
+{ [Source] Queen takes bishop and now you're up not technically a bishop because we just traded material but Black's King is in a very precarious position { [%ai White recovers the piece and leaves the black king displaced.] }
+6... Nc6
+{ [Source] the most played move is Knight to C6 defending the pawn { [%ai Developing and protecting the d4 pawn.] }
+7. Nf3
+{ [Source] You simply play Knight to F3 attacking the pawn once more { [%ai Adding pressure to d4 and developing.] }
+7... d6
+{ [Source] Pawn to D6 attacking the queen and also unleashing the bishop { [%ai A natural-looking move that often leads into a trap in this line.] }
+8. Qd5+
+{ [Source] here you throw the check { [%ai Centralizing the queen with tempo.] }
+8... Be6
+{ [Source] I played D6 so that I could play this bishop here { [%ai Black interposes the bishop to defend the king.] }
+9. Ng5+
+{ [Source] now you just come in with the full force of this opening you play Knight G5 check checking the king but also looking at the bishop { [%ai Exploiting the pin on the e6 bishop.] }
+9... Qxg5
+{ [Source] and in fact the best move for black here is to sacrifice the queen capture it like this where you just capture with your own Queen { [%ai An accurate defensive try to eliminate White's most active attacker, albeit at a massive material cost.] }
+( 9... Ke7
+{ [Source] if you go here King E7 simply Queen check there's only one legal move here and Checkmate back it up by the Knight }
+) 10. Qxg5
+{ [Source] and now you're up a bunch of what we call material Queen worth nine points Knight worth three points you are six points up that's the best move { [%ai White transitions into a completely winning endgame with a significant material advantage.] }
+*
+

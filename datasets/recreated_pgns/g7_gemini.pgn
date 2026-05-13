@@ -1,0 +1,343 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ [Source] teaching you an opening repertoire. So, what you can play after E4 against anything that your opponents might play }
+1... c5
+{ [Source] against C5, this Sicilian defense, I'm going to recommend the move knight to C3. }
+2. Nc3
+{ [Source] This is different than what most people do. Most people are going to use the other knight and play D4 right away. }
+( 2. Nc3
+{ [Source] Against C5, the Sicilian defense, I'm going to recommend the move knight to C3. This is different than what most people do. This is called the closed Sicilian. { [%ai The Closed Sicilian (2. Nc3) is a solid, positional alternative to the Open Sicilian, often leading to slow-building attacks or standard Grand Prix structures.] }
+2... Nc6 { [Source] Knight C6. } 3. f4
+{ [Source] We're going to play F4. This is what starts the Grand Prix attack. We're going to be pushing this guy forward later and attacking the king after it castles. { [%ai 3. f4 is the hallmark of the Grand Prix Attack, signaling White's intent for a kingside pawn storm.] }
+3... d6 { [Source] They play D6. } 4. Nf3 { [Source] We bring out our knight. }
+4... Bg4
+{ [Source] Some people will immediately go for a pin on your knight. It's annoying. And they have their knight ready to jump into D4. And this can cause you some problems. { [%ai Bg4 pins the f3-knight, a key defender and attacker in this line. Black intends to increase pressure with ...Nd4.] }
+( 4... g6
+{ [Source] We bring out our knight. They play G6. And of course, black can play any number of moves. We're going to come back and talk about some different ones, but right now, just follow what the idea is. }
+5. Bc4
+{ [Source] Bishop C4, lining up on the weak spot. That's a cool spot for the bishop to be. }
+5... Bg4
+{ [Source] If the pin comes a little bit later, let's just say maybe they could do G6, bishop C4, and maybe do it now. Bishop G4. Now, there might be a tactic. }
+6. Bxf7+ { [Source] In this example, we take with check. } 6... Kxf7
+{ [Source] We take with check... the idea is that now you can take their bishop. { [%ai Standard tactical punishment for leaving the f7 square vulnerable while the king is stuck in the center.] }
+7. Ng5+
+{ [Source] We go knight G5... we are about to checkmate them on H7. { [%ai White exploits the weakened kingside and the misplaced bishop on g4.] }
+) ( 4... Nf6
+{ [Source] Now, the tactic no longer works because it's defended. { [%ai A solid developing move, though it does run into some tricky lines in the Grand Prix.] }
+5. Bc4 { { [%ai The standard placement for the bishop in this system.] } 5...
+Bg4
+{ [Source] Option number one, you can play H3 and just force them to make the trade. Okay? And then the game goes on from there. { [%ai This pin is annoying but White can often ignore it or force the trade.] }
+6. h3 { { [%ai A direct way to resolve the tension on f3.] } ( 6. O-O
+{ [Source] We need to castle before we can begin our queen maneuver. { [%ai Skillful development, preparing for the thematic kingside attack while securing the king.] }
+6... e6
+{ { [%ai A solid way for black to stabilize the center and prepare Nge7.] } 7.
+Qe1
+{ [Source] Option number two is sometimes I will play queen E1 and let them take me. Okay. And I'll take back with the rook. { [%ai Thematic Grand Prix maneuver. White ignores the pin and prepares a kingside lift.] }
+7... Bxf3
+{ { [%ai Black decides to take the knight, which allows White to activate the rook along the third rank.] }
+8. Rxf3
+{ [Source] And I'll take back with the rook. { [%ai White's rook is now exceptionally well-placed on the f-file for an eventual kingside attack.] }
+8... Nd4
+{ [Source] And then if this happens, you can again go to F2 to defend or sometimes we will ignore this. { [%ai Black targets the fork on c2, a common counter-attacking motif.] }
+9. Rf2
+{ [Source] You can again go to F2 to defend. { [%ai A precise retreat to neutralize the threat on c2.] }
+( 9. f5
+{ [Source] Typical plan in the Grand Prix attack. We don't even care about giving up the rook fork at c2. { [%ai Standard attacking thematic move in the Grand Prix.] }
+9... Nxc2 10. Qh4
+{ [Source] Stockfish notices that even though white is down a rook, the attack is worth the material. { [%ai Aggressive queen maneuver to focus on the king side.] }
+10... Nxa1 11. fxe6 fxe6 { [Source] Recapturing this way is losing for black. }
+) ) 6... Bxf3
+{ { [%ai Trading the bishop for the knight is forced if Black wants to maintain the pressure.] }
+7. Qxf3
+{ [Source] If the knight attacks you, a lot of times you can drop the queen back and defend this. { [%ai White maintains a slight advantage with the pair of bishops.] }
+) 5. Bb5
+{ [Source] If they pin your knight... very early like this, and you haven't moved your bishop yet, I recommend you counterpin their knight. We don't want to have to deal with a knight coming in and attacking our pin knight and causing us problems. { [%ai Bb5 is a standard and effective response to Bg4 or early Nc6 development, fighting for control of the d4 square by threatening to remove the knight.] }
+5... a6
+{ [Source] White is looking to induce the trade of the bishop to double the c-pawns. { [%ai A common response to Bb5, putting the question to the bishop immediately.] }
+6. Bxc6+
+{ [Source] At some point just trade it. There's no longer a knight jumping into D4. { [%ai The main idea of Bb5 in this line is to exchange for the knight to stabilize the center and weaken Black's pawn structure.] }
+6... bxc6
+{ [Source] Black accepts the doubled pawns in exchange for the bishop pair. { [%ai Standard recapture; Black has the semi-open b-file and the center but weakened structure.] }
+7. O-O
+{ [Source] After you're castled, I do recommend you chase this bishop away. { [%ai White secures the king and prepares to start the thematic kingside expansion.] }
+7... e6
+{ [Source] Black develops naturally while restricting White's center. { [%ai A solid developing move, though White's plan is already clear.] }
+8. h3
+{ [Source] Force them to make the trade. { [%ai Challenging the pin immediately prevents Black from coordinating an attack on the f3-knight.] }
+8... Bxf3
+{ [Source] And then your queen gets to come out to a really nice square. { [%ai Black often takes here rather than retreating, as retreating to h5 can lead to the bishop being trapped.] }
+9. Qxf3
+{ [Source] The queen comes over and you will notice we can very quickly slide the queen over to the kingside to attack. { [%ai The resulting position allows White's queen to pivot quickly toward h3 or g3, heightening the pressure.] }
+) ( 2. Nc3
+{ [Source] Against C5, the Sicilian defense, I'm going to recommend the move knight to C3. This is different than what most people do... This is called the closed Sicilian, and it might surprise people on move two, honestly, at the lower levels. { [%ai An excellent choice for surprise value and avoiding main-line theory.] }
+2... Nc6 { [Source] Knight C6. { [%ai A natural and strong developing move.] }
+( 2... d6
+{ { [%ai A common response to the closed Sicilian, preparing to develop the light-squared bishop or the knight to f6.] }
+3. f4 { { [%ai Solidifies the Grand Prix structure.] } 3... Nc6
+{ [Source] This is a demonstration of the ideal Grand Prix attack structure. }
+4. Nf3
+{ [Source] Bringing out the knight to support the center and future king-side attack. }
+4... g6
+{ [Source] Black often setups with a kingside fianchetto in these structures. }
+5. Bc4
+{ [Source] Lining up the bishop on the weak f7 spot, a key square for the attack. }
+5... Bg7 { [Source] Black completes the fianchetto. } 6. O-O
+{ [Source] White castles to safety while preparing the f-file rook for the offensive. }
+6... Nf6 { [Source] Black develops and prepares to castle. } 7. d3
+{ [Source] Defending e4 and opening the path for the dark-squared bishop if needed. }
+7... O-O
+{ [Source] The main position is reached; both sides have developed and castled. }
+8. Qe1
+{ [Source] First key idea: sliding the queen over to the kingside via the third rank. }
+8... a6
+{ [Source] Black tries to gain space on the queenside, but White's attack is faster. }
+9. f5
+{ [Source] Second key idea: pushing the f-pawn to open lines against the king. }
+9... gxf5
+{ [Source] Opening up the king's protection, which is exactly what White wants. }
+10. Qh4
+{ [Source] The queen arrives on the kingside, immediately targeting h7. } 10...
+fxe4
+{ [Source] Black captures another pawn, but ignores the mounting threats near the king. }
+11. Ng5
+{ [Source] White is already in a winning position, threatening mate on h7. }
+11... h6
+{ [Source] Black tries to kick the knight, but the defensive setup is already compromised. }
+( 11... exd3
+{ [Source] Black's like, 'Okay, thank you very much. I'll take another pawn.' { [%ai This is a plausible substitution for a passive 'take the pawn' move that clears the path to the h7 square for the queen.] }
+12. Rxf6
+{ [Source] And you say, Nelson, it's defended by the knight. Not for long, right? Not for long. { [%ai A thematic sacrifice in the Grand Prix Attack to eliminate the key defender of h7.] }
+12... exf6
+{ [Source] We take it and when they take back, the game is over. { [%ai Forced recapture if black wants to maintain material parity, but it leads to mate.] }
+13. Qxh7#
+{ [Source] This is 13 moves and the game is over with the beautiful checkmate on H7. This is what the Grand Prix attack is supposed to look like in a perfect world. { [%ai Standard checkmate pattern in this opening.] }
+) 12. Rxf6
+{ [Source] Sacrificing the rook to remove the critical defender of the h7 square. }
+12... exf6
+{ [Source] The capture is forced, but the defense of the king is now impossible. }
+) ( 2... e6
+{ [Source] If they don't play D6 and they play, let's just say E6, and you immediately go bishop C4, what's most likely going to happen is at some point in the future, they're going to play D5 in one move. }
+3. Bc4 ( 3. Bb5
+{ [Source] a lot of times it's better if they don't play D6 that maybe you put your bishop on B5. { [%ai This is a standard alternative in the Grand Prix attack when Black plays e6, preventing the immediate d5 tempo gain by Black and preparing to trade the bishop for the knight to maintain the kingside attacking structure.] }
+3... Nc6
+{ [Source] There are some interesting things that can happen if they jump their knight to D4. We're not going to talk about it, it's out of the scope of this video. { [%ai Black develops naturally and prepares to challenge the bishop on b5.] }
+4. Bxc6
+{ [Source] if you do go to B5, let's just say here, and you end up trading for this knight, that doesn't really change your strategy. Like this, the same plan can apply. { [%ai White eliminates the knight and doubles Black's pawns, which is a common strategy in this line to simplify the center and focus on the kingside attack.] }
+4... bxc6
+{ { [%ai Black recaptures toward the center, accepting doubled pawns for the bishop pair.] }
+5. d3
+{ { [%ai A solid setup move, defending e4 and preparing to develop the other pieces.] }
+) 3... d5
+{ [Source] And guess what? I have to move your bishop and you waste a little bit of time. Now, this is not the end of the world. The Eval Bar says it's slightly better for black. If you wanted to do this, you could still do this and just move it and the game would go on. }
+) ( 2... Nc6
+{ { [%ai A move that keeps the position in Grand Prix territory, shifting focus to more central and kingside development.] }
+3. f4
+{ { [%ai The standard hallmark of the Grand Prix Attack, preparing for kingside expansion.] }
+3... d6
+{ { [%ai A standard Sicilian structure, controlling e5 and preparing for development.] }
+( 3... e6
+{ [Source] Because if they don't play D6 and they play, let's just say E6 { [%ai A solid response for black that prepares d5, challenging White's development of the bishop to c4.] }
+4. Bc4
+{ [Source] and you immediately go bishop C4 { [%ai In the Grand Prix, developing the bishop here is standard, but if black hasn't committed to d6, it can be targeted.] }
+( 4. Bb5
+{ [Source] If they don't play d6 (playing e6 instead), it might be better to put the bishop on b5 to avoid having to move it after d5. }
+4... a6
+{ [Source] Filler move to trigger the trade described. { [%ai Commonly played to challenge the Bb5 pin.] }
+5. Bxc6
+{ [Source] And by the way, if you do go to B5, let's just say here, and you end up trading for this knight, that doesn't really change your strategy. { [%ai The key simplification White makes in this setup.] }
+5... bxc6 { { [%ai Black's standard recapture.] } 6. Nf3
+{ { [%ai Standard development toward the kingside attack.] } ) 4... d5
+{ [Source] what's most likely going to happen is at some point in the future, they're going to play D5 in one move. They don't even have to waste time. They just immediately play it. And guess what? I have to move your bishop and you waste a little bit of time. { [%ai A strong central strike that gains time by attacking the bishop on c4.] }
+5. Bb3
+{ [Source] If Black immediately plays d5 after White plays Bc4, White has to move the bishop, losing a bit of time. The evaluation bar might show a slight edge for Black, but the game is still playable and White should continue with their plan. { [%ai Moving the bishop to b3 is a passive but necessary response if White is hit by the d5 tempo. It keeps the bishop on the useful a2-g8 diagonal, though White loses the initiative.] }
+) ( 3... d6
+{ [Source] Whenever you see the move D6, it's usually good for the bishop to go to C4. Why? Because if they don't play D6 and they play, let's just say E6, and you immediately go bishop C4, what's most likely going to happen is at some point in the future, they're going to play D5 in one move. { [%ai Standard reply to the Grand Prix, steering the game into classical structures.] }
+4. Nf3
+{ { [%ai Normal development, preparing the bishop placement and kingside pressure.] }
+4... Bg4
+{ [Source] Some people will immediately go for a pin on your knight, okay? They just like they like to do that. It's annoying. And they have their knight ready to jump into D4. And this can cause you some problems. { [%ai An aggressive pin by Black, aiming to disturb White's coordination early.] }
+( 4... Nf6
+{ { [%ai Developing the knight and preparing to challenge the center while setting up for kingside castling.] }
+5. Bc4
+{ [Source] Whenever you see the move D6, it's usually good for the bishop to go to C4. { [%ai Developing the bishop to its most aggressive diagonal in the Grand Prix Attack.] }
+5... Bg4
+{ [Source] If your bishop's already on C4, there might be a tactic like in this example... Bishop G4. { [%ai The pin is often premature if White has already placed the bishop on c4, inviting tactical counters.] }
+6. Bxf7+
+{ [Source] we take with check and then we go knight G5. { [%ai A classic sacrifice in this structure that exploits the pinned knight and the exposed f7-square.] }
+6... Kxf7
+{ { [%ai Accepting the piece, though the resulting king position is precarious.] }
+7. Ng5+
+{ [Source] the idea is that now you can take their bishop, right? { [%ai Regaining the piece on g4 through a fork or discovery once the king moves.] }
+) ( 4... g6
+{ [Source] Black can play any number of moves. We're going to come back and talk about some different ones, but right now, just follow what the idea is. }
+5. Bc4
+{ [Source] Bishop C4, lining up on the weak spot. That's a cool spot for the bishop to be. }
+5... Bg7 6. O-O { [Source] We castle. } 6... Nf6
+{ [Source] At some point, your opponent might jump in here with their knight. }
+7. d3 { [Source] The pawn on D3 is defending. } 7... O-O
+{ [Source] They castle. This is the critical main position of the Grand Prix attack. We've got both our knights out, the F pawn pushed, the bishop on C4, and castled. }
+8. Qe1
+{ [Source] Because our F pawn is pushed forward, we can very quickly slide the queen over and get to the king side to attack the king. That's very useful. { [%ai A thematic maneuver in the Grand Prix to transfer the queen to the kingside.] }
+8... Nb4
+{ [Source] They are attacking here and threatening this fork on c2. { [%ai Black targets c2, forcing White to decide between defense and offense.] }
+9. f5
+{ [Source] We're going to push this pawn forward. We don't care if we lose pawns or pieces. We're going for checkmate and that is all you care about. { [%ai White prioritizes the attack over material, typical of the Grand Prix mindset.] }
+9... Nxc2 { [Source] Black takes another pawn and threatens the rook. } 10. Qh4
+{ [Source] We bring our queen over. We are saying, look, I don't even care that you're going to do this. I'm going to keep attacking your king. }
+10... Nxa1
+{ [Source] Believe it or not, we might lose this rook along the way. That's okay because we are going for checkmate. { [%ai The engine considers this equal because White's attack on the king compensates for the material loss.] }
+11. fxg6
+{ [Source] We opened up our bishop and the rook. And we've opened up black's king because when they take us, their king is more exposed. }
+11... hxg6
+{ [Source] They have to take back this way if they want to take back. Oh, but guess what? That's a losing move. { [%ai Opening the h-file facilitates White's mating attack.] }
+12. Ng5
+{ [Source] We're threatening checkmate on H7. Even though we sacrificed our rook, it's the same concept. { [%ai White creates an immediate, winning threat against h7.] }
+12... a6
+{ [Source] In this hypothetical scenario where Black ignores the threat and plays a random move, White wins immediately. { [%ai An illustrative line showing the severity of the h7 threat.] }
+13. Rxf6
+{ [Source] White sacrifices the rook to remove the key defender of the h7 square. }
+13... exf6 14. Qh7#
+{ [Source] A perfect execution of the Grand Prix attack's main checkmate pattern. }
+) 5. Bb5
+{ [Source] If they pin your knight in the Grand Prix attack very, very early like this, and you haven't moved your bishop yet, I recommend you counterpin their knight. { [%ai The most principled response to Bg4 in this line, neutralizing the pin by creating one of its own.] }
+5... a6 { { [%ai Testing the bishop and forcing a decision.] } 6. Bxc6+
+{ [Source] The easiest thing to do is counterpin their knight and then at some point just trade it. And there's no longer a knight jumping into D4. This is not as big of a threat anymore. Easy solution. { [%ai White simplifies and doubles the c-pawns, though Black gains the bishop pair.] }
+6... bxc6 { { [%ai Forced recapture.] } 7. O-O
+{ [Source] And then after you're castled, I do recommend you chase this bishop away. { [%ai King safety first before launching the flank attack.] }
+) 4. Nf3
+{ { [%ai Normal development, supporting the center and preparing for castling.] }
+4... Bg4
+{ [Source] Some people will immediately go for a pin on your knight, okay? And they have their knight ready to jump into D4. And this can cause you some problems. { [%ai A common response to put pressure on f3 and fight for control of the d4 square.] }
+( 4... g6 5. Bc4 Bg4
+{ [Source] If your bishop's already on C4, there might be a tactic like in this example. }
+6. Bxf7+ { [Source] We take with check... } 6... Kxf7 7. Ng5+
+{ [Source] ...and then we go knight G5. This is a one to just keep in the back of your mind. }
+7... Ke8 8. Qxg4
+{ { [%ai White wins the bishop back with a better position as the black king is displaced and the center is weak. Evaluation: +1.2] }
+) ( 4... Nf6
+{ [Source] like let's say they brought their knight out first { [%ai Solid development, challenging the center and preparing castling.] }
+5. Bc4
+{ { [%ai The standard square for the bishop in the Grand Prix Attack, targeting f7.] }
+5... Bg4
+{ [Source] and then they go bishop G4, now the tactic no longer works because it's defended. { [%ai Pinning the knight. The tactic 6. Bxf7+ is less effective here because the knight on f6 defends the d5/g4 squares later.] }
+( 5... e6 6. O-O Be7 7. d3 O-O 8. Qe1 Nd4
+{ [Source] At some point, your opponent might jump in here with their knight. Okay? And you will notice that they are attacking here and threatening this fork. }
+9. f5
+{ [Source] And a good example of this is the move F5. Okay, which is the typical plan, right? We bring our queen over, we play F5. We are saying, look, I don't even care that you're going to do this. I'm going to keep attacking your king just like I was going to before. }
+9... Nxc2 10. Qh4
+{ [Source] They take us queen H4. And I want you to notice something. The eval bar says equal. Even though we are literally giving up a rook for free, the eval bar says the position is equal. }
+10... Nxa1 11. fxe6
+{ [Source] As an example, we take here. Notice the bishop is lined up on the weak spot. Black can't take back with the d-pawn as easily, so they usually have to take back with the f-pawn to stay in the game. }
+11... fxe6
+{ [Source] This opens up the king's position and the f-file, which is part of the attacking strategy in the Grand Prix. }
+12. Ng5
+{ [Source] Knight to G5. We've seen this idea before. Now, we're just winning because we're threatening checkmate on H7 and attacking the F7 square multiple times. }
+12... a6
+{ [Source] If black's not paying attention and plays a random move to ignore the pressure... }
+13. Qxh7+
+{ { [%ai A thematic checkmate in the Grand Prix Attack once the H-file and king-side squares are weakened by the F-pawn push and Knight maneuvers.] }
+) 6. h3
+{ [Source] Option number one, you can play H3 and just force them to make the trade. { [%ai Provoking the trade to clarify the position.] }
+6... Bxf3 { { [%ai Forced, otherwise the bishop retreats losing time.] } 7.
+Qxf3
+{ [Source] And then the game goes on from there. { [%ai Recapturing with the queen prepares to swing it to the kingside later.] }
+7... Nd4
+{ [Source] If the knight attacks you { [%ai A common thematic jump in the Sicilian, attacking c2 and the queen.] }
+8. Qd1
+{ [Source] a lot of times you can drop the queen back and defend this. { [%ai A humble but safe retreat to hold the position.] }
+) 5. Bb5
+{ [Source] Okay, so here's my recommendation. If they pin your knight in the Grand Prix attack very, very early like this, and you haven't moved your bishop yet, I recommend you counterpin their knight. { [%ai An excellent counter to the pin, neutralizing Black's pressure and preparing to double Black's pawns.] }
+5... a6
+{ [Source] Black challenges the bishop to trigger the trade mentioned by the presenter. { [%ai A common response to Bb5 to clarify the position of the bishop.] }
+6. Bxc6+
+{ [Source] The easiest thing to do is counterpin their knight and then at some point just trade it. And there's no longer a knight jumping into D4. { [%ai Simplifies the position and removes Black's potential central counterplay with Nd4.] }
+6... bxc6 { { [%ai Forced recapture.] } 7. O-O
+{ [Source] And then after you're castled, I do recommend you chase this bishop away. { [%ai Standard development before starting the kingside offensive.] }
+) ( 2... d6
+{ [Source] I played knight C3. They played D6. So, as soon as I see D6, I'm thinking like, okay, bishop can go to C4 and I should be happy. }
+3. f4 ) 3. f4
+{ [Source] We're going to play F4. This is what starts the Grand Prix attack. You get these two pawns up. We're going to be pushing this guy forward later and attacking the king after it castles. { [%ai Establishing the Grand Prix structure.] }
+3... d6
+{ [Source] Okay, so they play D6. { [%ai Developing slowly and controlling the center.] }
+( 3... e6 { [Source] if they don't play D6 and they play, let's just say E6 }
+4. Bc4 d5
+{ [Source] what's most likely going to happen is at some point in the future, they're going to play D5 in one move. They don't even have to waste time. They just immediately play it. And guess what? I have to move your bishop and you waste a little bit of time. { [%ai Black challenges the bishop early with d5, which is effective if White commits the bishop to c4 too soon before d6 is played, gaining a tempo.] }
+5. Bb5
+{ [Source] it's better if they don't play D6 that maybe you put your bishop on B5. ... if you want to keep it real simple, always just go to C4. There's nothing wrong with that. { [%ai A solid alternative to Bc4, avoiding the immediate d5 counter-strike and preparing to trade for the c6-knight to control d4.] }
+) ( 3... d6
+{ [Source] Back to our good example, they do play d6. We do get our bishop to c4, and we're happy with that. { [%ai Black chooses a solid Sicilian setup, controlling e5 and preparing for development.] }
+4. Nf3
+{ [Source] We bring out our knight. { [%ai Standard kingside development in the Grand Prix Attack.] }
+4... Bg4
+{ [Source] Some people will immediately go for a pin on your knight with Bishop G4. This can be annoying as they prepare to jump their knight into D4, potentially causing problems in the early game. }
+5. Bb5
+{ [Source] If the pin occurs early before you have developed your bishop, I recommend counterpinning their knight with Bishop to B5 to maintain the flow of your development. }
+5... a6 { { [%ai Standard move for Black to challenge the pinning bishop.] } 6.
+Bxc6+ bxc6
+{ [Source] Trading on C6 removes the threat of the knight jumping into D4, simplifying the position in your favor. }
+7. O-O Nf6
+{ [Source] Assuming black develops to prepare for castling. { [%ai A solid developing move.] }
+8. h3
+{ [Source] And then after you're castled, I do recommend you chase this bishop away. { [%ai Forces the bishop to decide whether to trade or retreat into a potential trap.] }
+8... Bxf3
+{ [Source] They're most likely going to take you. And then your queen gets to come out to a really nice square. { [%ai The most common and safest response for black.] }
+9. Qxf3
+{ [Source] White has a strong position with pressure on the kingside and the bishop pair. { [%ai White's development is flexible and aggressive.] }
+) 4. Nf3
+{ [Source] We bring out our knight. { [%ai Developing the knight to its natural square.] }
+4... g6
+{ [Source] They play G6. { [%ai Preparing the fianchetto, a standard response.] }
+5. Bc4
+{ [Source] Bishop C4, lining up on the weak spot. That's a cool spot for the bishop to be. { [%ai Aggressively placing the bishop to target f7.] }
+5... Bg7 { { [%ai Developing the bishop to the long diagonal.] } 6. O-O
+{ [Source] We castle. { [%ai Prioritizing king safety and rook activation.] }
+6... Nf6 { { [%ai Developing the last minor piece.] } 7. d3
+{ [Source] We play D3. { [%ai Solidifying the center and preparing development for the remaining pieces.] }
+7... O-O
+{ [Source] They castle. Okay, this is the critical main position of the Grand Prix attack. We've got both our knights out. We've got this F pawn pushed forward. We've got the bishop on C4 and then the pawn on D3 is defending. And we've castled. { [%ai The standard Grand Prix setup is achieved.] }
+8. Qe1
+{ [Source] In the Grand Prix attack, there are two key ways that we are going to attack our opponent's king. Queen to E1. Because our F pawn is pushed forward, we can very quickly slide the queen over and get to the king side to attack the king. That's very useful. { [%ai A key attacking maneuver in this opening.] }
+8... a6
+{ [Source] After, let's just say they play a move like A6. { [%ai A common flexible move for black.] }
+9. f5
+{ [Source] The move F5. We're going to push this pawn forward. Why are we doing this? It is not to recapture this pawn... We opened up our bishop. That's one thing. We open up the rook. That's another thing. And we've opened up black's king because when they take us, their king is more exposed. Also, it shuts down their bishop. { [%ai A thematic pawn sacrifice to break open black's king position.] }
+9... gxf5 { { [%ai Accepting the sacrifice, which opens the kingside.] } 10.
+Qh4
+{ [Source] The queen comes over. We wanted to bring the queen over. And look at this. We are lining up on H7. { [%ai Placing the queen on an aggressive square for the final attack.] }
+10... fxe4
+{ [Source] Black's like, 'Okay, thank you very much. I'll take another pawn.' Right? { [%ai Fatal greed; black focuses on material while ignore the mating threats.] }
+11. Ng5
+{ [Source] Knight to G5. We're already in a winning position. We are about to checkmate them on H7. It's defended by the knight. Not for long, right? { [%ai Preparing the final blow by attacking the defender of h7.] }
+11... h6 { { [%ai Trying to drive away the knight too late.] } 12. Rxf6
+{ [Source] If they do something like this, thank you very much. We take it and when they take back, the game is over. { [%ai The final tactical sequence removes the defender and clinches the win.] }
+12... exf6 { { [%ai Recapture is forced but unavailing.] } ) 2... Nc6
+{ [Source] We're going to play F4. This is what starts the Grand Prix attack. You get these two pawns up. We're going to be pushing this guy forward later and attacking the king after it castles. }
+3. f4 d6 4. Nf3 g6 5. Bc4
+{ [Source] Bishop C4, lining up on the weak spot. That's a cool spot for the bishop to be. }
+5... Bg7 6. O-O Nf6 7. d3
+{ [Source] This is the critical main position of the Grand Prix attack. We've got both our knights out. We've got this F pawn pushed forward. We've got the bishop on C4 and then the pawn on D3 is defending. And we've castled. }
+7... O-O 8. Qe1
+{ [Source] Because our F pawn is pushed forward, we can very quickly slide the queen over and get to the king side to attack the king. That's very useful. }
+8... a6 9. f5
+{ [Source] We're going to push this pawn forward. It is not to recapture this pawn. We don't care. We're losing a pawn. We don't even care. When you play the Grand Prix attack, you have to get this idea into your mind. We don't mind if we lose pieces. We might lose some pawns along the way. We might lose some pieces along the way. Believe it or not, we might lose this rook along the way. That's okay because when you play the Grand Prix attack, you are going for the king. You are going for checkmate and that is all you care about. }
+9... gxf5
+{ [Source] We opened up our bishop. That's one thing. We open up the rook. That's another thing. And we've opened up black's king because when they take us, their king is more exposed. Also, it shuts down their bishop. }
+10. Qh4
+{ [Source] The queen comes over. Remember that's why we went here in the first place. We wanted to bring the queen over. And look at this. We are lining up on H7. }
+10... fxe4
+{ [Source] Black's like, 'Okay, thank you very much. I'll take another pawn.' }
+11. Ng5
+{ [Source] We're already in a winning position. We are about to checkmate them on H7. }
+11... exd3 12. Rxf6
+{ [Source] And you say, Nelson, it's defended by the knight. Not for long. If they do something like this, thank you very much. We take it. }
+12... exf6 { [Source] And when they take back, the game is over. } 13. Qxh7#
+{ [Source] This is 13 moves and the game is over with the beautiful checkmate on H7. This is what the Grand Prix attack is supposed to look like in a perfect world. { [%ai This is a tactical set-piece illustrating the attacking motifs. Black's moves (taking on f5 and e4) are common errors at the club level that facilitate White's kingside assault.] }
+*
+

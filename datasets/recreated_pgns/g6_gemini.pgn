@@ -1,0 +1,101 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6
+{ [Source] And this is the most common position you'll see if you've recently started playing chess because it all makes sense. You're developing your pieces and now you're about to castle. }
+6. Bg5
+{ [Source] So, if white plays bishop to G5, under no circumstances should we support them with the move bishop to G4. }
+( 6. h3
+{ [Source] The second most popular move is H3, which is precisely to prevent the bishop from coming out to G4 and pinning the knight. { [%ai A common but slow prophylactic move in the Italian Game, often inviting an aggressive response if Black hasn't castled.] }
+6... h6
+{ [Source] In that case, we support white's idea and also play H6, not allowing the bishop to go to G5. { [%ai Mirroring White's prophylaxis. Black keeps options open for kingside expansion.] }
+7. O-O
+{ [Source] And after castling, we can once again find a strong unconventional move here to create problems for our opponent. { [%ai Committing the king early while Black's center is solid allows for a direct pawn storm.] }
+7... g5
+{ [Source] G5 is the fourth most popular move with a 62% win rate. It's incredible. Black just demolishes white here. Our idea is quite simple. Since we haven't castled yet, we want to push the pawn to G4. { [%ai A thematic and powerful attacking idea (the Shirov-style attack) against the Italian/Spanish structures when White has played h3.] }
+8. Be3
+{ [Source] But if for example, white plays bishop to E3, I'll show you how the game might develop. { [%ai White tries to challenge the center and trade off the dangerous light-squared bishop.] }
+8... g4
+{ [Source] We play pawn to G4, forcing white to exchange here. { [%ai Black relentlessly pursues the opening of the g-file.] }
+9. hxg4
+{ { [%ai White accepts the challenge, opening lines toward their own king.] }
+9... Bxg4 { { [%ai The pin on the knight at f3 becomes critical.] } 10. Bxc5
+{ { [%ai White eliminates the pressure on f2, but loses a key defender of the light squares.] }
+10... dxc5
+{ { [%ai Black accepts the trade, maintaining a solid center and opening the d-file.] }
+11. Nd5
+{ [Source] And for instance, if white plays knight to D5 here, the most popular continuation again, we simply play the knight to D4, pinning their knight. { [%ai White tries to centralize, but allows Black to pile up on the f3 pin.] }
+11... Nd4
+{ { [%ai The thematic follow-up, exploiting the pin on the f3 knight.] } 12. c3
+{ { [%ai White attempts to kick the knight, but it's too late for structural integrity.] }
+12... Nxf3+
+{ [Source] On the next move, white's pawns will already be ruined and their king exposed. { [%ai Forcing the capture and shattering White's kingside pawn cover.] }
+13. gxf3 { { [%ai Mandatory, leaving the king's protection in ruins.] } 13...
+Bh3
+{ { [%ai Taking advantage of the dark-square weaknesses around the white king.] }
+14. Re1
+{ [Source] If they play rook to E1, we can simply take the knight and then deliver mate on G2. { [%ai A defensive attempt to find space, but it fails to address the mating threats.] }
+14... Nxd5
+{ { [%ai Removing White's best-placed piece before the final assault.] } 15.
+exd5
+{ { [%ai The most likely recapture, but it doesn't slow down the attack.] }
+15... Qg5+
+{ [Source] Honestly, I really don't know what advice to give white here. Their position is just well, it's just lost. { [%ai The decisive check that forces the king to the corner.] }
+16. Kh1 { { [%ai The only legal response.] } 16... Qg2#
+{ [Source] They either lose a huge amount of material or they're about to get mated in just a few moves. { [%ai A classic example of the punishment for early h3/castling against a non-castled opponent.] }
+) ( 6. O-O
+{ [Source] If white castles, for example, we bring the bishop out to G4, they play H3 and we move the bishop to H5. { [%ai A solid alternative to h3, focusing on development, but it allows black to establish a strong pin.] }
+6... Bg4
+{ { [%ai Applies the pin on f3, which becomes problematic for white after they have castled.] }
+7. h3 Bh5
+{ [Source] Again, we don't rush to castle ourselves. And the best continuation for white here is the move, the plan E3. { [%ai Maintaining the pin and preparing an attack on the kingside.] }
+8. g4
+{ [Source] In this situation, your opponent might be tempted by the move G4. If white now plays G4, then in that case, we already have a very interesting sacrifice on the G4 square. { [%ai Aggressive but weakens the king's shelter significantly, often leading to a lost position against precise play.] }
+( 8. Bg5
+{ [Source] If White tries to counter-pin the knight after we have retreated our bishop, we simply kick it back with the pawns. }
+8... h6 9. Bh4 g5 10. Bg3 Nd4
+{ [Source] This knight move puts immediate pressure on the f3 knight and highlights the awkward placement of White's bishop on g3. }
+11. Nd5
+{ { [%ai A thematic mistake at this level, trying to counter-attack but falling into a lost position due to the pressure on f3.] }
+11... Nxd5 12. Bxd5 c6
+{ [Source] Driving the bishop away ensures it no longer attacks the b7 pawn, preparing for the queen to join the attack. }
+13. Bb3 Qf6
+{ [Source] Black's queen adds terminal pressure to the pinned knight on f3. }
+14. c3 Nxf3+ 15. gxf3 Bxf3
+{ [Source] White's kingside is shattered. Black will follow up with h5-h4 and bringing the rook to the g-file to deliver mate. }
+) 8... Nxg4 9. hxg4 Bxg4
+{ [Source] And now we need to address the issue of this pin. Our queen is ready to join in on F6 to apply pressure. The knight is ready to go to D4. { [%ai A thematic sacrifice in the Italian/Spanish to expose the castled king.] }
+10. Be3
+{ [Source] essentially the only correct move is bishop to E3 { [%ai Trying to neutralize the attack by challenging the bishop on c5 and preparing to cover f3.] }
+10... Qf6 11. Nd5 Qg6 { [Source] bringing the queen into the attack. } 12.
+Nxc7+
+{ [Source] But if they get tempted by the fork here, that's admitting defeat { [%ai A typical amateur mistake: grabbing material while being checkmated.] }
+12... Kd7 13. Nxa8
+{ [Source] you can't take the rook, otherwise checkmate will follow against the white king. { [%ai White is completely lost despite the extra material.] }
+) 6... h6
+{ [Source] But here we need to play pawn to H6, asking white what they plan to do next. }
+7. Bxf6
+{ [Source] But in that case, there's nothing to worry about. We simply develop our queen. }
+( 7. Bh4
+{ [Source] But usually, if white has already brought their bishop out to G5, they retreated to H4. }
+7... g5
+{ [Source] And here, it's important not to be afraid to play pawn to G5. We haven't castled yet, so we're not afraid to push the pawns in front of our king. }
+8. Bg3 Bg4 9. h3 Bh5
+{ [Source] Their G pawn is blocked by their own bishop on G3. The problem is that this bishop has no prospects at all. }
+10. Qd2 { [Source] The most popular move here is queen to d2. } 10... Bxf3
+{ { [%ai Ruinous for white's structure and defense of the kingside.] } 11. gxf3
+Nd4
+{ [Source] This is a position with a very comfortable advantage for black. Then we bring out the queen, castle long, and the position is simply excellent. }
+12. Qe2
+{ [Source] This logical continuation protects the knight on f3 and the pawn on d3 from the pressure applied by black's knight on d4. { [%ai A solid defensive choice for white in this difficult position.] }
+12... Qd7
+{ [Source] Then we bring out the queen, castle long, and the position is simply excellent. { [%ai Black prepares to connect the rooks and complete development, maintaining a strong initiative.] }
+13. O-O-O ) 7... Qxf6 8. Nd5
+{ [Source] And for example, if the knight moves forward, we can return to D8 to protect the pawn on C7 and continue developing as if nothing happened. }
+8... Qd8 *
+

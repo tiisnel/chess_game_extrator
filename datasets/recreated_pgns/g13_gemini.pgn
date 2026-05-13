@@ -1,0 +1,45 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 { [Source] so let's go D4 } 1... b6 { [Source] B 6 } 2. e4
+{ [Source] E4 } 2... Bb7 { [Source] Bishop B7 } 3. Bd3
+{ [Source] now we go Bishop D3 } 3... Nf6 { [Source] Knight F6 } 4. Nc3
+{ [Source] Knight C3 } 4... e6 { [Source] E6 } 5. Nge2
+{ [Source] and now we simply go Knight G to E2 } ( 5. d5
+{ [Source] so the final move in this line is D5 and I love this line and I get it a lot over the board { [%ai Mainline response to the Owen's Defense structure.] }
+5... e5
+{ [Source] and now we go on the attack with the pawn to E5 { [%ai Gaining space and forcing the knight to move.] }
+) ( 5. Nge2 { [Source] Knight G to E2 - these are the most common lines. } 5...
+d5
+{ [Source] The final move in this line is D5, a common response over the board. }
+6. e5 { [Source] Now we go on the attack with the pawn to E5. } 6... Ne4
+{ [Source] First, we'll look at the response with the knight jumping into E4. }
+( 6... Ke7 7. Bg5 ) 7. Nxe4
+{ [Source] Taking the knight and preparing to retreat the bishop. } ( 7. Nb1
+{ [Source] I saw this move which surprised me from the butcher moo and he played this move which is Knight B1, I studied this and found it a very innovative move. }
+7... c5 8. c3 { [Source] Guarding this pawn. } 8... cxd4 9. cxd4
+{ [Source] We have this nice center. } 9... Bb4+ 10. Nbc3
+{ [Source] We simply cover with the Knight. } 10... Bxc3+ 11. Nxc3
+{ [Source] We take back with our Knight. } 11... Nc6 12. O-O O-O 13. Qh5
+{ [Source] Now we're looking at Checkmate in one. } 13... g6 14. Qg4 h5 15. Qf4
+) 7... dxe4 { { [%ai Standard response.] } 8. Bb5+
+{ { [%ai Checking the king to disrupt development.] } 8... c6
+{ { [%ai Blocking the check.] } 9. Ba4
+{ { [%ai Maintaining the pin/pressure.] } 9... b5
+{ { [%ai Challenging the bishop.] } 10. Bb3
+{ [Source] Retreating the bishop and preparing to build a pawn chain. } ) 5...
+c5 { [Source] now if they go C5 } ( 5... Bb4
+{ [Source] if they go Bishop B4 I have this a lot online } 6. a3 Bxc3+ 7. Nxc3
+d5 8. e5 Ne4 9. Qg4 g6 10. Bxe4 dxe4 11. Bg5 Qxd4 12. Rd1 Qc4 13. Rd8#
+{ [Source] boom checkmate with the rook { [%ai White utilizes a classic sea-cadet style mate or back-rank theme after pinning the King with Bg5.] }
+) 6. d5 { [Source] push the pawn to D5 } 6... exd5
+{ [Source] if they take we simply take back } 7. Nxd5
+{ [Source] when they take with the Knight we simply take with our Knight } 7...
+Nxd5 { [Source] when they take with the Knight we simply take with our Knight }
+*
+

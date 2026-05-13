@@ -1,0 +1,144 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ [Source] In that game Fisher started with E4 E6 and played the move D3. } (
+1. Nf3
+{ [Source] Bassem Amin often uses the King's Indian attack with the white pieces, starting directly with the knight move to f3. }
+1... d5
+{ [Source] This setup is particularly applicable when black plays the Queen's Gambit Declined setup. }
+2. g3 Nf6 3. Bg2 e6 4. O-O b6 ( 4... Be7
+{ [Source] Based on the development ideas described for the King's Indian attack setup against the Queen's Gambit Declined. { [%ai Standard development in the French/QGD structures, preparing for short castling.] }
+5. d3
+{ { [%ai The thematic move of the King's Indian Attack, maintaining flexibility and supporting the e4 push.] }
+5... O-O
+{ { [%ai Completes basic safety for the king before initiating central operations.] }
+6. a3
+{ [Source] A useful addition to White's position, stopping Black's queenside expansion ideas seen in historical games like Fischer's. { [%ai A prophylactic move that also prepares queenside play with b4 in some variations.] }
+6... b6
+{ [Source] A flexible way for Black to develop, though it somewhat weakens the long dark-squared diagonal. { [%ai A solid setup, though it invites immediate aggression from white due to the diagonal weakening.] }
+7. e4
+{ [Source] I think it's more aggressive to go E4 immediately, executing the push immediately to use the weakened long diagonal. { [%ai A strong central thrust that forces black to decide how to handle the central tension.] }
+7... dxe4
+{ { [%ai Accepting the central challenge; otherwise, white would play e5 with a strong space advantage.] }
+8. dxe4
+{ [Source] Now black can choose to accept the pawn sacrifice or not. { [%ai Recapturing towards the center. White offers a pawn for active piece play and long-range bishop pressure.] }
+8... Nxe4
+{ [Source] Black decides to accept the sacrifice, entering a forcing line. { [%ai Greedy but testing. It leads to significant complications and an early queen exchange.] }
+( 8... Qxd1 9. Rxd1 Bb7 10. e5 Nfd7 11. Bf4 h6 12. h4 Rd8 13. Nc3
+{ [Source] so we have a complex end game but white is again quite comfortable espe is black is a bit cramped and still not easy to finish development whereas white has The Simple Plan of just doubling on the on the d-file and increasing the pressure on the Knight and then and the d-file in general { [%ai White maintains a space advantage and typical KIA pressure despite the queens being traded, as Black's pieces remain somewhat uncoordinated.] }
+) 9. Qxd8
+{ { [%ai Removing the defender of the d-file and preparing for tactics on the long diagonal.] }
+9... Bxd8
+{ [Source] Recapturing with the bishop is better; if Rook takes d8, Knight G5 is very strong winning material. { [%ai The most resilient recapture, keeping the king's side relatively intact.] }
+10. Nfd2
+{ [Source] Attacking the knight on e4 and preparing to exploit the long diagonal. { [%ai A precise move, forcing black to trade and allowing white to activate the minor pieces.] }
+10... Nxd2
+{ { [%ai Practically forced as the knight was hanging and pinned against the bishop on g2.] }
+11. Bxd2
+{ [Source] With the bishop on d2, the long diagonal is now clear and the Rook on a8 is under attack. { [%ai Activating the bishop with a gain of tempo.] }
+11... c6
+{ [Source] The only move to block the attack on the a8 rook. { [%ai Forced, but it further cramps Black's development.] }
+12. Bb4
+{ [Source] Using the light squares to target the rook and prevent normal development. { [%ai Exerting dominance over the d6 and e7 squares.] }
+12... Re8 { { [%ai Moving the rook out of the line of fire.] } 13. Nc3
+{ [Source] And now white has a very unpleasant position for black with great compensation for the pawn. { [%ai Completes development with a significant positional advantage despite being down a pawn.] }
+13... Bb7 14. Rfd1 a5 15. Bd6
+{ [Source] the bishop can slot in on D6 and white has a very pleasant and U comfortable compensation thanks to the weakening of that D6 Square where the Knight can land }
+) 5. d3
+{ [Source] D3 is played as part of the setup, following the King's Indian attack structure against the Queen's Gambit Declined setup. }
+5... Bb7
+{ [Source] Black develops the light-squared bishop as part of their standard setup. }
+6. Nbd2
+{ [Source] White continues development with the automatic knight move. } ( 6.
+a3
+{ [Source] The move in this position that I witnessed is the move A3. It's a useful move in the king's Indian attack, stopping Black's A3 as we saw in the Fisher game. { [%ai A prophylactic move common in King's Indian Attack structures to prevent queenside counterplay and prepare expansion with b4.] }
+6... Nc6
+{ [Source] The idea of the move is to control D5 square and go for the move E5. { [%ai A common response to KIA setups, aiming to strike in the center with e5.] }
+( 6... c5 7. Nbd2 Nc6 8. c4
+{ [Source] now of course the idea is that if black continues with C5 then after Knight bd2 Knight C6 C4 we have the king's Indian attack with this useful move A3 as we saw from the Fisher game { [%ai A move to secure the center and enter a standard King's Indian Attack setup where A3 is a useful prophylaxis.] }
+) ( 6... a5
+{ [Source] This move stops B4 and prepares Knight C6 and E5. { [%ai Accurate positional prophylactic move.] }
+7. Nc3 { { [%ai Developing move in the spirit of flexibility.] } 7... d4
+{ { [%ai Challenging the knight immediately.] } 8. Nb5
+{ [Source] The Knight nicely slots on B5 attacking the pawn on D4. { [%ai Standard maneuver to utilize the weakened light square.] }
+8... e5 { { [%ai Black establishes a central presence.] } 9. a4
+{ [Source] Locking in these light squares on the queen side. { [%ai Positional bind on the queenside.] }
+9... c6 { { [%ai Attempting to push the knight back.] } 10. Na3
+{ [Source] The Knight will drop back to A3 and then join the game via C4 targeting the pawn on E5. { [%ai Redeployment to a better outpost.] }
+) 7. b4
+{ [Source] White has the move B4 that's why A3 was necessary B4 intending B5 so there is no E5 as then B5 and Knight D5 would win a pawn. { [%ai Takes immediate advantage of the a3-pawn to harass the knight and prevent e5.] }
+7... a6
+{ [Source] After A6... { [%ai Standard defense against the threat of b5.] } 8.
+Bb2
+{ [Source] Bishop B2 controlling D5 Square so now there is not really a king's Indian attack on the board but on the other hand White has a quite comfortable ready position. { [%ai Completes development with a solid position.] }
+) 6... Be7 { [Source] Black prepares for short castling. } ) 1... e6 2. d3 d5
+3. Nd2 Nf6 4. g3 c5 5. Bg2 Nc6 6. Ngf3 Be7 7. O-O O-O
+{ { [%ai Standard setup for the King's Indian Attack against the French/Queen's Gambit Declined setup.] }
+8. e5
+{ [Source] the nice aspect of the king's Indian attack when it comes to playing with the white pieces is that it is pretty automatic so the rook and the Knight are defending the pawn on E5 { [%ai A thematic expansion in the King's Indian Attack (KIA), gaining space and preparing a kingside offensive.] }
+8... Nd7
+{ [Source] the Knight comes to F1 to free the path for the bishop oops to go to F4 from where it also defends the pawn on E5 { [%ai The standard response to e5 in these structures, relocating the knight before it gets kicked or to support queen side expansion.] }
+9. Re1 { { [%ai Overprotecting the e5 pawn, a staple of the KIA setup.] } 9...
+b5
+{ [Source] B5 it's normal play for black will seek counterplay on the queen side { [%ai Black starts their typical counter-operation on the queenside.] }
+10. Nf1
+{ { [%ai The knight begins its typical maneuver towards the kingside (F1-H2-G4 or E3).] }
+10... b4
+{ { [%ai Pushing forward on the queenside to challenge white's structure.] }
+11. h4
+{ [Source] H4 all standard moves they can be played in different move orders but it doesn't really affect much as each side is playing on their own wing { [%ai Beginning the h-pawn storm, a signature Fischer idea in the KIA.] }
+11... a5 { { [%ai Further queenside advancement by Black.] } 12. Bf4
+{ { [%ai Developing the bishop and reinforcing e5.] } 12... a4
+{ [Source] now we come to the critical moment when we need to understand and we will see the the basis of White's idea later in this video { [%ai Black reaches the standard attacking formation, threatening A3.] }
+13. a3
+{ [Source] you shouldn't really be surprised by Fisher's next move as he played the move A3 himself so he prefers to open the B file but not weaken the dark squares { [%ai A prophylactic move preventing Black from playing a3 and creating severe queenside weaknesses.] }
+13... bxa3 { { [%ai Black accepts the trade to open lines.] } 14. bxa3
+{ { [%ai Maintaining the pawn structure.] } 14... Na5
+{ { [%ai The knight heads for the c4 or b3 squares.] } 15. Ne3
+{ [Source] now again both sides are just playing on their wings { [%ai White centralizes the knight to either defend the queenside or prepare the kingside break.] }
+15... Ba6 { { [%ai Developing the bishop on the long diagonal.] } 16. Bh3
+{ [Source] Bishop H3 white is targeting the these pawns maybe at some point there may be a sacrifice { [%ai A clever move, placing the bishop on a diagonal where it might support a future sacrifice on e6 or g6.] }
+16... d4
+{ [Source] D4 attacking the Knight on E3 { [%ai Black strikes in the center to disturb White's coordination.] }
+17. Nf1
+{ [Source] Fisher wants to keep the D1 H5 diagonal open for the king sorry for the queen so he wants to go Knight G5 and then the queen can come to H5 { [%ai Rerouting the knight while clearing the path for the Queen.] }
+17... Nb6 { { [%ai Black brings more pieces toward the center/queenside.] } 18.
+Ng5
+{ [Source] following the idea of an attack the idea is to go Queen H5 and now you see that the Knight on G5 and the bishop on E and H3 are targeting this Pawn on A6 { [%ai Threatening e6 and preparing Qh5.] }
+18... Nd5
+{ [Source] centralizing the Knight { [%ai Black occupies a strong central outpost.] }
+19. Bd2
+{ [Source] targeting the bishop drops back to D2 covering C3 and keeping an eye on the Knight on A5 { [%ai Prophylaxis against queenside penetration.] }
+19... Bxg5
+{ [Source] black decides to eliminate the Knight because after Queen H5 he would have been forced to do so in view of this threat on against the pawn on H7 with the mate { [%ai Removing the dangerous attacker, though it gives White the bishop pair or opens the h-file.] }
+20. Bxg5 { { [%ai White recaptures, maintaining pressure.] } 20... Qd7
+{ { [%ai Developing the queen and connecting rooks.] } 21. Qh5
+{ [Source] getting the queen closer to the king side { [%ai The queen enters the attack, creating immediate mating threats on h7.] }
+21... Rfc8
+{ { [%ai Black moves a rook to the queen side, perhaps overestimating his own counterplay.] }
+22. Nd2
+{ [Source] at a certain point will get activated via either D2... because from E4 targets F6 like from G4 but also targets the D6 Pawn so this is a bit more flexible { [%ai Improving the knight's position.] }
+22... Nc3
+{ [Source] stopping Knight E4 but now the Knight is no longer controlling the F6 Square it allows Fischer to start a very beautiful attack { [%ai Counter-attacking but allowing the thematic sacrifice.] }
+23. Bf6
+{ [Source] very often in the king's Indian attack white is aiming for the weakening of the dark squares around the black king { [%ai A stunning and thematic move that shreds Black's kingside defense.] }
+23... Qe8
+{ [Source] so that the queen can join the defense from f8 { [%ai Desperate defense to cover the kingside.] }
+24. Ne4
+{ [Source] Fisher invites the exchange of the knights because then The Rook can join the attack via E4 and G4 { [%ai Centralizing the knight with devastating threats.] }
+24... g6
+{ { [%ai Weakening the dark squares further, but Black is out of options.] }
+25. Qg5
+{ [Source] the queen removes not to H6 because there is Queen f8 but to G5 is now H5 becomes an idea { [%ai Maintaining pressure and preparing h5.] }
+25... Nxe4
+{ { [%ai Eliminating the knight, but opening the e-file for the rook's entry.] }
+26. Rxe4 { { [%ai Recapturing with the rook to swing it over.] } 26... h5
+{ [Source] and now the attack is is Unstoppable because look at how many pieces are attacking { [%ai The final assault begins.] }
+*
+

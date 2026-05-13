@@ -1,0 +1,110 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ [Source] Even with white opens with pawn to E4, we have pawn to E5 by Gesh, }
+1... e5
+{ [Source] We have pawn to E5 by Gesh { [%ai A standard and principled response to E4, maintaining central symmetry.] }
+2. Nf3
+{ [Source] knight to F3 { [%ai The most flexible and active development for white.] }
+2... Nc6
+{ [Source] knight to C6 { [%ai Developing and defending E5, leading toward the main lines of the Ruy Lopez.] }
+3. Bb5
+{ [Source] and bishop to B5. So okay, we know we're going for the Marshall. The Ruy Lopez is on the board. { [%ai The Spanish Game, which can lead to various complex openings.] }
+3... a6
+{ [Source] A6 Morphy's defense { [%ai The most popular variation of the Ruy Lopez, asking the bishop's intentions.] }
+4. Ba4
+{ [Source] and bishop to A4. { [%ai Retaining the pin and the bishop's activity on the diagonal.] }
+4... Nf6
+{ [Source] knight to F6 { [%ai Developing toward the center and preparing for castling.] }
+5. O-O
+{ [Source] we have castles kingside { [%ai Prioritizing king safety before central conflict.] }
+5... Be7
+{ [Source] bishop to E7 { [%ai The Closed Ruy Lopez, a very solid and flexible setup for black.] }
+6. Re1
+{ [Source] and rook to E1. { [%ai Defending the E4 pawn and clearing the F1 square for the bishop if needed.] }
+6... b5
+{ [Source] We have pawn to B5, challenging the bishop { [%ai Expanding on the queenside and breaking the pin on the knight.] }
+7. Bb3
+{ [Source] bishop to B3 { [%ai The bishop occupies its ideal diagonal, eyeing the F7 square.] }
+7... O-O
+{ [Source] and castles kingside. { [%ai Both sides have completed their basic development and king safety.] }
+8. c3
+{ [Source] pawn to C3 by Ian inviting the Marshall attack. { [%ai Preparing D4 while allowing the Marshall Attack (D5).] }
+8... d5
+{ [Source] pawn to D5 is what everyone wants to play. So D5 is on the board. This is the Marshall attack. { [%ai A profound gambit that shifts the initiative to Black in exchange for a pawn.] }
+9. exd5
+{ [Source] They blitzed it out. E captures, knight captures, and now knight captures on E5. Knight captures and rook captures. So if you count the pawns, white is up a pawn. And that this is essentially the standard Marshall attack. }
+9... Nxd5 10. Nxe5 Nxe5 ( 10... Qd7
+{ [Source] Gukesh tries queen D7. The idea of course bishop C8, queen to H3, bishop G4, and you somehow checkmate the white king. { [%ai A thematic move in the Marshall, aiming for kingside pressure.] }
+11. h4 { [Source] Ian goes for H4. } ) ( 10... Nxe5
+{ { [%ai Main line Marshall Attack.] } 11. Rxe5 Bb7 12. Qf3 Bd6 13. Bxd5 c6 14.
+Re1 cxd5 15. d4 Qc7 16. g3 Rfe8 17. Rxe8+ Rxe8 18. Be3 b4 19. a3 bxc3 20. Nxc3
+( 20. Qe2
+{ [Source] immediately goes back queen to E2 and Gesh strikes with G5 } 20...
+g5 ( 20... f6
+{ [Source] This is a hypothetical defensive line where Gukesh tries f6 to block the attack. { [%ai This is a strong defensive try according to the engine, though it leads to very complex complications.] }
+) ) ( 20. Nxc3
+{ [Source] B captures, knight captures { [%ai Correct move to eliminate the advanced pawn and develop the knight.] }
+20... Qb6
+{ [Source] and now queen to B6 putting pressure on that B2 pawn { [%ai Black immediately creates counterplay against the queenside pawns.] }
+21. b4
+{ [Source] and Ian plays pawn to B4. Yes, B4 is the top move recommended by the engine here. { [%ai White stabilizes the b-pawn, prioritizing king safety and structural integrity.] }
+21... Qc6
+{ [Source] So queen to C6 { [%ai The queen centralizes, maintaining pressure on the knight on c3.] }
+22. Bd2
+{ [Source] and bishop back to D2 just defending the C3 pawn { [%ai A solid defensive maneuver, reinforcing the knight and preparing further development.] }
+22... a5
+{ [Source] and pawn to A5. Gesh wants to trade on B4 { [%ai Challenging the structure to create a weakness or passed pawn.] }
+23. Ne2
+{ [Source] So Ian plays knight to C2. He doesn't touch the pawn and now Gesh plays pawn to A4. { [%ai The presenter mentions 'knight to C2' but in this typical Marshall structure the move is actually Ne2. Nc2 would be an unusual and likely inaccurate choice here.] }
+23... a4
+{ [Source] Gesh creates a pass pawn and Ian plays knight A3. Okay, the pawn is blocked. { [%ai Gukesh creates a passed pawn, while the move Nc1 (referred to as Na3) aims to control the expansion.] }
+( 23... a4
+{ { [%ai Black creates a dangerous passed pawn on the a-file, a typical resource in these structures.] }
+24. Rc1
+{ [Source] Ian decides to keep the pressure on the file. { [%ai A solid, standard move in this line of the Marshall, challenging the queen's position on the c-file.] }
+24... Qd7
+{ [Source] So he tries queen D7. The idea of course bishop C8, queen to H3, bishop G4, and you somehow checkmate the white king. { [%ai A multi-purpose move, connecting the rooks and preparing the typical Marshall kingside battery.] }
+25. Bf4
+{ [Source] Ian develops the bishop, maintaining control of the center. { [%ai Developing and challenging the light-squared bishop's influence.] }
+25... Bf8
+{ [Source] Gukesh retreats the bishop to safety, preparing to reorganize. { [%ai A standard defensive maneuver in these structures.] }
+( 25... g6
+{ [Source] Ian played g6, which prevents the bishop from capturing because of the checkmate threat on h8. { [%ai A tactically complex move that takes advantage of Black's coordination issues, forcing a concession.] }
+26. Re1
+{ [Source] Ian says, "All right, let's get the pieces of the board as I'm up material." }
+) 26. Re1
+{ [Source] rook to E1. E1 says, 'All right, let's get the pieces of the board as I'm up material.' { [%ai White seeks simplifications to exploit the extra pawn in the endgame.] }
+( 26. Re1 { [Source] Rook captures on E1. Bishop captures and pawn to H6. } ) (
+26. Re1
+{ [Source] Ian says, "All right, let's get the pieces off the board as I'm up material." { [%ai Standard simplification for White who is a pawn up.] }
+) ( 26. Re1 ) ( 26. Re1
+{ [Source] Rook captures on E1. Bishop captures and pawn to H6. You could play bishop to C8 right away, but it feels like especially with lower time control like a good idea to create some breathing room for your king. { [%ai Consolidates the rook file after the major exchange, preparing for the late middlegame.] }
+) ) 24. Nc1
+{ [Source] Okay, the pawn is blocked. You have nice control over B5 and C4. }
+24... Qd7 { [Source] So he tries queen D7. } ) 20... Qb6 21. b4 Qc6 ( 21... Qc6
+{ [Source] So queen to C6 and bishop back to D2 just defending the C3 pawn and pawn to A5. { [%ai Solid defense by Gukesh, applying pressure on the c3 pawn and preparing activity on the a-file.] }
+22. Bd2 a5 ) 22. Bd2 a5 ( 22... Bf4
+{ [Source] Ian plays bishop to F4, which is not the best move. It's a straight out losing move, but it's very difficult to see why. Gesh is completely winning here, but it's incredibly difficult to find. { [%ai A decisive error that grants Black a winning advantage if played correctly.] }
+) ) 11. Rxe5 Bb7
+{ [Source] And you also have to know what gesh played and that is bishop to b7. This is the third most popular reply. { [%ai A rare but theoretically interesting alternative in the Marshall Attack, leading to sharp and unbalanced positions.] }
+12. Qf3
+{ [Source] Ian goes queen to F3. Looks odd because you're putting the queen in front of the bishop, but this is considered the best. }
+12... Bd6 { [Source] Gesh goes bishop to D6. Again just blitzes out. } 13. Bxd5
+{ [Source] Ian goes bishop captures on D5. { [%ai Ian Saric chooses the most direct continuation, challenging Gukesh's compensation for the sacrificed pawn.] }
+( 13. Bxd5
+{ [Source] Ian goes bishop captures on D5. And I know what you're wondering. You're wondering can we just not to give up the rook for two pieces. You can if black is cooperating here and captures the rook but black will not Duda. Black will play queen to E7. And now you have problems. { [%ai A precise theoretical continuation. Black gets significant compensation for the sacrificed pawn, which is the soul of the Marshall Attack.] }
+13... Qe7
+{ [Source] Black will play queen to E7. And now you have problems. Queen to D1 is the threat of checkmate. { [%ai An aggressive and standard idea in the Marshall, targeting the f2/e1 points.] }
+14. Qe3
+{ [Source] We're offering to trade queens. If black captures, we just give up a rook for two pieces. { [%ai White tries to neutralize the attack by offering a trade, but the resulting dynamics remain dangerous.] }
+14... Rae8
+{ [Source] the only move that wins is rook a to e8. You still can't move the queen because you're still getting checkmated. { [%ai The strongest continuation, centralizing the last piece and maintaining the lethal pin on the e-file.] }
+) *
+

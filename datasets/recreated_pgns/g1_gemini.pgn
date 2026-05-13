@@ -1,0 +1,211 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 { [Source] French defense from the black side. } 1... e6 2. d4 d5 3. Nc3
+Nf6
+{ [Source] Lately This is the more popular way to play the French even though the Winawer hasn't gone anywhere }
+4. e5
+{ [Source] One is the standard Steinitz Variation e5 which is currently much more popular. }
+( 4. Bg5
+{ [Source] Throughout history, Bishop G5 was also quite popular. For example, it was Fischer's favorite move; he always played it. Bishop G5 pins the knight on F6. }
+4... h6
+{ [Source] The engine came out with a fourth option, an amazing move because it immediately attacks the bishop on G5, challenging it and forcing White to decide what to do. }
+5. Bh4
+{ [Source] White has very little choice but to take the knight, because escaping and keeping the pin doesn't work. }
+( 5. Bxf6
+{ [Source] White has very little choice but to take the knight because escaping and keeping the pin doesn't work after G5. So let's check bishop takes F6. }
+5... Qxf6
+{ [Source] Queen takes F6. Another critical move is taking the pawn. But here comes the another great bonus for black. }
+6. e5
+{ [Source] this is bad because we get the position from the classical French but without white's dark squared bishop and this simply means that white doesn't have enough control over the dark squares to keep the domination { [%ai Strategic mistake by White; the Steinitz structure relies on the dark-squared bishop to support the center (e.g., via Be3).] }
+( 6. Nf3
+{ [Source] So it's worth checking what happens if white goes knight F3 and allows bishop B4. { [%ai A flexible developing move that avoids closing the center immediately with e5.] }
+6... Bb4
+{ [Source] the engine went H6... challenging the bishop on G5... white has very little choice but to take... engine steps in and says, don't worry, you lose a pawn, but you'll fine. { [%ai Developing and pinning the knight, keeping pressure on the center.] }
+7. Bd3
+{ [Source] white allows bishop B4... bishop d3. { [%ai A solid developing move, preparing castling.] }
+7... c5
+{ [Source] the immediate C5 is possible again in sacrificing a pawn. { [%ai Typical French break, here used as a gambit for activity.] }
+8. O-O
+{ [Source] the threat is to go C4. So let's say castle C4. { [%ai White secures the king before things get messy in the center.] }
+8... c4 { { [%ai Gaining space and attacking the bishop.] } 9. exd5
+{ [Source] so E takes D5 { [%ai White accepts the tension, opening files.] }
+9... O-O
+{ [Source] and now castles. { [%ai Black finishes development before reclaiming material.] }
+10. dxe6
+{ [Source] D takes E6. { [%ai Liquidating central pawns to exploit the lead in development.] }
+) ( 6. exd5
+{ [Source] But now let's see what happens if he takes the pawn. { [%ai A common exchange in the French, but here leading to specific tactical lines due to Black's queen placement.] }
+6... Bb4
+{ [Source] Again, the same idea. That's why A3 is the most critical move. { [%ai Maintaining the pin and pressure on c3, forcing White to find precise defensive measures.] }
+7. Bc4
+{ [Source] So bishop C4... { [%ai One of the three main tries for White, focusing on defending the d5 pawn.] }
+( 7. dxe6
+{ [Source] Taking on E6 is pretty critical obviously taking the pawn bishop takes E6 and the compensation here for black is the advantage in development. { [%ai Accepting the pawn on e6 is critical; Black gains development and a strong blockade potential on light squares.] }
+7... Bxe6
+{ [Source] The compensation is there and it consists of the quick development but also in active piece play and possibly establishing blockade on the light squares d5 and c4. }
+8. a3
+{ [Source] Now there are let's say two options. One is to challenge the bishop on B4 immediately with A3 or to go knight F3. }
+8... Bxc3+
+{ [Source] It is better to take immediately especially as this shows the main idea how black obtains compensation. }
+9. bxc3
+{ [Source] It appears that white is a clear pawn up pretty safely defended, but black has active piece play. }
+9... O-O
+{ [Source] Castles. Now bishop d3 should be played. Knight f3 is dubious because after rook e8 already white is in some trouble. }
+10. Bd3 { [Source] Bishop d3 should be played. } 10... Bd5
+{ [Source] Bishop d5 targeting g2. } 11. f3 { [Source] F3 should be played. }
+11... Nd7
+{ [Source] Introducing the ideas that I mentioned knight b6 knight c4. , but also checking on a E8, queen H4 are also possible ideas. }
+) ( 7. Bb5+ { [Source] And the third move is bishop B5. } 7... Bd7 8. Bxd7+
+Nxd7 9. dxe6 { [Source] take on E6, queen E6 } 9... Qxe6+ 10. Qe2
+{ [Source] and now queen E2 } 10... Bxc3+ 11. bxc3 Qxe2+ 12. Nxe2 O-O-O 13.
+O-O-O Nb6 { [Source] the blockade is giving black an equal game. } ) 7... exd5
+{ [Source] So bishop C4 take on D5, bishop D5, short castle. the threat is already to start giving checks or to go rook D8. { [%ai A solid response to Bc4, entering an open position where development is key.] }
+8. Bxd5
+{ [Source] White captures back, keeping pressure on the center. { [%ai Standard, maintaining the extra pawn for now.] }
+8... O-O
+{ [Source] Black prioritizes safety before challenging the center. { [%ai Essential move for Black in these lines.] }
+9. Ne2
+{ [Source] Knight E2 covering the E file. { [%ai Developing and preparing to castle, while blocking the potential check on the E-file.] }
+9... Rd8
+{ [Source] Rook D8 attacking the bishop because the knight on C3 is pinned. { [%ai Active play, putting direct pressure on the d5-bishop.] }
+10. O-O
+{ [Source] White safely castles, preparing to resolve the tension on d5. { [%ai Sound development.] }
+10... Bxc3
+{ [Source] Take on C3, forcing white to take with the knight to keep defending the bishop on D5. { [%ai Black exchanges to undermine White's pawn structure and create tactical opportunities.] }
+11. Nxc3
+{ [Source] The capture back is necessary to maintain the bishop on d5. { [%ai Forced.] }
+11... Nc6
+{ [Source] Turns out that this pawn is under attack and cannot really easily be defended. { [%ai Excellent coordination, putting double pressure on the d4 pawn.] }
+12. Bxc6
+{ [Source] White decides to simplify by exchanging the knight. { [%ai A defensive decision to remove the attacker.] }
+12... Qxc6
+{ [Source] Black takes on C6 and now the piece keeps the attack on the pawn on D4. { [%ai The resulting position gives Black full compensation for the pawn.] }
+13. Ne2
+{ [Source] So what happens is that if knight E2 C5 . black regains the pawn and the ensuing endgame is equal. }
+) ( 6. a3
+{ [Source] This is a critical prophylactic move to stop the bishop B4 ideas and potential pawn sacrifices early on. { [%ai A solid prophylactic move that forces Black to find another setup, often leading to a Semi-Slav type structure.] }
+6... c6
+{ [Source] Black defends the center, creating a triangle structure reminiscent of the Semi-Slav Moscow variation. { [%ai Solidifies the center and prepares for slow development.] }
+7. Nf3
+{ [Source] Developing the knight normally, maintaining flexibility in the center. { [%ai Standard development in this structure.] }
+7... Qd8
+{ [Source] Strong players like Kramnik and Carlsen have preferred to drop the queen back to allow development of the queenside and the light-squared bishop. { [%ai A strategic retreat to prepare for kingside castling and bishop development to E7.] }
+8. Qe2
+{ [Source] White develops the queen and prepares to decide between short or long castling. { [%ai A flexible developing move, though queenside castling in this line can be double-edged.] }
+( 8. Bd3
+{ [Source] Therefore, white should go short. Bishop D3. { [%ai A solid classical approach, keeping the king safety and central control as priorities.] }
+8... Nd7 9. O-O Be7
+{ [Source] Bish knight D7 castles bishop E7. Black is extremely solid in the center and pushing E5 almost never is never good for white because c5 comes quickly and black having the dark square bishop alive means that he doesn't have the weaknesses of the dark squares and the counter in the center is coming quickly. { [%ai By keeping the dark-squared bishop, Black maintains excellent control over central squares, mitigating White's space advantage.] }
+10. exd5
+{ [Source] the immediate ED5 is premature because after E5 the structure hasn't been weakened and black has no problems }
+( 10. Qd2
+{ [Source] white should be flexible he can start with queen D2 or rook E1 { [%ai A solid developing move, keeping options open for castling on either side.] }
+10... b6
+{ [Source] that game went B6. { [%ai A standard way to develop the light-squared bishop in such structures, though it slightly weakens the queenside.] }
+( 10... dxe4
+{ { [%ai A standard transition to a Rubinstein-style French structure, exchanging central tension for open lines.] }
+11. Nxe4 { { [%ai Centralizes the knight and controls the center.] } 11... b6
+{ { [%ai Prepares development of the light-squared bishop, which is traditionally a problem piece in the French.] }
+12. c4
+{ { [%ai A standard space-gaining move in the center, characteristic of many classical variations.] }
+12... Bb7
+{ { [%ai Completes the fianchetto, exerting pressure along the long diagonal.] }
+13. Rad1
+{ [Source] white has a grip on the position and has some advantage. { [%ai Centralizes the rook to support the d-pawn and dominate the central files.] }
+) 11. Rae1 Bb7 12. Ne2
+{ [Source] Pragna first centralized. Rook A1 (Rae1), bishop B7. After knight E2, white is regrouping the pieces. }
+12... Qc7 { [Source] The game continued with Queen C7. } 13. exd5
+{ [Source] And now took on D5. } 13... cxd5
+{ [Source] Carlsen took with the C pawn. Taking with the E pawn is dangerous because the king is still in the center. }
+14. Ng3 { [Source] Regrouping after knight G3. } 14... Bd6
+{ [Source] The position remains double-edged after bishop D6. } 15. Nh5
+{ [Source] But after knight H5 white had a serious initiative on the king side. }
+15... O-O { [Source] Carlsen went short castle here. } ( 15... O-O-O
+{ [Source] Now Carlsen should have gone for the much sharper long castle which is quite sharp. { [%ai Suggesting long-side castling as a sharper, more double-edged alternative in this French structure.] }
+) ( 15... O-O
+{ [Source] He went short castle but after knight H5 white had a serious initiative on the king side. { [%ai This move leads to a position where White can create an initiative on the kingside, as seen in the game between Praggnanandhaa and Carlsen.] }
+) ( 15... O-O-O
+{ [Source] Carlsen should have gone for the much sharper long castle which is quite quite sharp. { [%ai An aggressive alternative that leads to opposite-side castling and a more tactical game.] }
+) ) ( 10. Qd2
+{ [Source] white can start with queen D2 or rook E1 { [%ai Developing the queen and preparing to coordinate the rooks.] }
+10... O-O
+{ [Source] the engine suggests to castle first { [%ai Black prioritizes king safety.] }
+11. Rad1
+{ [Source] and after rook a d1 { [%ai White centralizes the a-rook to d1.] }
+11... a5
+{ [Source] to go a5. ... But this idea of A5 is an attempt to keep the game complex for longer. { [%ai Black gains space and flexibility on the queenside, preparing to develop through expansion.] }
+12. Rfe1
+{ [Source] The engine suggests to castle first and after rook a d1 to go a5. But this idea of A5 is an attempt to keep the game complex for longer. Let's say rook F1 and B5. }
+12... b5
+{ [Source] Black is not playing B6, but he's playing B5 in order to develop the bishop. }
+13. exd5 exd5 14. Ne2 Nb6
+{ [Source] And in case of ED, black has gained more space on the queen side. There are ideas like knight B6, knight C4 or B4. Let's say knight E2, knight B6 with a pretty unclear position here. }
+) ( 10. Re1
+{ [Source] Quite similar is what happens after rook e1. Again, black should start with castling. }
+10... O-O 11. Qe2
+{ [Source] And if queen E2, this is the one of the possible developments of the queen... rook E8 is a good waiting move. }
+( 11. Qd2
+{ [Source] So queen D2 is the other option, and again A5 B5 is possible, but here with the rook on E1 instead of D1 as in the previous line, the idea with dxe4 works. { [%ai White chooses a different central alignment, aiming for flexibility but allowing Black to release tension under favorable circumstances.] }
+11... dxe4
+{ [Source] The idea with d4 [dxe4] works. { [%ai Releasing the tension in the center is safe here because White lacks the immediate tactical firepower on the d-file to punish Black's development.] }
+12. Nxe4 c5 { { [%ai A standard French break, challenging the d4 square.] } 13.
+d5 ( 13. dxc5
+{ [Source] the idea with D4 works. Knight E4 C5 D5 knight C5 knight C5 bishop C5. { [%ai Correcting transcript error: 'D5' likely intended to be 'dxc5' in this common line (11. Qd2 dxe4 12. Nxe4 c5 13. dxc5), which makes the subsequent 'Nc5' legal as a capture.] }
+13... Nxc5 { { [%ai Capturing the pawn on c5 with the knight from d7.] } 14.
+Nxc5
+{ { [%ai White exchanges his centralized knight for the black one to prevent pressure.] }
+14... Bxc5 { { [%ai Recapturing with the bishop, achieving an active post.] }
+15. Rad1
+{ { [%ai White centralizes the final piece, putting pressure on the d-file.] }
+15... Qb6
+{ [Source] Rook A D1 and now queen B6 or queen E7 and the position is equal. { [%ai Developing the queen to a safe and active square. Black avoids the trap where White plays Bxh7+ followed by Qxd7, which only works if Black's queen is on the d-file and White has a rook on d1 protecting the capture.] }
+( 15... Qe7
+{ [Source] Black will finish development sooner or later with the bishop d7 or b6 bishop b7 if possible, and the position is equal. { [%ai A flexible alternative to Qb6, preparing to complete development while maintaining the balance.] }
+) ) ) 11... Re8 12. Rad1
+{ [Source] And after rook A D1, A5, we get the same idea. A5 B5 knight B6. }
+12... a5 13. Qe3
+{ [Source] So, let's say queen E3, B5, knight E2, evacuating the queen side, getting the pieces closer to the king side. }
+13... b5 14. Ne2 Ba6
+{ [Source] Now, bishop A6, an idea to exchange the bad bishop after B4. } 15.
+Ng3 b4
+{ { [%ai A sharp, unclear position where black maintains parity through active piece play and solid defense on the kingside.] }
+) 10... exd5 11. Ne2 O-O 12. Ng3 Nf6
+{ [Source] it's equal position and Carlsen even won from this position against Shimanov in blitz in Almaty in 2022 }
+) 8... Be7
+{ [Source] Black develops the dark-squared bishop. { [%ai Standard development preparing for castling.] }
+9. O-O-O
+{ [Source] In the game Abdusattorov-Kramnik, White chose to castle long, which the engine evaluates as slightly favoring Black due to the quick queenside attack. { [%ai Aggressive, but perhaps strategically risky as Black has clear targets on the queenside.] }
+9... Nd7
+{ [Source] Developing the knight first before launching a queenside pawn storm. { [%ai Sensible development to support the center and future pawn breaks.] }
+10. h4
+{ [Source] White starts a counter-thrust on the kingside. { [%ai A thematic attempt to create counterplay but slow compared to Black's threats.] }
+10... a5
+{ [Source] Black begins the expansion to open lines against the white king. { [%ai Strong expansion, utilizing the hook on A3.] }
+11. Qe3
+{ [Source] Repositioning the queen. { [%ai Prophylactic repositioning.] } 11...
+b5
+{ [Source] Further expanding the attack. { [%ai Consistent queenside play.] }
+12. Ne2
+{ [Source] Regrouping the knight to the kingside or for defense. { [%ai Defensive maneuver.] }
+12... b4
+{ [Source] Opening the position. At this point, the engine sees a big advantage for Black as White's king is exposed. { [%ai Crushing breakthrough that justifies Black's strategic choice to allow the bishop pair early on.] }
+) 6... Qd8
+{ [Source] The queen drops back to D8 as is typical in these structures. { [%ai Black resets the queen position, often aiming for b6 or simply clearing the path for development.] }
+7. f4 { [Source] f4 c5 knight f3 knight c6 } 7... c5 8. Nf3 Nc6
+{ [Source] white is severely lacking that bishop on E3 that he has in these positions from the Steinitz variation. So black is much better in these positions. { [%ai Black has an excellent game. Without a dark-squared bishop, White struggles to defend d4 and cannot easily clamp down on Black's counterplay.] }
+) 5... g5 6. Bg3 Nxe4 7. Nxe4 dxe4
+{ [Source] Black is even slightly better here. An extra pawn that is not so easy to regain and easy development follows. }
+) 4... Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3
+{ { [%ai A standard move in the Steinitz Variation, preparing development and reinforcing d4.] }
+7... cxd4
+{ [Source] Obviously there are alternatives. Queen B6, A6, Bishop E7, and so on. But analyze this line because it's forcing and it leads straight to an endgame. }
+8. Nxd4 Bc5 9. Qd2 Bxd4 10. Bxd4 Nxd4 11. Qxd4 Qb6
+{ [Source] In view of the fact that the pawn is hanging, the queens will be exchanged and black gets an endgame. And quite interesting ideas in the endgame. I suggest you take a look at the video because it's quite instructive. }
+*
+

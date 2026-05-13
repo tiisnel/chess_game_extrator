@@ -1,0 +1,241 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4
+{ [Source] The first move we have is D4, and black will play D5. Just making sure they have a share in the center as well as white. }
+1... d5 2. c4
+{ [Source] Now here, white will play pawn to c4. And this is known as the queen's gambit. A very popular chess opening. }
+2... dxc4
+{ [Source] the idea is that if black takes this pawn, one way may continue is just play e4 right away. And they're already going to have pressure and normally will win the pawn back rather quickly. }
+( 2... e6
+{ [Source] So a lot of the time you will see black not take this pawn and play e6 and this is known as the queen's gambit declined. { [%ai Black chooses to reinforce the center rather than accept the gambit, leading into the main lines of the Queen's Gambit Declined.] }
+3. Nc3
+{ [Source] And the most popular way for white to continue is with knight to C3. And the idea of knight to C3 is just putting more pressure on the center. { [%ai Standard and optimal development for White, increasing pressure on d5.] }
+3... Nf6
+{ [Source] Now, black does have things to limit this plan.  mainly with knight F6. Knight F6 just puts more control on E4. { [%ai Black develops a piece and prevents White from immediately seizing more space with e4.] }
+4. Bg5
+{ [Source] Now to get into the Tarrasch, white needs to play bishop to G5. And this is the most common move in this position just pinning the knight to the queen. { [%ai White initiates the standard pin on the f6 knight, which indirectly pressures d5.] }
+4... Be7
+{ [Source] Now to maintain the defense on d5 we get black playing bishop to e7 and this is breaking the pin. It's developing a piece getting black ready to castle. { [%ai The most solid way to break the pin and prepare for kingside castling.] }
+5. Nf3
+{ [Source] Now white can play knight to f3 { [%ai Classical development, supporting the center and preparing for castling.] }
+5... h6
+{ [Source] and black can follow with h6. { [%ai Black plays 'the question' to the bishop, asking it to capture or retreat.] }
+6. Bh4
+{ [Source] the main move is bishop to h4. { [%ai The most common response, maintaining the pressure and the bishop pair.] }
+( 6. Bxf6
+{ [Source] And the idea is that after black takes back with the bishop you can play pawn to e3 supporting the center opening up a line for your bishop. you get black castles rook to C1 putting the rook on a file which is going to open rather quickly either with white taking or black taking. { [%ai A pragmatic choice known as the Anti-Tarrasch, aiming to disrupt the center and simplify the position before Black can consolidate.] }
+6... Bxf6 7. e3 O-O 8. Rc1 c6
+{ [Source] Black plays C6 to defend. And here black gets this Semi-Slav type structure here. }
+9. Bd3 Nd7 10. O-O dxc4 11. Bxc4 e5
+{ [Source] Black can get away with an e5 break. Here the pawn is sufficiently defended and shouldn't be too big of a deal. }
+12. dxe5 Nxe5 13. h3 ) ( 6. Bh4
+{ [Source] they retain the bishop pair, and they'll retain some chances later on to build up pressure. { [%ai A common strategy in the Queen's Gambit Declined, keeping the pin and the bishop pair.] }
+6... O-O 7. e3 b6
+{ [Source] this is our starting position for the Tarrasch defense here after B6. The idea is that this light square bishop is not having a great time on this diagonal... black plays B6. And in almost every line is going to go bishop B7 on the next move. { [%ai The defining move of the Tarrasch variation discussed, solving the problem of the 'bad' light-squared bishop.] }
+8. Qb3
+{ [Source] as far as I know, this one is probably the least popular of the moves we're going to cover. However, this is probably one of the better scoring options for white... putting more pressure on the center { [%ai A solid, albeit older, alternative to the main lines, exerting early pressure on d5.] }
+( 8. cxd5
+{ [Source] Onto the next choice for white is taking on d5 after black plays b6. So you take on d5 and this forces black to make a decision. { [%ai The Exchange variation in the Tarrasch usually aims for a specific pawn structure, often resulting in an isolated queen's pawn or hanging pawns for black.] }
+8... Nxd5
+{ [Source] And this is the most popular way black plays is just takes with the knight. And what this does is makes a threat on the bishop on H4. { [%ai A thematic response, immediately challenging white's light-squared control and the bishop on h4.] }
+9. Bxe7
+{ [Source] They're threatening to win. So you have to resolve this threat first. Take on E7. { [%ai A forcing move, eliminating the dark-squared bishop before black can consolidate.] }
+9... Nxc3
+{ [Source] Now knight takes C3... maybe a patszer's try to say, 'Aha, I got an extra move with my knight. I'm attacking your queen.' { [%ai Tactically flawed in this specific move order due to the following sequence.] }
+( 9... Qxe7
+{ [Source] Recapturing with the queen makes a lot more sense than the knight because it keeps development forward and allows for better coordination. }
+10. Nxd5 exd5 11. Rc1 { [Source] Putting pressure on the C7 pawn early. } 11...
+Be6
+{ [Source] This is a popular move at the master level to control the center and prepare for future pawn breaks. }
+12. Qa4 c5 13. Qa3
+{ [Source] A clever pinning move that puts pressure on C5 and prevents Black from immediately liquidating the center. }
+13... Rc8 14. Be2 Qf8 15. dxc5 bxc5 16. O-O Nd7
+{ { [%ai A solid equalizing variation that focuses on precise piece placement and structural integrity.] }
+) 10. Bxd8
+{ [Source] But this is just losing. You trade queens. { [%ai Intermezzo. White exploits the position of the bishop on e7 to capture the black queen while his own queen is attacked.] }
+10... Nxd1
+{ [Source] And after knight takes D1, there is bishop E7 with a tempo on the rook. { [%ai Black is forced to continue the trade, but the resulting endgame is dismal.] }
+11. Be7
+{ [Source] And if rook to E8, you can retreat the bishop. And this knight is trapped. { [%ai A classic trap where a piece is lured into a position with no escape squares.] }
+11... Re8
+{ [Source] There's nowhere this knight can go. Black is going to be losing a piece. { [%ai The rook is attacked and must move, allowing the bishop to secure the d1-knight.] }
+12. Ba3
+{ [Source] According to Stockfish 13 is at least plus two. So white has too much material. { [%ai The white bishop on a3 cuts off the knight's escape, leaving white up a piece for a pawn.] }
+) ( 8. Rc1
+{ [Source] Rook to C1 is a pretty good move... focus more on this B4 play with queen side development. { [%ai A solid positional alternative to the exchange on d5, focusing on queenside pressure.] }
+8... Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 { [Source] This prevents C5. } 11...
+c6 12. Bd3 Qd6 13. Qb3 Nd7 14. O-O a5 15. a3 axb4 16. axb4 Be7 17. Rb1 Rfd8 18.
+Rfe1
+{ [Source] This position is just so slightly better for white after rook F to E1, but very slightly. { [%ai White maintains a persistent but small edge due to better piece coordination.] }
+) ( 8. Be2
+{ [Source] I guess we'll look at bishop E2 first because it's not as popular, but one of the ideas you have is that if they take on C4, it doesn't come with tempo on the bishop. }
+8... Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4
+{ [Source] And here with bishop to E2, we can also see this B4 expansion. }
+11... c5
+{ [Source] But there's also the opportunity for them to play C5. And if C5 is played and white takes, black takes back and white can go rook to B1 here. }
+( 11... c6
+{ [Source] Black plays C6 to defend, which is considered the main move in this particular structure. { [%ai Solid defensive stance, opting for structure over immediate tension.] }
+12. O-O
+{ [Source] White castles to secure the king and complete development. { [%ai Prophylactic and standard king safety.] }
+12... Re8
+{ [Source] Black brings the rook to the E-file, a standard developing move in these positions. { [%ai Improving rook activity.] }
+13. Qb3
+{ [Source] White plays Queen B3, putting more pressure on the position and expanding on the queenside. { [%ai Proactive queen placement to challenge Black's center.] }
+13... a5
+{ [Source] Black challenges the queenside structure with A5. { [%ai Logical flank attack to create counterplay.] }
+14. bxa5
+{ [Source] White decides to take on a5 immediately. { [%ai Clarifying the structure on the queenside.] }
+14... Rxa5
+{ [Source] Black recaptures with the rook, maintaining activity. { [%ai Maintaining pressure on the a-file.] }
+15. a4
+{ [Source] White pushes a4, limiting the space that the rook has to operate on and gaining space on the queenside. { [%ai Restrictive and positional.] }
+15... Nd7
+{ [Source] Knight d7 adds necessary defense to the b6 square. { [%ai Sound defensive maneuvering.] }
+16. Rfe1
+{ [Source] White moves the rook to e1, preparing for potential central action and clearing f1 for the bishop if needed. { [%ai Improving central control.] }
+16... Qa8
+{ [Source] Developing the queen to a8. { [%ai An unusual but thematic square in some Queen's Gambit lines.] }
+17. Bd3
+{ [Source] Developing the bishop to d3, controlling the back rank and supporting a potential e4 push. { [%ai Activating the minor piece.] }
+17... c5
+{ [Source] Black finally strikes in the center with c5, supported by the knight, rook, and pawn. { [%ai The thematic central break in the Tarrasch.] }
+18. Bb5
+{ [Source] White plays bishop b5, pinning the knight to the rook. { [%ai Creating tactical problems for Black.] }
+18... Rd8
+{ [Source] Black plays rook d8 to break the pin and protect the knight. { [%ai Accurate response.] }
+19. Bxd7
+{ [Source] White trades off the bishop for the knight. { [%ai Simplification into a concrete endgame/middle-game structure.] }
+19... Rxd7
+{ [Source] Black recaptures with the rook. { [%ai Keeping pieces active.] } 20.
+Qxb6
+{ [Source] White wins a pawn on b6, though Black retains significant pressure. { [%ai Material gain at the cost of some activity.] }
+20... Bc6
+{ [Source] Black's bishop on c6 starts to restrict the White queen's escape squares. { [%ai Restricting White's queen.] }
+) 12. bxc5 bxc5 13. Rb1
+{ [Source] White is not going to be looking to take back on C5 because of bishop C3 check and you're losing a massive amount of material. So you have to let this sit. But you go rook B1. }
+13... Bc6
+{ [Source] Part of this is so that way if you do capture, there's no pin. But this doesn't protect the knight. So you still can't capture. And now we see bishop to C6, just defending the bishop, moving it out of harm's way. }
+14. O-O Nd7 15. Bb5 Qc7
+{ [Source] Black will continue developing with knight d7. And now white is going to trade off the light square bishops with bishop to b5 and queen c7, just defending the bishop. This will lead to a equal game. }
+16. Bxc6 Qxc6 ) ( 8. Bd3
+{ [Source] bishop to D3. And this is what you'll see most people playing the Tarrasch. This is the main line. { [%ai The most active and thematic developing move for the bishop in the Tarrasch.] }
+8... Bb7
+{ [Source] And you guessed it, black plays bishop to b7. { [%ai Standard development, completing the queenside fianchetto.] }
+9. O-O
+{ [Source] And white continues by castling. { [%ai Standard castling, securing the king.] }
+9... Nbd7
+{ [Source] Knight to D7 is the most played move. { [%ai The SAN 'Nd7' was ambiguous as both the knight on b8 and the knight on f3 could technically reach d7; 'Nbd7' is the correct and intended standard development move here.] }
+10. Qe2
+{ [Source] Now white should play queen to E2. ... queen E2 is just a very flexible move that allows either of those setups. And in addition to maintaining flexibility for your rook placement and having them connected, this also gives you some support of an E4 push. { [%ai A common and prophylactic development square for the queen in Queen's Gambit structures, supporting the e4 push and connecting the rooks.] }
+10... c5
+{ [Source] And here they can play C5. { [%ai Typical for the Tarrasch Defense, Black immediately challenges the d4 pawn and seeks counterplay in the center.] }
+( 10... Ne4
+{ [Source] Knight e4 is a little bit more forcing. It challenges White's minor pieces and centralizes the knight aggressively. { [%ai A strong alternative to c5, looking to simplify and improve the knight's activity.] }
+11. Bxe7
+{ [Source] You can also take on e7 and this is definitely playable. { [%ai A solid standard response, choosing simplification over maintaining the pin.] }
+( 11. Rad1
+{ [Source] E takes D5. And now rook A to D1. { [%ai A popular move in Queen's Gambit positions, centralizing the rook and preparing for center tension.] }
+11... c5
+{ [Source] They also have C5 right away. This is your main line here. { [%ai The standard break in the Tarrasch and related structures, challenging d4.] }
+12. Bg3
+{ [Source] Retreating the bishop can be a bit better of a move than trading pieces off the board. { [%ai Maintaining the tension and avoiding the exchange on h4.] }
+12... Qc8
+{ [Source] There is another alternative here with queen to C8. And this has been played before back in 2007 by Vasili Ivanchuk. { [%ai A profound grandmaster move, moving the queen to a safer square and preparing to contest the c-file.] }
+13. Rc1
+{ [Source] And it's a little odd because we just put that rook on D1. What are we doing in moving the rook again? Well, this is now lined up with the queen. { [%ai White adjusts to Black's queen placement, creating pressure on the newly opened or semi-open c-file.] }
+13... Rd8
+{ [Source] Rook F to D8. { [%ai Normal development, preparing for central play.] }
+14. Rfd1
+{ [Source] Rook F to D1. And now you get the C and D files. So the files have shifted over one, which is probably a little good because this is where the files are going to open up. { [%ai A typical reshuffling of rooks to optimize their pressure on the center.] }
+14... Ndf6
+{ [Source] Knight to F6. And knight E5 just getting the knight into the center. { [%ai A solid developing move, challenging the center and reinforcing d5.] }
+15. Ne5 { { [%ai White occupies a strong central outpost.] } ) ( 11. cxd5
+{ [Source] Taking on d5 forces black to make a decision. Either way, they're going to have to take on d5 with a pawn. { [%ai Standard central exchange to clear squares and create pawn tension.] }
+11... exd5
+{ [Source] The E pawn takes, resulting in an open square at e6. { [%ai Standard recapture.] }
+12. Rad1
+{ [Source] And now we get rook to D1. This rook's going to come to C1 later. { [%ai Flexible development of the rook to an active central file.] }
+12... c5
+{ [Source] Black responds with c5, fighting in the center. { [%ai Typical Tarrasch central counterplay.] }
+13. Bg3
+{ [Source] Retreating the bishop can be a bit better of a move than trading pieces off the board. { [%ai Preserves the bishop pair and keeps the piece active on a strong diagonal.] }
+13... Qc8
+{ [Source] There is another alternative here with queen to C8 and this has been played before back in 2007 by Vasili Ivanchuk. { [%ai A solid, prophylactic queen move preparing rook coordination.] }
+( 13... Nxg3
+{ [Source] So, I think if black's trying to keep chances, be a little bit more ambitious, take on G3 with the knight. { [%ai Black trades off their knight for White's bishop pair, a common strategy to simplify and resolve pressure in this variation.] }
+14. hxg3
+{ [Source] And after H takes G3, { [%ai Recapturing toward the center is standard, keeping the structure solid while opening the h-file for potential future use.] }
+14... Qc7
+{ [Source] I'm going to recommend queen C7 here. And this is where, I guess a lot of the theory dissipates. { [%ai A flexible developing move that connects the rooks and prepares for the opening of the center.] }
+) 14. Rc1
+{ [Source] The rook goes to C1. It's a little odd because we just put that rook on D1... but now this is lined up with the queen. { [%ai Proactive repositioning to pressure the semi-open c-file.] }
+14... Rd8
+{ [Source] Black continues with rook F to D8. { [%ai Centralizing the rooks.] }
+15. Rfd1
+{ [Source] And white responds with rook F to D1. Now you get the C and D files. { [%ai Optimal coordination for White's rooks.] }
+15... Ndf6 { [Source] Knight to F6 is played. { [%ai Neutral development.] }
+16. Ne5
+{ [Source] Knight E5 just getting the knight into the center. { [%ai Strong central knight placement.] }
+16... Qe6
+{ [Source] Queen E6 was played, utilizing the square vacated by the pawn. { [%ai Centralizing the queen on a now-available square.] }
+17. Bh4
+{ [Source] Bishop H4, trying to avoid this capture of the knight on e5 or the bishop on g3. { [%ai Repositioning the bishop to maintain pressure while avoiding exchange.] }
+17... Rac8
+{ [Source] Rook A to C8. A lot of the pieces can trade off here and lead to an equal position. { [%ai Final piece development for Black, preparing for exchanges.] }
+) ( 11. cxd5
+{ [Source] I guess they can take on d5 and you want to take with the pawn. And now you have knight e5. { [%ai Analyzing the trade on d5 followed by the centralizing Ne5 maneuver.] }
+11... exd5 12. Ne5
+{ [Source] There's knight E5 here. This is a pretty strong move. You're trying to stop knight G6, so you almost have to take. { [%ai Ne5 is a typical motif in these structures to create pressure.] }
+12... Nxe5
+{ [Source] This forces them to recapture, and here white gets this isolated pawn look. { [%ai A strategic trade. Black chooses to exchange minor pieces to reduce White's central pressure, often leading to standard Tarrasch structures.] }
+13. dxe5
+{ [Source] And now bishop E5. And now your chance to get the bishop pair is gone. { [%ai White recaptures with the pawn (transcript likely meant 'dxe5' when saying 'bishop E5' as no bishop can reach e5 here). This move solidifies the center but acknowledges the loss of the bishop pair earlier in the sequence.] }
+) 11... Qxe7 { { [%ai Standard recapture, connecting the rooks.] } 12. cxd5
+{ { [%ai White clarifies the central tension.] } 12... exd5
+{ { [%ai Accepting the isolated queen's pawn structure in exchange for active pieces.] }
+13. Rfd1
+{ [Source] and then rook F to D1 or rook, I guess F to C1. There's a lot of good moves here. { [%ai Finalizing development by bringing the last minor piece to a central file.] }
+13... Ng3
+{ [Source] I think if black's trying to keep chances, be a little bit more ambitious, take on G3 with the knight. { [%ai Standard exchange to remove the bishop pair and simplify the position.] }
+14. hxg3
+{ [Source] And white will just take back with the H pawn. Your structure is still very sound. { [%ai Standard recapture that maintains the pawn structure and opens the h-file slightly.] }
+) 11. cxd5
+{ [Source] White has many moves here and they , , can capture in the center either on C5 or capturing on D5. capturing on d5 is a little bit better. { [%ai White clarifies the central tension, aiming to saddle Black with an isolated or hanging pawn structure after the recapture.] }
+) 8... Bb7
+{ [Source] reinforcing, developing the bishop. Pretty straightforward. { [%ai Black follows through with the plan to fianchetto the bishop.] }
+9. Bxf6
+{ [Source] Why does white give up the bishop pair? ... it's pretty important that we force the recapture on D5 with a pawn. ... we want to try and force black to have a less than ideal pawn structure. { [%ai A thematic sacrifice of the bishop pair to ruin Black's pawn structure by forcing an eventual hanging pawn formation.] }
+9... Bxf6 10. cxd5
+{ [Source] we can take on d5 right away. And the pawn should take. { [%ai Initiating the structural transformation.] }
+10... exd5 11. Rd1
+{ [Source] And now we get rook to D1. ... honestly it's a bit of a mystery move. { [%ai An unusual but flexible placement for the rook, preparing for the opening of the d-file.] }
+11... Re8 12. Bd3
+{ [Source] part of it is to support the bishop, make sure it's not hanging. { [%ai Developing the last minor piece and eyeing the kingside.] }
+12... c5
+{ [Source] if they play C5, which black should here { [%ai The standard break in the Tarrasch, challenging White's center.] }
+13. dxc5
+{ [Source] white takes with the pawn. { [%ai White accepts the challenge, leading to the creation of hanging pawns for Black.] }
+13... Nd7
+{ [Source] we have to go knight d7 here because you can't take back right away { [%ai A necessary developing move to reclaim the pawn, as taking back immediately is tactically unsound.] }
+( 13... d4
+{ [Source] Someone's asking what happens if black pushes d5 to d4 before white castles. Well, first you can just go bishop c4. ... Black's position is just starting to fall apart here. ... Black really needs to play knight d7 to maintain equality. { [%ai d4 is a premature central push in this line, allowing White to create threats against f7.] }
+14. Bc4 ) 14. c6
+{ [Source] You play C6. And now the bishop has to take. { [%ai A sharp positional sacrifice to disrupt Black's coordination and keep the initiative.] }
+14... Bxc6 15. O-O
+{ [Source] white finally gets to castle. Try and finish up some of the development here. { [%ai White secures the king before diving into tactical complications.] }
+15... Nc5 16. Qc2
+{ [Source] You can just go queen to C2 { [%ai The queen retreats to a safe square while maintaining pressure.] }
+16... Rc8
+{ [Source] lining up the rook with the queen. Now with all of these pieces in the way is nothing you really need to worry about just yet. { [%ai Black creates a hidden threat against the queen on the c-file.] }
+17. Nd4
+{ [Source] you can get knight to d4. { [%ai White centralizes the knight to control key squares.] }
+17... Bxd4 18. exd4
+{ [Source] This is a equal position. ... I guess this is where the game starts. { [%ai The position remains balanced with play around the center.] }
+) ) 3. e4 *
+
