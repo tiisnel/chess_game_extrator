@@ -1,0 +1,430 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ Introduction to the Diamond Sicilian overview; no move-specific analysis yet. }
+1... c5 2. Nf3 ( 2. c3
+{ Starts the Alapin. White uses it as a practical anti-Sicilian that can be played against many Sicilians, avoiding heavier theory. }
+2... Nf6
+{ Black develops naturally; this Alapin chapter is covered extensively and the speaker believes Black can do very well if the ideas are understood. }
+3. e5
+{ White gains space and drives the knight; this is the standard Alapin setup discussed in the course. }
+3... Nd5 4. d4 cxd4 5. Qxd4
+{ This queen recapture is one of the deviations from the more usual Alapin structures. }
+5... e6 { Black stabilizes the center and prepares normal development. } 6. Nf3
+Nc6 7. Qe4 { White sets up a typical aggressive Alapin formation. } 7... f5
+{ Key practical rule: against this setup, remember ...f5 and often ...b5. Black challenges the queen and grabs space. }
+8. Qe2 b5
+{ Another thematic move in this Alapin line: queenside expansion and active counterplay. }
+9. Qxb5 { White grabs a pawn, but Black is not worried. } 9... Qc7
+{ Black develops with tempo and keeps pressure; the course emphasizes these active developing moves. }
+10. Qe2 a5
+{ Typical expansion. The speaker emphasizes development, central control, and bringing the 'monster' bishop out. }
+) ( 2. Nf3 e6 ( 2... e6 3. c3
+{ Another route into Alapin structures after 2...e6; White chooses c3/g3-type setups because Bb5 systems are less available against ...e6. }
+3... Nf6 4. e5 Nd5 5. d4 cxd4
+{ This c-pawn recapture leads to the main Alapin position the speaker says one has to study to master the line. }
+6. cxd4
+{ This c-pawn recapture leads to the main Alapin position the speaker says one has to study to master the line. }
+6... d6
+{ Main Alapin position. Black's setup is built around pressure on the center and active piece play. }
+7. Nc3 ( 7. Bc4 { One of White's main ideas in the Alapin structure. } 7... Be7
+{ Important practical point: Black often avoids taking on e5 or rushing ...Nc6 here because the main idea is flexible development with ...b6 and ...Ba6 or ...Bb7 later. }
+8. O-O O-O 9. Qe2
+{ From the speaker's experience, White players often like this setup with Qe4/Qe2 and Bd3, trying for attacking ideas with Bh6, h4-h5, and Qg4. }
+9... b6
+{ Black follows his plan: continue development and prepare to activate the light-squared bishop. }
+10. Bd3 { Natural attacking square, but Black has a concrete reply. } ( 10. Qe4
+{ A direct attempt to attack, but Black has a strong tactical solution. } 10...
+Ba6
+{ Key move. The speaker highlights it as the move that stops White's attack, hits key squares, and introduces tactical problems such as trapping ideas and pressure on the rook. }
+11. Bxd5 exd5 12. Qxd5 Nc6
+{ Very important move. The key tactical point in this family of lines: Black gains time on the queen and obtains more than enough compensation. }
+( 12... Nc6 { Same key idea: ...Nc6 is the important tactical resource. } ) 13.
+Qxc6 Bxf1
+{ The rook on f1 is hanging in these lines; Black exploits this tactically. }
+14. Kxf1 Rc8 { Black's activity and piece pressure compensate fully. } ) 10...
+Nb4 { A direct tactical resource against Bd3/Qe4 setups. } 11. Qe4 Nxd3 12.
+Qxa8 { White grabs material, but Black gets strong initiative. } 12... Ba6
+{ Again the bishop comes out actively; this motif is central to Black's play. }
+13. Rd1 dxe5 14. dxe5 Qc7
+{ Black continues with active coordination and pressure. } ) 7... Nxc3
+{ Typical structural decision: Black gives White doubled pawns and later develops with tempo. }
+8. bxc3 Qc7
+{ Key move in this main Alapin structure: attacks c3 and makes it awkward for White to castle quickly. }
+9. Bd2 Nd7
+{ Another important developing move with tempo: Black also increases pressure on e5. }
+10. exd6 Bxd6 11. Bd3 b6 { Black calmly continues development. } 12. O-O Bb7
+{ Black's typical setup: bishop to b7, then often ...Bf4, ...Rc8 or ...Rfd8 depending on circumstances. }
+13. Re1 O-O
+{ The speaker notes that in these structures it is often Black who gets easy play after finishing development. }
+) ) ( 2. Nc3
+{ Second-move Nc3 gives White flexibility: closed setups with g3/Bg2/Nge2 or transpositions back to Open Sicilian structures. }
+2... e6
+{ Black does not mind flexible White setups; this keeps options open for transposition into main lines. }
+3. g3 { White can aim for closed systems here. } ( 3. Nge2
+{ Another flexible approach; White still does not show his full hand. } 3...
+Nc6
+{ Black waits: if White later plays d4 and Nxd4, the game can transpose to the main chapters. }
+4. g3 d5
+{ Important move. The speaker emphasizes this central strike in these flexible anti-Sicilians. }
+5. exd5 exd5 6. d4 ( 6. d4
+{ White fixes the center, but Black knows the structural response. } 6... cxd4
+7. Nxd4 Nf6 8. Bg2 Bg4
+{ Typical provocation: Black wants White to weaken himself with f3, Nd2, or Qd3-type concessions. }
+9. Nde2 Bb4
+{ As in related lines with the queen on a4, Black often uses this pinning/developing idea. }
+10. h3 Bxc3+
+{ Black gives up the bishop pair but doubles White's pawns and damages coordination. }
+11. bxc3 Bf5
+{ Black's compensation is easy play, pressure, and White's uncastled king. }
+12. Rb1 O-O { The speaker says Black has easy play here. } ) ) 3... d5
+{ Again the key central reaction against the g3 setup. } 4. exd5 exd5 5. d4
+cxd4 6. Qxd4 { This queen recapture lets Black gain time with development. }
+6... Nf6 7. Bg5 Nc6 { Black develops while hitting the queen. } 8. Qa4 Bb4
+{ Typical pinning move in this system. } 9. Ne2 Bg4
+{ Again Black provokes weaknesses or awkward defensive moves. } 10. Bg2 Bxe2
+11. Kxe2 Bxc3
+{ Black gives up the bishop pair but inflicts structural damage. } 12. bxc3 O-O
+{ Black has comfortable play: White's pawn structure is compromised and king safety delayed. }
+) ( 2. f4 { A sharp anti-Sicilian try many players use to attack quickly. }
+2... d5 { Black strikes in the center immediately. } 3. exd5 Nf6
+{ Important practical point: Black should not recapture with the queen because of a checking line with Bb5+. }
+4. Bb5+ { White's check is the reason Black avoided ...Qxd5. } 4... Bd7 5.
+Bxd7+ Qxd7 6. c4 e6
+{ The speaker found that in many 2.f4 lines Black does not mind being a pawn down because of development and control over d4. }
+7. dxe6 Qxe6+ { Active queen recapture; Black is ahead in development. } 8. Qe2
+Qxe2+ 9. Nxe2 Nc6 10. O-O O-O-O
+{ This is the type of position the speaker likes for Black: plans include ...g6, ...Bg7, ...Rh8, and often ...Nb4/...Nd3 depending on White's setup. }
+) ( 2. b4
+{ The Wing Gambit. The speaker thinks many lower-rated and online players love this, and if Black is prepared he gets a good game. }
+2... cxb4 3. a3 e5
+{ Black does not believe in clinging to material over central control; ...e5 both grabs the center and also helps support the b4-pawn. }
+4. Nf3 Nc6 5. Bc4
+{ The resulting positions resemble Italian or Berlin-type structures, except Black keeps the extra b4-pawn and White lacks the b2-pawn. }
+5... Nf6 6. Ng5 { One of White's main tactical tries from Italian motifs. }
+6... d5 { Black counters in the center in typical fashion. } 7. exd5 b5
+{ Key point: with White's b-pawn gone, ...b5 works especially well because Nc3 resources are missing. }
+8. Bf1 Qxd5
+{ Black is simply better; White no longer has the usual Nc3 resource from standard Italian lines. }
+) 2... e6 { Beginning of the Diamond Sicilian proper. } 3. d4 cxd4 4. Nxd4 Nc6
+5. Nc3 ( 5. Nb5
+{ An offbeat but not bad move; played by strong grandmasters. White aims for Maroczy-type structures. }
+5... d6
+{ The recommended reply. The speaker does not recommend entering direct Maroczy structures without White making concessions. }
+6. Bf4 { A funky move that the speaker says does not really work. } ( 6. c4
+{ This is the real main move and much more challenging. } 6... Nf6 7. N1c3 ( 7.
+N1c3 a6 8. Na3 Qa5
+{ The speaker tried other moves like ...Qd5, but chose ...Qa5 as simple and straightforward. }
+( 8... Qa5 { Same idea: simple and direct queen placement. } 9. Bd2 Be7 10. Be2
+O-O 11. O-O { Again, Black is not afraid of Nd5 tactics here. } 11... Qe5
+{ Active queen move. After any queen exchange and ...d5, Black equalizes immediately. }
+12. Bd3 Nb4 { Black gets active piece play against the bishop and center. } 13.
+Bb1 d5
+{ Once Black achieves ...d5 successfully, he gets an easy plan, often with the c8-bishop developing to g4 or e6. }
+) ) ) 6... e5 { Direct punishment of the inaccurate 6.Bf4 line. } 7. Bg5 Qxg5
+{ White's idea simply fails tactically. } 8. Nc7+ Kd8 9. Nxa8 Nf6
+{ The knight on a8 is stranded and not coming home anytime soon; Black will just develop and win it back. }
+) ( 5. c4
+{ Another anti-Sicilian c4 line, preferred by players like Magnus in blitz and rapid according to the speaker. }
+5... Nf6 6. Nc3 Bb4 { Black chooses a dynamic setup. } 7. Nxc6 bxc6
+{ Black accepts doubled pawns in exchange for the bishop pair and central control. }
+8. Bd3 e5 { Essential move: otherwise White would play e5 first. } 9. O-O O-O
+10. Bg5 { One main try for White. } ( 10. Bg5 Bxc3
+{ Typical treatment: Black damages the pawn structure. } 11. bxc3 h6 12. Bh4 d6
+13. Qe2 g5
+{ Black builds a fantastic pawn chain with ...h6, ...d6, ...e5, and ...g5. }
+14. Bg3 c5 { Solid structure; the speaker likes Black's setup very much here. }
+) ( 10. Qe2 { The main try in this c4/Bb4 line. } 10... Re8
+{ Black's idea is to prepare ...d5 if possible. } 11. Na4 d5
+{ Black strikes in the center. } 12. a3 Be7
+{ This exact setup occurred in Carlsen-Gelfand 2018 according to the speaker. }
+13. cxd5 cxd5 14. exd5 e4
+{ Black can even sacrifice another pawn; the important point is initiative and destabilizing White's setup. }
+15. Bb5 Bg4
+{ Important tempo, destabilizing the queen on e2. After ...Bd7 and ...b5 the bishop on b5 may become loose. }
+16. Qc2 ) ) 5... Qc7 { Core Diamond move. } 6. Be3
+{ The speaker says the three main chapters are 7.Qf3, English Attack, and early f4 systems. }
+( 6. f4
+{ Sixth-move f4 is an aggressive try. It cuts down many of Black's options and is appealing for White because White has less to remember. }
+6... a6
+{ Black begins a setup where White often castles long and Black castles short, with mutual attacking chances. }
+7. Nxc6 Qxc6 8. Bd3 b5 { Typical queenside expansion. } 9. Qe2 Bb7 10. Bd2 Bc5
+{ The bishops on c5 and b7 are doing an excellent job restricting White's attacking pieces and rook lifts. }
+11. a3 Ne7
+{ The knight may look misplaced, but because the bishop is not on e7 Black can use this square. A major motif is ...f5 later against White's attacking ideas. }
+12. O-O-O O-O { Black completes the typical opposite-side castling setup. } 13.
+h4
+{ Statistically White's best-scoring move, so it is important to know how to meet it. }
+( 13. Qh5 { An ultra-sharp move by White. } 13... b4
+{ Because the pawn is still on h4 and the queen is far from White's king, Black should strike immediately on the queenside. }
+14. axb4 Bxb4
+{ Typical attacking idea: then ...a5-a4-a3, ...Qb6, ...Rfb8, moving the bishop and attacking b2. If you remember you need to mate White's king with these plans, that's the main thing. }
+15. f5 f6 { This move stops White from playing f6/e5 ideas. } 16. g4 a5
+{ Black starts the counterattack on the queenside. } 17. e5 a4
+{ Queenside race continues. } 18. exf6 Rxf6 19. g5
+{ Actually a mistake according to the speaker. } 19... Rxf5
+{ After White's inaccuracy, White is in huge practical danger. Black may be down exchange later, but once ...a3 comes White's king will be under tremendous pressure and likely collapse in practice. }
+( 19... Rxf5
+{ Same practical point: Black's attack is overwhelming after White's mistake. }
+20. Bxf5 Nxf5 ) ) 13... f5 { Typical idea: block White's attack. } 14. h5 d5
+{ Counter in the center. } 15. exd5 exd5 16. h6 g6 17. Rhe1
+{ White wants ideas like Qe5 or Qe6. } 17... Rf7 { Protects the knight on e7. }
+18. g4 d4 19. gxf5 dxc3 20. Bxc3 gxf5
+{ Illustrative line showing Black has many resources even while under attack. }
+21. Qe5 Ng6 22. Rg1 Bxg1 23. Rxg1 Kf8
+{ Leads to a strange draw in the analysis; Black is not really surprised by the perpetual nature here. }
+24. Bb4+ Kg8 25. Bc3
+{ White has nothing better than repetition, though Black also cannot do more. }
+) ( 6. g3 { Sixth-move g3 is another important sideline. } 6... a6 7. Bg2 Nf6
+8. O-O Nxd4 9. Qxd4 Bc5 10. Bf4 d6 11. Qd2 h6
+{ This main line against 6.g3 may have lost some popularity, but the speaker thinks it will return as the main line. }
+12. Rad1 e5 13. Be3 Bb4
+{ The recommended move, also played by the speaker against Nils Grandelius in Prague Masters 2020. }
+( 13... Bxe3
+{ Fabiano Caruana played this capture, but the speaker does not recommend giving a pawn so early for lower-rated players, though it is playable. }
+14. fxe3 Ke7
+{ This is a blunder because of a tactical rook sacrifice followed by Nd5+. } (
+14... Be6 { Better move than ...Ke7. } 15. Qxd6 Rc8
+{ As you go deeper, engine evaluations improve for Black here. } ) 15. Rxf6
+{ Tactical punishment of ...Ke7. } ) 14. a3
+{ This happened in the speaker's own game. } ( 14. Nb5
+{ The other critical chapter besides 14.a3. } 14... axb5 15. Qxb4 Rxa2
+{ Black grabs activity immediately. } 16. Qxb5+ ( 16. Rxd6
+{ Alternative critical attempt. } 16... O-O 17. Rd2 Be6 18. f3 Rfa8 19. Rfd1
+R8a4 20. Qxb5 Ra5 21. Bb6 Rxb5 22. Bxc7 Raxb2 ) 16... Bd7 17. Qb4 Ra6
+{ Protects d6; Black is fine and will follow with ...Rfc8, and even ...Ne8 if White doubles on the d-file. }
+) 14... Bxc3 15. Qxc3 Qxc3 16. bxc3 Be6 17. Rxd6 Rc8
+{ The model game in the course goes much deeper from here. } ) ( 6. Ndb5
+{ The speaker calls 7.Qf3 one of the three main chapters and one of the most challenging lines against the Diamond. }
+6... Qb8 7. Be3 a6 8. Bb6
+{ This is the whole point of White's knight jump; otherwise White would just be wasting time. }
+8... axb5 9. Nxb5 Bb4+
+{ A very important check; otherwise Bc7 would trap the queen. } 10. c3 Ba5 11.
+Nc7+ Qxc7 12. Bxc7 Bxc7
+{ After the forced sequence, White has queen and pawn versus Black's two bishops. The speaker loves the bishops and thinks once Black gets ...Nf6, ...d5, and castling, Black is at least fine and probably easier to play. }
+13. Qg4 { White tries to disturb Black's normal development. } 13... g6 14. Bb5
+{ One of the critical bishop moves treated in the course. } 14... Kf8
+{ Plan for almost everything in this line: ...Kg7, ...Nf6, and ...d5. } 15. O-O
+Kg7 16. a4 Nf6 17. Qe2 d5
+{ Asks questions of White's extra pawns and harmonizes Black's pieces. If exd5, the bishop comes out and Black's pieces gain harmony. }
+18. exd5 exd5 ) 6... a6 { 177 } 7. Qf3
+{ One of the three main chapters. White's main point is Qg3 to exchange queens and aim for a slightly better endgame due to more space, but the speaker believes Black can handle it successfully. }
+( 7. Qd2
+{ English Attack chapter, which the speaker considers solid and very logical for White. }
+7... Nf6 8. O-O-O { English Attack main line. } ( 8. f4
+{ Eighth-move f4 chapter, another major line where White wants e5 and kingside play. }
+8... Bb4
+{ Critical reaction to 8.f4. Black aims to disrupt White before e5 takes over. }
+9. Bd3 { Defends e4. } 9... Na5 10. a3 Bxc3 { Black gives up the bishop pair. }
+11. Qxc3 Qxc3+ 12. bxc3 d5
+{ In return for the bishop pair, Black gets good control over c4. If Black later manages ...Ne4, the position becomes very interesting. }
+13. e5 ( 13. exd5 { Older try. } 13... exd5 14. Nb3
+{ The older try the speaker mentions. } 14... Nc4
+{ Do not take the c3-pawn carelessly; Black's knight activity is more important. }
+15. Bd4 Ne4 16. Nc5 Nxc5 17. Bxc5 Bd7
+{ This is the key point according to the speaker. } 18. O-O-O O-O-O 19. Bxc4
+dxc4 20. Bb6 Rde8 21. Rd4 Bc6
+{ This is the point of the speaker's improvement over Carlsen's handling in a related structure. }
+22. Rxc4 Kd7
+{ The idea is ...f6, ...Ke6 and ...Kf7 with nothing to worry about; different-colored bishops and rook activity make White's winning chances minimal. }
+) 13... Ne4 { Black reaches the dream square. } 14. Nb3 Nc4 15. Bxc4 dxc4 16.
+Na5 Bd7 17. Bd4 Rc8
+{ A concept introduced by Anish Giri: Black can sacrifice the b7-pawn and get great coordination, often with ...Bd5 and later ...f5, ...g5. }
+18. Nxb7 Bc6 19. Na5 Bd5 { Black's pieces coordinate beautifully. } 20. Rb1 f5
+{ Plans like ...Kd7 and ...g5 follow; the speaker finds these pawn sacrifices and positional compensation fascinating. }
+) 8... Be7 9. f3 b5 10. Kb1
+{ A very tricky move. White waits for ...Bb7 so that Bf4 can come under better circumstances. }
+( 10. g4 { Normal attacking move seen in many Sicilians. } 10... Nxd4
+{ Black immediately clarifies the center. } 11. Qxd4 ( 11. Bxd4
+{ Another route in the English Attack chapter. } 11... Bb7
+{ Black develops naturally with bishop on the long diagonal. } 12. g5
+{ White launches the kingside attack. } ( 12. g5 Nh5
+{ After g5 this is a standard reaction. } 13. Be5 { Direct variation. } 13...
+Qxe5 14. Qxd7+ Kf8 15. Qxb7 Qb8
+{ Key defensive move; protects the bishop and avoids tactical problems. In analogous lines, ...Qe5 is a mistake because of knight forks on d6. }
+16. Qc6 g6
+{ Black intends to hide the king on f8/g7 and continue development. } 17. h4
+Kg7 18. Ne2 Rc8 19. Qd7 Ra7 20. Qd4+ Kg8 ( 20... Kg8 ) ) ( 12. Kb1 Rc8
+{ Natural development. In these structures the typical black setup is ...Bb7, ...Rc8, and often ...Bc5. }
+( 12... O-O { Alternative move order. } 13. g5 Nh5 14. Ne2 f5
+{ Typical counterattacking move. } ) 13. g5 Nh5 14. Be5 Qxe5 15. Qxd7+ Kf8 16.
+Qxb7 ) ) 11... Bb7 { 1726 } 12. Kb1 ( 12. g5 Nh5 13. Kb1 Rc8 14. Qd2 b4
+{ Thematic expansion. Black often wants ...b4 to dislodge key white pieces before central breaks. }
+15. Ne2 d5 { Important break in the English Attack chapter. } 16. e5 d4
+{ A very important move and theme. The speaker says in 90-95% of such positions this is the right way, because short castling would let White sacrifice on e5 and expose Black's 'monster' bishop to inactivity. }
+( 16... O-O
+{ The speaker contrasts this with the recommended ...d4; castling here is less precise. }
+17. Nd4 ) 17. Nxd4 O-O ) 12... Rc8 13. Qd2 b4 14. Na4 Nxe4
+{ There are often funky tactical ideas here. } 15. fxe4 Bxe4
+{ Black threatens both Bxh1 and pressure on c2. Even moves like Bd3 can fail tactically because of ...Bxh1 followed by ...Qc6 hitting both knight and rook. }
+) ( 10. Nxc6 dxc6 11. g4 O-O 12. Qf2 e5 13. h4 Rd8
+{ Black's setup is to get ...Rd8, ...e5, ...Be6, and later ...Qa5/b4 depending on circumstances. }
+14. Rxd8+ ( 14. Bd3 { White can also play this quieter move. } 14... Rb8
+{ Stops Bb6 ideas and supports queenside play. } 15. h5 ( 15. h5 Be6 16. g5 Nd7
+{ This was Negi's recommendation. } 17. g6 h6
+{ The speaker's improvement over Negi's recommendation appears in this chapter. }
+18. f4 ( 18. gxf7+ { Another critical variation after White sacrifices. } 18...
+Bxf7 19. Rhg1 Kh8 { As Bh6 was threatened. } 20. f4 Bf6 21. fxe5 Nxe5 22. Bxh6
+b4 { Typical Sicilian idea: Black is ready to sacrifice pawns to open files. }
+23. Na4 b3 { Typical pawn sacrifice to open the b-file. } 24. axb3 Bxb3 25.
+cxb3
+{ This is just a mistake according to the speaker; White has better defensive tries. }
+25... Nxd3+ 26. Rxd3
+{ The analysis ends in some kind of perpetual according to the speaker, and Black's position looks very good practically. }
+26... Rxd3
+{ The analysis ends in some kind of perpetual according to the speaker, and Black's position looks very good practically. }
+) 18... Qa5 19. gxf7+ Bxf7 20. Rhg1 b4 21. Na4
+{ One of the funny but important ideas to stop Black from opening the b-file too easily. }
+21... Qxa4 22. fxe5 Qxa2 23. Bxh6 Nxe5 24. Bxg7 Qa1+ 25. Kd2 Rxd3+ 26. cxd3
+Qxb2+ 27. Ke1 Qxf2+ 28. Kxf2 Ng4+ { Another crucial check in the sequence. }
+29. Rxg4 Bxh5 30. Rg2 Bxd1 31. Be5+ Kf7 32. Bxb8 a5
+{ Black is not worse because ...a4, ...a3, ...b3, ...b2 will come. } ) ) 14...
+Qxd8 15. h5 { White aims for h5-g5-g6. } 15... h6 16. g5 hxg5 17. Bxg5 Nxe4
+{ One of the tactical tricks the speaker especially points out in this chapter. }
+) 10... Bb7
+{ White's idea with Kb1 is to wait for this move and only then develop the bishop aggressively. }
+11. Bf4
+{ Otherwise Kb1 made little sense; this is the delayed attacking setup. } 11...
+e5
+{ The following tactics are 'quite funny' even if one is not learning the whole line. }
+12. Nf5 exf4 13. Nd5 { Main point of White's idea. } 13... Nxd5
+{ Possible but not recommended by the speaker; Black can hold with forcing lines, yet he prefers to keep the piece if possible. }
+( 13... Qb8
+{ Recommended move. Before that, the speaker stresses that ...Qe5 is a mistake because of a fork on d6 after a knight sacrifice sequence. }
+14. Nxg7+ Kf8 15. Nf5 Qe5 16. Nxf4
+{ This is one of the main positions after White sacrifices the bishop: lots of interesting ideas and tactics. }
+16... h5 { Important move because White was threatening Nd3 and Qh6 ideas. }
+17. g3 Bd8
+{ Recommended. The speaker also mentions ...d5 as playable for fun, but not his recommendation. }
+( 17... d5
+{ Not recommended. The engine says White is winning, though over the board it was not obvious to the speaker when he first analyzed it. }
+18. Nh4 dxe4 19. Nfg6+ fxg6 20. Nxg6+ Kf7 21. Nxe5+ Nxe5
+{ Engine thinks Black is lost in this line, so it is not recommended. } ) 18.
+Bg2 Ne7
+{ If White simply retreats, Black asks where the f5-knight is going and expands normally. }
+19. Nh4 a5
+{ Black expands on the queenside and threatens ...a4 and ...a3. Since White's knight on h4 threatens little, White must reorganize, and Black gets a normal game. }
+) ( 13... Qe5
+{ The speaker explicitly warns this is a mistake because of the fork idea on d6. }
+14. Ndxe7 Nxe7 15. Nd6+ { Forks king and bishop; this is why ...Qe5 is wrong. }
+) 14. exd5 { 1373 } 14... Nb4 { 1373 } 15. c4 { 1374 } ) ( 7. Be2
+{ Scheveningen route can arise from 6.Be2 followed by Be3. } 7... Nf6 8. O-O
+Be7 9. f4 d6 10. Kh1 ( 10. Kh1 O-O 11. Qe1
+{ White's attacking setup revolves around Qe1-Qg3. } 11... Nxd4 12. Bxd4 b5
+{ With the idea of ...b4 followed by piece activity. } 13. Qg3 Bb7 14. a3 Bc6
+15. Rae1 Rad8 { Main position of this chapter according to the speaker. } 16.
+Bd3 { Not as harmless as it looks. } 16... Qd7
+{ A surprising move the speaker prepared for Grand Prix events in 2017 and later used himself. The idea is ...Nh5, ...Nf4 and eventually ...e5. }
+17. Nd1 Nh5 { Explaining the whole point of ...Qd7. } 18. Qg4 ( 18. Qh3
+{ Alternative to Qg4. } 18... Nxf4
+{ Here ...Nf4 works because Qg7 is not an issue. } 19. Rxf4 e5
+{ If queens get exchanged, Black does not even mind sacrificing this pawn because the two bishops are more than sufficient compensation. }
+20. Rg4 exd4 21. e5 g6 { Nothing to panic about. } 22. e6
+{ It may look dangerous for Black. } 22... Qe8
+{ Everything is under control. After exf7+ Qxf7 Black's piece activity dominates, and the knight on d1 has almost no squares. }
+) 18... Nf6
+{ If White chose Qg4, ...Nf4 is not possible because of Qxg7, so Black reroutes more carefully. }
+( 18... Nf6 { Same idea. } 19. Qf3 Qb7 { With the idea of ...d5 and ...Ne4. }
+20. Nf2 Nd7
+{ The knight is awkward on f2, and Black can later play ...e5, ...Ne5 or ...Bf6. }
+) ) ( 10. a4 { Alternative main plan in the chapter. } 10... O-O 11. Kh1 Re8
+12. Bg1 ( 12. Bf3 { Another important main idea in this a4 structure. } 12...
+Nxd4
+{ The speaker recommends a rare but strong plan with ...Nd4 in this chapter. }
+13. Qxd4 e5 { Black heads for ...Be6, ...Nd7 and ...Ne5 structures. } 14. Qd2
+exf4 15. Bxf4 Be6
+{ As in all these structures, the black plan is bishop to e6, knight to d7 and then e5 or Ne5. }
+16. Rfd1 { One point of Rfd1/Rd1 is to stop ...Nd7-Ne5 directly. } ( 16. Rfd1
+Rad8 { Therefore Black is often forced to place a rook on d8 first. } 17. a5
+{ A bit careless according to the speaker. } ( 17. h3
+{ White can stop ...Ng4. } 17... h6
+{ Preparing ...Ne7, ...Bg5, and further ideas like ...Nf8-e6-g5 or ...Ng5 explored in the course. }
+) 17... Ng4 { Black is not scared by such play and has easy counterplay. } 18.
+h3 Ne5
+{ Once Black gets a knight to e5, the speaker says he probably does not need to help anymore; the play becomes easy with ideas like ...Nc4, ...Bf6 and ...Be5. }
+) ) 12... Rb8
+{ Typical move. After bxc6, ...Rb2 can be threatened; this is why Black prefers to include ...Rb8 before certain central operations. }
+( 12... e5
+{ If Black plays this immediately, White has additional options; therefore the rook move order matters. }
+13. Nxc6 bxc6 14. fxe5 dxe5 15. a5
+{ Without the rook on b8, Black cannot exploit b2 in the same way; that is the key difference. }
+) 13. Qe1 e5 14. fxe5 dxe5 15. Qg3 Bd8
+{ Important move: defends Qc7, supports the e5-pawn, and threatens to take on d4. The speaker would actually prefer Black here. }
+) 10... O-O ) 7... Nf6
+{ Against 7.Qf3, the course recommends ...Nf6 and many tactical ideas from there. }
+8. Be2
+{ This is quite cooperative: White is going to castle long, which is the main move. }
+( 8. O-O-O { Main move in the 7.Qf3 chapter. } 8... b5
+{ This immediate move fails because of e5 in this exact move order. } ( 8...
+Ne5 { Therefore ...Ne5 is recommended in the course. } 9. Qg3
+{ White follows the main queen-exchange idea. } 9... b5
+{ Now Black can expand. A recurring theme from the course: whenever White plays f4/e5, Black should be ready with ...b4. The speaker says he probably repeated this more than ten times in the course. }
+10. Ndxb5 { One of White's dangerous-looking continuations. } ( 10. Bxb5
+{ Alternative capture. Not so dangerous but forcing. } 10... axb5 11. Ndxb5 Qb8
+{ Supports the knight and is part of the standard defensive setup. } 12. Bf4 d6
+{ Recommended move in the course. } ( 12... d6
+{ Same key recommendation: ...d6. } 13. Rxd6 Nh5
+{ This line shows why other bishop captures are bad and why ...Nh5 is thematic. }
+14. Qg5 Bxd6 15. Nxd6+ Qxd6 16. Bxe5 Ra5
+{ An important move. The course gives logic for this rook lift after the forcing sequence. }
+17. Nd5
+{ Another 'funky' but nice move mentioned by the speaker in this chapter. }
+17... Qd7
+{ Important move. The position is messy and tactical, and one must understand why this queen belongs here rather than on d8. }
+( 17... Qd7
+{ If Black instead played ...Qd8, White could exchange queens, then Bc7 followed by Ba5, making Black's life unpleasant. Understanding such move purposes matters more than rote memory. }
+) ) ) ( 10. a3
+{ This line shows one of the critical 10.a3 positions. The speaker had a painful defeat against Maxime Vachier-Lagrave in this line in Bundesliga 2019. }
+10... Bb7
+{ Black develops normally; a key idea is ...Be7 and the relation to Bb6 tactics. }
+11. Bxb5 { White may grab. } 11... Rc8
+{ A nice move recommended by the speaker in the 10.a3 line. } 12. Ba4
+{ White saves the bishop. } 12... Nxe4
+{ Black immediately activates in the center. } 13. Nxe4 Bxe4 14. Bf4 Qa5 15.
+Bxe5 Qxa4
+{ Black is threatening c2 in many such lines; the course treats this critical position in detail. }
+16. Rd2 { Even this move is more or less forced according to the speaker. }
+16... h5
+{ The speaker's suggestion instead of the inferior ...f6 from his game: the main point is ...h4, ...h3 and ideas like ...Ra6 and ...Rg6, mainly asking what White's next move is. }
+) ( 10. f4
+{ Tenth-move f4 is by far the most played in this position and, together with 10.a3, one of the most challenging variations. }
+10... Neg4 { Black immediately tries to exchange the bishop. } 11. Bg1
+{ White's main retreat. } ( 11. Bg1 h5
+{ Black's idea is standard: play ...b4, move the knight from c3, then ...Ne4. }
+12. e5 b4
+{ Exactly the standard response the speaker emphasized several times: after e5, Black hits with ...b4 and questions the c3-knight. }
+13. Nb1 Ne4
+{ Since the knight went to b1, Black occupies e4. If the knight goes to a4 in related lines, Black can even think about ...Nd5. }
+14. Qe1 { White attacks the knight. } 14... Bb7 15. Nd2 Nxd2 16. Rxd2 Nh6
+{ These positions may be new in normal games but are well explored in correspondence chess, and the speaker likes many of the arising ideas. }
+17. Kb1 g6
+{ Although ...h5 and ...Ng4 may look weird, Black's typical idea is ...g6, ...Nh6, ...Nf5, and after gxf5 the king is often safest on e8. This structure keeps many chances for Black, even to play for an advantage. }
+18. Bf2 { Mainly aimed at exchanging Black's dark-squared bishop via Bh4. }
+18... Bc5
+{ Therefore Black does not play ...Be7 here; he chooses ...Bc5 to avoid White's intended bishop exchange plan. }
+19. Bg1 Bf8 { The course contains many further ideas from this position. } 20.
+Bd3
+{ The final chapter in this Qf3/f4 family: instead of Bf2, White can play Bd3. }
+20... Be7
+{ Here ...Be7 is possible, because the pawn on g2 is no longer protected by the bishop on f1. After Bf2 Bxg2 White has insufficient compensation and Black is simply a pawn up with a nice structure. }
+21. Bf2 Bxg2 { Wins a pawn cleanly in this version. } ) 11... h5 { 902 } )
+10... axb5 11. Nxb5 Qb8 { Standard defense, supporting the knight. } 12. Bd4 d6
+13. Bxe5 dxe5 14. Qc3 { This position may appear dangerous for Black. } 14...
+Nxe4
+{ Black must know this move. It not only keeps material under control but also gives the king the f6 square to hide on. The speaker calls this one of the key ideas Black should know. }
+15. Qc6+ Ke7 { The king is sound. } 16. Qxe4 Rxa2
+{ Black remains active; the key point is the tactical resource ...Nxe4 and king safety. }
+) 9. e5
+{ In the 7.Qf3 line, immediate ...b5 fails precisely because of this push. } )
+8... Ba3
+{ Trick against Qf3/Bd2 setups: if White carelessly plays Be2 after ...Nf6, Black knows this tactical idea. }
+9. bxa3 Ne5
+{ This is the trick the speaker wanted to show: later ...Qc3 and ...Qa1 ideas trap White. It's good to know even if White can often see it too. }
+*
+

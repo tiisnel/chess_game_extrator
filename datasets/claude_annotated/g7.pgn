@@ -1,0 +1,196 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 ( 1. e4
+{ Introduction to the Grand Prix Attack against the Sicilian. White plays e4 to start. }
+1... c5 { Black plays the Sicilian Defense. } 2. Nc3
+{ White plays Nc3, the start of the Grand Prix Attack - different from the usual Nf3 and d4 approach. This is the Closed Sicilian setup and may surprise opponents at lower levels. }
+2... e6
+{ Black plays e6. If black does not play d6 and instead plays e6, there's a risk that they can immediately play d5 in one move, hitting the bishop if it goes to c4 prematurely. In that case, consider putting the bishop on b5 instead. }
+3. f4
+{ White plays f4, officially starting the Grand Prix Attack. The idea is to push this pawn forward to attack the king after it castles. }
+3... Nc6 4. Nf3 d6 ( 4... Nf6
+{ Black plays Nf6 instead of d6. In this variation, the tactic of Bxf7+ may not work if it is defended. }
+5. Bb5
+{ If black doesn't play d6, bishop goes to b5 instead of c4 to avoid being hit by d5. The plan remains the same: trade the bishop for the knight, then play d3, castle, f5, Qe1 and attack. }
+5... d6 6. Bxc6+
+{ White trades the bishop for the knight. The strategy doesn't change much - the same attacking plan applies. }
+6... bxc6 7. d3 Be7 8. O-O O-O ) 5. Bc4 ) ( 1. e4
+{ Main line example of the Grand Prix Attack with a nice checkmate at the end - the ideal scenario to keep in mind. }
+1... c5 2. Nc3
+{ Knight C3 - the recommended move order for the Grand Prix Attack. } 2... d6
+{ Black plays d6, which is the ideal response for white. When you see d6, the bishop can happily go to c4. }
+3. f4
+{ F4 pushed, starting the Grand Prix attack with these two pawns ready to advance. }
+3... g6 4. Nf3 { Knight developed behind the f-pawn. } 4... Bg7 5. Bc4
+{ Bishop to c4, lining up on the weak f7 square. This is a great spot for the bishop when black has played d6. }
+5... Nc6 6. O-O
+{ White castles, part of the key setup of the Grand Prix Attack. } 6... e6 7.
+d3
+{ Pawn on d3 defending. This is the critical main position of the Grand Prix Attack: both knights out, f-pawn pushed, bishop on c4, d3 defending, and castled. }
+7... Nge7 8. Bb3
+{ Bishop drops back to b3. This is a proactive move - if black plays d5, white has more options and doesn't have to worry about the bishop being hit. }
+( 8. Bb3 { 971 } ) ( 8. Bb3 { 989 } 8... O-O
+{ Black castles. Now white launches the attack. } 9. Qe1
+{ Queen to e1! The first key idea in the Grand Prix Attack. Because the f-pawn is pushed forward, the queen can quickly slide to the kingside to attack the king. }
+9... a6
+{ Black plays a6, a waiting move. Now white executes the second key idea. } (
+9... a6 { 1235 } 10. f5 { 1235 } 10... exf5 { 1238 } 11. Qh4 { 1240 } 11...
+fxe4 { 1240 } 12. Ng5 { 1242 } 12... h6 { 1243 } 13. Nxf7 { 1243 } 13... Rxf7
+{ 1244 } 14. Rxf7 { 1244 } 14... d5 { 1244 } 15. Rxg7+ { 1245 } 15... Kxg7
+{ 1247 } 16. Bxh6+ { 1248 } 16... Kg8 { 1249 } 17. Qf6 { 1250 } 17... Nf5
+{ 1251 } 18. Qxg6+ { 1251 } 18... Kh8 { 1252 } ) 10. f5
+{ F5! The second key idea in the Grand Prix Attack. We are NOT trying to recapture this pawn. The point is to open up our bishop, open up our rook, and expose black's king. It also shuts down black's bishop. Sacrificing pawns is totally fine when going for checkmate. }
+10... exf5
+{ Black takes the pawn. Now white's bishop is more powerful and the attack is opening up. }
+11. Qh4
+{ Queen swings over to h4, lining up on h7. This is exactly why we played Qe1 earlier - to quickly bring the queen to the kingside. }
+11... fxe4
+{ Black grabs another pawn, but white is already in a winning position. } 12.
+Ng5
+{ Knight to g5! White is about to checkmate on h7. The knight is defended by the bishop on c4 lined up on f7. }
+12... h6 { Black tries to defend h7 with h6. } 13. Nxf7
+{ White sacrifices the knight on f7! Sacrificing pieces is fine as long as you're going for checkmate. }
+13... Rxf7 { Black takes the knight. } ( 13... Rxf7 { 1085 } 14. Rxf7
+{ White recaptures on f7 with the rook. } 14... d5 15. Rxg7+
+{ Rook takes g7 with check, continuing the attack. } ( 15. Rxg7+ { 1116 } 15...
+Kxg7 16. Bxh6+ { Bishop takes h6 with check, continuing the mating attack. } (
+16. Bxh6+ { 1124 } 16... Kg8 17. Qf6 { Queen to f6, threatening checkmate. }
+17... Nf5 18. Qxg6+ Kh8 19. dxe4 ( 19. Bg5 ) ( 19. dxe4 dxe4 20. Rd1 ( 20. Bg7+
+Nxg7 21. Qh6#
+{ Checkmate on h6! Beautiful finish in 13 moves - this is what the Grand Prix Attack is supposed to look like in a perfect world. }
+) ( 20. Rd1 Ncd4 21. Bg5 Qf8 22. Bf6+ Ng7 23. Qh6#
+{ Checkmate! Another mating pattern showing how these ideas - Qh4, Ng5, sacrifices - repeat across different variations. }
+) ) ) ) ) ) ) 1... c5 ( 1... c5 2. Nc3
+{ Knight C3, starting the Grand Prix setup. } 2... Nc6 3. f4
+{ F4, pushing the pawn forward to attack the king after it castles. } 3... d6
+{ Black plays d6. Perfect - now bishop can go to c4. } 4. Nf3
+{ Other knight comes out behind the f-pawn. } 4... g6 { Black fianchettos. } 5.
+Bc4
+{ Bishop to c4 - lining up on f7, the weak spot. A great square for the bishop since black played d6. }
+5... Bg7 6. O-O { White castles, completing the key setup. } 6... Nf6 7. d3
+{ D3, defending. This is the critical main position of the Grand Prix Attack: both knights out, f-pawn pushed, bishop on c4, d3 defending, castled. }
+7... O-O
+{ Black castles. Now white launches the attack with the two key ideas: Qe1 and f5. }
+8. Qe1
+{ Queen to e1! First key idea - quickly sliding the queen to the kingside to attack the king. This is possible because the f-pawn is already pushed forward. }
+8... a6 { Black plays a6. } ( 8... a6 ) ( 8... Nd4
+{ Black's knight jumps to d4, threatening a fork. Many players would panic here, but you can sometimes ignore this and continue the attack. }
+9. f5
+{ F5! We continue the attack ignoring the knight threat. We are saying: I don't care that you're going to take my rook. I'm going to keep attacking your king. }
+9... Nxc2 { Black takes the pawn with the knight, forking queen and rook. } 10.
+Qh4
+{ Queen comes to h4 continuing the attack. Even though we are losing a rook for free, Stockfish says the position is equal - white's attack is worth a rook. }
+10... Nxa1
+{ Black takes the rook for free. That's okay - we don't care. We're going for checkmate. }
+11. fxg6
+{ White opens up the position further, continuing the attack. It's okay to lose your rook if you are playing solid attacking moves. }
+11... hxg6 12. Ng5
+{ Knight to g5! We've seen this idea before. Threatening checkmate and creating a triple attack on f7. }
+12... e6 { Black tries to defend. } ( 12... Nh5
+{ Black tries to block with knight h5. Stockfish says this is the best defensive try. Can you find the winning move for white? G4 is good (attacking the knight) but an even more powerful move exists. }
+13. Nxf7
+{ Knight takes f7! When all your pieces are lined up on your opponent, they're in trouble. This shows the power of the Grand Prix Attack - pieces can't take it because it's well defended. }
+13... Rxf7 14. Bxf7+
+{ Bishop takes f7 with check, continuing the devastating attack. } 14... Kh7
+15. Qg5
+{ Queen g5 is even better - there's a forced mate. Everything is falling apart for black. }
+) 13. Rxf6 { Rook takes f6, sacrificing the rook to break through. } 13... Bxf6
+14. Qh7#
+{ Checkmate on h7! The Grand Prix Attack ideas show up in all different types of ways. }
+) 9. f5
+{ F5! Second key idea. White is not trying to recapture this pawn. The goal is to open up the bishop, open the rook, and expose black's king. Sacrificing pawns is totally fine. }
+9... gxf5 { Black takes the pawn. } 10. Qh4
+{ Queen swings to h4, lining up on h7. This is the payoff for playing Qe1 earlier. }
+10... fxe4 { Black takes another pawn but white is already winning. } 11. Ng5
+{ Knight to g5! Threatening checkmate on h7. The knight on f7 will be a devastating sacrifice. }
+11... exd3 12. Rxf6
+{ Rook takes f6! Sacrificing the rook to destroy black's defense. We don't care about losing pieces - we're going for checkmate. }
+12... Bxf6 { Black takes the rook. } 13. Qxh7#
+{ Checkmate on h7! 13 moves and the game is over with a beautiful checkmate. This is the Grand Prix Attack in a perfect world - remember this idea! }
+) ( 1... c5 2. Nc3 Nc6 3. f4 d6 ( 3... e6
+{ Black plays e6 instead of d6. This is slightly problematic for the bishop on c4. }
+4. Bc4
+{ If you immediately go bishop c4 when black plays e6 instead of d6, they can play d5 in one move without wasting time, hitting the bishop. }
+4... Nf6 5. Nf3 d5
+{ Black plays d5 in one move, hitting the bishop on c4. You have to move the bishop and waste a tempo. This is why d6 is preferred before going to c4. }
+) ( 3... d6 ) ( 3... e6 { Alternative line with e6. } 4. Nf3 d6
+{ If they eventually play d6, then you can go to c4. You can wait and see if they'll play d6 before committing the bishop. }
+( 4... Nge7
+{ Black plays Nge7, keeping d5 pressure without playing d5 immediately. } 5.
+Ng1 { White retreats the knight to avoid the pin scenario and reposition. }
+5... Ng8 6. Bb5
+{ Bishop to b5, pinning the knight on c6. If they don't play d6, putting the bishop on b5 and trading for the knight is often better than going to c4. }
+6... Nf6 7. Bxc6
+{ White trades bishop for knight. The same attacking plan still applies after the trade - it's not the end of the world. }
+7... bxc6 ) ) ( 3... d6 4. Nf3 ( 4. Nf3 g6 5. Bc4 Bg7 6. d3 Bg4
+{ Black pins the knight with Bg4. If your bishop is already on c4 when this happens, there might be a tactic available. }
+( 6... Nf6
+{ Black develops knight first, then plays Bg4. Now the tactic no longer works because f7 is defended. }
+7. O-O { White castles. } 7... Bg4
+{ Black pins the knight. Now the Bxf7 tactic doesn't work because f7 is defended by the knight on f6. }
+8. h3
+{ Option 1: H3, forcing black to make the trade. This is one way to handle the bishop pin when the tactic doesn't work. }
+( 8. Qe1
+{ Option 2: Play Qe1 and let them take. Take back with the rook. This is another approach to handling the bishop pin. }
+8... Bxf3 { Black takes the knight. } 9. Rxf3 { Rook takes back on f3. } 9...
+Nd4
+{ Black's knight jumps to d4. You can drop the queen back to defend, or sometimes ignore it and keep attacking. }
+) 8... Bxf3 { Black takes the knight after h3. } 9. Qxf3
+{ Queen takes back on f3. } 9... Nd4
+{ Black's knight jumps to d4, threatening fork. You can drop the queen back to defend. }
+10. Qf2
+{ Queen drops back to f2 to defend. The game continues with white having good attacking chances. }
+) 7. Bxf7+
+{ Tactic! Bishop takes f7 with check. This is possible when black plays Bg4 early while the bishop is on c4 - look for this tactic as it might work. }
+7... Kxf7 8. Ng5+ { Knight to g5 with check, winning the bishop on g4. } 8...
+Kf8 9. Qxg4 { White wins the bishop on g4. The tactic worked! } ) 4... g6 (
+4... Bg4
+{ Black immediately pins the knight with bishop g4. This is the case where you counterpin with Bb5 if you haven't moved your bishop yet. Key recommendation: if they pin your knight early before you've moved your bishop, counterpin their knight. }
+5. Bb5
+{ Counterpin! Bishop to b5 - the key recommendation when they pin your knight early. We don't want a knight jumping to d4 and causing problems. The reason is simple: we don't want to deal with a knight coming in and attacking our pinned knight. }
+5... a6 { Black pushes a6 to challenge the bishop. } 6. Bxc6+
+{ White trades bishop for knight, eliminating the threat of a knight jumping to d4. }
+6... bxc6 7. O-O { White castles. After castling, chase the bishop away. } 7...
+Nf6 8. h3
+{ H3 to chase the bishop away after castling. If they go back, they will get trapped - it's a version of the Noah's Arc trap. }
+8... Bh5 { Black retreats the bishop to h5. } ( 8... Bxf3
+{ If black trades on f3, white recaptures with the queen and continues. } 9.
+Qxf3 { Queen takes on f3 after the trade. } ) 9. g4
+{ G4, attacking the bishop further. Remember g4-f5 is a version of the Noah's Arc trap if the bishop goes back. }
+9... Bg6 { Black's bishop retreats to g6. } 10. f5
+{ F5! Bishop on g6 is now trapped. This is the Noah's Arc trap variation. After castling and chasing the bishop, the queen comes out to a nice square and white has a great position to launch pawns forward and attack. }
+) 5. Bc4
+{ Bishop to c4 after d6. White is happy with this placement when black has played d6. }
+) ( 3... d6 { 649 } 4. Nf3 { 649 } 4... g6 5. Bc4 Bg7 6. O-O Nf6 ) ) 2. Nc3
+{ 32 } ( 2. Nc3
+{ Knight C3, starting the Grand Prix setup. In the actual game: they played D6 right away, so bishop can go to C4. }
+2... Nc6 3. f4 { F4, pushing the pawn forward. } 3... d6
+{ Black plays d6. As soon as you see d6, you know the bishop can go to c4 and you should be happy. }
+4. Nf3 { Knight f3 developed. } 4... g6 5. Bc4
+{ Bishop to c4. In the real game, the bishop was later dropped back to b3 proactively so that if black plays d5, white has more options and doesn't have to worry about the bishop being hit. }
+5... Bg7 6. O-O { White castles. } 6... Nf6 7. d3 { D3 played. } 7... O-O
+{ Black castles. Now white launches the attack! } 8. Qe1
+{ Queen to e1! You've seen this idea before. Sliding the queen to the kingside. This was coming - hopefully you knew it. }
+8... a6 { Black plays a6. } 9. f5
+{ F5! I don't care about the pawn. Not going there to trade pawns - going there to open up the bishop, open the rook, and hopefully open up a diagonal or file to attack the king. }
+9... gxf5
+{ Black takes the pawn. Now white's bishop is more powerful. The position is opening up for the attack. }
+10. Qh4
+{ Queen to h4. Now think about the next moves - knight g5 maybe looks good, bishop g5, bishop h6 - lots of ways to attack. Bring the pieces over and start looking for tactics. }
+10... fxe4
+{ Black captures another pawn - it's a mistake! See if you can find what white plays here. }
+11. Ng5
+{ Knight to g5! We don't care about recapturing pawns. This creates a triple attack on f7 and a checkmate threat. Black is already in a losing position on move 12 of a 3-minute game. }
+11... exd3 { Black tries to stop the immediate checkmate, but white jumps in. }
+12. Rxf6
+{ Rook takes f6! Sacrificing the rook. We don't care about losing pieces - the only thing we care about is attacking the king and getting checkmate. Black's position is bad - either move the queen and open up to discovered check, or sack the rook. }
+12... Bxf6 { Black takes the rook. } 13. Qxh7#
+{ Checkmate on h7! Beautiful finish. This demonstrates all the key ideas: Qe1, f5, not worrying about pawns or pieces, bringing pieces in, going for weak spots. That's how you play the Grand Prix Attack. }
+) *
+

@@ -1,0 +1,332 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4
+{ White begins with 1.d4, entering queen-pawn territory and aiming for a more positional style. }
+1... d5 { Black replies 1...d5, taking a share of the center. } ( 1... Nf6
+{ In the Queen's Indian comparison, Black starts with ...Nf6 first; this leads to a different move order and setup than the Tartakower. }
+2. c4 { White plays c4 in the Queen's Indian move order as well. } 2... e6
+{ Black supports a dark-square structure before ...b6 in the Queen's Indian setup. }
+3. Nf3
+{ White develops normally; in the Queen's Indian White usually goes for Nf3 and later g3. }
+3... b6 { Black prepares to fianchetto in Queen's Indian style. } 4. g3
+{ Key Queen's Indian idea: White fianchettos with g3 and Bg2, contesting the long diagonal; this is one big difference from the Tartakower structures discussed. }
+) 2. c4
+{ This is the Queen's Gambit. White offers the c-pawn to gain space and central freedom; if Black takes, White often gets the pawn back quickly. }
+( 2. c4 ) 2... dxc4
+{ One possible acceptance of the gambit; the lecturer notes White can often continue with e4 and quickly recover the pawn with active central play. }
+( 2... e6
+{ This is the Queen's Gambit Declined. Black usually declines the pawn to avoid giving White too much space and freedom. }
+) ( 2... c6 { An alternative leading to the Slav Defense. } ) ( 2... e6
+{ Tonight's focus is this move: the Queen's Gambit Declined. } 3. Nc3
+{ The most popular continuation. White increases pressure on the center and supports a possible e4 advance. }
+3... Nf6
+{ Black restrains e4 by adding control over that square and also reinforces d5. }
+4. Bg5
+{ To reach the Tartakower, White plays Bg5. This pins the knight to the queen and reduces Black's flexibility in recapturing on d5. }
+( 4. Nb1 Ng8 5. Nc3 Nf6 6. Bg5 ( 6. Nb1 Ng8 7. Nc3 Nf6 8. Bg5 Be7 9. Nf3 h6 10.
+Bh4 O-O 11. e3 b6 12. Bd3 Bb7 13. O-O Nbd7 14. Qe2 Ne4 15. Bg3 ( 15. Qd1 Nef6
+16. Qe2 Ne4 17. Bg3 c5 18. cxd5 ( 18. cxd5 exd5 19. Rad1 c4 20. Bb1 ) 18...
+exd5 ( 18... exd5 19. Rad1 ( 19. Rfd1 Nxg3 20. hxg3 c4 21. Bc2 ) ( 19. Rad1 c4
+20. Bxe4 dxe4 21. Nd2 ) ( 19. Rfd1 c4 ( 19... Nxg3 ) ) ) ( 18... exd5 19. Rad1
+Nxg3 20. hxg3 c4 21. Bf5 ) 19. Rad1 ( 19. Rad1 ) ( 19. Rac1 ) 19... cxd4 20.
+Nxd4 ) 15... f5
+{ On the suggested ...f5 idea: the lecturer later says this does not really work well for Black here; White gets strong play with cxd5 and Ne5. }
+16. cxd5 { White opens the center against Black's kingside ambitions. } 16...
+exd5 17. Ne5
+{ A strong move; White uses the central outpost and creates tactical problems, undermining the ...f5 plan. }
+17... Nxe5 18. Bxe5
+{ White regains with an active bishop; the point is that Black's ...f5 setup has not achieved much and has cost the bishop pair potential. }
+) 6... Be7 7. Nf3 h6 8. Bh4 O-O 9. e3 b6 10. Bd3 Bb7 11. O-O ( 11. Bf1 Bc8 )
+11... Nbd7 12. Qe2 Ne4 13. Bg3 ( 13. Bg3 c5 14. cxd5 ( 14. cxd5 exd5 ( 14...
+exd5 ) 15. Rad1 f5 16. Ne5 ) ( 14. cxd5 exd5 15. Rad1 cxd4 16. Nxd4 ) 14...
+exd5 { 3107 } 15. Rad1 { 3107 } 15... Nxg3 { 3109 } ) 13... f5 ( 13... c5 ) (
+13... f5 14. cxd5 exd5 15. Ne5 ) 14. cxd5 { 3025 } 14... exd5 { 3027 } 15. Ne5
+{ 3031 } 15... Nxe5 { 3056 } 16. Bxe5 { 3058 } ) 4... Be7
+{ Black breaks the pin, develops a piece, and prepares to castle while maintaining defense of d5. }
+5. Nf3
+{ One standard developing move order; the lecturer notes several move orders can transpose into the same structure. }
+5... h6 { Black asks the bishop to decide before castling in this move order. }
+6. Bh4
+{ This is the main move, preserving the bishop pair and keeping future pressure. }
+( 6. Bxf6
+{ This is the Anti-Tartakower idea. White gives up the bishop pair to provoke structural concessions and a more semislov/isolani type game. }
+6... Bxf6
+{ Black recaptures with the bishop; later White supports the center and aims at structural targets. }
+7. e3 { Supports the center and opens the diagonal for the bishop. } 7... O-O
+8. Rc1 { White places the rook on the c-file, expecting it to open quickly. }
+8... c6
+{ Black defends and reaches a Semi-Slav-like triangle, but the light-squared bishop is shut behind the pawns. }
+9. Bd3 { Natural development in this structure. } 9... Nd7 10. O-O dxc4 11.
+Bxc4 e5
+{ Black can get away with this break because the pawn is sufficiently defended. }
+12. h3 exd4 13. exd4
+{ White accepts an isolated queen's pawn structure; the usual plan is active piece play and timing a d5 push. }
+13... Nb6
+{ Black opens the bishop's diagonal and increases pressure on White's position. }
+14. Bb3 { Retreat to preserve the bishop. } 14... Bf5 15. Re1
+{ Bringing rooks to the e-file is part of the natural setup. } 15... Re8 16.
+Rxe8+ Qxe8 17. Qd2 Qd7 18. Re1
+{ This line leads to an equal position; the Anti-Tartakower is something Black should know if choosing this move order. }
+) ( 6. Bh4
+{ Main line retreat, keeping more ambitious chances by preserving minor pieces. }
+6... O-O { Black castles; this move order also reaches the Tartakower setup. }
+7. e3 { White prepares normal development and keeps central stability. } 7...
+b6
+{ This is the starting position of the Tartakower Defense. The idea is to activate the c8-bishop via b7 because e6 blocks the natural diagonal. }
+( 7... b6 8. Qb3
+{ An older line and one of the better-scoring options for White. It adds pressure to the center. }
+( 8. cxd5 { Another serious option from this position, to be discussed later. }
+) ( 8. Qb3 ) ( 8. cxd5 Nxd5
+{ Black's most popular practical response in that line is to take with the knight first, creating threats on the bishop. }
+( 8... Nxd5 9. Bxe7
+{ White must resolve Black's threat on the bishop first; taking on e7 is the correct reaction. }
+9... Qxe7
+{ Black should recapture with the queen; this keeps development more harmonious than ...Nxe7. }
+( 9... Nxe7
+{ The lecturer says recapturing with the knight is playable but less sensible because it undevelops the knight. }
+10. Bd3 { White is ahead in development, has space, and is ready to castle. } )
+( 9... Qxe7 10. Nxd5
+{ White then wins back in the center and forces the pawn structure White wants. }
+( 10. Nxd5 exd5
+{ Black is forced into the desired pawn recapture, creating the structural target. }
+11. Rc1 { White pressures c7. } 11... Be6
+{ Most popular master move; Black develops actively and eyes a future ...c5. }
+12. Qa4 { White increases pressure and keeps options. } 12... c5
+{ Black strikes in the center. } 13. Qa3
+{ Important finesse: White pressures c5 and pins ideas around the queen on e7; Black cannot freely take on d4 because the queen would hang. }
+13... Rc8 { Black adds defense to c5. } 14. Be2
+{ White calmly finishes development. } 14... Rf8
+{ Black breaks the pin indirectly by moving the queen later in the model line and coordinating pieces; the overall position remains roughly equal. }
+15. Bf1 ) 10... exd5 { 1216 } 11. Rc1 { 1220 } 11... Be6 { 1225 } ( 11... Bb7
+{ 1250 } 12. Bd3 { 1252 } 12... c5 { 1256 } 13. dxc5 { 1259 } 13... bxc5
+{ 1260 } 14. O-O { 1261 } ) ( 11... Be6 { 1276 } 12. Qa4 { 1280 } 12... c5
+{ 1284 } 13. dxc5 { 1288 } ( 13. Qa3 { 1294 } 13... cxd4 { 1298 } ( 13... Rc8
+{ 1306 } 14. Be2 { 1310 } 14... Qf8 { 1313 } 15. dxc5 { 1318 } 15... bxc5
+{ 1319 } 16. O-O { 1322 } 16... Nd7 { 1327 } ) 14. Qxe7 { 1300 } ) 13... bxc5
+{ 1288 } ) 12. Qa4 { 1245 } ) ) 9. Bxe7
+{ In the tactical line after ...Nxd5, White first captures on e7 to resolve the threat on the bishop. }
+9... Nxc3
+{ This flashy knight move is a trap attempt by Black, but the lecturer says it is losing. }
+10. Bxd8 { White trades queens. } 10... Nxd1
+{ Black grabs the rook, but the knight will be trapped. } 11. Be7
+{ A key tempo move on the rook; this shows why Black's tactic fails. } 11...
+Re8
+{ If Black tries to save matters this way, White can simply retreat the bishop. }
+12. Ba3 { The knight is trapped and Black ends up losing a piece. } ) ( 8. Rc1
+{ Another major option after ...b6. White focuses on queenside pressure and often follows with Bxf6 and b4. }
+8... Bb7 { Black develops the bishop as usual. } 9. Bxf6
+{ Same strategic idea as before: remove a defender of d5 so Black must later recapture with a pawn. }
+9... Bxf6
+{ If Black recaptures with the bishop, White will get a lead in development after Nxd5 ideas. }
+10. cxd5
+{ White opens the center to punish Black's development and target structure. }
+( 10. cxd5 exd5 11. b4
+{ A thematic queenside expansion in the Tartakower. Instead of immediately forcing hanging pawns, White can stop ...c5 with b4. }
+11... c6 { Black chooses a solid setup since ...c5 is prevented. } 12. Bd3
+{ Natural development. } 12... Qd6 13. Qb3
+{ White continues queenside pressure. } 13... Nd7 14. O-O a5
+{ Black challenges White's queenside expansion. } 15. a3
+{ Defends before Black can trade on b4. } 15... axb4 16. axb4 Be7
+{ Black attacks the pawn structure and keeps developing. } 17. Rb1
+{ White is doing fine after this rook lift, defending the queenside. } 17...
+Rfe8 18. Rfe1
+{ The resulting position is only very slightly better for White. } ) 10... exd5
+{ Black gets the expected hanging-pawn or IQP style structure depending on continuations. }
+( 10... Bxd5
+{ The lecturer dislikes this kind of bishop recapture because White gets active development with tempo. }
+11. Nxd5 { White develops by taking. } 11... Qxd5 12. Bc4
+{ Comes with tempo on the queen and shows why the bishop recapture is less attractive for Black. }
+12... Qd8 13. O-O { White is miles ahead in development. } ) ) ( 8. Bd3
+{ This is the main line of the Tartakower and the move most players choose. } )
+( 8. Be2
+{ A serious alternative. One point is that if Black takes on c4, it won't hit the bishop with tempo. }
+) ( 8. Be2 dxc4
+{ In the Be2 line, Black can take on c4 without gaining time on the bishop. } (
+8... Bb7 { Normal development in the Be2 line. } 9. Bxf6
+{ Again, White removes the defender of d5. } 9... Bxf6 10. cxd5
+{ This central capture pattern is becoming standard in these lines. } 10...
+exd5 11. b4 { White can still carry out the queenside expansion with b4. }
+11... c6 { Main move, similar to the Rc1 lines. } ( 11... c5
+{ Because the rook is not on c1, Black also has this more direct possibility in the Be2 move order. }
+12. bxc5 { White captures, but not to regain on c5 later immediately. } 12...
+bxc5 ( 12... bxc5 13. Rb1 { The rook lift is thematic in this structure. }
+13... Bc6
+{ Black moves the bishop out of harm's way and keeps the structure together. }
+14. O-O { White finishes development. } 14... Nd7 15. Bb5
+{ White aims to trade light-squared bishops. } 15... Qc7
+{ Defends the bishop. } 16. Bxc6 { This trade leads to an equal game. } 16...
+Qxc6 ) 13. Rb1 { 1658 } ( 13. dxc5 { 1663 } 13... Bxc3+ { 1666 } ) ) ( 11... c6
+{ Main move in the Be2+b4 setup. } 12. O-O { White castles. } 12... Re8
+{ Black centralizes a rook. } 13. Qb3 { Follows the queenside expansion plan. }
+13... a5 { Black challenges White's queenside space. } ( 13... Rf8
+{ Alternative seen in master practice. } 14. Qd1 ) 14. a3
+{ Playable, but the lecturer later prefers taking on a5 and then playing a4 in a related line. }
+( 14. bxa5 { Alternative practical try. } 14... Rxa5 15. a4
+{ White gains space and limits the rook. } ( 15. Rab1
+{ Another idea to pressure the queenside. } 15... Nd7 ) ( 15. a4 Nd7 16. Rfe1
+{ A somewhat mysterious rook move, but it prepares flexible piece coordination and possible central play. }
+16... Qa8 17. Bd3 { Controls key lines and supports the possibility of e4. }
+17... c5
+{ Now Black can break because c5 is adequately defended by several pieces. }
+18. Bb5 { Pins the knight to the rook. } 18... Rd8
+{ Logical defense, breaking the pin. } 19. Bxd7 Rxd7 20. Qxb6
+{ White appears to win a pawn. } 20... Bc6
+{ Black activates the bishop and starts building pressure; White's queen is short of squares. }
+21. Rab1
+{ Best practical way is to bring the rook to the open file, since White likely loses the a-pawn anyway. }
+21... Kh7 { This was reached in a 2018 game that ended in a draw. } ) 15... Nd7
+{ 1792 } ) 14... Nd7 { 1754 } ) ) 9. Bxc4
+{ White can simply recapture. One point of Be2 was that this does not come with tempo on the bishop. }
+) ( 8. Bd3 ) ( 8. Bd3 { The most popular and main-line continuation. } 8... Bb7
+{ As expected, Black develops the bishop to b7 in the Tartakower. } ( 8... dxc4
+{ If Black takes on c4 here, the lecturer says White has no problem meeting it. }
+9. Bxc4 { White simply recaptures with the bishop. } 9... Bb7
+{ Black continues normal development. } 10. O-O
+{ White castles early compared to some other lines. } 10... Nbd7 11. Qe2
+{ Important flexible move. It connects the rooks, keeps queen recapture available on f3, and supports a possible e4 push. It leaves White free to choose whether rooks belong on c/d-files or d/e-files. }
+11... Ne4
+{ A move reminiscent of Queen's Indian ideas, trying to trade minors because Black is a little cramped. }
+12. Bg3
+{ Retreating is often better than exchanging; this bishop retreat appears in several lines. }
+12... Nxg3
+{ If Black takes, White is happy to recapture with the h-pawn and keep a sound structure. }
+13. hxg3 { White's structure remains healthy despite doubled pawns. } 13... c5
+{ Black strikes in the center. } 14. dxc5
+{ The lecturer says White often prefers not to help Black develop by taking too early in some related lines; here he explores possibilities. }
+( 14. Rfd1
+{ A key improvement in related positions: instead of taking and helping Black develop, White can place a rook on the open/semi-open file. }
+14... Bxf3
+{ This is actually the most played move in the database here, though the lecturer and engine are not big fans of it for Black. }
+15. Qxf3 { With queen recapture, the game stays about equal. } ( 15. gxf3
+{ With pawn recapture, surprisingly White has a substantial advantage, nearly +1 according to the lecturer's engine notes. }
+15... cxd4 16. exd4
+{ White keeps a king shelter and may later use the h-file. } 16... Nf6 17. d5
+{ White gets a strong central push. } 17... exd5 18. Bxd5
+{ White's tactical ideas revolve around pressure on the rook and bishop-f7 ideas. }
+( 18. Nxd5 { Alternative move order mentioned. } 18... Nxd5 ( 18... Bc5
+{ A slow improvement for Black, but White still gets queenside space. } 19. b4
+{ White expands and enjoys the better space and piece placement. } ) 19. Bxd5
+{ The bishop on d5 attacks the rook and threatens Bxf7+ with a discovered attack on the queen — a tactical fork motif emphasized by the lecturer. }
+) ) ) ( 14. Rfd1 Nf6
+{ Better than exchanging on f3; Black should keep more pieces and continue normally. }
+15. dxc5 Qc7
+{ Black can even consider active piece play and pawn sacrifice ideas for activity rather than the inferior ...Bxf3 line. }
+16. cxb6 { White grabs a pawn. } 16... Qxc4
+{ Black's active pieces provide compensation; the lecturer presents this as a better practical route than ...Bxf3. }
+( 16... Qxb6 { Alternative recapture mentioned. } ) ) 14... Bxc5 { 2055 } (
+14... Nxc5 { 2058 } ) ) ( 8... Bb7 9. O-O
+{ White castles early in the main line. } 9... Nbd7 { Most played move. } 10.
+Qe2 { Again the key flexible move, connecting rooks and supporting e4. } ( 10.
+Rc1
+{ The lecturer used to play this, but prefers Qe2 first because rook placement is still unclear. }
+) ( 10. Qe2 c5
+{ One possible central break, but the lecturer thinks ...Ne4 is a bit more forcing. }
+( 10... Ne4
+{ This is probably better, because it is more forcing and aims to trade a set of minor pieces. }
+) ( 10... c5 11. dxc5
+{ If Black breaks with ...c5 immediately, White has many central capture options and can sometimes mess up Black's structure. }
+( 11. cxd5
+{ Capturing on d5 is said to be slightly better than taking on c5 in some of these positions. }
+11... exd5
+{ This is exactly the kind of recapture White aims to force when possible. } )
+11... Nxc5 { 2354 } ) ( 10... Ne4 { The more forceful move order. } 11. Bxe7
+{ Playable: White can simply exchange on e7 if desired. } ( 11. Bg3
+{ The lecturer recommends this retreat as a good main response to ...Ne4. }
+11... Nxg3
+{ If Black takes the bishop, White has no problem recapturing with the h-pawn. }
+( 11... c5 { Another related continuation. } 12. cxd5 exd5 13. Rad1
+{ White gets the rook to the open file and can later occupy the c-file as well. }
+) 12. hxg3 { White keeps a sound structure. } 12... Nf6
+{ Black would likely continue by developing the knight back to f6. } 13. cxd5
+{ If White now captures a lot on d5, it does not hurt Black as much because Black can recapture with a piece instead of a pawn. }
+13... Nxd5
+{ This is what Black was aiming for with ...Ne4 — avoiding the forced ...exd5 structure. }
+14. Nxd5 Qxd5 { Black has no structural problems here. } ) 11... Qxe7 { 2386 }
+12. cxd5 { 2387 } 12... exd5 { 2389 } 13. Rfd1 { 2391 } ( 13. Rac1 { 2394 } ) (
+13. Rfc1 { 2395 } ) ) ) ) ( 8... Bb7 { 2464 } 9. O-O ( 9. O-O Nbd7 10. Qe2 Ne4
+( 10... dxc4 { A direct capture is also possible in some branches. } 11. Bxc4
+Ne4 12. Bxe7 Qxe7 13. Nxe4 Bxe4 14. Rfd1 c5 15. Rac1 ) ( 10... Ne4 11. Bg3 (
+11. Bg3 c5 12. cxd5 exd5 13. Rad1 Nxg3 ( 13... Qc8
+{ An alternative to taking on g3, played famously by Ivanchuk in 2007. It aims for equality through piece trades. }
+14. Rc1
+{ In that game White shifted the rook from d1 to c1, now lining up with the queen and preparing to use the c- and d-files. }
+14... Rd8 { Black contests the file. } 15. Rfd1
+{ White then uses both c- and d-files. } 15... Ndf6 16. Ne5
+{ White centralizes the knight. } 16... Qe6 17. Bh4
+{ Avoids exchanges and keeps ideas of Bxf6. } 17... Rac8 18. f3 cxd4 19. exd4
+Nxc3 20. Rxc3 Rxc3 21. bxc3 Nd7 22. Bxe7 Qxe7 23. Nxd7 Rxd7
+{ The game simplified heavily and was drawn; queen-c8 is a solid equalizing method. }
+) ( 13... Nxg3 14. hxg3 Qc7
+{ After ...Nxg3 and hxg3, the lecturer recommends ...Qc7 as a practical move, though theory largely dissipates from there. }
+) 14. hxg3 { 2744 } ) 11... c5 ( 11... Nxg3 { 2593 } 12. hxg3 { 2594 } 12...
+dxc4 { 2595 } 13. Bxc4 { 2597 } ) ) 11. Bg3 { 2535 } 11... c5 { 2536 } 12. cxd5
+{ 2540 } 12... exd5 ) 9... Nbd7 ( 9... dxc4 10. Bxc4 c5 11. dxc5 Bxc5 12. Qe2 )
+( 9... Nbd7 10. Qe2 dxc4 11. Bxc4 ) ) ) 8... Bb7
+{ Black nearly always follows ...b6 with ...Bb7, reinforcing the center and developing naturally. }
+9. Bxf6
+{ White gives up the bishop pair not for attack, but to force Black into a less ideal pawn structure by making ...exd5 more likely or necessary. }
+9... Bxf6
+{ The lecturer notes Black would rather keep this bishop on the board in many cases, since White's dark-square setup limits its counterpart and queenside holes can matter. }
+10. cxd5
+{ White takes immediately. If Black recaptures with the pawn, White often gets a favorable hanging-pawns or IQP structure to play against. }
+( 10. cxd5
+{ In the queen-b3 line this starts a tactical sequence where rook placement on d1 matters. }
+10... exd5 { Black takes with the e-pawn; White now aims at this structure. }
+11. Rd1
+{ A somewhat mysterious move at first glance. The idea becomes clear later: White wants pressure on the open d-file and support for tactical ideas after ...c5. }
+11... Re8 12. Bd3 { Partly supports the bishop and completes development. } (
+12. Bd3 c5 { Black should challenge the center here. } ( 12... Rf8
+{ Alternative setup noted. } 13. Bf1 ) 13. dxc5
+{ White captures; the rook on d1 is now well placed on the open file. } ( 13.
+dxc5 Nd7
+{ Black cannot recapture at once because tactical issues leave the bishop hanging; ...Nd7 is necessary to regain material properly. }
+( 13... d4
+{ This is bad. The lecturer says Black gets too loose in the center and falls behind in development. }
+14. Bc4
+{ Strong reply: White attacks f7 with check ideas and Black's position starts to fall apart. }
+) 14. c6
+{ Key move. White accepts losing the c-pawn but damages Black's structure as much as possible first. }
+( 14. c6 Bxc6
+{ Black must take with the bishop; tactical tries with ...Nc5 can fail badly. }
+) 14... Bxc6 { Forced. } 15. O-O
+{ Now White can finally castle and complete development. } ) 13... Nd7 14. c6
+Bxc6 15. O-O ) 12... c5 13. dxc5 bxc5
+{ Black cannot always recapture immediately in some sublines because of tactical details. }
+( 13... Nd7 { Alternative noted instead of immediate recapture. } ) ( 13... Nd7
+14. cxb6 Nc5 15. Qc2
+{ Normally this would save things, but in the queen-b3 tactical line castling problems can make similar ideas fail. }
+15... Nxd3+ 16. Qxd3 Qxb6 17. O-O
+{ In some related lines White would like to castle, but in the key tactical line bishop-a6 skewers can prevent it. }
+17... Ba6
+{ The bishop-a6 skewer motif is exactly why grabbing pawns too greedily can fail when White has not castled in time. }
+18. Qd2 Bxf1 19. Kxf1 ) ( 13... Nd7 14. c6 Bxc6 ( 14... Nc5
+{ This natural-looking fork on queen and bishop is a blunder in the queen-b3 line because of a promotion tactic. }
+15. Qxd5
+{ This does not work there because of ...Bxc3+ and loss of the queen defender, so it's not the right tactical refutation. }
+( 15. cxb7
+{ This is the correct tactic. White ignores the hanging queen and heads for promotion. }
+15... Nxb3 { Black takes the queen. } 16. bxa8=Q { White makes a new queen. }
+16... Qxa8 { Black removes it, but White still comes out ahead materially. }
+17. axb3
+{ White ends up with three minor pieces versus queen-side losses and is materially ahead; Stockfish gives White a clear plus. }
+) 15... Bxc3+ { 825 } 16. bxc3 { 829 } 16... Qxd5 { 830 } ) ( 14... Bxc6
+{ After c6, Black must take with the bishop to avoid the promotion tactic. }
+15. O-O { White finishes development. } 15... Nc5
+{ Now this jump is harmless; White can simply answer with Qc2. } 16. Qc2
+{ White keeps pressure on the isolated pawn. } 16... Rc8
+{ Lines up rook and queen, but with all pieces in the way it is not yet dangerous. }
+( 16... Nxd3 { Alternative noted. } 17. Qxd3 ) ( 16... Rc8 17. Nd4
+{ White can centralize the knight here. } 17... Bxd4 18. exd4
+{ This yields an equal position. } 18... Nxd3 19. Qxd3 ) ) ) ) ( 10. cxd5
+{ 1067 } 10... exd5 11. Rd1 ) 10... exd5 { 553 } ( 10... Bxd5
+{ If Black recaptures with the bishop, White gets activity and Black would prefer to keep the bishop anyway. }
+11. Nxd5 { White develops with gain. } 11... exd5 ) ) ) ) 3. e4
+{ If Black accepts the Queen's Gambit, one common continuation is for White to strike immediately with e4, using central activity to recover the pawn quickly. }
+*
+

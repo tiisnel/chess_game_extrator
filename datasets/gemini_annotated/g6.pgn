@@ -1,0 +1,85 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6
+{ This is a typical Italian game structure and is the most common position at the amateur and beginner levels because the development makes sense for both sides. }
+6. Bg5
+{ One of the most popular continuations in this position with millions of games, but it is actually an inaccuracy. Under no circumstances should Black respond with the symmetry of Bishop to G4 immediately. }
+( 6. Bg5
+{ A common mistake at the amateur level that White often makes, attempting to pin the knight early. }
+6... h6 { Asking White what they plan to do with the bishop after the pin. } 7.
+Bxf6
+{ If White takes the knight, there is nothing to worry about. We simply recapture and continue development. }
+( 7. Bh4
+{ Usually, if White has already brought their bishop to G5, they retreat to maintain the pin. }
+7... g5
+{ It is important not to be afraid to play G5 here. Since we haven't castled yet, we aren't afraid to push pawns in front of our king, and the knight sacrifice on G5 isn't dangerous yet. }
+8. Bg3 { The bishop retreats. } 8... Bg4
+{ Now we bring our bishop out to G4 to pin White's knight. } 9. h3
+{ White tries to kick the bishop. } 9... Bh5
+{ The G-pawn is blocked by White's own bishop on G3. This bishop has no prospects and is trapped by the pawns. }
+10. Qd2
+{ The most popular move, but it allows Black to ruin the pawn structure. } (
+10. Bh2
+{ A less common move where White tries to clear the way for the G4 pawn push. }
+10... Qe7 ( 10... Bxf3 11. Qxf3 Nd4 { Putting pressure on the knight/queen. }
+12. Qd1 ) 11. g4 Bg6
+{ Black's bishop ends up in a similar situation, but the position remains playable. Alternatively, one could take on F3. }
+) ( 10. Qd2 ) ( 10. Bh2
+{ My personal recommendation here is to try playing Knight to F5 and exchange off the light-squared bishop. }
+) 10... Bxf3 { Capturing the knight to ruin the opponent's pawn structure. }
+11. gxf3 { Ruining the king's pawn shield. } 11... Nd4
+{ Placing the knight in the center. This position provides a very comfortable advantage for Black. }
+) 7... Qxf6 { Developing the queen while recapturing. } 8. Nd5
+{ If the knight moves forward to attack the queen and the C7 pawn. } 8... Qd8
+{ We can return to D8 to protect the pawn on C7 and continue developing as if nothing happened. }
+) ( 6. Bg5 ) ( 6. h3
+{ The second most popular move, intended to prevent the bishop from coming to G4 and pinning the knight. }
+6... h6 { Symmetric response, not allowing White's bishop to go to G5. } 7. Be3
+{ A good continuation. After an exchange on E3, White's pawns move closer to the center, creating a strong formation. Black should usually retreat the bishop to B6 to keep the tension. }
+( 7. O-O { Most people choose to castle here. } 7... g5
+{ An unconventional move with a 62% win rate. Since we haven't castled, we launch an attack on the kingside by pushing G4, aiming to exchange the H3 pawn and open the G-file for the rook. }
+8. Nh2
+{ The strongest move to prevent the G4 push, but it is practically impossible to find without prior knowledge. }
+( 8. Be3 { Developing the bishop but allowing Black's plan. } 8... g4
+{ Forcing White to exchange pawns. } 9. hxg4 Bxg4 10. Bxc5 dxc5 11. Nd5
+{ The most popular continuation for White here. } 11... Nd4
+{ Pinning White's knight. White's king will be exposed and their structure ruined. }
+12. c3 Nxf3+ 13. gxf3 Bh3 14. Re1 Nxd5
+{ Black can simply take the knight and eventually deliver mate on G2. White's position is lost. }
+) ) ) ( 6. O-O
+{ Castling is the most reasonable continuation for White compared to the inaccuracies of Bg5 or H3. }
+6... Bg4 { Black applies a pin to the F3 knight. } 7. h3
+{ White asks the bishop to move. } 7... Bh5
+{ Black maintains the pin. We don't rush to castle ourselves. } 8. Be3
+{ White's best decision here is to plan Bishop E3 to challenge Black's bishop. }
+( 8. g4
+{ If White tries G4, it allows an interesting sacrifice on the G4 square since the opponent has castled and we haven't committed our king yet. }
+8... Nxg4 { The sacrifice that exploits the white king's exposure. } 9. hxg4
+Bxg4
+{ Now we need to address the pin. The queen is ready to join F6 and the knight is ready for D4. }
+10. Be3 { Essentially the only correct defensive move. } 10... Qf6
+{ Applying pressure on the knight and the pin. } 11. Nd5 Qg6
+{ Bringing the queen into the attack. } 12. Nxc7+
+{ If the opponent gets tempted by the fork, they are basically admitting defeat because they can't take the rook without getting checkmated. }
+( 12. Nc3 Qf6 13. Bc1 Qd8 ) 12... Kd7 { Black is winning. } ) ( 8. Bg5
+{ If the opponent tries this move, you already know what to do. } 8... h6
+{ Pushing the bishop. } 9. Bh4 { The bishop retreats. } 9... g5
+{ Pushing further to break the pin and trap the bishop on G3. } 10. Bg3
+{ The bishop is forced to G3. } 10... Nd4
+{ Bringing the knight into the attack against the pin and ruining the pawn structure. }
+11. a3 ( 11. Nd5 { This move essentially loses the game for White. } 11... Nxd5
+{ Simply taking the knight. } 12. Bxd5 c6
+{ Driving the bishop away so it doesn't attack B7. } 13. Bc4 Qf6
+{ Putting pressure on the pin that White can no longer get rid of. } 14. c3
+Nxf3+ 15. gxf3 Bxf3 16. Qd2 h5
+{ Preparing further kingside attack with H4, G4. White's position will fall back and Black will deliver mate. }
+) 11... Qd7
+{ Threatening the opponent by taking on F3 to ruin the pawns. The bishop on G3 won't be able to go anywhere. }
+) ) *
+

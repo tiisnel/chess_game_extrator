@@ -1,0 +1,99 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 ( 1. e4
+{ Introduction to an aggressive, easy-to-learn opening system called the Grand Prix Attack, used against the Sicilian Defense to aim for an early checkmate. }
+1... c5
+{ The Sicilian Defense, which White will meet with the Grand Prix setup. } 2.
+Nc3
+{ The Closed Sicilian move, which often surprises opponents at lower levels who expect the Open Sicilian. }
+2... e6
+{ Against E6, White must be careful because Black can play D5 in one move, potentially forcing the bishop to move twice and wasting time. }
+3. f4
+{ The starting move of the Grand Prix Attack, establishing a pawn structure to support a kingside assault. }
+3... Nc6 { 875 } 4. Nf3 { Standard development of the kingside knight. } 4...
+d6
+{ Whenever White sees D6, it is generally considered a good time to place the bishop on C4. }
+( 4... Nf6 { 883 } 5. Bb5
+{ If Black has not played D6, putting the bishop on B5 to trade for the knight is a recommended alternative to C4. }
+5... d6 { 886 } 6. Bxc6+
+{ Trading the bishop for the knight; the overall strategy of the Grand Prix Attack remains applicable regardless of this trade. }
+6... bxc6 { 887 } 7. d3 { A stabilizing move for the center. } 7... Be7 { 889 }
+8. O-O O-O { 891 } ) 5. Bc4
+{ Placing the bishop on C4 lines it up against the weak F7 spot. } ) ( 1. e4
+{ 939 } 1... c5 { 943 } 2. Nc3 { 945 } 2... d6 { 946 } 3. f4 { 952 } 3... g6
+{ 953 } 4. Nf3 { 954 } 4... Bg7 { 955 } 5. Bc4 { 955 } 5... Nc6 { 956 } 6. O-O
+{ 957 } 6... e6 { 957 } 7. d3 { 958 } 7... Nge7 { 959 } 8. Bb3
+{ A proactive retreat to keep options open against a future D5 push by Black. }
+( 8. Bb3 { 971 } ) ( 8. Bb3 { 989 } 8... O-O { 990 } 9. Qe1
+{ Executing the standard Grand Prix maneuver to bring the queen into the attack. }
+9... a6 { 995 } ( 9... a6 { 1235 } 10. f5 { 1235 } 10... exf5 { 1238 } 11. Qh4
+{ 1240 } 11... fxe4 { 1240 } 12. Ng5 { 1242 } 12... h6 { 1243 } 13. Nxf7
+{ 1243 } 13... Rxf7 { 1244 } 14. Rxf7 { 1244 } 14... d5 { 1244 } 15. Rxg7+
+{ 1245 } 15... Kxg7 { 1247 } 16. Bxh6+ { 1248 } 16... Kg8 { 1249 } 17. Qf6
+{ 1250 } 17... Nf5 { 1251 } 18. Qxg6+ { 1251 } 18... Kh8 { 1252 } ) 10. f5
+{ Pushing the F-pawn to open attacking lines. } 10... exf5 { 1019 } 11. Qh4
+{ 1025 } 11... fxe4 { 1036 } 12. Ng5
+{ Applying the G5 knight pressure seen in the core demonstration. } 12... h6
+{ 1071 } 13. Nxf7 { 1074 } 13... Rxf7 { 1076 } ( 13... Rxf7 { 1085 } 14. Rxf7
+{ 1086 } 14... d5 { 1089 } 15. Rxg7+ { 1098 } ( 15. Rxg7+
+{ A powerful sacrifice to eliminate Black's primary defensive bishop and expose the king. }
+15... Kxg7 { 1117 } 16. Bxh6+ { 1118 } ( 16. Bxh6+ { 1124 } 16... Kg8 { 1127 }
+17. Qf6 { Aiming for an immediate checkmate on G7. } 17... Nf5 { 1151 } 18.
+Qxg6+ { 1156 } 18... Kh8 { 1157 } 19. dxe4 { 1167 } ( 19. Bg5 { 1180 } ) ( 19.
+dxe4 { 1188 } 19... dxe4 { 1188 } 20. Rd1 { 1190 } ( 20. Bg7+ { 1199 } 20...
+Nxg7 { 1200 } 21. Qh6# { 1201 } ) ( 20. Rd1
+{ Bringing in the final piece to finish the attack in a game against a 2500-rated player. }
+20... Ncd4 { 1216 } 21. Bg5 { 1218 } 21... Qf8 { 1223 } 22. Bf6+ { 1223 } 22...
+Ng7 { 1224 } 23. Qh6#
+{ The culmination of the Grand Prix Attack ideas resulting in checkmate. } ) )
+) ) ) ) ) 1... c5 ( 1... c5 { 277 } 2. Nc3 { 277 } 2... Nc6 { 278 } 3. f4
+{ 278 } 3... d6 { 280 } 4. Nf3 { 281 } 4... g6 { 282 } 5. Bc4 { 282 } 5... Bg7
+{ 283 } 6. O-O { 284 } 6... Nf6 { 284 } 7. d3 { 285 } 7... O-O { 292 } 8. Qe1
+{ 292 } 8... a6 { 293 } ( 8... a6 { 660 } ) ( 8... Nd4 { 665 } 9. f5 { 696 }
+9... Nxc2 { 705 } 10. Qh4 { 708 } 10... Nxa1 { 727 } 11. fxg6 { 751 } 11...
+hxg6 { 756 } 12. Ng5 { 762 } 12... e6 { 780 } ( 12... Nh5 { 787 } 13. Nxf7
+{ 799 } 13... Rxf7 { 807 } 14. Bxf7+ { 809 } 14... Kh7 { 811 } 15. Qg5 { 815 }
+) 13. Rxf6 { 780 } 13... Bxf6 { 781 } 14. Qh7# { 782 } ) 9. f5 { 293 } 9...
+gxf5 { 294 } 10. Qh4 { 297 } 10... fxe4 { 297 } 11. Ng5 { 298 } 11... exd3
+{ 298 } 12. Rxf6 { 299 } 12... Bxf6 { 304 } 13. Qxh7# { 305 } ) ( 1... c5
+{ 317 } 2. Nc3 { 318 } 2... Nc6 { 324 } 3. f4 { 325 } 3... d6 { 326 } ( 3... e6
+{ 336 } 4. Bc4 { 339 } 4... Nf6 { 343 } 5. Nf3 { 344 } 5... d5 { 345 } ) ( 3...
+d6 { 399 } ) ( 3... e6 { 405 } 4. Nf3 { 406 } 4... d6 { 407 } ( 4... Nge7
+{ 412 } 5. Ng1 { 424 } 5... Ng8 { 424 } 6. Bb5 { 426 } 6... Nf6 { 428 } 7. Bxc6
+{ 429 } 7... bxc6 { 430 } ) ) ( 3... d6 { 443 } 4. Nf3 { 445 } ( 4. Nf3 { 544 }
+4... g6 { 545 } 5. Bc4 { 546 } 5... Bg7 { 547 } 6. d3 { 548 } 6... Bg4 { 549 }
+( 6... Nf6 { 575 } 7. O-O { 577 } 7... Bg4 { 578 } 8. h3 { 589 } ( 8. Qe1
+{ 607 } 8... Bxf3 { 611 } 9. Rxf3 { 611 } 9... Nd4 { 613 } ) 8... Bxf3 { 591 }
+9. Qxf3 { 591 } 9... Nd4 { 593 } 10. Qf2 { 595 } ) 7. Bxf7+ { 558 } 7... Kxf7
+{ 560 } 8. Ng5+ { 561 } 8... Kf8 { 568 } 9. Qxg4 { 569 } ) 4... g6 { 446 } (
+4... Bg4 { 458 } 5. Bb5 { 478 } 5... a6 { 491 } 6. Bxc6+ { 492 } 6... bxc6
+{ 493 } 7. O-O { 500 } 7... Nf6 { 501 } 8. h3 { 502 } 8... Bh5 { 505 } ( 8...
+Bxf3 { 513 } 9. Qxf3 { 514 } ) 9. g4 { 507 } 9... Bg6 { 507 } 10. f5 { 507 } )
+5. Bc4 { 447 } ) ( 3... d6 { 649 } 4. Nf3 { 649 } 4... g6 { 650 } 5. Bc4
+{ 651 } 5... Bg7 { 651 } 6. O-O { 656 } 6... Nf6 { 658 } ) ) 2. Nc3 { 32 } ( 2.
+Nc3 { White begins the Grand Prix setup in a demonstration of its core ideas. }
+2... Nc6 { 68 } 3. f4
+{ Establishing the two-pawn front for the coming kingside attack. } 3... d6
+{ 79 } 4. Nf3 { 80 } 4... g6 { 82 } 5. Bc4
+{ The bishop occupies its ideal diagonal, pressuring F7. } 5... Bg7 { 93 } 6.
+O-O { 94 } 6... Nf6 { 95 } 7. d3
+{ The critical main position of the Grand Prix Attack is reached after both knights are out and the F-pawn is pushed. }
+7... O-O { 97 } 8. Qe1
+{ The first key attacking maneuver: the queen slides to the kingside via the E1 square. }
+8... a6 { 142 } 9. f5
+{ The second key attacking idea: pushing the F-pawn to open lines for the pieces, regardless of the pawn sacrifice. }
+9... gxf5
+{ The goal is to open the bishop's diagonal and the rook's file, while exposing the Black king. }
+10. Qh4 { The queen reaches H4, focusing the attack on H7. } 10... fxe4 { 239 }
+11. Ng5
+{ White threatens checkmate on H7; material is less important than the kingside pressure. }
+11... exd3 { 250 } 12. Rxf6
+{ A thematic sacrifice to remove the knight defending H7. } 12... Bxf6 { 255 }
+13. Qxh7# { The perfect world checkmate in only 13 moves. } ) *
+

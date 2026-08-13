@@ -1,0 +1,212 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 c5 2. Nf3 ( 2. c3
+{ The Alapin Sicilian (2. c3) is a solid choice for White to avoid working hard on main theoretical lines, allowing them to steer the game toward universal setups. }
+2... Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4 e6 6. Nf3 Nc6 7. Qe4 f5
+{ Remembering the ...f5 and ...b5 sequence is a key positional motive to handle this specific Alapin setup successfully from Black's side. }
+8. Qe2 { 4666 } 8... b5 { 4666 } 9. Qxb5 { 4673 } 9... Qc7 { 4674 } 10. Qe2
+{ 4675 } 10... a5 { 4675 } ) ( 2. Nf3 { 4695 } 2... e6 { 4698 } ( 2... e6
+{ 4714 } 3. c3 { 4718 } 3... Nf6 { 4728 } 4. e5 { 4730 } 4... Nd5 { 4731 } 5.
+d4 { 4732 } 5... cxd4 { 4734 } 6. cxd4 { 4734 } 6... d6 { 4734 } 7. Nc3
+{ 4747 } ( 7. Bc4 { 4806 } 7... Be7 { 4809 } 8. O-O { 4823 } 8... O-O { 4823 }
+9. Qe2 { 4824 } 9... b6 { 4849 } 10. Bd3 { 4852 } ( 10. Qe4 { 4918 } 10... Ba6
+{ 4925 } 11. Bxd5 { 4933 } 11... exd5 { 4936 } 12. Qxd5 { 4937 } 12... Nc6
+{ 4939 } ( 12... Nc6 { 4958 } ) 13. Qxc6 { 4945 } 13... Bxf1 { 4947 } 14. Kxf1
+{ 4948 } 14... Rc8 { 4949 } ) 10... Nb4 { 4854 } 11. Qe4 { 4865 } 11... Nxd3
+{ 4867 } 12. Qxa8 { 4867 } 12... Ba6 { 4878 } 13. Rd1 { 4896 } 13... dxe5
+{ 4898 } 14. dxe5 { 4901 } 14... Qc7 { 4901 } ) 7... Nxc3 { 4748 } 8. bxc3
+{ 4750 } 8... Qc7 { 4750 } 9. Bd2 { 4775 } 9... Nd7 { 4776 } 10. exd6 { 4779 }
+10... Bxd6 { 4780 } 11. Bd3 { 4782 } 11... b6 { 4782 } 12. O-O { 4789 } 12...
+Bb7 { 4791 } 13. Re1 { 4792 } 13... O-O { 4793 } ) ) ( 2. Nc3
+{ Knight c3 offers White a lot of flexibility, allowing for closed setups or transpositions back into main lines via Knight f3 and d4. }
+2... e6 3. g3
+{ Against 2. Nc3 e6 3. g3, Black should prioritize central control with ...d5. }
+( 3. Nge2 { 5080 } 3... Nc6 { 5098 } 4. g3 { 5109 } 4... d5 { 5111 } 5. exd5
+{ 5112 } 5... exd5 { 5113 } 6. d4 { 5114 } ( 6. d4 { 5118 } 6... cxd4 { 5119 }
+7. Nxd4 { 5134 } 7... Nf6 { 5135 } 8. Bg2 { 5136 } 8... Bg4 { 5137 } 9. Nde2
+{ 5146 } 9... Bb4 { 5147 } 10. h3 { 5154 } 10... Bxc3+ { 5155 } 11. bxc3
+{ 5159 } 11... Bf5 { 5160 } 12. Rb1 { 5161 } 12... O-O { 5161 } ) ) 3... d5
+{ 5013 } 4. exd5 { 5016 } 4... exd5 { 5017 } 5. d4 { 5019 } 5... cxd4 { 5026 }
+6. Qxd4 { 5028 } 6... Nf6 { 5029 } 7. Bg5 { 5031 } 7... Nc6 { 5032 } 8. Qa4
+{ 5035 } 8... Bb4 { 5037 } 9. Ne2 { 5039 } 9... Bg4 { 5039 } 10. Bg2 { 5049 }
+10... Bxe2 { 5050 } 11. Kxe2 { 5051 } 11... Bxc3 { 5051 } 12. bxc3 { 5053 }
+12... O-O { 5071 } ) ( 2. f4
+{ Against the Grand Prix Attack style (2. f4), Black should counter in the center immediately with 2... d5. White often struggles to hold the extra pawn if they take on d5. }
+2... d5 { 5206 } 3. exd5 { 5209 } 3... Nf6 { 5210 } 4. Bb5+ { 5214 } 4... Bd7
+{ 5215 } 5. Bxd7+ { 5216 } 5... Qxd7 { 5217 } 6. c4 { 5218 } 6... e6 { 5218 }
+7. dxe6 { 5244 } 7... Qxe6+ { 5246 } 8. Qe2 { 5247 } 8... Qxe2+ { 5248 } 9.
+Nxe2 { 5249 } 9... Nc6 { 5249 } 10. O-O { 5250 } 10... O-O-O { 5250 } ) ( 2. b4
+{ The Wing Gambit. Rather than purely worrying about the material, the recommendation is to focus on central control with ...e5. }
+2... cxb4 { 5310 } 3. a3 { 5311 } 3... e5 { 5312 } 4. Nf3 { 5353 } 4... Nc6
+{ 5357 } 5. Bc4 { 5358 } 5... Nf6 { 5359 } 6. Ng5 { 5360 } 6... d5 { 5362 } 7.
+exd5 { 5364 } 7... b5 { 5383 } 8. Bf1 { 5398 } 8... Qxd5 { 5402 } ) 2... e6 3.
+d4 cxd4 4. Nxd4 Nc6 5. Nc3 ( 5. Nb5
+{ Knight b5 is a solid alternative for White, often used to steer the game toward Maroczy Bind structures. }
+5... d6 6. Bf4
+{ Bishop f4 is a 'funky' try but ultimately ineffective as it is easily met by ...e5. }
+( 6. c4 { 4276 } 6... Nf6 { 4281 } 7. N1c3 { 4283 } ( 7. N1c3 { 4301 } 7... a6
+{ 4303 } 8. Na3 { 4304 } 8... Qa5 { 4305 } ( 8... Qa5 { 4314 } 9. Bd2 { 4319 }
+9... Be7 { 4319 } 10. Be2 { 4329 } 10... O-O { 4331 } 11. O-O { 4335 } 11...
+Qe5 { 4336 } 12. Bd3 { 4340 } 12... Nb4 { 4342 } 13. Bb1 { 4344 } 13... d5
+{ 4344 } ) ) ) 6... e5 { 4237 } 7. Bg5 { 4250 } 7... Qxg5 { 4257 } 8. Nc7+
+{ 4259 } 8... Kd8 { 4259 } 9. Nxa8 { 4261 } 9... Nf6 { 4261 } ) ( 5. c4
+{ 4377 } 5... Nf6 { 4389 } 6. Nc3 { 4391 } 6... Bb4 { 4392 } 7. Nxc6 { 4393 }
+7... bxc6 { 4404 } 8. Bd3 { 4405 } 8... e5 { 4407 } 9. O-O { 4417 } 9... O-O
+{ 4419 } 10. Bg5 { 4419 } ( 10. Bg5 { 4427 } 10... Bxc3 { 4448 } 11. bxc3
+{ 4451 } 11... h6 { 4452 } 12. Bh4 { 4453 } 12... d6 { 4455 } 13. Qe2 { 4456 }
+13... g5 { 4457 } 14. Bg3 { 4458 } 14... c5 { 4458 } ) ( 10. Qe2 { 4486 } 10...
+Re8 { 4491 } 11. Na4 { 4498 } 11... d5 { 4500 } 12. a3 { 4502 } 12... Be7
+{ 4503 } 13. cxd5 { 4513 } 13... cxd5 { 4514 } 14. exd5 { 4515 } 14... e4
+{ 4516 } 15. Bb5 { 4524 } 15... Bg4 { 4526 } 16. Qc2 { 4540 } ) ) 5... Qc7 6.
+Be3 ( 6. f4
+{ The 6. f4 line is aggressive and cuts down many of Black's options. It typically leads to long castling for White and short castling for Black with high-stakes attacking potential. }
+6... a6 { 2903 } 7. Nxc6 { 2918 } 7... Qxc6 { 2919 } 8. Bd3 { 2920 } 8... b5
+{ 2921 } 9. Qe2 { 2921 } 9... Bb7 { 2922 } 10. Bd2 { 2923 } 10... Bc5 { 2925 }
+11. a3 { 2933 } 11... Ne7 { 2934 } 12. O-O-O { 2935 } 12... O-O { 2975 } 13. h4
+{ 2985 } ( 13. Qh5 { 3110 } 13... b4 { 3125 } 14. axb4 { 3129 } 14... Bxb4
+{ 3130 } 15. f5 { 3160 } 15... f6 { 3160 } 16. g4 { 3169 } 16... a5 { 3170 }
+17. e5 { 3173 } 17... a4 { 3174 } 18. exf6 { 3176 } 18... Rxf6 { 3177 } 19. g5
+{ 3178 } 19... Rxf5 { 3178 } ( 19... Rxf5 { 3188 } 20. Bxf5 { 3190 } 20... Nxf5
+{ 3190 } ) ) 13... f5 { 2996 } 14. h5 { 3001 } 14... d5 { 3002 } 15. exd5
+{ 3003 } 15... exd5 { 3005 } 16. h6 { 3006 } 16... g6 { 3006 } 17. Rhe1
+{ 3007 } 17... Rf7 { 3014 } 18. g4 { 3019 } 18... d4 { 3019 } 19. gxf5 { 3020 }
+19... dxc3 { 3021 } 20. Bxc3 { 3022 } 20... gxf5 { 3023 } 21. Qe5 { 3049 }
+21... Ng6 { 3051 } 22. Rg1 { 3052 } 22... Bxg1 { 3054 } 23. Rxg1 { 3055 } 23...
+Kf8 { 3056 } 24. Bb4+ { 3066 } 24... Kg8 { 3068 } 25. Bc3 { 3068 } ) ( 6. g3
+{ The 6. g3 variation has grown in popularity recently, offering a solid and positionally grounded setup for White. }
+6... a6 { 3718 } 7. Bg2 { 3719 } 7... Nf6 { 3720 } 8. O-O { 3722 } 8... Nxd4
+{ 3723 } 9. Qxd4 { 3723 } 9... Bc5 { 3724 } 10. Bf4 { 3725 } 10... d6 { 3726 }
+11. Qd2 { 3728 } 11... h6 { 3729 } 12. Rad1 { 3744 } 12... e5 { 3746 } 13. Be3
+{ 3747 } 13... Bb4 { 3748 } ( 13... Bxe3 { 3751 } 14. fxe3 { 3754 } 14... Ke7
+{ 3756 } ( 14... Be6 { 3762 } 15. Qxd6 { 3764 } 15... Rc8 { 3764 } ) 15. Rxf6
+{ 3757 } ) 14. a3 { 3811 } ( 14. Nb5 { 3841 } 14... axb5 { 3859 } 15. Qxb4
+{ 3860 } 15... Rxa2 { 3861 } 16. Qxb5+ { 3862 } ( 16. Rxd6 { 3889 } 16... O-O
+{ 3894 } 17. Rd2 { 3894 } 17... Be6 { 3898 } 18. f3 { 3905 } 18... Rfa8
+{ 3905 } 19. Rfd1 { 3906 } 19... R8a4 { 3907 } 20. Qxb5 { 3910 } 20... Ra5
+{ 3911 } 21. Bb6 { 3911 } 21... Rxb5 { 3913 } 22. Bxc7 { 3914 } 22... Raxb2
+{ 3914 } ) 16... Bd7 { 3864 } 17. Qb4 { 3865 } 17... Ra6 { 3865 } ) 14... Bxc3
+{ 3816 } 15. Qxc3 { 3817 } 15... Qxc3 { 3818 } 16. bxc3 { 3819 } 16... Be6
+{ 3820 } 17. Rxd6 { 3821 } 17... Rc8 { 3821 } ) ( 6. Ndb5 { 4036 } 6... Qb8
+{ 4060 } 7. Be3 { 4061 } 7... a6 { 4063 } 8. Bb6 { 4064 } 8... axb5 { 4073 } 9.
+Nxb5 { 4075 } 9... Bb4+ { 4076 } 10. c3 { 4082 } 10... Ba5 { 4083 } 11. Nc7+
+{ 4084 } 11... Qxc7 { 4085 } 12. Bxc7 { 4086 } 12... Bxc7 { 4087 } 13. Qg4
+{ 4121 } 13... g6 { 4126 } 14. Bb5 { 4127 } 14... Kf8 { 4136 } 15. O-O { 4138 }
+15... Kg7 { 4138 } 16. a4 { 4145 } 16... Nf6 { 4145 } 17. Qe2 { 4146 } 17... d5
+{ 4147 } 18. exd5 { 4165 } 18... exd5 { 4165 } ) 6... a6 7. Qf3
+{ The main point of Queen f3 is to play Queen g3 and exchange queens, aiming for a slightly better position due to space. It is challenging and complex for both sides. }
+( 7. Qd2
+{ The English Attack setup. White aims to expand on the kingside with g4 and h4, while Black counters on the queenside. }
+7... Nf6 { 1248 } 8. O-O-O { 1250 } ( 8. f4 { 2656 } 8... Bb4 { 2673 } 9. Bd3
+{ 2677 } 9... Na5 { 2681 } 10. a3 { 2682 } 10... Bxc3 { 2683 } 11. Qxc3
+{ 2684 } 11... Qxc3+ { 2685 } 12. bxc3 { 2685 } 12... d5 { 2686 } 13. e5
+{ 2704 } ( 13. exd5 { 2770 } 13... exd5 { 2798 } 14. Nb3 { 2800 } 14... Nc4
+{ 2800 } 15. Bd4 { 2801 } 15... Ne4 { 2802 } 16. Nc5 { 2803 } 16... Nxc5
+{ 2804 } 17. Bxc5 { 2805 } 17... Bd7 { 2806 } 18. O-O-O { 2807 } 18... O-O-O
+{ 2808 } 19. Bxc4 { 2809 } 19... dxc4 { 2810 } 20. Bb6 { 2811 } 20... Rde8
+{ 2812 } 21. Rd4 { 2812 } 21... Bc6 { 2840 } 22. Rxc4 { 2843 } 22... Kd7
+{ 2845 } ) 13... Ne4 { 2705 } 14. Nb3 { 2707 } 14... Nc4 { 2721 } 15. Bxc4
+{ 2722 } 15... dxc4 { 2723 } 16. Na5 { 2724 } 16... Bd7 { 2725 } 17. Bd4
+{ 2729 } 17... Rc8 { 2729 } 18. Nxb7 { 2758 } 18... Bc6 { 2759 } 19. Na5
+{ 2760 } 19... Bd5 { 2761 } 20. Rb1 { 2763 } 20... f5 { 2763 } ) 8... Be7
+{ 1250 } 9. f3 { 1252 } 9... b5 { 1295 } 10. Kb1
+{ King b1 is a tricky waiting move, asking Black to commit their development before White chooses their attacking path. }
+( 10. g4
+{ A natural attacking expansion. If White defends c2 too passively (e.g., with Qd2), Black has tactical shots like ...b4 followed by ...Nxe4. }
+10... Nxd4 { 1698 } 11. Qxd4 { 1700 } ( 11. Bxd4 { 1911 } 11... Bb7 { 1915 }
+12. g5 { 1917 } ( 12. g5 { 1929 } 12... Nh5 { 1936 } 13. Be5 { 1937 } 13...
+Qxe5 { 1943 } 14. Qxd7+ { 1944 } 14... Kf8 { 1944 } 15. Qxb7 { 1945 } 15... Qb8
+{ 2018 } 16. Qc6 { 2022 } 16... g6 { 2023 } 17. h4 { 2025 } 17... Kg7 { 2029 }
+18. Ne2 { 2059 } 18... Rc8 { 2059 } 19. Qd7 { 2059 } 19... Ra7 { 2060 } 20.
+Qd4+ { 2061 } 20... Kg8 { 2062 } ( 20... Kg8 { 2070 } ) ) ( 12. Kb1 { 2088 }
+12... Rc8 { 2098 } ( 12... O-O { 2117 } 13. g5 { 2123 } 13... Nh5 { 2124 } 14.
+Ne2 { 2125 } 14... f5 { 2150 } ) 13. g5 { 2100 } 13... Nh5 { 2101 } 14. Be5
+{ 2102 } 14... Qxe5 { 2103 } 15. Qxd7+ { 2104 } 15... Kf8 { 2104 } 16. Qxb7
+{ 2106 } ) ) 11... Bb7 { 1726 } 12. Kb1 { 1729 } ( 12. g5 { 1784 } 12... Nh5
+{ 1789 } 13. Kb1 { 1792 } 13... Rc8 { 1792 } 14. Qd2 { 1796 } 14... b4 { 1803 }
+15. Ne2 { 1804 } 15... d5 { 1806 } 16. e5 { 1815 } 16... d4
+{ An essential thematic pawn sacrifice in the English Attack. Black gives up the d4 pawn to activate the bishop on b7 and secure long-term initiative. }
+( 16... O-O { 1837 } 17. Nd4 { 1837 } ) 17. Nxd4 { 1869 } 17... O-O { 1870 } )
+12... Rc8 { 1730 } 13. Qd2 { 1736 } 13... b4 { 1742 } 14. Na4 { 1744 } 14...
+Nxe4 { 1745 } 15. fxe4 { 1756 } 15... Bxe4 { 1756 } ) ( 10. Nxc6 { 2287 } 10...
+dxc6 { 2289 } 11. g4 { 2290 } 11... O-O { 2291 } 12. Qf2 { 2313 } 12... e5
+{ 2314 } 13. h4 { 2321 } 13... Rd8 { 2326 } 14. Rxd8+ { 2333 } ( 14. Bd3
+{ 2390 } 14... Rb8 { 2398 } 15. h5 { 2401 } ( 15. h5 { 2414 } 15... Be6
+{ 2415 } 16. g5 { 2418 } 16... Nd7 { 2420 } 17. g6 { 2422 } 17... h6 { 2429 }
+18. f4 { 2448 } ( 18. gxf7+ { 2563 } 18... Bxf7 { 2565 } 19. Rhg1 { 2567 }
+19... Kh8 { 2568 } 20. f4 { 2571 } 20... Bf6 { 2572 } 21. fxe5 { 2574 } 21...
+Nxe5 { 2575 } 22. Bxh6 { 2576 } 22... b4 { 2577 } 23. Na4 { 2584 } 23... b3
+{ 2585 } 24. axb3 { 2596 } 24... Bxb3 { 2597 } 25. cxb3 { 2599 } 25... Nxd3+
+{ 2600 } 26. Rxd3 { 2602 } 26... Rxd3 { 2602 } ) 18... Qa5 { 2449 } 19. gxf7+
+{ 2451 } 19... Bxf7 { 2452 } 20. Rhg1 { 2454 } 20... b4 { 2455 } 21. Na4
+{ 2457 } 21... Qxa4 { 2472 } 22. fxe5 { 2473 } 22... Qxa2 { 2475 } 23. Bxh6
+{ 2476 } 23... Nxe5 { 2511 } 24. Bxg7 { 2515 } 24... Qa1+ { 2516 } 25. Kd2
+{ 2518 } 25... Rxd3+ { 2519 } 26. cxd3 { 2520 } 26... Qxb2+ { 2521 } 27. Ke1
+{ 2522 } 27... Qxf2+ { 2523 } 28. Kxf2 { 2524 } 28... Ng4+ { 2525 } 29. Rxg4
+{ 2530 } 29... Bxh5 { 2531 } 30. Rg2 { 2532 } 30... Bxd1 { 2533 } 31. Be5+
+{ 2534 } 31... Kf7 { 2535 } 32. Bxb8 { 2536 } 32... a5 { 2536 } ) ) 14... Qxd8
+{ 2336 } 15. h5 { 2336 } 15... h6 { 2337 } 16. g5 { 2359 } 16... hxg5 { 2361 }
+17. Bxg5 { 2361 } 17... Nxe4 { 2362 } ) 10... Bb7 { 1314 } 11. Bf4 e5 12. Nf5
+exf4 13. Nd5
+{ A thematic sacrifice in these structures. Black must know that ...Qe5? is a mistake due to the knight forks on e7 and d6. }
+13... Nxd5 { 1362 } ( 13... Qb8
+{ Recommended to protect the bishop on b7 and stabilize the position after White's knight sacrifice. }
+14. Nxg7+ { 1433 } 14... Kf8 { 1435 } 15. Nf5 { 1436 } 15... Qe5 { 1437 } 16.
+Nxf4 { 1439 } 16... h5 { 1459 } 17. g3 { 1470 } 17... Bd8 { 1470 } ( 17... d5
+{ 1473 } 18. Nh4 { 1484 } 18... dxe4 { 1485 } 19. Nfg6+ { 1486 } 19... fxg6
+{ 1489 } 20. Nxg6+ { 1490 } 20... Kf7 { 1491 } 21. Nxe5+ { 1492 } 21... Nxe5
+{ 1493 } ) 18. Bg2 { 1611 } 18... Ne7 { 1613 } 19. Nh4 { 1622 } 19... a5
+{ 1622 } ) ( 13... Qe5 { 1403 } 14. Ndxe7 { 1408 } 14... Nxe7 { 1410 } 15. Nd6+
+{ 1411 } ) 14. exd5 { 1373 } 14... Nb4 { 1373 } 15. c4 { 1374 } ) ( 7. Be2
+{ The Scheveningen setup. This is a solid and classical option where Black has excellent long-term prospects. }
+7... Nf6 { 3250 } 8. O-O { 3252 } 8... Be7 { 3253 } 9. f4 { 3254 } 9... d6
+{ 3254 } 10. Kh1 { 3256 } ( 10. Kh1 { 3289 } 10... O-O { 3291 } 11. Qe1
+{ 3296 } 11... Nxd4 { 3298 } 12. Bxd4 { 3299 } 12... b5 { 3299 } 13. Qg3
+{ 3305 } 13... Bb7 { 3306 } 14. a3 { 3308 } 14... Bc6 { 3309 } 15. Rae1
+{ 3311 } 15... Rad8 { 3311 } 16. Bd3 Qd7
+{ A surprising and strong preparation move. The goal is to maneuver the knight to f4 and prepare central counterplay with ...e5. }
+17. Nd1 { 3350 } 17... Nh5 { 3359 } 18. Qg4 { 3360 } ( 18. Qh3 { 3396 } 18...
+Nxf4 { 3401 } 19. Rxf4 { 3403 } 19... e5 { 3404 } 20. Rg4 { 3430 } 20... exd4
+{ 3431 } 21. e5 { 3433 } 21... g6 { 3434 } 22. e6 { 3436 } 22... Qe8 { 3440 } )
+18... Nf6 { 3362 } ( 18... Nf6 { 3367 } 19. Qf3 { 3369 } 19... Qb7 { 3370 } 20.
+Nf2 { 3374 } 20... Nd7 { 3375 } ) ) ( 10. a4 { 3475 } 10... O-O { 3482 } 11.
+Kh1 { 3483 } 11... Re8 { 3484 } 12. Bg1 { 3486 } ( 12. Bf3 { 3547 } 12... Nxd4
+{ 3562 } 13. Qxd4 { 3579 } 13... e5 { 3580 } 14. Qd2 { 3581 } 14... exf4
+{ 3582 } 15. Bxf4 { 3610 } 15... Be6 { 3611 } 16. Rfd1 { 3613 } ( 16. Rfd1
+{ 3618 } 16... Rad8 { 3630 } 17. a5 { 3637 } ( 17. h3 { 3667 } 17... h6
+{ 3675 } ) 17... Ng4 { 3640 } 18. h3 { 3647 } 18... Ne5 { 3647 } ) ) 12... Rb8
+{ 3488 } ( 12... e5 { 3505 } 13. Nxc6 { 3506 } 13... bxc6 { 3507 } 14. fxe5
+{ 3507 } 14... dxe5 { 3509 } 15. a5 { 3510 } ) 13. Qe1 { 3519 } 13... e5
+{ 3520 } 14. fxe5 { 3521 } 14... dxe5 { 3522 } 15. Qg3 { 3523 } 15... Bd8
+{ 3523 } ) 10... O-O { 3256 } ) 7... Nf6 8. Be2
+{ If White plays the cooperative 8. Be2?, Black can exploit a thematic tactical trick beginning with ...Ba3. }
+( 8. O-O-O
+{ Main move for White. Note that ...b5 fails here due to e5, making Knight e5 the recommended response in the course. }
+8... b5 { 293 } ( 8... Ne5
+{ Knight e5 is the recommended way to handle White's long castle and avoid the immediate e5 thrust. }
+9. Qg3 { 304 } 9... b5 { 305 } 10. Ndxb5 { 329 } ( 10. Bxb5 { 376 } 10... axb5
+{ 386 } 11. Ndxb5 { 387 } 11... Qb8 { 388 } 12. Bf4 { 405 } 12... d6 { 409 } (
+12... d6 { 431 } 13. Rxd6 { 434 } 13... Nh5 { 436 } 14. Qg5 { 448 } 14... Bxd6
+{ 449 } 15. Nxd6+ { 451 } 15... Qxd6 { 451 } 16. Bxe5 { 453 } 16... Ra5 { 454 }
+17. Nd5 { 497 } 17... Qd7 { 512 } ( 17... Qd7 { 576 } ) ) ) ( 10. a3 { 646 }
+10... Bb7 { 672 } 11. Bxb5 { 675 } 11... Rc8 { 710 } 12. Ba4 { 715 } 12... Nxe4
+{ 726 } 13. Nxe4 { 727 } 13... Bxe4 { 728 } 14. Bf4 { 730 } 14... Qa5 { 730 }
+15. Bxe5 { 731 } 15... Qxa4 { 732 } 16. Rd2 { 739 } 16... h5 { 820 } ) ( 10. f4
+{ 855 } 10... Neg4 { 893 } 11. Bg1 { 900 } ( 11. Bg1 { 909 } 11... h5 { 910 }
+12. e5 { 925 } 12... b4 { 926 } 13. Nb1 { 938 } 13... Ne4 { 939 } 14. Qe1
+{ 953 } 14... Bb7 { 955 } 15. Nd2 { 956 } 15... Nxd2 { 958 } 16. Rxd2 { 959 }
+16... Nh6 { 1038 } 17. Kb1 { 1039 } 17... g6 { 1040 } 18. Bf2 { 1091 } 18...
+Bc5 { 1092 } 19. Bg1 { 1155 } 19... Bf8 { 1155 } 20. Bd3 { 1157 } 20... Be7
+{ 1166 } 21. Bf2 { 1180 } 21... Bxg2 { 1180 } ) 11... h5 { 902 } ) 10... axb5
+{ 330 } 11. Nxb5 { 332 } 11... Qb8 { 333 } 12. Bd4 { 334 } 12... d6 { 335 } 13.
+Bxe5 { 336 } 13... dxe5 { 337 } 14. Qc3 { 337 } 14... Nxe4 { 343 } 15. Qc6+
+{ 348 } 15... Ke7 { 348 } 16. Qxe4 { 349 } 16... Rxa2 { 349 } ) 9. e5 { 294 } )
+8... Ba3
+{ The tactical heart of the trap: if White captures with bxa3, Black's ...Ne5 forks the queen and knight, winning material. }
+9. bxa3 { 263 } 9... Ne5 { 264 } *
+

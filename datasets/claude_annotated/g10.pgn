@@ -1,0 +1,65 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ The game starts with Pawn to E4, the beginning of the Sicilian Defense setup. }
+1... c5 { Black plays the Sicilian Defense with Pawn to C5. } 2. Nf3
+{ Knight to F3, a development move bringing the Knight to the center and controlling central squares. }
+2... d6 { Black plays D6, a very common response in the Sicilian Defense. } 3.
+d4 { Pawn to D4, developing the pawn to a central square. } 3... cxd4
+{ Black captures on D4. } 4. Nxd4 { White recaptures with the Knight. } 4...
+Nf6
+{ Black develops his Knight to F6, controlling the center and attacking White's pawn on E4. }
+5. Nc3
+{ White develops at the same time, attacks the center, and defends the pawn on E4. }
+5... Nc6
+{ Black reciprocates and brings his Knight to C6, attacking the center. } 6.
+Bc4
+{ Bishop to C4 - this is the Fischer variation. The F7 square is a huge weakness for Black, especially early on when White's light-squared Bishop can eye it. It's not protected by much besides the Black king. }
+6... e6
+{ E6 is the better move for Black. It's a little defensive and passive but it blocks White's light-squared Bishop. The F7 square becomes very hard for White to attack now. }
+( 6... g6
+{ This is a mistake. A lot of players think they need to fianchetto their Bishop to G7 for center control and counterattack on the dark squares, but this is going to be a mistake. }
+7. Nxc6
+{ White captures the Knight on C6, a key move initiating the Magnus Smith trap. }
+7... bxc6 { Black recaptures with the B pawn. } 8. e5
+{ Pawn to E5! This is the key move of the Magnus Smith trap, attacking Black's Knight on F6. }
+8... dxe5
+{ If Black tries to retake with his pawn, White has a nice little tactic. } (
+8... Ng4
+{ Knight to G4 is one of the moves Black can consider, but it's going to be very hard for him. }
+) ( 8... Ng4 { If Black plays Knight to G4 instead. } 9. e6
+{ White plays Pawn to E6, blocking off Black's defender - the Bishop from C8. }
+9... Bxe6 { If Black tries to take with his Bishop. } 10. Bxe6
+{ White recaptures with the Bishop. } 10... fxe6 { Black captures back. } 11.
+Qxg4
+{ White takes with the Queen. The Black King is completely unguarded. It doesn't matter which side he castles on - it's going to be very hard for him to stay protected. White has three pawns and can castle on either side. This is going to be very good for White. }
+) ( 8... Nh5
+{ A lot of times you'll see Knight to H5 instead of Knight to G4. The knight has two main options: G4 or H5. You never want to bring a piece back to G8 as you lose tempo. }
+9. Qf3
+{ Bobby Fischer recommends Queen to F3. This is a very important move because it puts another attacker on the F7 square, which is again a very important weakness that Black has. }
+9... d5 { Black tries Pawn to D5 to block one of the attackers. } ( 9... e6
+{ Alternatively Black can play Pawn to E6 to block off the bishop attacker. } )
+( 9... d5 { If Black plays Pawn to D5. } 10. Nxd5
+{ White can take with the Knight, again sacrificing because White has such a huge attack against Black. If Black takes with his pawn, White can take with the Bishop and has a queen defending it. It's going to be very hard for Black to defend all the attacks. }
+) ( 9... e6 { If Black plays Pawn to E6 to try to block off the bishop. } 10.
+g4 { White plays G4, starting to attack Black's Knight on H5. } 10... Ng7
+{ Black is forced to bring the Knight back to G7. He can't go to F6 because White will take it with the pawn. This is a very passive move. Black really wanted to get the dark-squared Bishop to G7 to be active, but now the Knight is blocking it. The dark-squared Bishop is Black's most important Bishop early on and right now it's doing nothing. }
+11. Ne4
+{ White brings the Knight to E4, causing a lot of problems for Black. White is attacking the pawn on D6 and also threatening to go to F6 which would check the king. It's not always how many pieces you have but how many active pieces - with the passive Knight on G7 blocking the dark-squared Bishop, this is very good for White. }
+11... Qa5+
+{ Black's last ditch effort, bringing the Queen to A5 attacking White's King on E1 and also attacking White's pawn. }
+12. Bd2 { White simply develops the Bishop to D2, blocking the check. } 12...
+Qxe5 { If Black takes the pawn, it will be another mistake. } 13. Bc3
+{ White brings the Bishop to C3 and Black's Queen is trapped on the sidelines. White is going to go on to a very easy game. }
+) ) 9. Bxf7+
+{ White has the nice little tactic of Bishop takes on F7! The King is forced to take - he can't bring his King to D7 because White's Queen is there. }
+9... Kxf7 { Black's King is forced to capture on F7. } 10. Qxd8
+{ White takes Black's Queen on D8. Black's Queen was only defended by the King on E8, and once the King moved, White can take on D8. Black can't take with his pawn even though he would like to. }
+) *
+

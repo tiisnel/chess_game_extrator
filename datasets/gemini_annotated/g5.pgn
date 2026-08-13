@@ -1,0 +1,90 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. c4 b5
+{ The Yananish Gambit makes no sense on first glance because it's a clean pawn sacrifice. However, there's a clear idea behind it: Black is fighting for control over the D5 square, similar to ideas in the Benko or the Sicilian. }
+( 1... b5 { 413 } 2. cxb5 { 414 } 2... a6 { 415 } 3. bxa6
+{ Personally, I don't think the A-pawn should be taken. By taking on A6, you speed up Black's development and risk having your king misplaced if you ever push your E-pawn. }
+( 3. e3
+{ As white, I would recommend that you play E3 or E4. The best move I think is E3. It defends the B-pawn and continues development without helping Black out. }
+3... axb5 { Black takes back. } 4. Bxb5 { 515 } 4... c6
+{ Most people will play C6 here to challenge the bishop. } 5. Be2
+{ The bishop retreats to E2. This is the best move. } 5... e5
+{ E5 is the best move for Black, attempting to compensate for the pawn by controlling the center. }
+6. Nf3 { White continues with Knight F3. } 6... e4
+{ Black advances the pawn to E4. } 7. Nd4
+{ When the pawn advances to E4, the knight goes to D4. White is basically playing a Sicilian in reverse. }
+7... d5 { Black pushes D5. } 8. d3
+{ White starts the undermining style, immediately challenging the pawn on E4. }
+) 3... Bxa6
+{ Black recaptures. This is exactly what black wants. They want you to take on A6 so they get the Benko-style compensation. }
+) ( 1... b5 { 586 } 2. cxb5 { 599 } 2... a6 { 601 } ( 2... Bb7
+{ If Black plays Bishop B7, I recommend Knight F3. } 3. Nf3
+{ Knight F3 is the best move because it prevents E5. } 3... g6
+{ Black continues with G6. } 4. d4 { I recommend starting with D4. } 4... Nf6
+{ Black develops. } 5. Nc3 { Simply Knight C3 followed by E3. } 5... Bg7
+{ Black fianchettoes the bishop. } 6. e3
+{ A simple setup where the B-pawn is overprotected. } ) ( 2... g6
+{ If Black goes G6 straight away, we treat it similarly. } 3. Nc3
+{ I would recommend starting with Knight C3 here to play against D5. } 3... Bg7
+{ Black fianchettoes. } 4. d4 { Claiming the center. } 4... Bb7
+{ Black puts the second bishop on the diagonal. } 5. e4
+{ The upside of Knight C3 is that it defends E4. White can play E4 and claim the center. }
+5... Nf6 { Black develops the knight. } 6. e5 { Pushing E5 is recommended. }
+6... Nd5 { The knight is forced to D5. } 7. Nf3
+{ White continues development. } 7... O-O { Black castles. } 8. Bc4
+{ White has an extra pawn and a significantly better position. } ) ( 2... e5
+{ E5 is the most challenging move from a human perspective and one of the best engine moves. }
+3. e4 { E4 is what I would recommend to prevent the pawn from moving forward. }
+3... Nf6 { Black attacks the E4 pawn. } 4. Nc3 { Defending the pawn. } 4... Bb7
+{ Applying pressure to the E4 pawn. } 5. d3
+{ White can passively defend the E-pawn with D3, but it's not strictly necessary. }
+( 5. Nf3 { I would recommend the move Knight F3, challenging their E5 pawn. }
+5... d6
+{ If they passively defend with D6, the bishop is blocked and White is perfectly fine. }
+( 5... Qe7 { Queen E7 is less committal but restricts the bishop. } ) ( 5...
+Nxe4 { This leads to a reasonably dangerous sequence White needs to remember. }
+6. Nxe4 { White recaptures. } 6... Bxe4 { Black takes the knight. } 7. Nxe5
+{ White takes the pawn on E5. } 7... Qe7 { Black attacks the knight. } 8. d4
+{ White defends with D4. } 8... d6 { Black attacks the knight. } 9. Qe2
+{ White defends everything with Queen E2. } 9... dxe5
+{ Black takes the knight. } 10. Qxe4 { White takes the bishop. } 10... exd4
+{ Black takes on D4. } 11. Qxe7+ { Trading queens. } 11... Bxe7
+{ Recapture by the bishop. } 12. Bf4
+{ It may seem like we have given the pawn back, but White goes Bishop F4 and one of the pawns is hanging. Piece activity is too much for Black. }
+12... Kd7 { If Black tries King D7, the game is nearly over. } 13. O-O-O
+{ Castles queen side is devastating. } 13... Bf6 { Black tries to defend. } 14.
+g3
+{ White prepares to finish the game. Black is losing despite the material balance. }
+) 6. Qc2 { White can continue with a move like Queen C2. } ) ) 3. e3 { 612 } (
+3. e4
+{ White can also play E4, which is fine according to the engine, though it leads to a slightly smaller advantage than E3. }
+3... Nf6 { Black develops the knight. } 4. Nc3
+{ After Knight F6, you have to play Knight C3 to defend the E4 pawn. } 4...
+axb5 { Black captures on B5. } 5. Bxb5 { Recapturing with the bishop. } 5...
+Bb7 { Black puts the bishop on the long diagonal. } 6. Qe2
+{ I think Queen E2 is the best move here. White has a clean extra pawn. } 6...
+e6 { Black prepares development. } 7. d4
+{ If Black doesn't play E5, White plays D4. White has everything: the center, an extra pawn, and a lead in development. }
+) 3... axb5 { 614 } 4. Bxb5 { 616 } 4... c6 { 619 } 5. Be2 { 622 } 5... e5
+{ 626 } 6. Nf3 { 627 } ) ( 1... b5 { 1000 } 2. cxb5 { 1004 } 2... a6 { 1006 }
+3. bxa6 { 1012 } ( 3. e3 { 1023 } 3... axb5 { 1025 } 4. Bxb5 { 1026 } ) 3...
+Bxa6 { 1015 } ) 2. e3
+{ There are several ways to decline the gambit, but only one sensible way, which is to play E3. However, generally, White is immediately worse after declining. }
+( 2. cxb5
+{ White should take the pawn. The Yananish Gambit needs to be accepted. If White knows what they're doing, they will have a clean extra pawn with enough central control to compensate for D5. }
+2... a6
+{ A6 is by far the most common move. It's a full pawn gambit. The idea is similar to the Benko: Black wants to recapture with the bishop and get rapid development along the open A and B files. }
+) 2... bxc4 { Black takes the C-pawn, trading the B-pawn. } 3. Bxc4
+{ White recaptures the pawn. } 3... d5
+{ Black immediately strikes at the center. } 4. Bb3
+{ The bishop has to retreat. } 4... e6 { Black develops solidly. } 5. Nf3
+{ White develops the knight. } 5... c5
+{ Look at black's center. Black has managed to gain control over the entire center of the board. This is why we don't wish to decline the gambit. }
+*
+

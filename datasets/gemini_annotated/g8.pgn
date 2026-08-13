@@ -1,0 +1,141 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 { White opens with e4, as played by Saric. } 1... e5
+{ Gukesh responds with e5. } 2. Nf3 Nc6 3. Bb5
+{ The Ruy Lopez is on the board. } 3... a6 { Morphy's defense. } 4. Ba4
+{ Saric plays Ba4. The video mentions how Capablanca famously refuted the Marshall attack over the board against Frank Marshall in 1918. }
+4... Nf6 5. O-O Be7 6. Re1 b5 { Black challenges the bishop with b5. } 7. Bb3
+O-O
+{ Black castles king side. The analysis notes that white could opt for the anti-Marshall with a4 or h3 here. }
+8. c3
+{ Saric plays c3, inviting the Marshall attack. It's described as a matter of honor to accept the challenge if this move is played. }
+8... d5
+{ Gukesh plays d5, entering the Marshall attack. This is what everyone wants to see in this position. }
+9. exd5 { The players blitz through the standard theory. } 9... Nxd5 10. Nxe5
+Nxe5 11. Rxe5 { White is up a pawn in the standard Marshall structure. } 11...
+Bb7
+{ Gukesh chooses Bb7, the third most popular reply. While rare, it has been used by elite players like Carlsen, Aronian, and Arjun Erigaisi. }
+12. d4 ( 12. Qf3
+{ Queen to f3 is considered the best for white here, despite putting the queen in front of the bishop, as it creates immediate threats. }
+12... Bd6 { Black moves the bishop to d6, continuing his development. } 13.
+Bxd5 ( 13. Rxd5
+{ The analysis explores if white can give up the rook for two pieces, but notes it leads to trouble for white. }
+13... Qe7 { Black threatens checkmate on d1 if white is not careful. } 14. Qe3
+{ White offers a queen trade, but the position is actually lost for white if black finds the correct response. }
+14... Rae8
+{ The only move that wins for black, keeping the pressure on the white king. }
+15. Qxe7
+{ If white trades queens, black maintains a winning attack despite the material balance. }
+) ( 13. Bxd5 { Saric captures on d5 with the bishop. } 13... c6
+{ Black plays c6, challenging the center. } 14. Re1
+{ The rook retreats to e1. } 14... cxd5 { Black recaptures on d5. } 15. d4 Qc7
+16. g3
+{ Pawn to g3 neutralizes the queen-bishop battery on the b8-h2 diagonal. }
+16... Bc8
+{ Gukesh has the bishop pair, which is very strong in the Marshall. He prepares to reposition the bishop to create attacking chances on the light squares. }
+( 16... Rfe8
+{ Rook to e8 is the top engine recommendation, though most players instinctively use the a8 rook. }
+17. Rxe8+ { 510 } 17... Rxe8 18. Be3 b4
+{ Gukesh plays b4, an excellent move recommended by the engine. } 19. a3 bxa3
+20. Nxa3 Qb6 { Black puts pressure on the b2 pawn. } 21. b4
+{ White plays b4. Though it leaves the c3 pawn weak, it is the best defensive choice according to the engine. }
+21... Qc6 22. Bd2 { The bishop retreats to d2 to defend the weak c3 pawn. }
+22... a5 { Black plays a5, looking to trade pawns or create a passed pawn. }
+23. Nc2 { White repositions the knight to c2. } 23... a4
+{ Black pushes the a-pawn, creating a dangerous passed pawn. } ( 23... axb4
+{ Trading on b4 would eventually favor black due to the activity of his bishops. }
+24. Nxb4 Bxb4 25. cxb4 Ba6
+{ Black's bishop on a6 makes it difficult for the b4 pawn to advance. } ) (
+23... a4 { Gukesh creates his passed pawn. } 24. Na3
+{ Saric blocks the passed pawn with the knight. } 24... Qd7
+{ Gukesh moves the queen to d7, aiming for a classic Marshall attack involving Bc8 and Qh3. }
+25. Re1
+{ Saric looks to trade pieces to simplify the position since he is up material. }
+25... Rxe1+ { 620 } 26. Bxe1 h6
+{ A useful prophylactic move to give the king some breathing room. } 27. h4 Bf8
+{ The bishop moves to f8, both defending the king and allowing the queen to defend the d5 pawn. }
+28. Bd2 Ba6 { Gukesh's bishop dreams of reaching the e4 square. } 29. Kg2 Qe6
+30. Qe3 { White offers a queen trade, which black declines. } 30... Qf5 31. Qe8
+{ White's queen enters the black camp, pinning the bishop. } ( 31. b5
+{ If white tries b5 immediately to trade knight for bishop, it fails to black's attacking threats. }
+31... Bc8 { The knight on a3 would be hanging. } 32. Bc1 Qh3+ { 699 } 33. Kg1
+Bf5 { Black's attack becomes overwhelming. } ) ( 31. Qe8
+{ White moves the queen to e8, pinning the bishop and eyeing the b5 push. }
+31... Bc8 { Gukesh prepares the decisive Qh3 check. } 32. Bf4
+{ Saric plays Bf4, which is a losing move, though very difficult to punish in a rapid game. }
+32... Bd7
+{ Gukesh plays Bd7, missing the subtly stronger Be6 by just an inch. } ( 32...
+Be6
+{ The winning move, stopping the white queen from returning to aid the defense. }
+33. b5 { Any move white plays here is losing to the impending attack. } 33...
+Qe4+ { 779 } 34. f3 ( 34. Kh2
+{ If the king moves to h2, black follows with Qf3. } 34... Qf3 35. Be3 Bf5
+{ Black will eventually get a bishop to e4 and checkmate white. } ) 34... Bh3+
+{ 789 } ) ( 32... Bd7 33. Qe2
+{ Saric immediately brings the queen back to help defend. } 33... g5
+{ Gukesh pushes g5, maintaining the pressure. } 34. hxg5 hxg5 35. Bb8
+{ Saric plays Bb8. } 35... Qh3+ { 848 } ( 35... g4
+{ Gukesh plays g4, aiming to clear a path for his queen and bishop. } 36. Bf4
+{ The bishop returns to f4. } 36... Qh7 { Black prepares Qh3. } 37. f3
+{ White counters with f3. } 37... Bf5 { Black develops the bishop to f5. } 38.
+Kg1 { The only move that doesn't lose immediately. } 38... Qg6 39. fxg4 Be4
+{ Gukesh sacrifices a second pawn to reach his goal of putting the bishop on e4. }
+40. Kf2 { Saric must play accurately to survive the onslaught. } 40... Qh7 41.
+Ke1
+{ Saric begins an artificial castling maneuver to hide his king on the queen side. }
+41... Bd3 42. Qe5 Qh1+ { 925 } 43. Kd2 Bg6 44. Qe1
+{ White offers a queen trade to relieve the pressure. } 44... Qg2+ { 934 } 45.
+Qe2 Qh1 46. Qe1 Qh3 47. g5
+{ Saric is up two pawns and wants to transition into a winning endgame if he can trade queens. }
+47... Be4 48. Kc1 Qg2 49. Qd2
+{ White keeps offering queen trades while managing his time below one minute. }
+( 49. Qd2 Qf1+ { 975 } 50. Kb2 Be7 51. Qh2 Qd1
+{ Gukesh eyes the b3 square for his queen. } 52. Nc2
+{ Knight to c2 is the only move that prevents a total collapse. } 52... a3+
+{ 1000 } ( 52... Qd3 { Black keeps the tension. } 53. Be5
+{ Saric finds a counter-threat, eyeing checkmate on h8. } ( 53. Be5 f6
+{ Black must address the mate threat; f6 is a key defensive move. } ( 53... Bh7
+{ Gukesh plays Bh7, which the engine evaluates as a mistake. } 54. g6
+{ Saric finds g6, the best move. If black captures with the bishop, he is mated on h8. }
+54... fxg6 { Black captures with the f-pawn, but this traps his own bishop. } (
+54... Qxg6 { Gukesh captures with the queen instead. } 55. Na3
+{ White repositions the knight. } 55... Qd3 56. Qc2 Qa6 57. Qd1 Bg6 58. Qh1
+{ The analysis mentions queen to h1 was possible for white here. } ( 58. Qd2
+{ Saric plays Qd2. } 58... Qf1 { Black pins the knight against the king. } 59.
+Qh2 { White threatens mate on h7. } 59... f6 { Black plays f6 to defend. } 60.
+Bf4 Qd1 61. Nc2 Qd3 ( 61... Bxb4
+{ A practical solution for black here was to sacrifice the bishop to open lines to the white king. }
+62. cxb4 Qd3 ) ( 61... Qd3 62. Qd2 Qc4 { Black aims for c4. } 63. Na1
+{ The knight on a1 is a fantastic defender, guarding c2 and b3. } ( 63. Na3 )
+63... Kf7
+{ Gukesh brings his king into the game, playing for the win even though he already won the rapid section. }
+64. Qc1 Bd3 65. Qd2 Bf8 66. Ka3 Be4 { Black moves the bishop to e4. } 67. Kxa4
+{ White takes the pawn on a4. } ( 67. Kb2 Qa6 68. Nc2 Qc4
+{ The queen check prevents the knight from relocating. } 69. Na3 ( 69. Na1 Ke6
+70. Ka3 Qf1 { Black puts pressure on the knight. } 71. Qc1 Qd3
+{ Gukesh chooses Qd3. } 72. Kxa4
+{ Saric captures the a4 pawn instantaneously. } 72... Qa6+ { 1325 } 73. Kb3
+Qc4+ { 1328 } 74. Kb2 Qe2+ { 1330 } 75. Qd2
+{ Trading queens is losing for black here as white is up two pawns. } 75... Qf1
+76. Nc2 { The knight finally enters the active play. } 76... Kf7 77. Na3 Be7
+78. Qc1 { White offers another queen trade. } 78... Qe2+ { 1351 } 79. Qd2 Qf1
+80. Nc2 Bf8 81. Qe1 Qd3 82. Qd2 Qf1 83. Qe1 { 1370 } 83... Qd3 84. Ne3
+{ Knight to e3 is the winning idea for white, stabilizing the position completely. }
+( 84. Qd2 { White plays Qd2, offering a trade to ensure a draw. } 84... Qf1
+{ The players agree to a draw by three-fold repetition on move 84 after an incredible battle. }
+) 84... Qb5 { 1422 } 85. Qf1 { 1424 } 85... Bd3 86. Qd1 Be4 87. Kb3 ) ) 67...
+Qa6+ { 1273 } 68. Kb3 { 1275 } 68... Qxa1 { 1276 } ) ) ) 55. Qh6 { 1108 } 55...
+Bf8 { 1114 } 56. Qh3 { 1114 } 56... Be7 { 1117 } 57. Qe6+ { 1119 } 57... Kf8
+{ 1120 } 58. Bg7+ { 1124 } 58... Kxg7 { 1124 } 59. Qxe7+ { 1126 } 59... Kg8
+{ 1126 } 60. Qe8+ { 1128 } 60... Kg7 { 1128 } ) 54. Bxf6 { 1034 } 54... Bxf6
+{ 1036 } 55. gxf6 { 1036 } 55... Qc4 { 1038 } 56. f7+ { 1040 } 56... Kxf7
+{ 1042 } 57. Qf2+ { 1043 } 57... Ke7 { 1045 } ) ) 53. Nxa3 { 1001 } ) ) 36. Kg1
+{ 849 } 36... Bf5 { 850 } 37. f3 { 855 } ) ) ) ) ) ) 12... Bf6 { 268 } 13. Re1
+{ 268 } 13... Re8 { 269 } 14. Bd2 { 272 } *
+

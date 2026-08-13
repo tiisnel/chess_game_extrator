@@ -1,0 +1,124 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ Intro: this video explains the Nimzowitsch Defense for Black against 1.e4, how to play it, and the ideas based on White's responses. }
+1... Nc6
+{ The Nimzowitsch Defense. Black plays 1...Nc6, a rare and underrated reply to 1.e4. The move fights for the central dark squares without committing a central pawn. }
+2. Nf3
+{ Called the Nimzowitsch Defense Declined. White avoids pushing d-pawn immediately. Black now has several options: 2...e5, 2...d6, or 2...f5. }
+( 2. d4
+{ White enters the main 2.d4 branch, where Black must choose between the Scandinavian variation with ...d5 and the Kennedy variation with ...e5. }
+2... d5
+{ Scandinavian variation. Black immediately challenges the center and aims to put pressure on White's d4 pawn. }
+( 2... e5
+{ Kennedy variation, the presenter's preferred line. About 60% of online games continue with 3.d5, so that branch is especially important. }
+3. Nf3
+{ If White develops with 3.Nf3 after ...e5, Black considers this favorable because White likely is not a dedicated Scotch player despite transposing into one. }
+( 3. dxe5
+{ White captures on e5. The presenter recommends 3...d6, transposing to a Black gambit setup similar to the Englund/Charlick-style ideas, aiming for rapid development and queenside castling. }
+3... d6
+{ Key idea: Black offers dynamic play. After White takes, Black recaptures with the bishop, gets active development, and plans to castle queenside with rook pressure on the white queen. }
+4. exd6
+{ White accepts the pawn. Black's compensation is activity rather than material. }
+4... Bxd6
+{ Recapturing with the bishop creates a gambit structure. Black has rapid development and attacking chances, especially with queenside castling. }
+5. Nf3 Nf6 { Black continues fast development in the gambit setup. } 6. Nc3
+{ When White's knight comes out, one recurring Black idea is to pin it with ...Bg4. }
+6... Qe7
+{ One of Black's setup moves in the gambit line, preparing further development and queenside castling. }
+7. Bd3 Bg4
+{ Important theme: pin the f3-knight. This is a key attacking motif in these structures. }
+8. O-O O-O-O
+{ A major strategic goal of the gambit line: Black castles queenside and the rook immediately eyes White's queen along the d-file. }
+9. h3
+{ White tries to question the bishop. The presenter notes Black can even meet such plans with ...h5 to preserve the pin and attacking setup. }
+) ( 3. d5
+{ This is the most common move against the Kennedy variation. Black's main idea is to reroute the knight quickly to g6 and build kingside pressure. }
+3... Nce7
+{ First step of the key Kennedy maneuver: the knight heads for g6 as fast as possible. }
+4. c4 Ng6
+{ Black completes the knight reroute. The plan is to target f4 and h4/f4-type squares and pressure White's kingside. }
+5. Nc3 Bc5 6. Nf3 Nf6 7. Bd3 a5
+{ Key move. Black avoids playing ...d6 too early so the bishop does not get trapped; ...a5 gives the bishop an escape square first. }
+8. O-O d6
+{ Now Black can safely play ...d6 because the bishop has a retreat if needed. }
+9. a3 O-O { Black castles and continues toward plans like ...Nh5 and ...Nf4. }
+10. Bg5 { The most popular move in online chess in this setup. } 10... h6
+{ Black challenges the bishop. Usually White realizes exchanging is bad because it gives up the good bishop and strengthens Black's control over f4. }
+11. Be3
+{ Typical retreat. The presenter advises Black not to capture immediately in these structures. }
+11... b6
+{ Black calmly prepares to meet Bxc5 with bxc5, recapturing toward the center. }
+12. Bxc5 bxc5 { Black recaptures toward the center, as recommended. } 13. Nb5
+{ Described as the most common move online here, though the presenter finds it a bit strange. }
+13... Nh5
+{ Black has active options here like ...Rb8, ...Bg4, ...Nh7-g5, and also ...Nh5. The knight jump supports kingside pressure; if White plays g3, the light squares become weak. }
+14. Nxe5
+{ The tactical idea of sacrificing on e5 for a pawn does not work well for White. }
+14... Nxe5
+{ Black recaptures. White has only won a pawn temporarily, but Black's active pieces generate strong tactics. }
+15. Qxh5 Nxd3
+{ Black's tactical point: active play wins material or traps White's queen after follow-up moves like ...Bg4. Even if the queen were not trapped, White's bishop can hang. }
+) 3... exd4
+{ In the Scotch-type line after 2...e5 3.Nf3, if White captures, Black can respond in standard fashion and still use Nimzowitsch themes. }
+4. Nxd4 Nf6
+{ Mainline response in both the Scotch and Scotch Gambit structures mentioned by the presenter. }
+5. Nc3 Bb4
+{ Key idea: pin the knight. This is emphasized as a recurring motif in these lines. }
+6. Nxc6
+{ If White captures on c6, Black is happy to recapture toward the center. }
+6... bxc6
+{ Black recaptures toward the center. The resulting position gives Black good play with ideas like ...Qe7, ...d5, and kingside castling; White often struggles with the pin and pressure on e4. }
+) 3. exd5
+{ If White captures in the Scandinavian variation, Black simply recaptures with the queen and continues pressuring d4. }
+( 3. e5
+{ If White pushes instead of capturing, Black should not rush ...e6 with a bad c8-bishop. Better is to develop the bishop actively first. }
+3... Bf5
+{ Important point: Black develops the bishop before playing ...e6, avoiding a terrible French-style bishop on c8. }
+4. Nf3 e6
+{ Only after the bishop is outside the pawn chain does Black play ...e6. } 5.
+Bd3
+{ If White attacks the bishop, Black should defend it rather than exchange and help White develop. }
+5... Nge7
+{ Black defends and keeps flexibility. The bishop can remain on f5 until White chooses to take it. }
+6. O-O Qd7 { One of Black's useful setup ideas in this line. } 7. c3 f6
+{ Another thematic move. Black reinforces the center and is ready to recapture with the g-pawn if White takes, opening a useful g-file for attack. }
+8. Bxf5 { White finally takes on f5. } 8... Nxf5
+{ Black recaptures and remains comfortable. } 9. exf6 gxf6
+{ Black gets the very nice open g-file the presenter highlighted, with attacking chances against White's king and ideas like queenside castling, rook to g8, bishop to d6, and queen involvement. }
+) 3... Qxd5
+{ Black recaptures with the queen; the plan is to put immediate pressure on White's d4 pawn. }
+4. Nf3
+{ If White develops the knight, Black advances in the center with tempo. } 4...
+e5 { Black gains space and increases pressure on d4. } 5. Nc3 Bb4
+{ Again the thematic pin on the knight, increasing pressure on d4. } 6. Bd2
+{ If White defends, Black can exchange and continue with active central play. }
+6... Bxc3 { Black removes the defender. } 7. Bxc3 e4
+{ Black advances and 'just plays chess' from an active position after increasing central pressure. }
+) 2... e5
+{ One option against 2.Nf3 is simply 2...e5, transposing into normal open games. Sound and engine-approved, but it leads to broad e4-e5 theory, so it is best for players already comfortable with those openings. }
+( 2... d6
+{ The Williams variation. A common Nimzowitsch choice that keeps the game in less theoretical channels while continuing development. }
+3. d4 { If White plays d4, Black just keeps developing. } 3... Nf6
+{ Natural development in the Williams variation. } 4. e5
+{ The presenter calls this a big mistake by White. } 4... dxe5
+{ Black captures, opening lines. } 5. dxe5
+{ If White keeps recapturing, the file opens and tactical ideas appear. } 5...
+Qxd1+ 6. Kxd1 Ng4
+{ Black's idea is to play ...Ng4, creating dual threats: pressure on e5 and especially the threat to capture on f2 and win the rook. }
+7. Ke1 { White must react to the tactical threats. } 7... Ngxe5
+{ Once White addresses the f2 threat, Black takes back on e5 and emerges a pawn up. }
+) ( 2... f5
+{ Colorado Countergambit. The presenter says this is a lot of fun in faster time controls. Black immediately pressures e4. }
+3. exf5 { Best move for White and the move usually seen. } 3... d5
+{ Black's Colorado gambit idea. White should normally respond with Bb5, let Black regain the pawn, and seek a positional edge, but many players try to hold the pawn instead. }
+4. g4
+{ Trying to cling to the extra pawn is said to favor Black. After g4, Black has ...h5, pressuring the pawn chain; if White pushes, f5 becomes weak, and if White captures, Black recaptures while White's kingside becomes badly overextended. The transcript also notes Nh4 and h3 as other pawn-holding tries, both problematic for White, with h3 even losing the rook on h1. }
+) *
+

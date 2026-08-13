@@ -1,0 +1,190 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4
+{ The speaker introduces the Tartakower Defense, beginning with white playing d4. }
+1... d5 { Black responds with d5, establishing a presence in the center. } (
+1... Nf6 { 3187 } 2. c4 { 3189 } 2... e6 { 3190 } 3. Nf3 { 3191 } 3... b6
+{ 3192 } 4. g3 { 3195 } ) 2. c4
+{ White plays the Queen's Gambit. The idea is that if Black accepts (2... dxc4), White can take the center with e4 and usually win the pawn back quickly. }
+( 2. c4 { 3184 } ) 2... dxc4 { 64 } ( 2... e6
+{ Black declines the gambit with e6. This is the Queen's Gambit Declined (QGD). }
+) ( 2... c6 { 91 } ) ( 2... e6 { 103 } 3. Nc3
+{ The most popular continuation for White, putting pressure on the center and supporting the E4 square. }
+3... Nf6 { Black controls the e4 square and adds defense to the d5 pawn. } 4.
+Bg5
+{ To enter the Tartakower, White plays Bg5, pinning the knight to the queen and removing some of the defense from d5. }
+( 4. Nb1 { 2982 } 4... Ng8 { 2982 } 5. Nc3 { 2982 } 5... Nf6 { 2983 } 6. Bg5
+{ 2983 } ( 6. Nb1 { 3182 } 6... Ng8 { 3182 } 7. Nc3 { 3254 } 7... Nf6 { 3254 }
+8. Bg5 { 3254 } 8... Be7 { 3255 } 9. Nf3 { 3255 } 9... h6 { 3256 } 10. Bh4
+{ 3256 } 10... O-O { 3257 } 11. e3 { 3257 } 11... b6 { 3257 } 12. Bd3 { 3257 }
+12... Bb7 { 3258 } 13. O-O { 3259 } 13... Nbd7 { 3259 } 14. Qe2 { 3260 } 14...
+Ne4 { 3260 } 15. Bg3 { 3261 } ( 15. Qd1 { 3309 } 15... Nef6 { 3309 } 16. Qe2
+{ 3310 } 16... Ne4 { 3310 } 17. Bg3 { 3310 } 17... c5 { 3311 } 18. cxd5
+{ 3312 } ( 18. cxd5 { 3452 } 18... exd5 { 3452 } 19. Rad1 { 3505 } 19... c4
+{ 3508 } 20. Bb1 { 3512 } ) 18... exd5 { 3312 } ( 18... exd5 { 3385 } 19. Rad1
+{ 3385 } ( 19. Rfd1 { 3387 } 19... Nxg3 { 3390 } 20. hxg3 { 3390 } 20... c4
+{ 3397 } 21. Bc2 { 3400 } ) ( 19. Rad1 { 3408 } 19... c4 { 3409 } 20. Bxe4
+{ 3412 } 20... dxe4 { 3413 } 21. Nd2 { 3415 } ) ( 19. Rfd1 { 3419 } 19... c4
+{ 3420 } ( 19... Nxg3 { 3423 } ) ) ) ( 18... exd5 { 3425 } 19. Rad1 { 3426 }
+19... Nxg3 { 3427 } 20. hxg3 { 3428 } 20... c4 { 3430 } 21. Bf5 { 3433 } ) 19.
+Rad1 { 3313 } ( 19. Rad1 { 3339 } ) ( 19. Rac1 { 3341 } ) 19... cxd4 { 3327 }
+20. Nxd4 { 3328 } ) 15... f5 { 3264 } 16. cxd5 { 3267 } 16... exd5 { 3267 } 17.
+Ne5 { 3268 } 17... Nxe5 { 3270 } 18. Bxe5 { 3270 } ) 6... Be7 { 2984 } 7. Nf3
+{ 2985 } 7... h6 { 2985 } 8. Bh4 { 2986 } 8... O-O { 2986 } 9. e3 { 2990 } 9...
+b6 { 2991 } 10. Bd3 { 2991 } 10... Bb7 { 2992 } 11. O-O { 2992 } ( 11. Bf1
+{ 3179 } 11... Bc8 { 3179 } ) 11... Nbd7 { 2993 } 12. Qe2 { 2993 } 12... Ne4
+{ 2994 } 13. Bg3 { 2995 } ( 13. Bg3 { 3098 } 13... c5 { 3099 } 14. cxd5
+{ 3100 } ( 14. cxd5 { 3111 } 14... exd5 { 3112 } ( 14... exd5 { 3128 } ) 15.
+Rad1 { 3115 } 15... f5 { 3116 } 16. Ne5 { 3118 } ) ( 14. cxd5 { 3132 } 14...
+exd5 { 3132 } 15. Rad1 { 3134 } 15... cxd4 { 3135 } 16. Nxd4 { 3139 } ) 14...
+exd5 { 3107 } 15. Rad1 { 3107 } 15... Nxg3 { 3109 } ) 13... f5 { 3002 } ( 13...
+c5 { 3076 } ) ( 13... f5 { 3078 } 14. cxd5 { 3086 } 14... exd5 { 3087 } 15. Ne5
+{ 3088 } ) 14. cxd5 { 3025 } 14... exd5 { 3027 } 15. Ne5 { 3031 } 15... Nxe5
+{ 3056 } 16. Bxe5 { 3058 } ) 4... Be7
+{ Black breaks the pin, develops a piece, and prepares for castling. } 5. Nf3
+{ White continues development with knight to f3. } 5... h6
+{ Black plays h6. The speaker notes that many move orders can lead to this same position. }
+6. Bh4 { 223 } ( 6. Bxf6
+{ The Anti-Tartakower variation. White trades the bishop for the knight to ruin Black's pawn structure and create an isolated pawn or hanging pawns structure. }
+6... Bxf6 7. e3
+{ White supports the center and opens the diagonal for the light-squared bishop. }
+7... O-O 8. Rc1 { Placing the rook on a file that is expected to open soon. }
+8... c6
+{ Black establishes a Semi-Slav type structure. The light-squared bishop is currently trapped behind the pawns. }
+9. Bd3 { 275 } 9... Nd7 { 276 } 10. O-O { 278 } 10... dxc4 { 279 } 11. Bxc4
+{ 280 } 11... e5 { 283 } 12. h3 { 292 } 12... exd4 { 294 } 13. exd4 { 296 }
+13... Nb6 { 320 } 14. Bb3 { 328 } 14... Bf5 { 331 } 15. Re1 { 332 } 15... Re8
+{ 332 } 16. Rxe8+ { 333 } 16... Qxe8 { 334 } 17. Qd2 { 335 } 17... Qd7 { 335 }
+18. Re1 { This Anti-Tartakower line leads to a very equal position. } ) ( 6.
+Bh4
+{ The main Tartakower line. White retains the bishop pair to maintain long-term pressure. }
+6... O-O { Black castles. } 7. e3 { White solidifies the center. } 7... b6
+{ The defining move of the Tartakower Defense. Black intends to develop the light-squared bishop via b6-b7 to avoid it being blocked by the pawn on e6. }
+( 7... b6 { 393 } 8. Qb3
+{ An older, high-scoring line for White. White puts immediate pressure on the center. }
+( 8. cxd5 { Another forcing approach where White captures on d5 immediately. }
+) ( 8. Qb3 { 1066 } ) ( 8. cxd5 { 1127 } 8... Nxd5
+{ The most common response, threatening the bishop on H4. } ( 8... Nxd5
+{ 1184 } 9. Bxe7 { 1185 } 9... Qxe7 { 1187 } ( 9... Nxe7 { 1191 } 10. Bd3
+{ 1198 } ) ( 9... Qxe7 { 1207 } 10. Nxd5 { 1215 } ( 10. Nxd5 { 1354 } 10...
+exd5 { 1354 } 11. Rc1 { 1354 } 11... Be6 { 1355 } 12. Qa4 { 1355 } 12... c5
+{ 1355 } 13. Qa3 { 1356 } 13... Rc8 { 1357 } 14. Be2 { 1357 } 14... Rf8
+{ 1360 } 15. Bf1 { 1360 } ) 10... exd5 { 1216 } 11. Rc1 { 1220 } 11... Be6
+{ At the master level, Be6 is preferred over Bb7 in this line for better central control. }
+( 11... Bb7 { 1250 } 12. Bd3 { 1252 } 12... c5 { 1256 } 13. dxc5 { 1259 } 13...
+bxc5 { 1260 } 14. O-O { 1261 } ) ( 11... Be6 { 1276 } 12. Qa4
+{ White puts pressure on the position. } 12... c5 { 1284 } 13. dxc5 { 1288 } (
+13. Qa3 { White pins the c-pawn, creating development problems for Black. }
+13... cxd4 { 1298 } ( 13... Rc8 { 1306 } 14. Be2 { 1310 } 14... Qf8 { 1313 }
+15. dxc5 { 1318 } 15... bxc5 { 1319 } 16. O-O
+{ White castles into an equal position. } 16... Nd7 { 1327 } ) 14. Qxe7
+{ 1300 } ) 13... bxc5 { 1288 } ) 12. Qa4 { 1245 } ) ) 9. Bxe7
+{ White resolves the tension by trading bishops. } 9... Nxc3 { 1157 } 10. Bxd8
+{ 1166 } 10... Nxd1 { 1168 } 11. Be7 { 1170 } 11... Re8 { 1173 } 12. Ba3
+{ 1176 } ) ( 8. Rc1
+{ White focuses on queenside development and preparing for a B4 expansion. }
+8... Bb7 { 1383 } 9. Bxf6 { 1387 } 9... Bxf6 { 1390 } 10. cxd5 { 1393 } ( 10.
+cxd5 { 1413 } 10... exd5 { 1413 } 11. b4
+{ B4 prevents Black from playing the freeing move c5. } 11... c6 { 1430 } 12.
+Bd3 { 1432 } 12... Qd6 { 1434 } 13. Qb3 { 1435 } 13... Nd7 { 1439 } 14. O-O
+{ 1442 } 14... a5 { 1443 } 15. a3 { 1445 } 15... axb4 { 1446 } 16. axb4
+{ 1447 } 16... Be7 { 1447 } 17. Rb1 { 1451 } 17... Rfe8 { 1453 } 18. Rfe1
+{ The position is slightly better for White according to the speaker. } ) 10...
+exd5 { 1394 } ( 10... Bxd5 { 1397 } 11. Nxd5 { 1398 } 11... Qxd5 { 1401 } 12.
+Bc4 { 1403 } 12... Qd8 { 1406 } 13. O-O { 1408 } ) ) ( 8. Bd3 { 1494 } ) ( 8.
+Be2
+{ A prophylactic move; developing the bishop to e2 ensures that if Black takes on c4, it does not come with a tempo on the bishop. }
+) ( 8. Be2 { 1513 } 8... dxc4 { 1520 } ( 8... Bb7 { 1605 } 9. Bxf6 { 1610 }
+9... Bxf6 { 1612 } 10. cxd5 { 1615 } 10... exd5 { 1616 } 11. b4 { 1628 } 11...
+c6 { 1637 } ( 11... c5
+{ Black can attempt an early c5 break when the rook is not yet on c1. } 12.
+bxc5 { 1655 } 12... bxc5 { 1656 } ( 12... bxc5 { 1673 } 13. Rb1 { 1675 } 13...
+Bc6 { 1684 } 14. O-O { 1692 } 14... Nd7 { 1696 } 15. Bb5 { 1700 } 15... Qc7
+{ 1705 } 16. Bxc6 { 1708 } 16... Qxc6 { 1709 } ) 13. Rb1 { 1658 } ( 13. dxc5
+{ 1663 } 13... Bxc3+ { 1666 } ) ) ( 11... c6 { 1728 } 12. O-O { 1733 } 12...
+Re8 { 1735 } 13. Qb3 { 1738 } 13... a5 { 1744 } ( 13... Rf8 { 1929 } 14. Qd1
+{ 1929 } ) 14. a3 { 1749 } ( 14. bxa5 { 1774 } 14... Rxa5 { 1775 } 15. a4
+{ 1777 } ( 15. Rab1 { 1800 } 15... Nd7 { 1803 } ) ( 15. a4 { 1810 } 15... Nd7
+{ 1814 } 16. Rfe1 { 1817 } 16... Qa8 { 1837 } 17. Bd3 { 1840 } 17... c5
+{ 1851 } 18. Bb5 { 1859 } 18... Rd8 { 1864 } 19. Bxd7 { 1868 } 19... Rxd7
+{ 1869 } 20. Qxb6 { 1871 } 20... Bc6 { 1876 } 21. Rab1 { 1890 } 21... Kh7
+{ 1909 } ) 15... Nd7 { 1792 } ) 14... Nd7 { 1754 } ) ) 9. Bxc4 { 1532 } ) ( 8.
+Bd3
+{ The main line and most popular choice for White in the Tartakower Defense. }
+) ( 8. Bd3 { 1960 } 8... Bb7 { 1969 } ( 8... dxc4 { 1980 } 9. Bxc4 { 1985 }
+9... Bb7 { 1988 } 10. O-O { 1991 } 10... Nbd7 { 1998 } 11. Qe2 { 2000 } 11...
+Ne4 { 2016 } 12. Bg3 { 2028 } 12... Nxg3 { 2038 } 13. hxg3 { 2040 } 13... c5
+{ 2046 } 14. dxc5 { 2053 } ( 14. Rfd1 { 2076 } 14... Bxf3 { 2084 } 15. Qxf3
+{ 2096 } ( 15. gxf3 { 2100 } 15... cxd4 { 2106 } 16. exd4 { 2109 } 16... Nf6
+{ 2121 } 17. d5 { 2124 } 17... exd5 { 2127 } 18. Bxd5 { 2128 } ( 18. Nxd5
+{ 2130 } 18... Nxd5 { 2137 } ( 18... Bc5 { 2175 } 19. b4 { 2178 } ) 19. Bxd5
+{ 2139 } ) ) ) ( 14. Rfd1 { 2204 } 14... Nf6 { 2213 } 15. dxc5 { 2216 } 15...
+Qc7 { 2218 } 16. cxb6 { 2220 } 16... Qxc4 { 2224 } ( 16... Qxb6 { 2228 } ) )
+14... Bxc5 { 2055 } ( 14... Nxc5 { 2058 } ) ) ( 8... Bb7 { 2258 } 9. O-O
+{ 2264 } 9... Nbd7 { 2276 } 10. Qe2
+{ A flexible move that connects the rooks and supports a central E4 push. } (
+10. Rc1 { 2292 } ) ( 10. Qe2 { 2295 } 10... c5 { 2331 } ( 10... Ne4
+{ Black aims to trade a set of minor pieces to relieve the space pressure. } )
+( 10... c5 { 2346 } 11. dxc5 { 2350 } ( 11. cxd5 { 2356 } 11... exd5 { 2363 } )
+11... Nxc5 { 2354 } ) ( 10... Ne4 { 2375 } 11. Bxe7 { 2383 } ( 11. Bg3
+{ Retreating the bishop is often better for White than trading it off. } 11...
+Nxg3 { 2406 } ( 11... c5 { 2439 } 12. cxd5 { 2450 } 12... exd5 { 2451 } 13.
+Rad1 { 2453 } ) 12. hxg3
+{ White recaptures towards the center, maintaining a very sound pawn structure. }
+12... Nf6 { 2412 } 13. cxd5 { 2413 } 13... Nxd5
+{ In this specific line, Black is happy taking with the knight as it avoids the forced hanging pawns structure. }
+14. Nxd5 { 2417 } 14... Qxd5 { 2419 } ) 11... Qxe7 { 2386 } 12. cxd5 { 2387 }
+12... exd5 { 2389 } 13. Rfd1 { 2391 } ( 13. Rac1 { 2394 } ) ( 13. Rfc1 { 2395 }
+) ) ) ) ( 8... Bb7 { 2464 } 9. O-O { 2465 } ( 9. O-O { 2524 } 9... Nbd7
+{ 2526 } 10. Qe2 { 2529 } 10... Ne4 { 2531 } ( 10... dxc4 { 2550 } 11. Bxc4
+{ 2551 } 11... Ne4 { 2554 } 12. Bxe7 { 2556 } 12... Qxe7 { 2557 } 13. Nxe4
+{ 2558 } 13... Bxe4 { 2560 } 14. Rfd1 { 2563 } 14... c5 { 2575 } 15. Rac1
+{ 2581 } ) ( 10... Ne4 { 2588 } 11. Bg3 { 2589 } ( 11. Bg3 { 2722 } 11... c5
+{ 2723 } 12. cxd5 { 2734 } 12... exd5 { 2736 } 13. Rad1 { 2737 } 13... Nxg3
+{ 2741 } ( 13... Qc8 { 2750 } 14. Rc1 { 2761 } 14... Rd8 { 2776 } 15. Rfd1
+{ 2777 } 15... Ndf6 { 2792 } 16. Ne5 { 2794 } 16... Qe6 { 2798 } 17. Bh4
+{ 2800 } 17... Rac8 { 2806 } 18. f3 { 2809 } 18... cxd4 { 2809 } 19. exd4
+{ 2810 } 19... Nxc3 { 2811 } 20. Rxc3 { 2812 } 20... Rxc3 { 2813 } 21. bxc3
+{ 2813 } 21... Nd7 { 2814 } 22. Bxe7 { 2815 } 22... Qxe7 { 2815 } 23. Nxd7
+{ 2816 } 23... Rxd7 { 2816 } ) ( 13... Nxg3 { 2832 } 14. hxg3 { 2838 } 14...
+Qc7 { 2841 } ) 14. hxg3 { 2744 } ) 11... c5 { 2589 } ( 11... Nxg3 { 2593 } 12.
+hxg3 { 2594 } 12... dxc4 { 2595 } 13. Bxc4 { 2597 } ) ) 11. Bg3 { 2535 } 11...
+c5 { 2536 } 12. cxd5 { 2540 } 12... exd5 { 2541 } ) 9... Nbd7 { 2466 } ( 9...
+dxc4 { 2472 } 10. Bxc4 { 2474 } 10... c5 { 2479 } 11. dxc5 { 2480 } 11... Bxc5
+{ 2482 } 12. Qe2 { 2483 } ) ( 9... Nbd7 { 2494 } 10. Qe2 { 2495 } 10... dxc4
+{ 2497 } 11. Bxc4 { 2498 } ) ) ) 8... Bb7
+{ Black develops the bishop and reinforces the center. } 9. Bxf6
+{ White trades to remove a defender and eventually force a hanging pawns structure for Black. }
+9... Bxf6 { 461 } 10. cxd5
+{ White captures on d5, forcing Black to recapture with a pawn. } ( 10. cxd5
+{ 614 } 10... exd5 { 616 } 11. Rd1
+{ A flexible rook move that supports the center and prepares for central tension. }
+11... Re8 { 632 } 12. Bd3 { 634 } ( 12. Bd3 { 1003 } 12... c5 { 1003 } ( 12...
+Rf8 { 1034 } 13. Bf1 { 1034 } ) 13. dxc5 { 1003 } ( 13. dxc5 { 1011 } 13... Nd7
+{ 1015 } ( 13... d4 { 1071 } 14. Bc4 { 1075 } ) 14. c6 { 1018 } ( 14. c6
+{ 1068 } 14... Bxc6 { 1068 } ) 14... Bxc6 { 1022 } 15. O-O { 1023 } ) 13... Nd7
+{ 1004 } 14. c6 { 1004 } 14... Bxc6 { 1004 } 15. O-O { 1005 } ) 12... c5
+{ Black breaks in the center. White should take to create hanging pawns for Black. }
+13. dxc5 { 646 } 13... bxc5 { 648 } ( 13... Nd7 { 658 } ) ( 13... Nd7
+{ Black must play Nd7. Trying to win a pawn with 14. cxb6 allows 14... Nc5! with tactical problems for White. }
+14. cxb6 { 682 } 14... Nc5 { 688 } 15. Qc2 { 693 } 15... Nxd3+ { 695 } 16. Qxd3
+{ 696 } 16... Qxb6 { 699 } 17. O-O { 709 } 17... Ba6 { 711 } 18. Qd2 { 716 }
+18... Bxf1 { 717 } 19. Kxf1 { 718 } ) ( 13... Nd7 { 727 } 14. c6
+{ White plays c6 to disrupt Black's structure and create a fork if possible. }
+14... Bxc6 { 741 } ( 14... Nc5 { 745 } 15. Qxd5 { 821 } ( 15. cxb7 { 854 }
+15... Nxb3 { 860 } 16. bxa8=Q { 864 } 16... Qxa8 { 866 } 17. axb3 { 869 } )
+15... Bxc3+ { 825 } 16. bxc3 { 829 } 16... Qxd5 { 830 } ) ( 14... Bxc6 { 920 }
+15. O-O { 926 } 15... Nc5
+{ Knight c5 attacks the queen. White must avoid a tactical blunder (16. cxb7) which would lead to a significant material advantage for White due to a queen promotion tactic. }
+16. Qc2 { 935 } 16... Rc8 { 937 } ( 16... Nxd3 { 948 } 17. Qxd3 { 949 } ) (
+16... Rc8 { 957 } 17. Nd4 { 960 } 17... Bxd4 { 963 } 18. exd4 { 963 } 18...
+Nxd3 { 973 } 19. Qxd3 { 975 } ) ) ) ) ( 10. cxd5 { 1067 } 10... exd5 { 1067 }
+11. Rd1 { 1067 } ) 10... exd5 { 553 } ( 10... Bxd5 { 556 } 11. Nxd5 { 558 }
+11... exd5 { 560 } ) ) ) ) 3. e4 { 67 } *
+

@@ -1,0 +1,83 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 Nc6
+{ The Nimzowitsch defense is an underrated and rare chess opening for Black against E4. It fights for central dark squares without using central pawns yet. }
+2. Nf3
+{ The Nimzowitsch Defense Declined. White chooses development over pushing the d-pawn immediately. }
+( 2. d4
+{ A main line transition where Black must decide between the Scandinavian and Kennedy variations. }
+2... d5
+{ The Scandinavian Variation, aiming to put immediate pressure on White's D4 pawn. }
+( 2... e5
+{ The Kennedy Variation, a highly enjoyable and dynamic choice for Black. } 3.
+Nf3
+{ This leads to a Scotch Game transposition, which may take White out of their comfort zone. }
+( 3. dxe5 { Leads to a Deppe or Charlotte Gambit style position. } 3... d6
+{ Offering the pawn sacrifice for rapid development and active piece play. } 4.
+exd6 Bxd6
+{ Black has nice development and will look to castle queenside, placing a rook on the D-file to eye the queen. }
+5. Nf3 { Black should look to pin the knight on F3 to keep the pressure high. }
+5... Nf6 6. Nc3 Qe7 7. Bd3 Bg4 8. O-O O-O-O
+{ Castling queenside completes development and activates the rook against White's queen. }
+9. h3
+{ White tries to kick the bishop, but Black can maintain the pin with H5. } ) (
+3. d5
+{ The Link-Springer variation, occurring in 60% of online games. White gains space, forcing the knight to move. }
+3... Nce7
+{ The primary plan in the Kennedy variation is to reroute this knight to G6 as quickly as possible. }
+4. c4 Ng6 { The knight reaches its key square. } 5. Nc3 Bc5 6. Nf3 Nf6 7. Bd3
+a5
+{ A key prophylactic move. Black gives the bishop an escape square before playing D6 to avoid any pawn traps. }
+8. O-O d6 9. a3 O-O 10. Bg5 h6
+{ White often trades the bishop here, which is a mistake as F4 comes under Black's control. }
+11. Be3
+{ Black should not trade on E3, as it helps White's structure and activates their rook. }
+11... b6 { Solidifying and waiting for White to capture. } 12. Bxc5 bxc5
+{ Recapturing towards the center. } 13. Nb5
+{ A common but strange move in online chess. } 13... Nh5
+{ Manuevering towards F4. If White plays G3, they weaken their light squares significantly. }
+14. Nxe5
+{ Sacrificing a piece for a pawn in this manner does not work for White. }
+14... Nxe5 15. Qxh5 Nxd3
+{ Black wins a piece. The battery on the H-file with Queen H5 will soon end the game if White's king moves to F1. }
+) 3... exd4 4. Nxd4 Nf6 5. Nc3 Bb4
+{ A key idea in these lines: pinning the knight on C3. Since the defender is pinned, E4 is effectively under-protected. }
+6. Nxc6 bxc6
+{ Capturing towards the center creates a solid structural foundation for Black's middlegame plans. }
+) 3. exd5 ( 3. e5
+{ White pushes the pawn. Black should avoid E6 immediately as the C8 bishop would be trapped and horrendous. }
+3... Bf5
+{ Developing the bishop outside the pawn chain before locking it in with E6. }
+4. Nf3 e6 5. Bd3
+{ White offers a trade. Black should defend rather than capture to avoid aiding White's development. }
+5... Nge7 6. O-O Qd7 7. c3 f6
+{ Challenging the center. If captures occur, Black obtains a nice G-file for attacking White's king. }
+8. Bxf5 Nxf5 9. exf6 gxf6
+{ The resulting open G-file is excellent for Black, eyeing White's king and enabling active piece placement. }
+) 3... Qxd5
+{ Black recaptures with the queen, preparing to pressure D4 further. } 4. Nf3
+e5 { Advancing in the center to increase pressure. } 5. Nc3 Bb4
+{ Pinning the knight, a key thematic idea for Black in this variation. } 6. Bd2
+Bxc3 7. Bxc3 e4 ) 2... e5
+{ Transposes into standard E4-E5 openings like the Italian, Ruy Lopez, or Scotch. This is a sound option if the player is comfortable with the associated theory. }
+( 2... d6
+{ The Williams Variation, a popular choice for Nimzowitsch defense players focusing on development. }
+3. d4 Nf6 4. e5
+{ White pushes forward, which can be a mistake leading to a quick opening of the file. }
+4... dxe5 5. dxe5 { The file opens up, leading to immediate tactical threats. }
+5... Qxd1+ 6. Kxd1 Ng4
+{ A double threat on E5 and F2. The main danger is capturing on F2 to take the rook. }
+7. Ke1 Ngxe5
+{ Black captures the pawn and remains up a pawn with a superior position. } ) (
+2... f5
+{ The Colorado Counter Gambit, putting pressure on e4. It is a very fun and aggressive option for quick time controls. }
+3. exf5 { The best move for White is to take the gambit pawn. } 3... d5 4. g4
+{ White tries to hold the pawn, but Black counters with H5. White's kingside becomes overextended and weak. }
+) *
+

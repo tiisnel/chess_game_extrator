@@ -1,0 +1,122 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4
+{ Intro to the Owens Defense setup: this opening is flexible for White, who can start with either d4 or e4; here the line begins with d4. }
+1... b6 { Black chooses the Owens Defense. } 2. e4
+{ White uses the flexible approach and builds a strong center with e4. } 2...
+Bb7 { Black develops the bishop to b7, the standard Owens Defense setup. } 3.
+Bd3 { White develops naturally toward an attacking setup. } 3... Nf6 4. Nc3 e6
+5. Nge2
+{ White simply plays Nge2; this is part of the main setup and prepares the attacking ideas shown in the video. }
+5... c5
+{ One of the main Black responses covered; if Black plays c5, White should strike immediately. }
+( 5... Bb4 { Another major Black option covered is Bb4. } 6. a3
+{ Against Bb4, White plays a3; the presenter says this occurs a lot online. }
+6... Bxc3+ { If Black takes, White can show the value of the knight on e2. } 7.
+Nxc3
+{ White simply takes back with the knight, demonstrating the power of the e2-knight setup. }
+7... d5 { Black usually goes d5 here. } 8. e5
+{ White advances e5 and starts attacking. } 8... Ne4
+{ If Black plays Ne4, White has a direct attacking setup. } 9. Qg4
+{ White plays Qg4, eyeing the kingside. } 9... g6
+{ Black usually answers with g6. } 10. Bxe4
+{ White simply takes the knight with the bishop. } 10... dxe4
+{ When Black takes back, White avoids the obvious recapture and continues the attack. }
+11. Bg5 { Instead of taking, White goes Bg5. } 11... Qxd4
+{ Black grabs the pawn on d4, but this is poisoned. } 12. Rd1
+{ White plays Rd1. } 12... Qc5
+{ If the queen moves out of danger, White has a mating finish. } 13. Rd8#
+{ Boom: checkmate with the rook. } ) ( 5... d5
+{ The final main Black move in the initial setup is d5; the presenter says they love this line and get it a lot over the board. }
+6. e5 { White immediately goes on the attack with e5. } 6... Ne4
+{ There are two main replies covered for Black after e5; first the line with Ne4. }
+( 6... Nfd7
+{ This is presented as the presenter's favorite line against the Owens and one they've had many times over the board; it is said to be killing the Owens Defense. }
+7. Nf4
+{ White goes in for the kill with Nf4; this is exactly why the knight was placed on e2. }
+7... c5 { If Black plays c5, White has a tactical attacking idea. } 8. Nxe6
+{ Kamikaze knight sacrifice on e6, eyeing both the queen and bishop. } 8...
+fxe6 { Black takes with the pawn. } 9. Qh5+
+{ White now comes in with a lovely queen check. } 9... g6
+{ Black can play either g6 or Ke7; first the g6 line is shown. } ( 9... Ke7
+{ The other defensive try after Qh5+ is Ke7. } 10. Bg5+
+{ White simply comes in with the bishop and checks the king. } 10... Nf6
+{ Black blocks with the knight. } 11. exf6+ { White takes with the pawn. }
+11... gxf6 { When Black takes back... } 12. Bxf6+
+{ Kamikaze bishop check on f6; Black has to take. } 12... Kxf6
+{ Black is forced to capture the bishop. } 13. Qh4+
+{ White comes in with Qh4+; as the presenter notes, Black's queen is gone and White is winning. }
+) 10. Bxg6+ { Kamikaze bishop sacrifice on g6. } 10... hxg6
+{ When Black takes back... } 11. Qxg6+
+{ White ignores the rook and checks with the queen. } 11... Ke7
+{ When the king moves to safety... } 12. Bg5+ { White plays Bg5+. } 12... Nf6
+{ The only move Black can make here. } 13. Qxf6+
+{ White takes with the queen. } 13... Kd7 { When Black moves out of danger... }
+14. Qxd8+ { White whips off the queen. } 14... Kc6 15. Qe8+
+{ White checks again. } 15... Nd7
+{ Black's best move is to interpose the knight. } 16. Qxe6+
+{ White simply takes the free pawn on e6 with another check. } 16... Kc7
+{ If Black goes to c7... } 17. Nb5+
+{ White comes in with the knight with another check. } 17... Kc8
+{ If the king goes to c8... } 18. Qe8# { Beautiful checkmate with Qe8. } ) 7.
+Nxe4 { The presenter says they used to take with the knight here. } ( 7. Nb1
+{ A newer idea the presenter learned from another source and found very innovative. }
+7... c5 { If Black plays c5, White has a simple consolidating plan. } 8. c3
+{ White guards the pawn. } 8... cxd4
+{ If Black takes, White keeps the nice center. } 9. cxd4
+{ White takes back and maintains a strong center. } 9... Bb4+
+{ If Black checks with Bb4+... } 10. Nbc3
+{ White simply covers with the knight. } 10... Nxc3 { If Black takes... } 11.
+Nxc3 { White takes back with the knight. } 11... Nc6
+{ Black develops the knight. } 12. O-O { White simply castles. } 12... O-O
+{ When Black castles, White begins direct kingside pressure. } 13. Qh5
+{ White brings the queen to h5, threatening mate in one. } 13... g6
+{ Black must react with g6. } 14. Qg4 { White retreats to g4. } 14... h5
+{ Black tries to kick the queen with h5. } 15. Qf4 { White goes to f4. } 15...
+Be7 { If Black moves the bishop back to e7... } 16. Qh6
+{ White simply moves the queen to h6. } 16... Nxd4
+{ If Black takes the free pawn on d4, White has a tactical attack. } 17. Bxg6
+{ Kamikaze bishop sacrifice on g6. } 17... fxg6
+{ When Black takes back, White continues checking. } 18. Qxg6+
+{ White checks with the queen. } 18... Kh8 { When the king moves to h8... } 19.
+Qxh5+ { White takes the pawn with another check. } 19... Kg8
+{ When Black moves back... } 20. Qg4+
+{ White checks again from g4, eyeing the knight and checking the king. } 20...
+Kf7 { When the king moves... } 21. Qxd4
+{ White simply wins the knight; with the king safe, White is just winning here. }
+) 7... dxe4 { Black takes back with the pawn. } 8. Bb5+
+{ White used to give this check. } 8... c6 9. Ba4 { White moves back. } 9... b5
+{ When Black goes b5, White retreats again. } 10. Bb3
+{ White drops the bishop back to b3, then starts making a pawn chain and just keeps playing chess. }
+) 6. d5 { Against c5, White pushes d5. } 6... exd5
+{ If Black takes, White recaptures. } 7. exd5 { White simply takes back. } 7...
+Nxd5 { If Black takes with the knight, White has a simple response. } 8. Nxd5
+{ White simply takes with the knight. } 8... Bxd5
+{ Black takes with the bishop; White now prioritizes king safety. } 9. O-O
+{ White castles and gets the king safe. } 9... Be7
+{ This is described as Black's most common move, just trying to castle and bring the king to safety. }
+10. Nf4 { White goes on the attack with Nf4. } 10... Bb7
+{ Black usually brings the bishop back to b7. } 11. Re1
+{ White plays Re1, lining up pressure on the e-file. } 11... O-O
+{ If Black thinks castling brings safety, White has a direct attacking continuation. }
+12. Qh5 { White attacks with Qh5, threatening mate in one. } 12... f5
+{ Black tries to defend with f5. } 13. Re5
+{ White loves this move: Re5, maintaining the attack. } 13... Bf6
+{ Black attacks the rook with the bishop. } 14. Bc4+
+{ White simply attacks again with Bc4+, a strong attacking move. } ( 14. Bc4+
+{ 216 } 14... Kh8 { After Bc4+ in the c5 line, if Black simply goes Kh8... }
+15. Ng6# { A beautiful checkmate: Ng6#. } ) 14... d5
+{ In the over-the-board game mentioned, Black played d5 here. } 15. Nxd5
+{ White simply took with the knight. } 15... Bxd5
+{ When Black takes with the bishop, White has a tactical shot. } 16. Rxd5
+{ White plays Rxd5. The danger is clear: the bishop eyes the king while the rook also threatens the queen. }
+16... Qe7 { Black's queen went to e7. } 17. Rd7+
+{ Boom: Rd7+. White checks the king with the bishop and simultaneously lines up the rook against the queen; the position is described as resignable. }
+*
+

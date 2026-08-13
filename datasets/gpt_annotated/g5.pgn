@@ -1,0 +1,146 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. c4
+{ Introduces the English Opening. White's usual strategic idea is to control d5 with more than just the c-pawn, typically via Nc3 and Bg2, and often keep open the option of d4 later. }
+1... b5
+{ The Yannish Gambit. At first glance it looks like a clean pawn sacrifice, but Black's idea is to fight for control of d5 by removing White's c-pawn, similar in spirit to the Benko or Wing Gambit structures. }
+( 1... b5 2. cxb5
+{ Stefan's main practical advice: White should accept the gambit. } 2... a6
+{ Main move and Black's most common practical try, aiming for Benko-style compensation. }
+3. bxa6
+{ Stefan advises against this capture. Taking on a6 helps Black achieve the Benko-style setup they want, especially the bishop recapturing on a6 and later pressure against f1 if White plays e-pawn moves. }
+( 3. e3
+{ Stefan's recommended move and, in his view, the best response. White defends the b5-pawn, continues development, and refuses to speed up Black's play by taking on a6. }
+3... axb5
+{ Black should take now; otherwise White will capture on a6 under favorable circumstances. }
+4. Bxb5
+{ White recaptures with the bishop, keeping the king safely on e1 and avoiding the unfavorable Benko-style bishop pressure that comes after bxa6. }
+4... c6
+{ A common continuation, preparing central expansion and hitting the bishop structure. }
+5. Be2
+{ Best retreat according to Stefan. White calmly preserves the bishop and keeps a healthy extra pawn. }
+5... e5
+{ Black tries to generate compensation with a central pawn mass, typically aiming for ...e4 and ...d5. }
+6. Nf3
+{ Standard development. Stefan recommends this setup regardless of whether Black chooses ...Nf6, ...e5, or ...d5 after the bishop retreat. }
+6... e4
+{ Black advances as planned, trying to build compensation in the center. } 7.
+Nd4
+{ The key reaction. White plants the knight on d4 and immediately challenges Black's advanced center, almost like a Sicilian structure in reverse. }
+7... d5
+{ Black continues the central expansion, trying to justify the pawn sacrifice. }
+8. d3
+{ White begins undermining the center. Stefan's point is that unlike in the Benko, White's queenside is safe and Black has not gained the usual development-based compensation. }
+) 3... Bxa6
+{ Exactly Black's desired recapture. Black gets the kind of initiative and development compensation they were aiming for, with latent ideas of ...Bxf1 if White advances the e-pawn. }
+) ( 1... b5 2. cxb5 { Again the recommended acceptance of the gambit. } 2... a6
+{ Mainline attempt by Black. } ( 2... Bb7
+{ An alternative to ...a6, but Stefan considers these sidelines less good. Black allows White to consolidate more easily. }
+3. Nf3
+{ Stefan's recommendation. The point is to prevent ...e5; if Black insists, they generally have to give up the bishop with ...Bxf3, which he regards as awful for Black. }
+3... g6 { A fianchetto setup from Black, but not especially challenging. } 4.
+d4
+{ Stefan recommends starting with d4 here, taking central space immediately. }
+4... Nf6 5. Nc3
+{ Simple development, overprotecting the b5-pawn and preparing e3. } 5... Bg7
+6. e3
+{ A very simple setup. White's b-pawn is well defended; if Black later plays ...c6 or ...a6, White can capture, and if Black plays ...d5 the bishop on b7 gets blocked. Stefan says there is no trouble at all for White. }
+) ( 2... g6
+{ Another alternative that Stefan treats similarly: Black wants to fianchetto, but White can still seize the center comfortably. }
+3. Nc3
+{ Recommended here instead of Nf3, mainly to play more directly against ...d5 and to support a later e4. }
+3... Bg7 4. d4 { White claims central space. } 4... Bb7
+{ Black places the bishop on the diagonal, but this actually helps illustrate White's setup. }
+5. e4
+{ This is the upside of developing the knight to c3 first: it supports e4, so White can fully claim the center. }
+5... Nf6 6. e5
+{ Stefan recommends advancing. He also mentions Bd3 as an option and says he would avoid f3 even if the engine allows it. }
+6... Nd5 7. Nf3 { Stefan says to simply continue with Nf3. } 7... O-O 8. Bc4
+{ Stefan is emphatic here: White is not only a pawn up but also has a significantly better position. }
+) ( 2... e5
+{ From a human practical perspective, Stefan thinks this is Black's most challenging move and one of the best engine tries. }
+3. e4
+{ Recommended response. White stops the pawn from advancing further and begins consolidating the extra pawn. }
+3... Nf6 { Now e4 is under pressure. } 4. Nc3 { White defends the e4-pawn. }
+4... Bb7 { Black develops and increases pressure on e4. } 5. d3
+{ Stefan says this passive defense still leaves White better, but he does not recommend it because there is no need to be so passive. }
+( 5. Nf3
+{ This is Stefan's recommended move instead of d3. White actively challenges Black's e5-pawn rather than merely defending. }
+5... d6
+{ A passive defense of e5. Stefan points out that this blocks Black's bishop, after which White can continue comfortably, for example with Qc2. }
+( 5... Qe7
+{ Another way to defend e5. Stefan says it is less committal than ...d6, but it still restricts the bishop; the engine gives White a large advantage. }
+) ( 5... Nxe4
+{ This is the only reasonably dangerous sequence Stefan says White needs to remember. }
+6. Nxe4 { White recaptures. } 6... Bxe4
+{ Black continues the tactical sequence. } 7. Nxe5
+{ White can now take on e5. Stefan explains this works tactically because White can defend everything afterward. }
+7... Qe7
+{ Black attacks the knight and keeps pressure, but White has a precise setup. }
+8. d4
+{ Strong central move. Stefan notes that after this and Black's follow-up, White can coordinate and remain at least equal materially with much more activity. }
+8... d6 9. Qe2
+{ This is the key consolidating move Stefan highlights: White defends everything. }
+9... dxe5 10. Qxe4 { White regains the queen and keeps active play. } 10...
+exd4
+{ Black wins back the pawn temporarily, but Stefan says there is no way for Black to keep the material. }
+11. Qxe7+ { White forces simplification into a favorable active ending. } 11...
+Bxe7 12. Bf4
+{ Important move. Stefan says one of Black's pawns is now hanging and Black cannot hold the extra material; White's piece activity is overwhelming. }
+12... Kd7
+{ An example Stefan gives to show Black's difficulties if they try to hold on. }
+13. O-O-O
+{ Immediate long castling is crushing. Stefan says this is essentially game over because of White's activity and the coming kingside development. }
+13... Bf6 { Stefan mentions this as a defensive try after long castling. } 14.
+g3
+{ Followed by Bg2, this development plan is described as the end of the game for Black. Even though White temporarily gave the pawn back, Black is losing due to White's superior activity. }
+) 6. Qc2
+{ A natural consolidation move. Stefan says this is perfectly fine: Black ends up with a bad bishop and a kind of King's Indian setup with a pawn on e5, which he judges as not good. }
+) ) 3. e3
+{ Stefan's preferred move: defend the b5-pawn, continue development, and avoid helping Black. }
+( 3. e4
+{ An alternative to 3.e3. Stefan says it is fine and also defends d5 directly, but it is a bit more committal and gives White a slightly smaller advantage than e3. }
+3... Nf6 { Natural development and pressure toward the center. } 4. Nc3
+{ Necessary in this setup. White does not want to play d3 too early because the bishop still needs to recapture on b5. }
+4... axb5 { Black takes as expected. } 5. Bxb5
+{ White recaptures with the bishop, preserving the extra pawn. } 5... Bb7
+{ Black develops the bishop to the long diagonal. } 6. Qe2
+{ Stefan considers this the best move here. White securely supports e4 and keeps a clean extra pawn; if Black does not challenge with ...e5, White can follow with d4 and claim everything. }
+6... e6 7. d4
+{ If Black does not play ...e5, White should play d4. Then White has the center, the extra pawn, a development lead, and an excellent position. }
+) 3... axb5 4. Bxb5 c6 5. Be2 e5 6. Nf3
+{ This setup is Stefan's recommended practical treatment and yields White the best-case scenario: a stable extra pawn and about a plus-one edge. }
+) ( 1... b5 2. cxb5 a6 3. bxa6
+{ Stefan returns to emphasize this is the wrong practical choice, because it gives Black the initiative they want. }
+( 3. e3
+{ The correct alternative to taking on a6: defend the pawn and force Black to clarify. }
+3... axb5 4. Bxb5
+{ White recaptures in the recommended way, keeping the king safe and preserving the extra pawn. }
+) 3... Bxa6
+{ Black gets active compensation and pressure, especially ideas against f1. } )
+2. e3
+{ The only sensible way to decline the gambit. Moves like e4, b3 or other non-captures leave White immediately worse because Black gets central control too easily. Still, Stefan's main recommendation is to accept the gambit rather than decline it. }
+( 2. cxb5
+{ This is what White should do: accept the gambit. Stefan says the Yannish Gambit must be accepted; otherwise White gives up d5 control for nothing. }
+2... a6
+{ By far the most common move and Black's main practical try. The idea resembles the Benko Gambit: Black wants rapid development after ...Bxa6 and pressure along open files/diagonals. }
+) 2... bxc4
+{ Black grabs the c-pawn and follows through on the central idea of the gambit: White is no longer controlling d5. }
+3. Bxc4
+{ White recaptures. This illustrative line is used to show why declining is not attractive. }
+3... d5
+{ Black strikes in the center immediately. This is exactly the problem with declining: Black gets strong central presence. }
+4. Bb3
+{ The bishop has to retreat; Stefan notes the exact retreat square is not critical to the main point. }
+4... e6 { Black calmly reinforces the center. } 5. Nf3
+{ Natural development, but White is already behind in the strategic battle for the center in this declined line. }
+5... c5
+{ Black has traded the b-pawn for the c-pawn and achieved control over the whole center. This is why White should not decline the Yannish Gambit without getting something in return. }
+*
+

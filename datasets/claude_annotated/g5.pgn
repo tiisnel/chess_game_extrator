@@ -1,0 +1,109 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. c4 b5
+{ The Yananish Gambit - a very strange, very rare opening. On first glance it makes no sense because white wins a clean pawn if white decides to take. The idea is similar to the Benko and Sicilian gambits - black is fighting for control over d5. When white plays the English, white wants to control d5 with the c pawn, knight c3, and bishop g2. }
+( 1... b5 { 413 } 2. cxb5 a6 3. bxa6
+{ White should NOT take on a6. If you take on a6, black recaptures with the bishop and you have the Benko situation where if you ever move your e pawn forward (which you'll want to because black will play d5), black takes on f1, misplacing your king. This is exactly what black wants. }
+( 3. e3
+{ The best move for white - simply defending the b pawn and continuing own development instead of helping black out. If black doesn't take now, white takes on a6. Play e3 to force black to take, speeding up your own development as opposed to giving black extra developing moves. }
+3... axb5
+{ Black should take. If black doesn't take, white takes on a6, and if black recaptures with the bishop, white can trade that bishop off and the king is still safely on e1. }
+4. Bxb5
+{ White recaptures with the bishop. Unlike the line where white takes on a6 first, here white's king is still on e1 and can safely castle. }
+4... c6 { Best move. The game that was played continued this way. White wins. }
+5. Be2 { Best move - bringing the bishop back safely. The king remains on e1. }
+5... e5
+{ E5 is the best move here rather than knight f6 which is suboptimal. Black wants to go e4 and d5 to compensate for the pawn. }
+6. Nf3
+{ White plays knight f3 anyway. This is the best case scenario for white - a plus one advantage, significantly better, with a clean extra pawn. White is basically playing a Sicilian in reverse. }
+6... e4 { Black advances the pawn to e4. } 7. Nd4
+{ White goes knight d4, playing like a Sicilian with the knight on d4 instead of f3, immediately challenging the pawn on e4. Unlike in the Benko, white's a and b pawns are very safe and white hasn't sped up black's development - all of black's pieces are still on the back rank with white having a lead in development. }
+7... d5 8. d3
+{ White starts the undermining. White has a clean extra pawn, lead in development, and great central control. No typical Benko compensation for black. }
+) 3... Bxa6
+{ Black recaptures with the bishop, getting the Benko situation with bishop on the long diagonal. If white ever plays e4, black gets to misplace the king by taking on f1. This is exactly what black wants from the Yananish Gambit. }
+) ( 1... b5 { 586 } 2. cxb5 { 599 } 2... a6 ( 2... Bb7
+{ Bishop b7 is one of black's alternatives - definitely less good than a6. A6 is the only move that makes the gambit worthwhile. }
+3. Nf3
+{ The best move. Knight f3 prevents e5. Black cannot play e5 without giving up the bishop by taking on f3, which is awful. D5 cannot be prevented after bishop b7, but e5 can be stopped. }
+3... g6 4. d4 { White starts with d4, recommended over e3 here. } 4... Nf6 5.
+Nc3
+{ Knight c3 followed by e3 - a very simple setup where the b pawn is overprotected. }
+5... Bg7 6. e3
+{ A very simple setup. As soon as black plays c6 or a6, white takes. If black plays d5, the bishop is blocked - no trouble at all. }
+) ( 2... g6
+{ G6 is another alternative for black - definitely less good than a6. } 3. Nc3
+{ With g6, bishop g7 reinforces e5 straight away, so knight c3 is recommended here instead of knight f3, to play against d5. }
+3... Bg7 4. d4 Bb7 5. e4
+{ White plays e4 - the upside of knight c3 compared to knight f3: the knight on c3 defends e4. So when the other bishop inevitably comes to the diagonal, white can play e4 and claim the center. }
+5... Nf6 6. e5
+{ White recommends e5 or bishop d3 here. F3 is fine according to the engine but not recommended. }
+6... Nd5
+{ White would love it if black took on c3, giving four pawns in the center. }
+7. Nf3 O-O 8. Bc4
+{ White has not just an extra pawn but a significantly better position. Not even worth commenting on further - white is completely winning. }
+) ( 2... e5
+{ E5 is the most challenging move from a human perspective and also one of the best engine moves immediately after a6. This pawn needs to be prevented from moving forward and white needs to defend the b pawn at some point. }
+3. e4
+{ E4 is what is recommended - the pawn needs to be prevented from advancing and the b pawn needs defending. }
+3... Nf6 { E4 is now hanging. } 4. Nc3 { Knight c3 defending e4. } 4... Bb7
+{ Now white has an interesting choice - can passively defend the e pawn (not recommended) or play actively. }
+5. d3
+{ Passively defending the e pawn. The engine says white is still better, but there's no need to do this. Not recommended. }
+( 5. Nf3
+{ The recommended move - challenging their e5 pawn actively rather than defending passively. }
+5... d6
+{ If black passively defends with d6, the bishop is blocked. Black is playing a King's Indian basically with the pawn on e5, which is known to not be good. }
+( 5... Qe7
+{ Less committal than d6 but again restricts the bishop - plus two and a half according to the engine for white. }
+) ( 5... Nxe4
+{ The only reasonably dangerous sequence white needs to remember - black trades on e4. }
+6. Nxe4 Bxe4 7. Nxe5
+{ White can take on e5 because after queen e7, after d4 and d6, white has queen e2 defending everything. }
+7... Qe7 8. d4 d6 9. Qe2 { Queen e2 defending everything after d-e5. } 9...
+dxe5 10. Qxe4 exd4 11. Qxe7+
+{ It may seem like white has given the pawn back, but there is no way for black to keep the material. }
+11... Bxe7 12. Bf4
+{ Bishop f4 and one of the two pawns is hanging. White regains material. }
+12... Kd7 { If black tries king d7... } 13. O-O-O
+{ The immediate castles queenside is game over. } 13... Bf6 14. g3
+{ G3 followed by bishop g2 is going to be the end of the game. Even though white temporarily gave the pawn back, white has so much piece activity that black is losing. }
+) 6. Qc2
+{ White continues perfectly fine. Black has a very bad bishop. Plus two and a half according to the engine for white. }
+) ) 3. e3
+{ Best move - defending the b pawn and continuing development instead of taking on a6 and helping black's development. }
+( 3. e4
+{ Instead of e3, white can also play e4, which is fine according to the engine but gives a slightly smaller advantage compared to e3. E4 is slightly more committal but does have the upside of simply controlling d5. }
+3... Nf6 4. Nc3
+{ After knight f6, white now has to play knight c3 since white doesn't really want to go d3 yet because white wants to recapture on b5 with the bishop. }
+4... axb5 5. Bxb5 { White recaptures with the bishop. } 5... Bb7 6. Qe2
+{ Queen e2 is the best move here. White now has a clean extra pawn. Black needs to fight against d4. }
+6... e6 7. d4
+{ If black doesn't play e5 now, white plays d4. White has everything: the center, an extra pawn, great development, a lead in development, and a perfect position. }
+) 3... axb5 4. Bxb5 c6 5. Be2 e5 6. Nf3
+{ White's next move is knight f3 regardless of what black plays (knight f6, e5, or d5). This is the best case scenario - plus one advantage, white is significantly better with a clean extra pawn. }
+) ( 1... b5 { 1000 } 2. cxb5 a6 3. bxa6
+{ White should NOT take on a6 - bishop takes a6 and black has the initiative with problems on f1. What white should do instead is go e3 or e4. }
+( 3. e3
+{ Correct! Defending the pawn, forcing black to take, speeding up white's own development as opposed to giving black extra developing moves. }
+3... axb5 4. Bxb5
+{ White recaptures with the bishop and maintains a significant advantage - a clean extra pawn with the king safe on e1. }
+) 3... Bxa6
+{ Black gets the bishop on the long diagonal, initiative, and problems arise on f1. This is exactly what black wants. }
+) 2. e3
+{ White declines the gambit. Playing e3, e4, or b3 - any move that doesn't lose the c pawn - means white is immediately worse. The only sensible way to decline is e3, but white should actually take the pawn. }
+( 2. cxb5
+{ White takes the pawn. The Yananish Gambit needs to be accepted. White is going to have a clean extra pawn with enough central control to compensate for d5. The gambit is awful for black if white knows what they're doing. }
+2... a6
+{ The most common move by far - 74,000 games on Lichess. Similar to the Benko gambit idea where black recaptures on a6 with the bishop and gets rapid development along with two open files (a and b files). However, this is what black wants - they want white to take on a6, so white should not do that. }
+) 2... bxc4 3. Bxc4 d5 { Black gets d5 for free, exactly what they wanted. } 4.
+Bb3 { White has to retreat the bishop. } 4... e6 5. Nf3 c5
+{ Look at black's center - black has traded the b pawn for the c pawn and managed to gain control over the entire center of the board. This is not something white wishes to do. If white is going to give away control of d5, white has to get something in return, so white should take the pawn. }
+*
+

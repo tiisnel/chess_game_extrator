@@ -1,0 +1,488 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ Opening move, starting the Sicilian Defense course overview. The instructor covers the Diamond of Sicilian, focusing on three main chapters: 7th move Qf3, English Attack with f3/g4, and 8th move f4, plus classical openings. }
+1... c5
+{ Black plays the Sicilian Defense, the foundation of the Diamond of Sicilian course. }
+2. Nf3
+{ Main line move. The instructor notes there are many options for move 2, move 3, and move 5 covered in the course. }
+( 2. c3
+{ Alapin variation. Black will also reach certain positions from Nf3 e6 c3. White can try to play c3, e5, d4 setup. }
+2... Nf6 3. e5 Nd5 4. d4 cxd4 5. Qxd4
+{ This is one of the variations that deviate from the usual variation after Nf3. The instructor has covered all variations. }
+5... e6 6. Nf3 Nc6 7. Qe4 f5
+{ Black plays f5. If you remember f5 and b5 you are doing a good job against this setup. }
+8. Qe2 b5
+{ Black plays b5. f5 and b5 - if you remember these you are doing a good job. }
+9. Qxb5 Qc7 10. Qe2 a5
+{ Always development, taking control of center, and bringing out the monster bishop. Bishop b6/b7 is coming next - nothing to worry. }
+) ( 2. Nf3
+{ Some players prefer Nf3 e - when people play e6 c3 their usual setups are Nc6 Bb5 or d6 Bb5. Against e6 they cannot play Bb5, so they play c3 or g3 and other things. }
+2... e6 ( 2... e6 { 4714 } 3. c3
+{ c3 from Nf3 - same ideas as in the Alapin chapter. The instructor has covered all variations. }
+3... Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6
+{ Main position which one has to study to master the Alapin. } 7. Nc3 ( 7. Bc4
+{ Another main idea Bc4 - Be7 is important to remember. Black is not taking on e5 or playing Nc6 as the main idea is to get b6 Bb7. }
+7... Be7
+{ Black plays Be7 - not taking on e5 or playing Nc6. The main idea is to get b6 Bb7. }
+8. O-O O-O 9. Qe2
+{ White plays Qe2. White players love the setup of Qe4 Bd3 forcing g6, then Bh6 and h4/h5 Qg4. }
+9... b6
+{ Black continues with b6 plan. Bd3 does not work well as Nb4 follows. } 10.
+Bd3 { Bd3 does not work well as Nb4 follows. } ( 10. Qe4
+{ Finally Qe4 - you might wonder why white is not continuing with his plan. After Ba6 Qa6 there is no attack here. }
+10... Ba6
+{ After Ba6, there is no attack. After Bxd5 exd5 Qxd5, all you have to remember is Nc6. }
+11. Bxd5 exd5 12. Qxd5 Nc6
+{ Very important move! Qxc6 does not work because of Bf1 Kf1 and Rc8 - when white moves queen from c6, Rc1 comes. If white doesn't take on c6, Nb4 Nd3 and black has more than sufficient compensation. }
+( 12... Nc6 { 4958 } ) 13. Qxc6 Bxf1 14. Kxf1 Rc8
+{ When white moves his queen from c6, Rc1 is coming. Black has more than sufficient compensation. }
+) 10... Nb4 11. Qe4 Nxd3 12. Qxa8 Ba6
+{ Ba6 - one of the ideas is to trap the queen, but also the rook on f1 is hanging. Stopping any attack. }
+13. Rd1 dxe5 14. dxe5 Qc7
+{ Black plays Qc7, attacking the c1 bishop. Nc6 is an important threat. The instructor believes black is more than fine here. }
+) 7... Nxc3 8. bxc3 Qc7
+{ Qc7 is a key move - attacking the pawn on c3 and not giving white chance to castle soon. Also Nd7 attacks e5, so black develops with tempo. }
+9. Bd2 Nd7
+{ Black plays Nd7, attacking e5. Developing with tempo - this is quite important to learn. }
+10. exd6 Bxd6 11. Bd3 b6 12. O-O Bb7 13. Re1 O-O
+{ Black castles short. At some point Bf4 will come and it is black who has the initiative. }
+) ) ( 2. Nc3
+{ 2nd move Nc3 gives white a lot of flexibility - can try closed setups like g3/Bg2 or play Nf3 and go for d4 transposing into main lines. }
+2... e6 { Black plays e6, not caring if white plans knight f3 d4. } 3. g3
+{ After g3, d5 is an important move. exd5 exd5 d4 - not giving chance for white to have Be3. Bd4 is a very important idea. }
+( 3. Nge2
+{ Another tricky move - white still doesn't show his cards. If black plays a6 b5, white would go d4 cxd4 Nxd4 and black doesn't get the Diamond of Sicilian. Therefore black plays Nc6. }
+3... Nc6
+{ Black plays Nc6. If white plays d4, cxd4 Nxd4 leads to the main chapter. } 4.
+g3 d5 5. exd5 exd5 6. d4
+{ Black plays d4 otherwise black plays d4 - same important idea to not allow white to have Be3 and take with bishop on d4. }
+( 6. d4 { 5118 } 6... cxd4 7. Nxd4 Nf6 8. Bg2 Bg4
+{ Bg4 provoking white to play f3 or Nd2 or Qd3. } 9. Nde2
+{ After Nd2, Bb4 as we have seen in previous variation when queen was on a4. }
+9... Bb4 10. h3 Bxc3+ { Since Nc3 is not possible, bxc3 follows. } 11. bxc3 Bf5
+12. Rb1 O-O
+{ Black castles short, sacrificing the pawn on b7. Nothing to worry as Qf5 Qa2 and black has the fantastic square on c4. }
+) ) 3... d5
+{ d5 is an important move after g3. After exd5 exd5 d4, black doesn't give white the chance to play Be3 and take the pawn with the bishop. }
+4. exd5 exd5 5. d4
+{ Black plays d4 - not giving white the chance to have Be3 and place the bishop on d4. }
+5... cxd4 6. Qxd4 Nf6 7. Bg5 Nc6 8. Qa4
+{ White has to move the queen from d4. } 8... Bb4 9. Ne2 Bg4
+{ Typical moves - Bb4 and Bg4 provoking white to play f3, Nd2, or Qd3. } 10.
+Bg2 Bxe2 11. Kxe2 Bxc3
+{ Black gave a pair of bishops but doubled the pawns on c file and white can't castle yet. }
+12. bxc3 O-O
+{ Black castles short. White can't castle yet. h6 next - the instructor believes black has easy play here. }
+) ( 2. f4
+{ 2nd move f4 - an interesting move many players use to just go for the attack on black's king. }
+2... d5 { Black plays d5. } 3. exd5 Nf6
+{ Important not to take with the queen. Black is not afraid of being a pawn down as he has nice grip on d4 and it isn't easy for white to develop pieces. }
+4. Bb5+ Bd7 5. Bxd7+ Qxd7 6. c4 e6
+{ Black plays e6. One thing noticed: many times black doesn't mind being a pawn down as he has nice grip on d4 and white's development is not easy. }
+7. dxe6 Qxe6+ 8. Qe2 Qxe2+ 9. Nxe2 Nc6
+{ Black is well ahead in development. Plan includes g6 Bg7 Rh8 and having Nf4/Nd3 - it depends on how white progresses as d3 is not easy for white to achieve. }
+10. O-O O-O-O { Long castle. Black's plan: g6 Bg7 Rh8 and knight to f4 or d3. }
+) ( 2. b4
+{ The Wing Gambit (b4) - many people love to try this from white side. If you're ready for how to play against it you'll get a nice position. Black plays cxb4 a3 e5 - not believing in material when not taking control of center. e5 also defends the pawn on b4. }
+2... cxb4 3. a3 e5
+{ Black plays e5 - not believing in material, taking control of center. e5 also defends the pawn on b4. }
+4. Nf3 Nc6 5. Bc4 Nf6 6. Ng5 d5
+{ This is one of the main ideas when white plays Italian and black counters with Nf6. The key point is the pawn on b4 controls Nc3, so b5 works well here. }
+7. exd5 b5
+{ b5 works quite well because the pawn on b4 controls Nc3. If pawn is on c7, white can take on b5 Qxd5 and possibly Nc3. }
+8. Bf1 { White retreats bishop to f1. } 8... Qxd5
+{ Black plays Qxd5. After Nc3 is not possible, black can move the knight away from h6 or play e4 directly. A fun line discussed seriously in the course. }
+) 2... e6 { Black plays e6, setting up the Diamond of Sicilian structure. } 3.
+d4 { White opens the center. } 3... cxd4 4. Nxd4 Nc6 5. Nc3 ( 5. Nb5
+{ 5th move Nb5 - not a bad move, played by several top grandmasters. White is trying to achieve Maroczy structures. The instructor doesn't recommend going into direct Maroczy structures without white giving some concessions. }
+5... d6 { After Nb5 d6. } 6. Bf4
+{ Bf4 is a funky move but it really doesn't work as after e5 it fails. } ( 6.
+c4
+{ c4 is the main move, much more challenging. After Nf6 N1c3, one important point: after Nb5 c3 black is not obliged to play a6, so plays b6 Bb7, saving half a tempo. }
+6... Nf6 7. N1c3 ( 7. N1c3 { 4301 } 7... a6
+{ After Nb5c3, black is not obliged to play a6 and can play b6 Bb7 instead to save a tempo. }
+8. Na3 Qa5
+{ Black plays Qa5 - pretty simple and straightforward. The instructor tried to make Qd5 work but Qa5 is simpler. }
+( 8... Qa5 { 4314 } 9. Bd2 { White plays Bd2. } 9... Be7
+{ Black plays Be7. Do not worry about Nd5 as after Qd8 Ne7 Qxe7, black equalizes immediately after playing d5. }
+10. Be2 { White plays Be2. Nd5 is still not a threat. } 10... O-O
+{ Black castles short. } 11. O-O { White castles short. } 11... Qe5
+{ Black plays Qe5, threatening to take on e4. } 12. Bd3 { White plays Bd3. }
+12... Nb4 { Black plays Nb4. } 13. Bb1 { White plays Bb1. } 13... d5
+{ Black plays d5 successfully. Once black achieves d5, he has an easy plan with the bishop on c8 coming to g4 or e6. }
+) ) ) 6... e5 { Black plays e5 and Bf4 doesn't work well. } 7. Bg5
+{ Bg5 is not the main move but might happen in blitz games. It just loses after Qxg5 Nc7+ Kd8 Nxa8 Nf6 - the knight on a8 is not going home anytime soon. Just Be6 Qxa8 King b8 and take the knight. }
+7... Qxg5 { Black captures Qxg5. } 8. Nc7+ Kd8 9. Nxa8 Nf6
+{ Black plays Nf6, and the knight on a8 is not going home anytime soon. } ) (
+5. c4
+{ c4 is also something preferred by Magnus Carlsen in several blitz and rapid games. }
+5... Nf6 6. Nc3 Bb4 7. Nxc6
+{ dxc6 might also be an option but the instructor doesn't like it as much. }
+7... bxc6 8. Bd3 e5
+{ Black plays e5, otherwise white would play e5 a move earlier. White couldn't play e5 before as Ne4 was possible. }
+9. O-O O-O
+{ White has several tries here. Bishop g5 - most cases black has similar setups to double pawns on c3/c4 h6 d6 e5 g5 for a fantastic pawn chain. }
+10. Bg5
+{ Most cases black has similar setups: h6 d6 e5 g5 to have a fantastic pawn chain, then maybe Be6 Kg7 Rh8 h5. }
+( 10. Bg5 { 4427 } 10... Bxc3
+{ Black can play Bxc3 first or h6 - it really doesn't matter. After bxc3 h6 Bh4 d6 Qe2 g5 Bg3 c5 - pretty solid structure. }
+11. bxc3 h6 12. Bh4 d6 13. Qe2
+{ White loves the setup of Qe4 Bd3 forcing g6, then bringing bishop to h6 and h4/h5 Qg4. Since this is an easy way to attack black's king, black continues with the plan b6. }
+13... g5 { 4457 } 14. Bg3 c5
+{ Pretty solid structure. The bishop on c3 is like a joke - if there was a pawn on d3 it could move to d4, but that's just a joke. Fine position for black. }
+) ( 10. Qe2
+{ The main try is Qe2. After Qe2, black plays Re8 with the idea to get d5 if possible. }
+10... Re8 { Black plays Re8 with the idea to get d5. } 11. Na4 d5
+{ Black plays d5 first. } 12. a3 Be7
+{ After a3 Be7 - this was played in Magnus Carlsen vs Grischuk in 2018. } 13.
+cxd5 cxd5 14. exd5 e4
+{ Black sacrifices another pawn - the instructor doesn't think someone will capture this pawn. }
+15. Bb5 Bg4
+{ Bg4 is an important tempo, destabilizing the queen from e2. After Bd7, b5 bishop won't be protected. }
+16. Qc2 ) ) 5... Qc7
+{ Black's queen move, key part of the Diamond of Sicilian setup. } 6. Be3
+{ White develops bishop, leading to the main variations covered in the course. }
+( 6. f4
+{ 6th move f4 - quite an aggressive try. It cuts down many options for black and white needs to remember less, making it appealing for white. After f4 a6, white usually castles long while black castles short with lots of attacking possibilities. }
+6... a6
+{ Black plays a6 in most cases. White castles long and black castles short with lots of attacking possibilities. }
+7. Nxc6 { White captures on c6. } 7... Qxc6 8. Bd3 b5 9. Qe2 Bb7 10. Bd2
+{ White can also start with long castle as b4 doesn't work because of Nd5. Can also start with a3, Ne7, long castle. }
+10... Bc5
+{ Bishop goes to c5. The main position after 6.f4. The knight on e7 might seem misplaced but bishop not being on e7 gives chance to play f5 later when white plays Qh5, e5, or g4. }
+11. a3 Ne7
+{ Black places knight on e7 with the important motive of playing f5 later when white attempts queen h5, e5, or g4. }
+12. O-O-O { White castles long - the main position after 6.f4. } 12... O-O
+{ Black castles short. } 13. h4
+{ h4 is statistically the best scoring move. Better to know what to do against it. Black responds with f5 - typical idea to block any attack. }
+( 13. Qh5
+{ Instead of h4, white can play Qh5 - an ultra sharp move. But since the pawn is still on h4 and the queen is a bit out from defending white's king, black needs to play b4. }
+13... b4
+{ Black plays b4 as the queen is away from defending white's king. The idea: a5 a4 a3, queen b6, Rfb8 - attacking the b2 pawn. Remember you need to checkmate white's king with these plans. }
+14. axb4 Bxb4 15. f5 { f5 protects f6 and stops white from playing f6/e5. }
+15... f6 16. g4 { White plays g4. } 16... a5
+{ Black starts queenside counterplay with a5. } 17. e5 { White pushes e5. }
+17... a4 18. exf6 Rxf6 19. g5
+{ g5 is actually a mistake. After Rxf5 Bxf5 Nxf5, white is in big risk - black is down exchange but once a3 comes white's king will be under tremendous pressure. In a practical game white is going to lose pretty soon. }
+19... Rxf5 ( 19... Rxf5 { 3188 } 20. Bxf5 Nxf5
+{ After Nxf5, once a3 comes white's king will be under tremendous pressure. In a practical game white is going to lose pretty soon. }
+) ) 13... f5 { Black plays f5 - typical idea to block any kingside attack. }
+14. h5 d5 15. exd5 exd5 16. h6 g6 17. Rhe1
+{ White plays Rhe1 aiming for Qe5 or Qe6. } 17... Rf7
+{ Black plays Rf7, protecting the knight on e7. } 18. g4 d4 19. gxf5 dxc3 20.
+Bxc3 gxf5
+{ This variation illustrates that black has many resources even when under attack. The bishops on c5 and b7 do excellent job preventing rooks from coming to g1 or queen to g2. }
+21. Qe5 Ng6 22. Rg1 Bxg1 23. Rxg1 Kf8 24. Bb4+ Kg8 25. Bc3
+{ White doesn't have anything better than repeating. Black also doesn't have anything, leading to a strange draw. Not a surprising draw though as bishop b4/Kg8 Bc3 is just repetition. }
+) ( 6. g3
+{ 6th move g3 chapter - the instructor doesn't understand why it got the reputation of being easy to play from white. Black can play several ways. }
+6... a6 7. Bg2 Nf6 8. O-O Nxd4 9. Qxd4 Bc5 10. Bf4 d6 11. Qd2 h6
+{ This is the main line against g3 which sort of lost its popularity but will be the main line against 6.g3 pretty soon. }
+12. Rad1 e5 13. Be3 Bb4
+{ The instructor recommends Bb4 which he played in 2020 Prague Masters against Niels Grandelius. }
+( 13... Bxe3
+{ Fabiano Caruana played Be3 fxe3 and Ke7 which is a blunder as Rf6 followed by Nd5 check follows. But black can play Be6 Qd6 Rc8. }
+14. fxe3 Ke7
+{ Ke7 is a blunder as Rf6 followed by Nd5 check - Caruana played this as white and won. }
+( 14... Be6
+{ Black can play Be6 instead of Ke7, then Qd6 Rc8. Though the instructor wouldn't recommend giving a pawn so early for lower rated players. }
+15. Qxd6 Rc8 ) 15. Rxf6 { 3757 } ) 14. a3
+{ In the instructor's game against Grandelius, a3 happened: Bxc3 Qxc3 Qxc3+ bxc3 Be6 Rd6 Rc8. He also commented a model game for the course. }
+( 14. Nb5
+{ 14th move Nb5 is another important chapter - one of the most crucial chapters. If you know a3 and Nb5, it's enough to handle how to play against 6th move g3. }
+14... axb5 15. Qxb4 Rxa2 16. Qxb5+ ( 16. Rxd6
+{ White plays Rxd6 - the main way. Not Qb5 (Rxa2 Qb5+ Bd7 Qb4 just Ra6 protecting d6 pawn and short castle follows, then Rfc8). }
+16... O-O 17. Rd2 Be6
+{ Bishop e6 is an important move. After Qb5 Bc4 f3 Rf8 Rfd1 and R8a4 Qb5 Rk5 Bb6 Rb5 Bc7 Rxb2 - balanced endgame. Black still needs to eliminate c2 pawn which should happen within five moves. }
+18. f3 Rfa8 19. Rfd1 R8a4 20. Qxb5 Ra5 21. Bb6 Rxb5 22. Bxc7 Raxb2
+{ Balanced endgame. Black can also play Rc5 and Rcc2. Black's king is quite safe on g8. }
+) 16... Bd7 { 3864 } 17. Qb4 { 3865 } 17... Ra6 { 3865 } ) 14... Bxc3 15. Qxc3
+Qxc3 16. bxc3 Be6 17. Rxd6 Rc8 ) ( 6. Ndb5
+{ 6th move Ndb5 overview. After Qb8 Be3 a6 Bb6 is the point - otherwise it's just wasting tempos for white. }
+6... Qb8 { Black plays Qb8. } 7. Be3 a6 8. Bb6
+{ The point of playing Ndb5 - otherwise it's wasting tempos. } 8... axb5 9.
+Nxb5 Bb4+ { A very important check - otherwise Bc7 would trap the queen. } 10.
+c3 Ba5 11. Nc7+ Qxc7 12. Bxc7 Bxc7
+{ Until this point it is forcing after Ndb5. White has queen and pawn, black has two bishops (the instructor's favorite). Once black gets Nf6 and short castle, he's at least fine. With all these knight jumps, probably easier to play from black side. }
+13. Qg4 { White plays Qg4, disturbing normal development of black. } 13... g6
+{ Black plays g6. } 14. Bb5
+{ White plays Bb5 - one of the critical bishop moves covered in the course. }
+14... Kf8 15. O-O Kg7
+{ Black plays Kg7 - this is the plan for almost anything: get Kg7 and Nf6 and d5. }
+16. a4 { White plays a4. } 16... Nf6 { Black plays Nf6. } 17. Qe2 d5
+{ Black plays d5, asking about the pawns. If exd5 exd5, bishop will come out and black's pieces will have more harmony once the c8 bishop comes into play. }
+18. exd5
+{ After exd5 exd5, bishop e6 Ke5 - quite unclear position. The instructor likes playing with three pieces versus the queen in such positions. }
+18... exd5
+{ After exd5 exd5, bishop e6 Ke5 - quite unclear position. The instructor likes playing with three pieces versus the queen in such positions. }
+) 6... a6 { Black plays a6, preparing queenside expansion. } 7. Qf3
+{ One of the three main chapters. The Qf3 variation is considered one of the most challenging for black. White's main idea is to go Qg3, exchange queens, and play for a slightly better position with more space. The instructor notes it's complex for both sides. In blitz/bullet it appears less often, but in classical games it's more common. }
+( 7. Qd2
+{ English Attack chapter. The instructor considers this quite solid and logical as white just develops pieces and expands kingside with g4/h4. Queen d2 is part of the setup leading to long castle. }
+7... Nf6 8. O-O-O
+{ White castles long. Black will castle short with lots of attacking possibilities on opposite wings. }
+( 8. f4
+{ 8th move f4 chapter. Used to be quite important as white threatens e5 to attack the knight. If black plays d6, the whole Diamond of Sicilian setup is disturbed and white would play Bg4/g5. }
+8... Bb4
+{ Black plays Bb4 after f4. Black's setup after f4: Bb4, Bd3 defending e4, Na5, a3 Bxc3 Qxc3 Qxc3+ bxc3 d5. Black gave away the bishop pair but has good control over c4 and if the knight gets to e4 it's interesting. }
+9. Bd3 { White defends the pawn on e4 with Bd3. } 9... Na5 { Black plays Na5. }
+10. a3 { White plays a3. } 10... Bxc3 11. Qxc3 Qxc3+ 12. bxc3 d5
+{ Black plays d5. After exchanging bishops, black has good control over c4 and aims for Ne4. }
+13. e5
+{ White pushes e5. After Ne4, Nb3 is the older try. Do not take the c3 pawn - after Nb3 cxb3 Nc3 Rc1 would be nice for white. }
+( 13. exd5
+{ Magnus Carlsen played exd5 against Matlakov in Wijk aan Zee. He used quite an innocent idea but managed to win effortlessly. The instructor managed to equalize with a simple idea. }
+13... exd5 14. Nb3 Nc4 15. Bd4 Ne4 16. Nc5 Nxc5 17. Bxc5 Bd7 18. O-O-O O-O-O
+19. Bxc4 dxc4 20. Bb6
+{ Magnus's main point - bringing rooks. Since black's rooks are tied down on h8 and e8, white pushes pawns and makes progress. }
+20... Rde8 21. Rd4 Bc6
+{ Black immediately plays Bc6, then Rxc4 and Kd7. After f6 Ke6 Kf7 there's nothing to worry with different colored bishops and rook on e2. }
+22. Rxc4 Kd7
+{ Black plays Kd7 - the point! After f6 Ke6 Kf7, absolutely nothing to worry about. With different color bishops and rooks, the instructor doubts white has serious chances. }
+) 13... Ne4 { Black plays Ne4. } 14. Nb3
+{ The older try - Nb3. Do not take the c3 pawn after Nb3 as cxb3 Nc3 Rc1 would be nice for white. }
+14... Nc4 15. Bxc4 dxc4 16. Na5 Bd7
+{ The key point - Bd7 is the key move in this position. } 17. Bd4
+{ White plays Bd4. } 17... Rc8
+{ Rc8 was introduced by Anish Giri - a great concept sacrificing the pawn on b7 and getting the bishop to d5 with nice coordination of pieces, then playing f5/g5. }
+18. Nxb7 Bc6 19. Na5 Bd5 20. Rb1 f5
+{ Plans like Kd7, g5 follow. Bxc4 d5 has been played by Magnus Carlsen against Matlakov in Wijk aan Zee. }
+) 8... Be7 9. f3 { Part of the English Attack setup - f3 followed by g4/h4. }
+9... b5
+{ Black starts queenside expansion. The themes of f5, b4, and knowing when to play each are very important. }
+10. Kb1
+{ Kb1 is a very tricky move - waiting for Bb7. The point is after Bb7, white plays Bf4. If g4 instead, Nd4 would likely transpose into lines from 10th move g4. }
+( 10. g4
+{ 10th move g4 - a normal way of attacking against many Sicilians. This setup appears in Najdorf and many other Sicilian variations. }
+10... Nxd4 { Black captures on d4. } 11. Qxd4
+{ White recaptures with queen. Black's plan: Bb7, Rc8, and Bc5. If white doesn't prevent b4, black will play b4. }
+( 11. Bxd4
+{ Instead of Qxd4, white can try Bxd4. After Bxd4, we play Bb7. Then g5 is the only way to continue - you can play h4h5 too but g5 is more direct. }
+11... Bb7
+{ Black plays Bb7 after Bxd4. Now g5 is necessary, otherwise f3 is hanging and g4 will also fall. }
+12. g5
+{ g5 is the only way to continue. After Nh5 Be5 is the direct variation. } (
+12. g5 { 1929 } 12... Nh5 { Black plays Nh5. } 13. Be5
+{ White plays Be5 in this direct variation. } 13... Qxe5
+{ Black captures on e5. } 14. Qxd7+ { White captures on d7 with check. } 14...
+Kf8 15. Qxb7
+{ White takes on b7. It might appear black lost a pawn, but consider f4/e5/g5 with bishop on e7 and knight coming to f4. White's knight on c3 cannot go to d5, a4, or e4 - controlling squares is very important in the Taimanov Sicilian, more than material. }
+15... Qb8
+{ Black plays Qb8 first - after Bg5, Kb1 Qb8 Qc6 g6 h4 defending g5 pawn, black ignores everything and goes Kg7, Rc8, and somehow brings bishop to e5. The extra pawn on g5 or c2 means nothing as black has wonderful squares on f4/e5 and b5/b4 might occur. }
+16. Qc6 g6 17. h4 { White defends the g5 pawn. } 17... Kg7
+{ Black simply ignores everything and goes Kg7. } 18. Ne2
+{ White plays Ne2. One point is to play Ng3 at some point, but also stopping Nf4, threatening Bh3 and Bg4. }
+18... Rc8 { Black plays Rc8. } 19. Qd7 Ra7 20. Qd4+
+{ The instructor advises: just king, do not push e5 and give chance for bishop to come via h3. }
+20... Kg8
+{ King goes to g8. Black can try Bf8, Bg7, or Rac7 - excellent compensation. Black is not worse here. }
+( 20... Kg8 { 2070 } ) ) ( 12. Kb1
+{ The tricky part: if we play Rc8 as usual, white can play g5 Nh5 Be5 Qxe5 Qd7 Kf8 Qxb7 - same position but white's king is on b1 and black's rook is on c8 which favors white. Therefore black castles first before playing Rc8. }
+12... Rc8 ( 12... O-O
+{ Black castles first before playing Rc8. This move order is important to avoid the line where white's king on b1 and black's rook on c8 favors white. }
+13. g5 { White plays g5 after black castles. } 13... Nh5 14. Ne2
+{ White plays Ne2. One of the points is to play Ng3, but also stopping Nf4, threatening Bh3 and Bg4. Since black can't pressure c2 easily, black plays f5 instead. }
+14... f5
+{ Black plays f5, opening the f-file to put pressure on f3. This is the move found over the board by the instructor's team, later verified with engine. }
+) 13. g5 { 2100 } 13... Nh5 { 2101 } 14. Be5 { 2102 } 14... Qxe5 { 2103 } 15.
+Qxd7+ { 2104 } 15... Kf8 { 2104 } 16. Qxb7 { 2106 } ) ) 11... Bb7
+{ Black develops Bb7, Rc8, and Bc5 is the natural development plan. } 12. Kb1
+{ White plays Kb1. } ( 12. g5
+{ 12th move g5 - after g5 we play Nh5, Kb1 Rc8, and now Qd2 is fine as we no longer have b4 Nf4 Ne4. b4 Ne2 and d5 is an important break in English Attack chapters. }
+12... Nh5 { Black plays Nh5. } 13. Kb1 { White plays Kb1. } 13... Rc8
+{ Black plays Rc8 as seen in this structure. } 14. Qd2
+{ Now Qd2 is fine because b4 no longer works with Ne4 knight threat. } 14... b4
+{ Black plays b4 - taking the knight on c3. } 15. Ne2
+{ White retreats to Ne2. } 15... d5
+{ Black plays d5 - an important break in English Attack chapters. } 16. e5
+{ White pushes e5. } 16... d4
+{ Black plays d4 - a key move suggested in the course. 90-95% of the time this is the way black should go, as after short castle white sacrifices the pawn on e5 and the bishop on b7 won't have activity. The bishop is a monster waiting to come out. }
+( 16... O-O
+{ After d4 short castle is not recommended here - white would sacrifice pawn on e5 and the bishop on b7 would remain inactive. }
+17. Nd4 ) 17. Nxd4 { White captures on d4. } 17... O-O
+{ Black castles short with excellent compensation. Rfd8 a5 a4 a3 will come, and Qe5 is hanging. The instructor really likes this type of pawn sacrifice giving nice initiative. }
+) 12... Rc8 { Black plays Rc8 as usual. } 13. Qd2
+{ White plays Qd2 - but this allows b4, so white should play g5 instead. After Qd2, black plays b4, Na4, and Ne4 - always some funky tactics. }
+13... b4 { Black plays b4 - taking advantage of white's failure to play g5. }
+14. Na4 Nxe4 15. fxe4 Bxe4
+{ After fxe4 Bxe4, black threatens to take on h1 and c2. A move like Bd3 - but the main point is Bxh1 Rxh1 and Qc6 attacking knight on a4 and rook on h1. }
+) ( 10. Nxc6 { 2287 } 10... dxc6 { 2289 } 11. g4 { 2290 } 11... O-O { 2291 }
+12. Qf2 { 2313 } 12... e5 { 2314 } 13. h4 { 2321 } 13... Rd8 { 2326 } 14. Rxd8+
+{ 2333 } ( 14. Bd3 { 2390 } 14... Rb8 { 2398 } 15. h5 { 2401 } ( 15. h5
+{ 2414 } 15... Be6 { 2415 } 16. g5 { 2418 } 16... Nd7 { 2420 } 17. g6 { 2422 }
+17... h6 { 2429 } 18. f4 { 2448 } ( 18. gxf7+ { 2563 } 18... Bxf7 { 2565 } 19.
+Rhg1 { 2567 } 19... Kh8 { 2568 } 20. f4 { 2571 } 20... Bf6 { 2572 } 21. fxe5
+{ 2574 } 21... Nxe5 { 2575 } 22. Bxh6 { 2576 } 22... b4 { 2577 } 23. Na4
+{ 2584 } 23... b3 { 2585 } 24. axb3 { 2596 } 24... Bxb3 { 2597 } 25. cxb3
+{ 2599 } 25... Nxd3+ { 2600 } 26. Rxd3 { 2602 } 26... Rxd3 { 2602 } ) 18... Qa5
+{ 2449 } 19. gxf7+ { 2451 } 19... Bxf7 { 2452 } 20. Rhg1 { 2454 } 20... b4
+{ 2455 } 21. Na4 { 2457 } 21... Qxa4 { 2472 } 22. fxe5 { 2473 } 22... Qxa2
+{ 2475 } 23. Bxh6 { 2476 } 23... Nxe5 { 2511 } 24. Bxg7 { 2515 } 24... Qa1+
+{ 2516 } 25. Kd2 { 2518 } 25... Rxd3+ { 2519 } 26. cxd3 { 2520 } 26... Qxb2+
+{ 2521 } 27. Ke1 { 2522 } 27... Qxf2+ { 2523 } 28. Kxf2 { 2524 } 28... Ng4+
+{ 2525 } 29. Rxg4 { 2530 } 29... Bxh5 { 2531 } 30. Rg2 { 2532 } 30... Bxd1
+{ 2533 } 31. Be5+ { 2534 } 31... Kf7 { 2535 } 32. Bxb8 { 2536 } 32... a5
+{ 2536 } ) ) 14... Qxd8 { 2336 } 15. h5 { 2336 } 15... h6 { 2337 } 16. g5
+{ 2359 } 16... hxg5 { 2361 } 17. Bxg5 { 2361 } 17... Nxe4 { 2362 } ) 10... Bb7
+{ Black plays Bb7 as expected. White was waiting for this with Kb1. } 11. Bf4
+{ White plays Bf4 after waiting with Kb1. This following tactical sequence is quite funny even for those not interested in the full line. }
+11... e5 { Black pushes e5. } 12. Nf5 { White plays Nf5. } 12... exf4
+{ Black captures on f4. } 13. Nd5
+{ White plays Nd5 - the main point. The instructor also briefly looked at keeping the piece - 'if we can keep the piece wide, why not?' But Nd5 is the main try. }
+13... Nxd5 { Black captures on d5. } ( 13... Qb8
+{ Black plays Qb8 to protect the bishop on b7. Queen e5 is a mistake because Ndxe7 Nxe7 and Nd6+ forks the bishop on b7 and king on e8, and the knight stays on d6 for a very long time. }
+14. Nxg7+ { White plays Nxg7+. } 14... Kf8 15. Nf5 Qe5 16. Nxf4
+{ White plays Nxf4. This is one of the main positions after white sacrificed his bishop, with lots of interesting ideas and tactics. }
+16... h5
+{ h5 is an important move as white was threatening Nd3 Qh6 and so on. } 17. g3
+{ White plays g3. } 17... Bd8
+{ Black plays Bd8. d5 is something the instructor mentioned but not his recommendation - if someone wants a fun game they can play it, but the engine says black is lost after d5. }
+( 17... d5
+{ Not recommended but mentioned. When preparing this variation, d5 seemed playable over the board but the engine indicates white is winning, though not clearly showing how. }
+18. Nh4 dxe4 19. Nfg6+ fxg6 20. Nxg6+ Kf7 21. Nxe5+ Nxe5 ) 18. Bg2
+{ White plays Bg2. } 18... Ne7
+{ Black plays Ne7, asking where the knight on f5 is going. } 19. Nh4 a5
+{ Black plays a5, expanding on the queenside and slowly threatening a4, a3. Since the knight on h4 doesn't threaten anything, white needs to move the knight on f4 - just a normal game. }
+) ( 13... Qe5 { 1403 } 14. Ndxe7 { 1408 } 14... Nxe7 { 1410 } 15. Nd6+ { 1411 }
+) 14. exd5 { White recaptures. } 14... Nb4 15. c4
+{ White has initiative but there are forced lines where black is holding. The instructor did not recommend Nxd5 in the course. }
+) ( 7. Be2
+{ 6th move Be2 leading into Scheveningen/classical setup. If white starts with Be2 then black plays Nf6, and if Be3 black is obliged to play a6. After Be2 Nf6 short castle Be7 f4 d6 Kh1 short castle. }
+7... Nf6 8. O-O Be7 9. f4 d6 10. Kh1
+{ White has two main ideas in Scheveningen: Qe1 Qg3 Kh1 and then play as recommended, or go a4. Kh1 keeps flexibility. }
+( 10. Kh1 { Kh1 keeps flexibility for both a4 and Qe1 plans. } 10... O-O 11.
+Qe1 { White plays Qe1, heading for Qg3. } 11... Nxd4 12. Bxd4 b5
+{ Black plays b5 with the idea to play b4 followed by knight action. } 13. Qg3
+Bb7 14. a3 Bc6 15. Rae1 Rad8
+{ This is the main position - the main point of the Scheveningen chapter in the Taimanov Sicilian. }
+16. Bd3 { Bd3 is not as harmless as it looks. } 16... Qd7
+{ Qd7 is a surprising move prepared for Grand Prix events in 2017. The instructor also got a chance to play Qd7 himself. The idea: Nh5, Nf4 and e5 at some point. }
+17. Nd1 { White plays Nd1. } 17... Nh5
+{ Black plays Nh5 with the idea of Nf4 and e5 at some point. } 18. Qg4
+{ White plays Qg4. } ( 18. Qh3
+{ If white plays Qh3 instead of Qg4, then Nxf4 Rxf4 e5 follows. } 18... Nxf4
+19. Rxf4 e5
+{ Black plays e5. Qd7 is doing a wonderful job - black exchanges the queen and doesn't even mind sacrificing this pawn as the two bishops give more than sufficient compensation. }
+20. Rg4 exd4 21. e5 g6 { Nothing to panic - just g6. } 22. e6 Qe8
+{ Black plays Qe8, everything under control. After fxf7 Qxf7 - look at the knight on d1, it really doesn't have squares to come out. Once bishop gets to g7 or e5, one main problem is also bishop d7 - white can't move bishop from d3 because of Qf1 checkmate. }
+) 18... Nf6 { Black plays Nf6 as Nf4 is not possible because Qg7 is there. } (
+18... Nf6 { 3367 } 19. Qf3 { White plays Qf3. } 19... Qb7
+{ Black plays Qb7 with the idea to play d5 and Ne4. } 20. Nf2
+{ White plays Nf2 - knight not placed well. } 20... Nd7
+{ Black plays Nd7. Black can play e5, exf4, Ne5 or Bf6. } ) ) ( 10. a4
+{ a4 is also possible - then short castle Kh1 Re8 Bg1 follows. } 10... O-O 11.
+Kh1 Re8 { Black plays Re8. } 12. Bg1 { White plays Bg1. } ( 12. Bf3
+{ 12th move Bf3 - the main idea here. Rbd8 Bd7 has already been tried but the instructor recommends Nd4 which is quite rare. He managed to draw easily against Yakovich three years ago. }
+12... Nxd4
+{ Black plays Nd4 - quite rare but effective. After Qxd4 e5 Qd2 exf4. } 13.
+Qxd4 e5 14. Qd2 exf4
+{ In all these structures: Be6 Nd7 and Ne5. Once you get Ne5, you don't need help figuring it out - Nc4 Bf6 Be5 and so on. }
+15. Bxf4 Be6 16. Rfd1
+{ White can also try Ra1d1. The point of Rfd1 or Red1 is to stop Nd7-Ne5. White forces black to place rook on d8, and after Nd7 white can take on e5. }
+( 16. Rfd1 Rad8 { White forces black to place rook on d8. } 17. a5
+{ a5 is a bit careless as Ng4 follows - we also have Ng4 followed by Ne5. } (
+17. h3
+{ Instead of a5, white can stop Ng4 with h3. But then h6 preparing Na7-Bg5 and also Na8/Ng5 ideas. }
+17... h6
+{ Black plays h6, preparing Na7/Ng5 and also Bg5 ideas. There are more ideas like Na8/Ng5 which can be seen in the course. }
+) 17... Ng4
+{ Black plays Ng4. After h3 Ne5 - black has easy play. Not scared of Nd5 - just take Bxd5 exd5 Bf6 with excellent position. }
+18. h3 Ne5
+{ Black has easy play. Not scared of Nd5 - just Bxd5 exd5 Bf6 with excellent position. }
+) ) 12... Rb8
+{ Rb8 is a typical waiting move. After Nc6 bxc6 Rb2 is threatened. With rook on b8, black can take on b2 - key difference. }
+( 12... e5 { If black plays e5, white can take Nxc6 bxc6 fxe5 dxe5 and a5. }
+13. Nxc6 bxc6 14. fxe5 dxe5 15. a5 ) 13. Qe1 { White plays Qe1. } 13... e5
+{ Black plays e5. } 14. fxe5 dxe5 15. Qg3 Bd8
+{ Bd8 is a very important move - defending queen on c7, defending e5 pawn, and threatening to take on d4. The instructor would prefer black here. }
+) 10... O-O ) 7... Nf6 { Black develops the knight, responding to Qf3. } 8. Be2
+{ White develops bishop. The instructor notes that if white plays Be2, black needs to know the trick: Ba3, and after bxa3, Ne5 with Qc3 and Qa1 ideas. }
+( 8. O-O-O
+{ White castles long, which is the main move. b5 fails here because of e5, and Nb5 is not possible because of Qa8. }
+8... b5
+{ Black plays b5. When f4/e5 comes, black should always be ready to play b4 - this is mentioned more than 10 times in the course. }
+( 8... Ne5
+{ Black retreats knight to e5 as recommended. After Qg3, b5 follows. } 9. Qg3
+{ White plays Qg3 - the main point of Qf3 variation, trying to exchange queens for a slightly better position. }
+9... b5
+{ Black plays b5 after Qg3 as recommended. This is a key idea mentioned repeatedly in the course. }
+10. Ndxb5
+{ White captures with knight on b5. After axb5 Nxb5 Qb8, Bd4 d6 Bxe5 dxe5 Qc3 appears dangerous but black has Nxe4 - capturing material and giving the king a nice square on f6. }
+( 10. Bxb5
+{ Instead of Ndxb5, white can capture with Bxb5 which is not so dangerous but quite forcing. Since the knight is on c3, Rxa2 is not so easily available, but also Qc3 and Nc7 is not possible for white - pros and cons. }
+10... axb5 11. Ndxb5 Qb8 12. Bf4
+{ White plays Bf4. After Nh5, Ng3-Nb8 Knight h1 and Nc7 ideas. Bf4 d6 is the move recommended in the course. }
+12... d6
+{ Black plays d6 as recommended. The instructor says to find why Bxd6 is not good - not very difficult to find on your own. }
+( 12... d6 { 431 } 13. Rxd6 { White captures on d6. } 13... Nh5 14. Qg5 Bxd6
+15. Nxd6+ Qxd6 16. Bxe5 Ra5
+{ Ra5 has a clear logic after Bxd6 - rook goes to g5. This is an important move. }
+17. Nd5
+{ Another 'funky' but nice move. f4 is also possible which was covered in the course. }
+17... Qd7
+{ Black plays Qd7. The position is quite messy with lots of tactics. If Qd8 instead, white can take on d8, Kd8 and Bc7 followed by Ba5 would not be pleasant. One must understand both sides' plans. }
+( 17... Qd7 { 576 } ) ) ) ( 10. a3
+{ On move 10, a3 is one of the main moves, stopping b4. The instructor mentions a painful defeat against Maxim Vachier-Lagrave in 2019 Bundesliga from this position. }
+10... Bb7
+{ Black develops normally with Bb7. Since the square b7 is occupied by the bishop, Bb6 is possible later - e.g., after axb5 Nxb5 Qb8 as black needs to support the knight, then Bb6 followed by Nc7 check. }
+11. Bxb5
+{ White plays Bxb5 - the point of the bishop move. After Bb6 followed by Nc7 check is the main idea. }
+11... Rc8
+{ Black plays the nice move Rc8. White needs to save the bishop on b5. } 12.
+Ba4 { White saves the bishop. Be2 is also possible, covered in the course. }
+12... Nxe4 13. Nxe4 Bxe4 14. Bf4 Qa5 15. Bxe5 Qxa4 16. Rd2
+{ Even Rd2 is more or less forced here. The instructor believes black is better in this critical position. }
+16... h5
+{ The instructor's suggestion is to play h5. The main point is h4 h3, and Rg6 is another idea asking what white's next move is. This is the suggestion against this particular position with lots of nice ideas in the course. }
+) ( 10. f4
+{ 10th move f4 is by far the most played in this position. Apart from a3, this is another main line - the instructor considers a3 and f4 on move 10 to be the most challenging variations. }
+10... Neg4
+{ Black plays Ng4 immediately trying to exchange the bishop. Black's idea is to play b4, move the knight on c3, and Ne4 - a pretty standard plan. }
+11. Bg1 { White retreats bishop to g1. Bd2 is another possible move here. } (
+11. Bg1 { 909 } 11... h5 { 910 } 12. e5 { White pushes e5. } 12... b4
+{ Black plays b4 - as mentioned many times, when e5 comes, b4 is the response. This takes the knight on c3. }
+13. Nb1 { Knight retreats to b1. } 13... Ne4
+{ Since the knight went to b1, black places his knight on e4. If the knight goes to a4, black can even go to d5. }
+14. Qe1 Bb7
+{ Black develops the bishop - called the 'bad bishop' in the course but actually a monster once it comes out. }
+15. Nd2 Nxd2 16. Rxd2
+{ These positions may be new in normal games but quite played in correspondence chess. Some ideas are quite interesting. }
+16... Nh6
+{ Black's idea with h5 and Ng4 leads to g6 Nh6 Nf5. Most of the time black aims for Nf5, gxf5 opening the g-file. The king is safer on e8 than anywhere else. }
+17. Kb1 { White moves king to b1. } 17... g6
+{ Black plays g6 as part of the plan to get Nf5. White has more space but the 'bad bishop' on b7 is actually a monster once it comes out. }
+18. Bf2
+{ White plays Bf2 - mainly aimed at Be7, wanting to play Bh4 to exchange the dark-squared bishop and claim better position due to weak squares. }
+18... Bc5
+{ Black does not play Be7 as Bh4 was white's idea. Therefore black goes Bc5, preventing white's plan. }
+19. Bg1 Bf8 20. Bd3
+{ Final move in Qf3 chapters: Bd3 instead of Bf2. Here Be7 is possible as g2 pawn is no longer protected by bishop on f1 since white played Bd3. }
+20... Be7
+{ Black plays Be7 - possible because the pawn on g2 is no longer protected by the bishop on f1 since white played Bd3. }
+21. Bf2 Bxg2
+{ After Bxg2, white doesn't have much compensation and black has a nice pawn structure - just a pawn up. }
+) 11... h5
+{ Black plays h5. The idea is to eventually get g6 Nh6 Nf5, and after Nf5 gxf5 opening the file for the rook. The king is safer on e8 than anywhere else. }
+) 10... axb5 11. Nxb5 Qb8
+{ Black plays Qb8 to protect the bishop on b7 and prevent the Nd6+ fork. } 12.
+Bd4 d6 13. Bxe5 dxe5 14. Qc3 { White plays Qc3, which might appear dangerous. }
+14... Nxe4
+{ Black plays Ne4 - not only capturing material but also giving the king a nice square on f6 where it can hide. This is one of the key ideas black should know. }
+15. Qc6+ Ke7 { King moves to e7, heading toward f6 for safety. } 16. Qxe4 Rxa2
+) 9. e5
+{ White pushes e5, attacking the knight on f6. b5 fails here as Ne5 is recommended after Qg3 and b5. }
+) 8... Ba3
+{ A trick black needs to know after Qf3 Nf6 Be2. After bxa3, Ne5 comes with ideas of Qc3 and Qa1. Not so difficult for white to see, but good to know. }
+9. bxa3
+{ White captures but this cooperative move leads to Be2 as the main continuation. }
+9... Ne5
+{ Black places knight on e5 after the a3 trick. The main move is Qg3 and now b5. }
+*
+

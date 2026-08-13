@@ -1,0 +1,238 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ Ian Shahic (White) opens with pawn to e4. This is the Croatian Grand Chester, penultimate round, featuring Croatia's number one player against world champion Gukesh Dommaraju. }
+1... e5 { Gukesh responds with e5. The Ruy Lopez is coming. } 2. Nf3
+{ Knight to f3 by White. } 2... Nc6 { Knight to c6 by Black. } 3. Bb5
+{ Bishop to b5 - the Ruy Lopez (Spanish Opening) is on the board. } 3... a6
+{ Morphy's defense with a6. } 4. Ba4
+{ Bishop to a4. Capablanca famously refuted the Marshall attack over the board in New York 1918 against Frank Marshall, but unless you are the next Capablanca, you are not refuting it over the board. }
+4... Nf6 { Knight to f6. } 5. O-O { Castles kingside by White. } 5... Be7
+{ Bishop to e7 by Black. } 6. Re1 { Rook to e1 by White. } 6... b5
+{ Pawn to b5, challenging the bishop. } 7. Bb3 { Bishop to b3. } 7... O-O
+{ Castles kingside by Black. } 8. c3
+{ Pawn to c3 by Ian, inviting the Marshall attack. This is a matter of honor - if someone plays c3 against you and you don't want to be the laughing stock of the world, you play the Marshall attack. Everyone loves to play it. }
+8... d5
+{ Pawn to d5 - the Marshall attack! Not even in the top three engine recommendations (engine prefers Nd5, d6, Re8), but it's what everyone wants to play. Both players blitzed out the moves up to this point. }
+9. exd5 { E captures - played quickly as both players know the theory. } 9...
+Nxd5 { Knight captures on d5. } 10. Nxe5 { Knight captures on e5 by White. }
+10... Nxe5 { Knight captures back. } 11. Rxe5
+{ Rook captures on e5. White is up a pawn - this is the standard Marshall attack position. In the original game, Frank James Marshall played Nf6 against Capablanca, which can still be played, but Nc6 was found to be much stronger. }
+11... Bb7
+{ Bishop to b7 - the third most popular reply and almost no one plays it. However, Magnus Carlson played it, Levon Aronian played it quite a few times with very nice results, and Arjun Erigaisi also played it. You have to be ready for it even though there are far fewer games in the database than with Nf6 or c6. }
+12. d4
+{ Pawn to d4. Playing d4 right away is not considered the best for White. } (
+12. Qf3
+{ Queen to f3 - looks odd because you're putting the queen in front of the bishop, but this is considered the best. Also threatening to win a piece. }
+12... Bd6 { Bishop to d6 by Gukesh - again just blitzes out the move. } 13.
+Bxd5
+{ Bishop captures on d5. You might wonder about just giving up the rook for two pieces, but Black will not cooperate - Black will play Qe7 and White has serious problems. }
+( 13. Rxd5
+{ Variation: Rook captures on d5 - this leads to trouble for White. } 13... Qe7
+{ Queen to e7 - now White has problems. The threat of Qd1 is checkmate, showing why the bishop on d2 is always a useful move in Marshall positions. }
+14. Qe3
+{ Queen to e3 - you might think: can't we just play Qe3? We're up a piece, offering to trade queens. If Black captures, we give up a rook for two pieces. But White is actually dead lost here if Black finds the only winning move. }
+14... Rae8
+{ Rook a to e8 is the ONLY winning move! Why? You still can't move the queen because you're getting checkmated. If you trade queens it seems OK but Rfd8 still leads to checkmate. White cannot play f3 because of check on e1 and e2, and the bishop covers g3. White must play f4 but then the bishop on c1 is hanging. Even after Re1+, Kf2, BxD5, capturing the rook, BxD5, RxC1 - White is still lost because there's no defense against the other rook coming to e1, then the knight falls, and White is out of moves. }
+15. Qxe7
+{ Queen trade variation - but as shown, Black can avoid this with Rae8 and maintain a winning attack. }
+) ( 13. Bxd5
+{ Back to main game: Bishop captures on d5 by Ian - the correct move, avoiding the rook trade trap. }
+13... c6
+{ Pawn to c6 by Gukesh, still blitzing. He's showing much better preparation in this line, still above 25 minutes on his clock (2652 seconds remaining). }
+14. Re1
+{ Rook back to e1. Ian is down to 12 minutes on the clock while Gukesh is still playing instantly. }
+14... cxd5 { C captures on d5. } 15. d4 { Pawn to d4 by White. } 15... Qc7
+{ Queen to c7 by Gukesh. } 16. g3
+{ Pawn to g3 by Ian - definitely makes sense to stop the queen-bishop battery from being as powerful. Gukesh is down a pawn as you always will be in the Marshall, but he has the bishop pair which is incredibly strong. The dark square bishop isn't doing all that much, and the d5 pawn isn't disappearing anytime soon. But at some point Gukesh will develop his rooks, play Bc8, maybe Bh3 or queen to h3, then bring the bishop to g4 - creating pressure on the light squares. }
+16... Bc8
+{ Variation showing Bc8 - Gukesh's plan to eventually activate the light-squared bishop and attack the white king on light squares. }
+( 16... Rfe8
+{ Rook f to e8. Usually everyone plays Ra8 to e8, but Gukesh shows he knows what's best - Rfd8 is the top engine move. }
+17. Rxe8+ { Rook captures on e8. } 17... Rxe8 { Rook captures back. } 18. Be3
+{ Bishop to e3 by White. } 18... b4
+{ Pawn to b4 by Gukesh - for the first time he invests a couple of seconds on the move. Again he plays the best move. }
+19. a3 { Pawn to a3 by White. } 19... bxa3 { B captures on a3. } 20. Nxa3
+{ Knight captures on a3. } 20... Qb6
+{ Queen to b6 putting pressure on the b2 pawn. } 21. b4
+{ Pawn to b4 by Ian. You might wonder if this is a good idea leaving the backward c3 pawn weak for the rest of the game, but yes, b4 is the top engine recommendation here. }
+21... Qc6 { Queen to c6. } 22. Bd2 { Bishop back to d2 defending the c3 pawn. }
+22... a5
+{ Pawn to a5 by Gukesh - wants to trade on b4, or if nothing happens, create a passed pawn with a4. }
+23. Nc2 { Knight to c2 by Ian - he doesn't touch the pawn. } 23... a4
+{ Pawn to a4 by Gukesh - creating a passed pawn. You could always trade here, but even though White would have a passed pawn on the b-file and be up a pawn, once Gukesh plays Ba6, Bb5, that pawn is never moving from b4 and Black can stir trouble. }
+( 23... axb4 { Variation: captures on b4. } 24. Nxb4 { Knight captures. } 24...
+Bxb4 { Bishop captures. } 25. cxb4 { C captures. } 25... Ba6
+{ Bishop to a6 - showing that after trades, the b4 pawn is permanently blocked and Black has good counterplay. }
+) ( 23... a4 { Back to main: pawn to a4, creating a passed pawn. } 24. Na3
+{ Knight to a3 by Ian - the pawn is blocked, nice control over b5 and c4, bishop and queen controlling c3. But it doesn't seem like Gukesh is going anywhere yet. }
+24... Qd7
+{ Queen to d7 by Gukesh - the idea is Bc8, Qh3, Bg4, and somehow checkmate the white king. That is the most basic idea of the Marshall. }
+25. Re1
+{ Rook to e1 - Ian says 'All right, let's get the pieces off the board as I'm up material.' }
+25... Rxe1+ { Rook captures on e1. } 26. Bxe1 { Bishop captures on e1. } 26...
+h6
+{ Pawn to h6 by Gukesh. You could play Bc8 right away, but especially with lower time control it feels like a good idea to create breathing room for your king. }
+27. h4 { Pawn to h4 by Ian. } 27... Bf8
+{ Bishop to f8 - sort of helping defend the black king. But also once you move the bishop from this diagonal, you want the queen to nicely defend the d5 pawn. }
+28. Bd2 { Bishop to d2 by Ian - activating the bishop. } 28... Ba6
+{ Bishop to a6 by Gukesh. The dream square for this bishop is e4. If you can get that bishop to e4 and wiggle the queen in, the game is over. Ian will never give up the d3 square. }
+29. Kg2 { King to g2 by Ian. } 29... Qe6 { Queen to e6. } 30. Qe3
+{ Queen to e3 - Ian is up a pawn, so of course he's offering a queen trade. }
+30... Qf5 { Gukesh politely declines the queen trade. } 31. Qe8
+{ Even played queen to e8. You might think we can play b5 since the knight on a3 is hanging and trade knight for bishop - but that will never happen. }
+( 31. b5
+{ Variation: If b5, the bishop comes to c8 right away, and your knight is just hanging. Once you move or defend the knight (e.g. Bc1), then comes Qh3 with check, Kg1 and Bf5. The bishop is coming to e4, you're getting checkmated or you play f3 and then Qxg3 and your entire position falls apart. }
+31... Bc8 { Bishop to c8 immediately, leaving the knight hanging. } 32. Bc1
+{ Trying to defend the knight. } 32... Qh3+ { Queen to h3 with check. } 33. Kg1
+{ King to g1. } 33... Bf5 { Bishop to f5 - now the bishop is coming to e4. } )
+( 31. Qe8 { 713 } 31... Bc8
+{ Back to main game: Gukesh plays bishop to c8 - the only move he can play, going after Qh3 check. }
+32. Bf4
+{ Bishop to f4 by Ian - not the best move, it's a straight out losing move, but it's very difficult to see why. Gukesh is completely winning here but it's incredibly difficult to find. Pause the video and win the game for Gukesh! }
+32... Bd7
+{ Bishop to d7 by Gukesh - he was an inch away from finding the very best move. The only winning move was actually Be6! }
+( 32... Be6
+{ The ONLY winning move is Be6! Not going after the queen because now you're stopping the queen from returning and the queen cannot help with defense. Now it doesn't matter what White plays - everything loses. }
+33. b5 { Variation: b5, but really any move is just losing. } 33... Qe4+
+{ Queen comes to e4 with check - that's the point of Be6! } 34. f3
+{ You can play f3, it doesn't help. Then the bishop just comes to h3 and you get obliterated. }
+( 34. Kh2 { Variation: King to h2. } 34... Qf3 { Queen to f3. F2 is hanging. }
+35. Be3 { Bishop to e3 trying to defend. } 35... Bf5
+{ Bishop to f5 - the bishop finds its way to e4 and you're getting checkmated. Nothing White can do about this. }
+) 34... Bh3+
+{ Bishop to h3 check - picking up the queen on e8. You just cannot allow that light-squared bishop to become fully operational. }
+) ( 32... Bd7 { 819 } 33. Qe2
+{ Back to actual game continuation: Queen to e2 by Ian, very happy he can go back immediately after Bd7 instead of Be6. }
+33... g5
+{ G5 by Gukesh! He's not interested in a draw here - pushing all the way. } 34.
+hxg5 { H captures on g5 by Black. } 34... hxg5 { H captures on g5 by Black. }
+35. Bb8 { Bishop to b8 by Ian. } 35... Qh3+
+{ Almost everyone would play Qh3 here with check - then you try Bf5 and go for bishop to e4. But here it wouldn't be as potent. }
+( 35... g4
+{ Pawn to g4 by Gukesh - he has different ideas, going this way. The pawn will help the queen and he'll try to get the bishop over to e4. }
+36. Bf4 { Bishop to f4, Ian brings the bishop back. } 36... Qh7
+{ Queen to h7 preparing Qh3. } 37. f3 { Pawn to f3 by Ian. } 37... Bf5
+{ Bishop to f5 - saying 'if you capture I play Be4 and it's game over.' } 38.
+Kg1 { King to g1 - the only move that does not lose on the spot. } 38... Qg6
+{ Queen to g6 by Gukesh. } 39. fxg4 { F captures on g4. } 39... Be4
+{ Bishop to e4! Gukesh playing in the true spirit of the Marshall, sacrificing a second pawn and finally getting his bishop to e4. Can Ian survive this attack? Yes, but only if he plays only moves. }
+40. Kf2
+{ King to f2 - the only move. Ian has to figure out a way to hide his king on the queenside, a very long artificial castling. }
+40... Qh7 { Queen to h7. } 41. Ke1
+{ King to e1 - making his way to the queenside. } 41... Bd3 { Bishop to d3. }
+42. Qe5 { Queen to e5. } 42... Qh1+
+{ Queen to h1 with check - Gukesh finally starts the attack. } 43. Kd2
+{ King to d2. } 43... Bg6 { Bishop to g6. } 44. Qe1
+{ Queen to e1 offering a queen trade. } 44... Qg2+ { Queen to g2 with check. }
+45. Qe2 { Queen to e2. } 45... Qh1
+{ Queen to h1. At this point both players are below the 1-minute mark, playing on 10-second increment. }
+46. Qe1 { Queen to e1. } 46... Qh3 { Queen to h3. } 47. g5
+{ Pawn to g5 by Ian - 'I'm up two pawns, not the best two pawns, but if I can somehow trade queens and take this into an endgame, that b pawn is marching forward.' Also the a4 pawn is fairly weak. }
+47... Be4 { Bishop to e4 by Gukesh. } 48. Kc1 { King to c1. } 48... Qg2
+{ Queen to g2. } 49. Qd2
+{ Queen to d2 offering a queen trade. Ian can't really activate the knight and he's getting checkmated on c2, so there's very little he can actually do here. }
+( 49. Qd2 { Queen to d2 offering a queen trade. } 49... Qf1+
+{ Queen to f1 with check. } 50. Kb2 { King to b2. } 50... Be7
+{ Bishop to e7. What can White do? } 51. Qh2 { Queen to h2. } 51... Qd1
+{ Queen to d1, hoping to get the queen over to b3. } 52. Nc2
+{ Knight to c2 - the only move that doesn't lose, but has to be played. } 52...
+a3+
+{ Variation: pawn to a3+. Can you bust open with a3? Yes, because the knight will capture and you have everything defended, and there's no a-pawn to allow Qb3. }
+( 52... Qd3 { Queen to d3, still keeping the tension. } 53. Be5
+{ Bishop to e5 - that is the way to play. If you play a slow move then the queen comes to c4, then you have to worry about Qb3 and you're just losing. With Be5, it is Ian who is now threatening checkmate on h8. }
+( 53. Be5
+{ Bishop to e5 - threatening checkmate on h8, so Gukesh has to go back. Best would probably be pawn to f6. }
+53... f6
+{ Pawn to f6 - probably the best defense. The ensuing lines are very complex and fun to analyze. }
+( 53... Bh7
+{ Gukesh played bishop to h7. The engine says this move is a mistake, but only if Ian finds the trickiest move of all. Pause the video and find it! }
+54. g6
+{ Pawn to g6! That is what Ian played and by far the best move. You can't capture with the bishop as Qh8 is checkmate. If you capture with the f-pawn, the bishop is no longer part of the game while the pawn is on g6. }
+54... fxg6
+{ Variation: capturing with the f-pawn - but now the bishop is stuck and out of the game. }
+( 54... Qxg6 { Queen captures on g6 - Gukesh has to take this option. } 55. Na3
+{ Knight to a3 by Ian. Queen e2 would be best simply preventing Qd3 and playing for a win. But Ian was trying just not to lose at this point. }
+55... Qd3 { Queen to d3 by Gukesh. } 56. Qc2 { Queen to c2 by Ian. } 56... Qa6
+{ Queen to a6 by Gukesh. } 57. Qd1 { Queen back to d1 by Ian. } 57... Bg6
+{ Bishop to g6. } 58. Qh1
+{ A similar thing happened in the game - could try Qh1 but then something like f6 causes problems. }
+( 58. Qd2 { Queen to d2 was played. } 58... Qf1
+{ Queen to f1 again - not allowing the knight to move due to checkmate threat (knight would have to go to a3 and then get checkmated on b3). }
+59. Qh2 { Queen to h2 again going for checkmate. } 59... f6
+{ Finally f6 by Gukesh. } 60. Bf4 { Bishop to f4. } 60... Qd1 { Queen to d1. }
+61. Nc2 { Knight to c2. } 61... Qd3 { Queen to d3, threatening the knight. } (
+61... Bxb4
+{ Variation: bishop captures on b4 - a practical solution to open up the queen's path to b3. For example cxb4, Qd3, then access to b3 and push the pawn. Still a draw, but very hard to defend. }
+62. cxb4 { C captures on b4. } 62... Qd3 { Queen to d3, getting access to b3. }
+) ( 61... Qd3 { 1224 } 62. Qd2
+{ Gukesh played Qd3 first wanting to get the queen to c4, but now queen to d2 by Ian. }
+62... Qc4 { Queen to c4 by Gukesh. } 63. Na1
+{ Knight to a1 by Ian - guarding everything. This knight is a menace on a1, though it would be better placed on a3. }
+( 63. Na3 { Skip } ) 63... Kf7
+{ King to f7 by Gukesh - still not convinced this is a draw, he wants to get his king into the game, playing for everything. Even though he already won the rapid section of the tournament. }
+64. Qc1 { Queen to c1 by Ian. Not the tournament - the rapid section. } 64...
+Bd3 { Bishop to d3. } 65. Qd2 { Queen to d2. } 65... Bf8 { Bishop to f8. } 66.
+Ka3
+{ King to a3 by Ian. Now Gukesh has to be a little bit careful - can he really give up another pawn? }
+66... Be4
+{ Bishop to e4. For the moment yes, you can't really capture it immediately. }
+67. Kxa4
+{ Variation: if you capture the pawn right away, then just Qa6 with check. After Kb3, you lose the knight on a1. }
+( 67. Kb2 { King back to b2. } 67... Qa6 { Queen to a6. } 68. Nc2
+{ Knight back to c2. } 68... Qc4
+{ Queen to c4 immediately - not allowing Nc2 to go to a3 as Qb3 is coming. }
+69. Na3 { Skip } ( 69. Na1 { Knight back to a1 by Ian. } 69... Ke6
+{ King to e6 by Gukesh. } 70. Ka3 { King to a3. } 70... Qf1
+{ Queen to f1 by Gukesh, putting pressure on the knight. } 71. Qc1
+{ Queen to c1 by Ian, defending the knight. } 71... Qd3
+{ Gukesh has to play Qe2 here - point being that after Kxa4 you will have all sorts of perpetuals with Qa2 check. But Gukesh mixes it up with Qd3. }
+72. Kxa4
+{ Now it's actually fine for Ian to capture the pawn. He does it pretty much instantaneously. Gukesh is now in a position where he could actually lose. }
+72... Qa6+ { Queen to a6 with check. } 73. Kb3 { King to b3. } 73... Qc4+
+{ Queen to c4 with check. } 74. Kb2 { King to b2. } 74... Qe2+
+{ Queen to e2 with check. } 75. Qd2
+{ Queen to d2 blocking. A queen trade is never an option now because Ian is up two pawns. }
+75... Qf1 { Queen to f1. } 76. Nc2
+{ Finally the knight gets into the game - knight to c2. } 76... Kf7
+{ King back to f7. } 77. Na3 { Knight to a3. } 77... Be7 { Bishop to e7. } 78.
+Qc1 { Queen to c1 - Ian again offers a queen trade. } 78... Qe2+
+{ Queen to e2 with check. } 79. Qd2 { Queen to d2. } 79... Qf1
+{ Queen to f1 - declines again. } 80. Nc2 { Knight to c2. } 80... Bf8
+{ Bishop to f8. } 81. Qe1 { Queen to e1 offering a queen trade. } 81... Qd3
+{ Queen to d3 threatening the knight. } 82. Qd2 { Queen to d2 blocking. } 82...
+Qf1 { Queen to f1. } 83. Qe1 { Queen to e1 - offering another queen trade. }
+83... Qd3
+{ Queen to d3 again. Here Ian could stabilize the position completely and play for a win in an objectively winning position, but it seems he had enough and just kept moving the same pieces until threefold repetition. }
+84. Ne3
+{ The move that completely stabilizes! Knight to e3 - by no means does Black fall apart, you'll still need 100 more moves to win, but it's a step in the right direction. Now you can't just bring the queen back and forth - the knight on e3 guards c4 and c2, and Black has no way of getting to the white king. For example Bd3, you can go Qd1, and even if Be4, still no way to get anything done. King to b3, this is guarded, and you will slowly but surely get the queen into the game and eventually win. }
+( 84. Qd2
+{ After Qd3, Qd2 was played offering a queen trade. Ian just kept repeating moves. }
+84... Qf1
+{ Queen to f1 - and it was in this position on move 84 that the game ended in threefold repetition (draw agreements are not allowed in the Grand Chess Tour, so it had to be threefold repetition). An incredible game - in the best game of the tournament in terms of spectator pleasure. The Marshall had everything, so many lines could have gone wrong for either player, but it was almost played to perfection. Gukesh showed incredible preparation; Ian was a little outprepared but managed to find his way and force a draw in a winning position. }
+) 84... Qb5
+{ Black plays Qb5 or something trying to win squares, but the knight on e3 controls c4 and c2. }
+85. Qf1 { Queen to f1. } 85... Bd3 { Bishop to d3. } 86. Qd1 { Queen to d1. }
+86... Be4 { Bishop to e4 - but still no way to get anything done here. } 87.
+Kb3
+{ King to b3. The knight covers c4 and c2. White will slowly but surely get the queen into the game and win eventually. }
+) ) 67... Qa6+ { 1273 } 68. Kb3 { 1275 } 68... Qxa1 { 1276 } ) ) ) 55. Qh6
+{ 1108 } 55... Bf8 { 1114 } 56. Qh3 { 1114 } 56... Be7 { 1117 } 57. Qe6+
+{ 1119 } 57... Kf8 { 1120 } 58. Bg7+ { 1124 } 58... Kxg7 { 1124 } 59. Qxe7+
+{ 1126 } 59... Kg8 { 1126 } 60. Qe8+ { 1128 } 60... Kg7 { 1128 } ) 54. Bxf6
+{ 1034 } 54... Bxf6 { 1036 } 55. gxf6 { 1036 } 55... Qc4 { 1038 } 56. f7+
+{ 1040 } 56... Kxf7 { 1042 } 57. Qf2+ { 1043 } 57... Ke7 { 1045 } ) ) 53. Nxa3
+{ Knight captures on a3. } ) ) 36. Kg1 { King to g1. } 36... Bf5
+{ Bishop to f5. } 37. f3
+{ Pawn to f3 because the bishop is guarding the g3 pawn. It's still very tricky but White will hold. }
+) ) ) ) ) ) 12... Bf6 { 268 } 13. Re1 { Rook to e1 by White. } 13... Re8
+{ Rook to e8 by Black. } 14. Bd2
+{ Bishop to d2 - the standard Marshall move. Even if everything goes wrong, you still have that e1 square defended. It can matter in a lot of the lines. }
+*
+

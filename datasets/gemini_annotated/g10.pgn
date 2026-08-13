@@ -1,0 +1,56 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 { White starts with Pawn to E4, part of the Sicilian Defense sequence. }
+1... c5 { Black responds with the Sicilian Defense. } 2. Nf3
+{ A development move bringing the Knight to the center and controlling key central squares. }
+2... d6 { Black continues with a very common response, Pawn to D6. } 3. d4
+{ White develops a pawn to a central square. } 3... cxd4
+{ Black captures the central pawn. } 4. Nxd4
+{ White recaptures with the Knight. } 4... Nf6
+{ Black develops the Knight to F6, controlling the center and attacking the E4 pawn. }
+5. Nc3 { White develops while defending the E4 pawn and attacking the center. }
+5... Nc6 { Black reciprocates by developing their Knight to C6. } 6. Bc4
+{ The Fischer Variation. White targets the F7 square, which is a major weakness for Black early on since it is only defended by the King. }
+6... e6
+{ The better move for Black. Though passive, it blocks White's light-squared bishop and makes F7 much harder to attack. }
+( 6... g6
+{ A mistake. Black attempts to fianchetto the bishop to G7 for dark square control, but this falls into the Magnus Smith trap. }
+7. Nxc6 { White begins the sequence by capturing the Knight on C6. } 7... bxc6
+{ Black recaptures the Knight. } 8. e5
+{ The critical move of the trap. Black cannot easily take this pawn without losing the Queen. }
+8... dxe5
+{ If Black retakes with the pawn, it leads immediately to a losing tactical sequence. }
+( 8... Ng4
+{ If Black moves the Knight here, it leads to a difficult position. } ) ( 8...
+Ng4 { 222 } 9. e6
+{ White plays E6 to block the light-squared bishop from defending F7. } 9...
+Bxe6 10. Bxe6 fxe6 11. Qxg4
+{ White captures the Knight. The Black king is unguarded, and White has an easy win with strong development and defensive structure. }
+) ( 8... Nh5 { A very common response for Black in this variation. } 9. Qf3
+{ A move recommended by Bobby Fischer. It adds another attacker to the weak F7 square. }
+9... d5 { 288 } ( 9... e6 { 293 } ) ( 9... d5
+{ Black attempts to block the bishop's line of attack on F7. } 10. Nxd5
+{ White can sacrifice the Knight to keep the attack alive, as Black's position is very difficult to defend. }
+) ( 9... e6 { Another way for Black to try and block the bishop's line to F7. }
+10. g4 { White immediately attacks the Knight on H5. } 10... Ng7
+{ A very passive move. The Knight blocks Black's most important piece early on, the dark-squared bishop, which is now doing nothing. }
+11. Ne4
+{ Attacking the D6 pawn and the F6 square. A check on F6 would force the King into the open, leading to a crushing attack. }
+11... Qa5+
+{ A last-ditch effort from Black, checking the King while attacking the E5 pawn. }
+12. Bd2 { White blocks the check by developing the bishop. } 12... Qxe5
+{ Another mistake by Black, taking the pawn but falling further into trouble. }
+13. Bc3
+{ The Black Queen is now trapped on the sidelines, giving White a very easy game. }
+) ) 9. Bxf7+
+{ A bishop sacrifice. The King is forced to take because D7 is covered by the White Queen. }
+9... Kxf7 { The King is forced to capture the bishop. } 10. Qxd8
+{ White wins the Queen because it was only defended by the King, which was pulled away. }
+) *
+

@@ -1,0 +1,183 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6
+{ Lately, this has become the most popular way to play the French, even surpassing the Winawer in current popularity. }
+( 3... Bb4
+{ The Winawer variation, which has been less popular lately compared to the classical Knight f6. }
+) ( 3... Nf6 4. e5 ( 4. Bg5
+{ Throughout history, this was Fischer's favorite move. It pins the knight on f6 and leads to the classical main lines. }
+4... dxe4
+{ The Rubenstein variation, where Black chooses to simplify the center. } (
+4... Be7 { One of the traditional calm responses for Black against the pin. }
+5. e5 Nfd7 ) ( 4... Bb4
+{ The McCutcheon variation, a double-edged alternative for Black. } ) ( 4... h6
+{ An amazing engine-recommended move that challenges the bishop immediately and introduces a pawn sacrifice. }
+5. Bh4
+{ Keeping the pin is actually problematic for White because Black can break it aggressively with g5. }
+( 5. Bxf6 Qxf6 6. a3
+{ The most critical move for White, stopping the threat of Bishop b4 and forcing Black to find a different path. }
+( 6. e5
+{ This move is considered bad for White because it transposes to the Steinitz variation without White having the dark-squared bishop, losing control over the dark squares. }
+6... Qd8 7. f4 c5 8. Nf3 Nc6
+{ Black is much better here. White severely lacks the bishop on e3 that is typical in these Steinitz positions. }
+( 8... Bd7 9. Qd2 Qb6
+{ Targeting b2, and if White castles long, C4 creates a strong attack where the Black bishop is very powerful. }
+10. O-O-O c4 ) ( 8... Nc6 ) ) ( 6. Nf3
+{ White allows Bishop b4. This line was featured in an online game between Naroditsky and Magnus Carlsen. }
+6... Bb4 7. Bd3 c5
+{ An immediate pawn sacrifice. Black aims to push c4, and if White takes on d5, Black gets a significant development lead. }
+( 7... dxe4
+{ Carlsen's choice, leading to a quick castle and active pressure. } 8. Bxe4
+O-O 9. O-O c5 { The thematic break to challenge White's center. } ( 9... Nd7
+10. Qe2 Rb8
+{ Black slowly equalizes, bringing the knight to f6 after stabilizing. } ) (
+9... Rd8 { Carlsen's move in the game, preparing the c5 break. } 10. Qe2 c5 (
+10... Rf8 11. Qd1 ) 11. dxc5 Bxc3
+{ An alternative way to play, choosing to damage White's structure. } ( 11...
+Bxc5 { The choice in the Carlson game. } 12. Rad1 Nd7
+{ A better choice than knight c6, allowing Black to untangle slowly. } 13. Rd3
+Nf8
+{ Preparing to develop the bishop via d7. If White takes on b7, black plays Rook b8 and regains the pawn. }
+14. Rdd1 Nd7 ) 12. bxc3 Qxc3 13. Rfd1 Rf8
+{ Black is solid and avoids the rook exchange to exploit development leads. } )
+10. dxc5 Bxc5
+{ Black is solid and has clear compensation, attempting to play for a win. }
+11. Qe2 Nd7
+{ Black slowly untangles. If White captures on b7 later, Black regains it with equality. }
+) 8. exd5 O-O 9. dxe6 cxd4
+{ This is dangerous for White. The knight on d4 is taboo because Bishop h7+ would win the queen. }
+10. Nxd4 Nc6
+{ Challenging the knight. White cannot take on f7 here because of Rook f7, leaving White's position in ruins. }
+11. exf7+ Rxf7
+{ White is lost here. Rook e8 is coming, and the development disadvantage is fatal. }
+12. Nf3 Bxc3+ 13. bxc3 Qxc3+ 14. Nd2 Bg4
+{ Even stronger than other options, completely paralyzing White's defense. } )
+( 6. exd5
+{ If White takes the pawn immediately, Black has three main ways to fight back: check on b5, taking on e6, or bishop c4. }
+6... Bb4 7. Bc4
+{ This move is harmless as Black regains the pawn through a forcing line. } (
+7. dxe6
+{ Taking on e6 is critical. Black's compensation is the lead in development and active piece play. }
+7... Bxe6 8. a3
+{ Challenging the bishop. Black should take immediately to demonstrate the main compensation idea. }
+( 8. Nf3
+{ If White plays more slowly, Black develops quickly and exerts pressure in the center. }
+8... O-O 9. Be2 ( 9. Bd3 c5 10. O-O Bxc3 11. bxc3 Nc6 12. Rb1 b6 13. Be4
+{ Trying to pin the knight, but this drops the a2 pawn. } 13... Bxa2 14. Ra1
+Bc4 15. Re1 Rfd8
+{ Black has regained the pawn and has at least an equal game. } ) 9... Nc6
+{ Exerting pressure on the d4 pawn. } ( 9... c5 10. O-O Rd8
+{ Hard for White to defend the center against this lively piece play. } ) 10.
+O-O Rad8 11. Ne4 Qf4
+{ Very lively piece play here for Black with good compensation. } ) 8... Bxc3+
+{ The engine sees zero-zero equality everywhere here for Black. } 9. bxc3 O-O
+{ Establishing a quick development advantage. } 10. Nf3
+{ This is actually dubious because of the response Rook e8. } ( 10. Bd3
+{ The standard move for White. } 10... Bd5 { Targeting g2. } 11. f3 Nd7
+{ Introducing the idea of blockading on d5 and c4. } 12. Ne2 Nb6
+{ The dead blockade on light squares cannot be shaken, making White's extra pawn worthless. }
+13. Ng1 Nd7 14. c4
+{ Trying to prevent the blockade, but the bishop just drops back. } 14... Be6
+15. Ne2 Rad8 { The thematic attack on c4. } ( 15... Bf5
+{ The simplest way to maintain the balance. } 16. O-O Bxd3 17. Qxd3 Rad8
+{ Claiming 0.00 equality. Queen a6 puts unpleasant pressure on c4 soon. } 18.
+c3 Qa6 { Intending knight b6 or d5 with serious pressure. } ) 16. O-O Nb6 17.
+d5
+{ If White pushes d5, the blockade shifts to the dark squares after Bishop f5. }
+( 17. c5 { 825 } 17... Nc4
+{ Establishing a powerful outpost on c4 which can be further supported by b6. }
+) 17... Bf5
+{ The engine prefers to exchange bishops here to maintain equality. } ) 10...
+Re8
+{ White is already in some trouble as Bishop e2 or Bishop c4 wins for Black. }
+11. Be2 Bc4 { Black wins a piece here after knight e5 and queen exchanges. }
+12. Ne5 Bxe2 13. Qxe2 Qe6
+{ Black wins the piece back with a superior position. } ) ( 7. Bb5+
+{ Giving check is another option, though less common than the direct takes. }
+7... Bd7 8. Bxd7+ Nxd7 9. dxe6 Qxe6+ 10. Ne2 ( 10. Qe2 Bxc3+ 11. bxc3 Qxe2+ 12.
+Nxe2 O-O-O 13. O-O-O Nb6 { The blockade once again gives Black an equal game. }
+) 10... Bxc3+ 11. bxc3 O-O-O 12. O-O Rhe8 13. Ng3 Nb6
+{ Problem free for Black. Some ideas like g6-f5 can strand the knight on g3. }
+14. Ne2 Nd7 ) 7... exd5 8. Bxd5 O-O
+{ The immediate threat is to give checks or play Rook d8. } 9. Ne2 Rd8
+{ Attacking the bishop because the knight on c3 is pinned. } 10. O-O Bxc3
+{ Forcing White to take with the knight to keep the defense of d5. } 11. Nxc3
+Nc6 { The d5 pawn is under attack and cannot easily be defended. } 12. Bxc6
+bxc6
+{ Regaining the pawn with an equal endgame. Carlson famously won such an endgame against Bogdan Deac. }
+13. Ne4 Qxd4 14. Qxd4 Rxd4 15. Ng3 Be6 ) ( 6. a3 { 1057 } 6... c6
+{ Defending the pawn on d5. This center triangle reminds us of the Moscow variation in the Semi-Slav. }
+7. Nf3 g6
+{ A popular plan in the Moscow variation, going for the fianchetto development. }
+( 7... Qd8 8. Qe2
+{ White should castle short, as castling long can be dangerous due to Black's quick counter-attack. }
+( 8. Bd3 Nd7 9. O-O Be7
+{ Black is extremely solid. Pushing e5 is rarely good for White because c5 comes quickly. }
+10. exd5
+{ White should wait to take on d5 until the structure is slightly weakened. } (
+10. Qd2 { The choice made by Praggnanandhaa against Carlsen. } 10... b6
+{ The only real way for Black to develop the bad French bishop on c8. } ( 10...
+dxe4
+{ Standard French play is also possible, though White seems to keep a slight grip. }
+11. Nxe4 b6 12. c4 Bb7 13. Rad1 ) ( 10... O-O
+{ Recommended by the engine as the best way to handle the position. } 11. Rad1
+dxe4 ( 11... dxe4 12. Nxe4 Qc7
+{ Black equalizes quickly with c5 or e5 because no time was wasted on b6. } ) (
+11... a5 { An attempt to keep the game complex for longer. } 12. Rfe1 b5
+{ Improving on the b6 idea. Black gains space on the queen side before developing the bishop. }
+13. exd5 exd5
+{ Taking symmetrically leads to unclear positions where Black is doing well. }
+14. Ne2 Nb6 ) ) ( 10... O-O 11. Rad1 dxe4 ( 11... a5 12. Rfe1 b5 13. exd5 exd5
+{ Symmetric structure where Black has ideas like knight b6 and c4. } ) 12. Nxe4
+Qc7 ) 11. Rad1 Bb7 12. Rfe1 Qc7 13. exd5
+{ Praggnanandhaa takes on d5 after Black has committed to b6. } ( 13. Rf1 Qd8
+14. Ra1 Bc8 ) 13... cxd5
+{ Entering a reversed Carlsbad structure where the game remains double-edged. }
+14. Ne2 Bd6 15. Ng3 O-O-O
+{ The sharper option. Carlson went for short castle instead and White got a serious initiative. }
+( 15... O-O 16. Nh5
+{ White gains an initiative on the kingside in this setup. } ) ( 15... O-O-O )
+) ( 10. Re1
+{ A flexible waiting move. White deciders whether to put heavy pieces on the D or E file. }
+10... O-O 11. e5 ( 11. exd5
+{ Without weakening the pawn chain, this is fine for Black. Carlson won against Shimanov from this position. }
+11... exd5
+{ Without weakening the pawn chain, this is fine for Black. Carlson won against Shimanov from this position. }
+) ( 11. Qe2 Re8
+{ A good waiting move so the bishop on e7 does not hang after d-file exchanges. }
+12. Rad1 a5 { Following the same thematic expansion on the queenside. } ( 12...
+Rf8 { 1587 } 13. Ra1 ) 13. Qe3 b5 14. Ne2
+{ White evacuates pieces toward the kingside. } 14... Ba6
+{ The idea is to exchange the bad bishop after playing b4. } 15. Ng3 ( 15. Nf4
+b4 ( 15... Bd6 ) ( 15... Qb8
+{ Latching onto the knight on f4, intending b4 later. Black is not worse in this sharp position. }
+) ) 15... b4
+{ Unclear. Without the light-squared bishop, White's attack is limited. } ) (
+11. Qd2 a5
+{ If the rook is on e1 instead of d1, then the French break d4 works. } ( 11...
+dxe4 12. Nxe4 c5
+{ The bishop h7 trick doesn't work here because the queen on f6 isn't hanging on the d-file. }
+13. dxc5 Nxc5 14. Nxc5 Bxc5 15. Rad1 Qb6
+{ Position is equal. Black finishes development with bishop d7 or b6-bishop b7. }
+( 15... Qe7 ) ) ) 11... c5 { A good response for Black leading to equality. } )
+10... exd5 { 1265 } 11. Ne2 { 1271 } 11... O-O { 1272 } 12. Ng3 { 1272 } 12...
+Nf6 { 1272 } ) 8... Be7 9. O-O-O { Castling queen side is risky for White. }
+9... b5
+{ Black is quick with a5-b4, using the hook on a3 to open the position around the White king. }
+( 9... Nd7 10. h4 a5 11. Qe3 b5 12. Ne2 b4
+{ Black already has a big advantage here due to the speed of the attack. } ) )
+) ) 5... g5 { 263 } 6. Bg3 { 264 } 6... Nxe4 { 264 } 7. Nxe4 { 265 } 7... dxe4
+{ 265 } ) 5. Nxe4 { 193 } 5... Bd7 { 199 } ) 4... Nfd7 5. f4 c5 6. Nf3 Nc6 7.
+Be3 { A forcing line that leads straight to an endgame. } 7... cxd4 8. Nxd4 Bc5
+9. Qd2 Bxd4 10. Bxd4 Nxd4 11. Qxd4 Qb6
+{ The queens will be exchanged due to the hanging b2 pawn, leading to an instructive endgame for Black. }
+) ( 3... dxe4 4. Nxe4 Bd7
+{ The start of the Fort Knox setup, known for its extreme solidity. } 5. Bg5
+Nf6 ) *
+

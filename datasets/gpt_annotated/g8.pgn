@@ -1,0 +1,212 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 { White opens with 1.e4. } 1... e5 { Black replies 1...e5. } 2. Nf3
+{ White develops the knight to f3. } 2... Nc6
+{ Black develops the knight to c6. } 3. Bb5
+{ Ruy Lopez on the board; the video notes this means they are heading for the Marshall. }
+3... a6 { Morphy's Defense. } 4. Ba4
+{ The bishop retreats to a4; the commentator jokes that unless you are Capablanca, you are not refuting the Marshall over the board. }
+4... Nf6 5. O-O Be7 6. Re1 b5 { Black challenges the bishop. } 7. Bb3 O-O 8. c3
+{ White invites the Marshall Attack instead of anti-Marshall ideas like h3 or a4; the commentator says accepting with c3 is almost a matter of honor. }
+8... d5
+{ This is the Marshall Attack. The engine may prefer other moves, but d5 is what everyone wants to play. }
+9. exd5 { They are still blitzing out theory. } 9... Nxd5 10. Nxe5 Nxe5 11.
+Rxe5 { This reaches the standard Marshall structure: white is up a pawn. }
+11... Bb7
+{ A rare third-most-popular Marshall reply. Almost no one plays it, but strong players like Magnus, Aronian and Arjun have used it, so white has to know it. }
+12. d4
+{ The transcript says 12.d4 is playable immediately but not considered best for white in this Bb7 line. }
+( 12. Qf3
+{ This is considered the best move. It looks odd because the queen stands in front of the bishop, but it also threatens to win a piece. }
+12... Bd6 { Black keeps blitzing out prepared theory. } 13. Bxd5
+{ White chooses the bishop capture line. } ( 13. Rxd5
+{ The commentator explains this tempting rook sacrifice does not work: after ...Qe7 and mating threats on e1/d1, white is actually dead lost if black knows the key ideas. }
+13... Qe7
+{ Black creates major problems; the threat is Qd1 mate motifs, showing why the bishop on d2 is often useful in Marshall structures. }
+14. Qe3
+{ Natural-looking queen trade idea, but the commentator says white is still lost here. }
+14... Rae8
+{ The only winning move in that line. The point is that white cannot escape the mating net even after queen trades; both rooks invade the e-file and white gets mated or loses decisive material. }
+15. Qxe7
+{ Part of the illustrative losing line after ...Rae8; white still cannot survive the attack. }
+) ( 13. Bxd5
+{ In the game continuation, white correctly uses the bishop, not the rook, to capture on d5. }
+13... c6
+{ This is the stronger Marshall treatment compared to the old ...Nf6 from the original Marshall-Capablanca game. }
+14. Re1 cxd5 15. d4 { White consolidates the extra pawn. } 15... Qc7 16. g3
+{ Logical defensive move: white blunts the queen-bishop battery so black's attack is less powerful. }
+16... Bc8
+{ The commentator notes black's typical long-term plan is to activate the bishop, often via c8-h3 or with queen/ bishop coordination on the light squares. }
+( 16... Rfe8
+{ This had all been played before; most players choose the more natural ...Rae8, but ...Rfe8 is actually the engine's top choice and shows Gukesh's deep preparation. }
+17. Rxe8+ Rxe8 18. Be3 b4
+{ Best move; Gukesh thinks a few seconds here for the first time, then finds the engine choice. }
+19. a3 bxa3 20. Nxa3 Qb6 { Pressure on the b2-pawn. } 21. b4
+{ Engine-approved. It does leave the backward c3-pawn weak for the rest of the game, but it is still the best move. }
+21... Qc6 22. Bd2 { White defends the c3-pawn. } 22... a5
+{ Black wants to trade on b4 or create a passed a-pawn with ...a4. } 23. Nc2
+{ White does not touch the pawn. } 23... a4
+{ Black creates the passed a-pawn as announced. The commentator notes that if lines open, white's b-pawn may still be frozen and black can be the one creating trouble. }
+( 23... axb4
+{ Illustrative variation showing the consequences if black trades on b4. } 24.
+Nxb4 Bxb4 25. cxb4 Ba6
+{ Illustrative point: even with a passed b-pawn, after ...Ba6 and ...Bb5 that pawn is never moving. }
+) ( 23... a4 { Main line continuation toward the critical middlegame. } 24. Na3
+{ The pawn is blockaded; white also gains control over b5 and c4. } 24... Qd7
+{ Black aims for standard Marshall ideas: bishop to c8, queen to h3, bishop g4, and pressure toward mate on the white king. }
+25. Re1 { White wants to trade pieces as he is up material. } 25... Rxe1+ 26.
+Bxe1 h6
+{ Black creates breathing room for the king before continuing the attack; the commentator says this is practical, especially in rapid. }
+27. h4 Bf8
+{ The bishop helps defend the black king, and by leaving the diagonal the queen can more comfortably defend the d5-pawn. }
+28. Bd2 { White also activates the bishop. } 28... Ba6
+{ Black's dream is to get this bishop to e4; if it reaches e4 and the queen gets in, the game could be over. }
+29. Kg2
+{ White will never willingly give up the d3 square and keeps the king tucked away. }
+29... Qe6 30. Qe3 { White, being a pawn up, offers a queen trade. } 30... Qf5
+{ Black declines the queen trade and keeps the attack going. } 31. Qe8
+{ White pins the bishop and hints that b5 may become possible. } ( 31. b5
+{ Illustrative idea asked by the commentator: trying to trade knight for bishop will not work. }
+31... Bc8
+{ The bishop simply retreats, and white's knight is hanging; black's attack continues. }
+32. Bc1 { One possible defensive try from the video. } 32... Qh3+
+{ Black starts the mating attack. } 33. Kg1 Bf5
+{ The bishop heads for e4; if white meets it with f3 then Qxg3 tears the position apart. }
+) ( 31. Qe8
+{ In the actual game, this was white's move, saying b5 may now be an option because the bishop is pinned. }
+31... Bc8 { The only move. Black renews the threat of Qh3+. } 32. Bf4
+{ A losing move, though very hard to understand over the board. The commentator says black is completely winning here if he finds the precise continuation. }
+32... Bd7
+{ Gukesh played this and was literally an inch away from the win, but it is not best. }
+( 32... Be6
+{ This was the only winning move. The key is not chasing the queen but cutting it off from the defense, after which ...Qe4+ and bishop-to-h3/e4 ideas decide. }
+33. b5
+{ Any white move loses; this is one sample line where white tries to push the passer. }
+33... Qe4+
+{ The point of ...Be6: black's queen invades with check and the mating attack crashes through. }
+34. f3
+{ This does not help; then the bishop comes to h3 and white is obliterated. } (
+34. Kh2 { Another sample line from the commentary. } 34... Qf3
+{ Black keeps piling on threats; f2 hangs and the attack is decisive. } 35. Be3
+Bf5
+{ Again the bishop heads for e4 and white gets mated; nothing can stop it. } )
+34... Bh3+ { 789 } ) ( 32... Bd7 { 819 } 33. Qe2
+{ After Gukesh missed the win with ...Bd7, white happily returns the queen to defense. }
+33... g5
+{ Gukesh is not interested in a draw and keeps pushing for the attack. } 34.
+hxg5 hxg5 35. Bb8 Qh3+
+{ The move almost everyone would play here, aiming for the standard bishop-f5-e4 attacking setup; the commentator says in this position it is not as strong as it looks because white can hold. }
+( 35... g4
+{ Gukesh instead chooses the stronger practical idea: the pawn supports the queen and black will still try to get the bishop to e4. }
+36. Bf4 { White brings the bishop back. } 36... Qh7 { Preparing Qh3. } 37. f3
+{ White tries to cover key squares. } 37... Bf5
+{ Now black says that after a capture, ...Be4 will end the game. } 38. Kg1
+{ The only move that does not lose immediately. } 38... Qg6
+{ Black improves the queen before sacrificing further material. } 39. fxg4 Be4
+{ A true Marshall moment: Gukesh sacrifices a second pawn and finally gets the bishop to e4. }
+40. Kf2
+{ According to the commentator, white can survive only by finding a series of only moves starting with Kf2. }
+40... Qh7 { Continuation of the attack. } 41. Ke1
+{ White starts a remarkable king walk toward safety on the queenside, described as a kind of long artificial castling. }
+41... Bd3 42. Qe5 Qh1+ { Gukesh finally starts the direct attack. } 43. Kd2 Bg6
+44. Qe1 { White offers a queen trade. } 44... Qg2+ 45. Qe2 Qh1 46. Qe1
+{ Both players were already under one minute and living on the 10-second increment. }
+46... Qh3 47. g5
+{ White says he is up two pawns and hopes that if queens can be traded, the b-pawn will run while the a4-pawn is weak. }
+47... Be4 { Black keeps maximum pressure. } 48. Kc1 Qg2 49. Qd2
+{ White offers a queen trade again; there is very little else he can do because activating the knight would allow mating threats on c2. }
+( 49. Qd2 { Sample continuation from the deep analysis. } 49... Qf1+
+{ Black keeps the queen active instead of trading. } 50. Kb2 Be7
+{ Black asks what white can actually do. } 51. Qh2 Qd1
+{ Black hopes to swing the queen to b3. } 52. Nc2
+{ The only move that does not lose. } 52... a3+
+{ The commentator asks whether black can bust open with this pawn break, but explains it doesn't work because the knight can capture and keep everything defended. }
+( 52... Qd3 { So black keeps the tension instead. } 53. Be5
+{ The correct practical defense. If white plays slowly, ...Qc4 and ...Qb3 ideas win; with Be5 white even threatens mate on h8. }
+( 53. Be5 { Same key defensive idea emphasized in the video. } 53... f6
+{ Best retreat/defense for black according to the commentator, leading likely to a draw but still with many chances for mistakes. }
+( 53... Bh7
+{ What Gukesh actually played later in the game in a related position; the engine calls it a mistake if white finds the key resource. }
+54. g6
+{ The tricky and by far best move. Black cannot take with the bishop because Qh8 is mate; if ...fxg6 then the bishop is cut out and white's attack becomes huge. }
+54... fxg6
+{ If black recaptures with the f-pawn, white gets strong queen threats like Qh6 and Qh3 with mating ideas. }
+( 54... Qxg6
+{ Black's necessary reply in the game sequence; he must capture with the queen. }
+55. Na3
+{ White chose the safer move; the commentator says Qe2 would have been more ambitious if playing for a win, but time trouble was a major factor. }
+55... Qd3 56. Qc2 Qa6 57. Qd1 Bg6
+{ Black still dreams of bringing the queen to h1, but white has defensive resources like f6. }
+58. Qh1 { Illustrative attacking attempt mentioned by the commentator. } ( 58.
+Qd2
+{ In the actual flow, white went for another queen trade offer while staying alert to mating threats. }
+58... Qf1
+{ Again black does not allow the knight to move, since it would lead to mating ideas on b3 after the knight is displaced. }
+59. Qh2 { White keeps aiming at the black king. } 59... f6
+{ Finally black plays ...f6. } 60. Bf4 Qd1 61. Nc2 Qd3
+{ The commentator suggests a practical alternative around here was to take on b4 first to open access to b3, maybe making the draw harder to defend. }
+( 61... Bxb4
+{ Suggested practical try: open the b-file/diagonal so the queen can reach b3 more easily. }
+62. cxb4 Qd3
+{ Now black gets access to b3 and can push the pawn; still objectively drawn but potentially very hard to defend. }
+) ( 61... Qd3
+{ In the game Gukesh chose queen maneuvers first, aiming for ...Qc4 and queenside pressure. }
+62. Qd2 { White blocks and offers queen trades whenever possible. } 62... Qc4
+{ Black reaches the key square, threatening ...Qb3. } 63. Na1
+{ Excellent defense. The knight on a1 may look absurd, but it guards everything and is a real menace defensively. }
+( 63. Na3
+{ The commentator remarks that a3 would be a better square in general, but for the moment the knight must stay on a1. }
+) 63... Kf7
+{ Gukesh still refuses to believe the position is only a draw and brings the king into the game. }
+64. Qc1 Bd3 65. Qd2 Bf8 66. Ka3
+{ Now black has to be careful about giving away another pawn. } 66... Be4
+{ For the moment black can still do this because immediate pawn grabbing would run into checks and loss of the knight. }
+67. Kxa4
+{ If white captures immediately in the wrong moment, black can check from a6 and the knight on a1 falls; the commentator uses this as a warning line. }
+( 67. Kb2 { In the main game white keeps the king safer instead. } 67... Qa6
+68. Nc2 Qc4
+{ Immediate pressure; black does not allow Na3 because ...Qb3 is coming. } 69.
+Na3 { Forbidden by black's threats, as explained in the commentary. } ( 69. Na1
+{ So the knight returns to the awkward but crucial a1 square. } 69... Ke6
+{ Black continues playing for everything. } 70. Ka3 Qf1
+{ Pressure on the knight. } 71. Qc1 { White defends the knight. } 71... Qd3
+{ Here black had to play ...Qe2 instead, so that after Kxa4 he would have perpetual-check resources like ...Qa2+. }
+72. Kxa4
+{ Now it is actually fine for white to capture the pawn, and he does so instantly. From this moment black could even be losing. }
+72... Qa6+ { Black checks from a6. } 73. Kb3 Qc4+ 74. Kb2 Qe2+ 75. Qd2
+{ White blocks. A queen trade is now impossible for black because white is simply two pawns up. }
+75... Qf1 76. Nc2 { Finally the knight starts getting back into the game. }
+76... Kf7 77. Na3 { The knight reaches the much better a3 square. } 77... Be7
+78. Qc1 { White offers a queen trade again. } 78... Qe2+
+{ Black declines the trade with another check. } 79. Qd2 Qf1 80. Nc2 Bf8 81.
+Qe1 { Again offering a queen trade. } 81... Qd3 { Threatening the knight. } 82.
+Qd2 { Blocking. } 82... Qf1 83. Qe1
+{ Another queen-trade offer as the repetition approaches. } 83... Qd3
+{ At this moment the commentator says white could have stabilized completely and even played for a win instead of repeating. }
+84. Ne3
+{ This was the winning stabilization move. The knight on e3 guards c4 and c2, cuts out black's queen ideas, and leaves no real route to the white king; white would still need many precise moves, but the position becomes technically winning. }
+( 84. Qd2
+{ Instead white continued the repetition with another queen trade offer, apparently satisfied with the draw after such a difficult game. }
+84... Qf1
+{ Threefold repetition / draw. The commentator concludes that both sides had winning chances, Gukesh showed phenomenal preparation, and even though white may have had a winning position late, a draw was a fair result in an almost perfectly played rapid Marshall battle. }
+) 84... Qb5 { 1422 } 85. Qf1 { 1424 } 85... Bd3 { 1435 } 86. Qd1 { 1435 } 86...
+Be4 { 1438 } 87. Kb3 { 1442 } ) ) 67... Qa6+
+{ The key tactical check if white grabs too soon. } 68. Kb3 Qxa1
+{ Black wins the knight in that sample line, so the immediate capture was not good there. }
+) ) ) 55. Qh6 { 1108 } 55... Bf8 { 1114 } 56. Qh3 { 1114 } 56... Be7 { 1117 }
+57. Qe6+ { 1119 } 57... Kf8 { 1120 } 58. Bg7+ { 1124 } 58... Kxg7 { 1124 } 59.
+Qxe7+ { 1126 } 59... Kg8 { 1126 } 60. Qe8+ { 1128 } 60... Kg7 { 1128 } ) 54.
+Bxf6 { 1034 } 54... Bxf6 { 1036 } 55. gxf6 { 1036 } 55... Qc4 { 1038 } 56. f7+
+{ 1040 } 56... Kxf7 { 1042 } 57. Qf2+ { 1043 } 57... Ke7 { 1045 } ) ) 53. Nxa3
+{ 1001 } ) ) 36. Kg1 Bf5
+{ The standard attacking idea, but here white has a resource. } 37. f3
+{ Good defense. Since the bishop guards g3, white can hold despite the complications. }
+) ) ) ) ) ) 12... Bf6 { 268 } 13. Re1 { 268 } 13... Re8 { 269 } 14. Bd2 { 272 }
+*
+

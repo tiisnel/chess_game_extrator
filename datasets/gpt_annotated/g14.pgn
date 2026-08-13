@@ -1,0 +1,153 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4
+{ White opens with 1.d4. Intro context: this is round 6 of the Titled/rapid event against Finnish GM Tomi Nybäck, a very talented and creative player, especially dangerous in time scrambles. }
+1... Nf6
+{ Black chooses a positional response instead of the Dutch, specifically because against such a strong positional player he did not want to enter a sharp Dutch battle. }
+( 1... Nf6 2. c4 e6 3. Nc3
+{ Black expected White to include Nc3 before the main line. } 3... d5 4. cxd5
+{ He explains that in this structure almost every White player captures on d5, willingly exchanging the c-pawn for the e-pawn and opening Black's bishop, because White treats ...e6 as a wasted tempo. }
+4... exd5
+{ Black recaptures and asks the strategic question of whether White is justified in treating ...e6 as a loss of time. }
+5. Bg5 Be7 6. e3 c6 ) 2. c4 { White continues with c4. } 2... e6 3. Nf3 a6
+{ This is a prepared system Black has used even in classical games. The main idea is to kill the Catalan: if White goes g3, Black answers ...b5 and gets an ideal queenside setup. }
+4. g3
+{ White chooses the Catalan setup, allowing Black's intended queenside expansion. }
+( 4. Nc3
+{ Black says White is more or less forced to include Nc3 in the alternative main line. }
+4... d5 5. cxd5
+{ As discussed, this is the standard reaction: White captures on d5 in these positions nearly always. }
+5... exd5 6. Qb3
+{ This move made Black remember that he and Tomi had already reached this line in an earlier blitz game, though he had forgotten because he had not written the game down. }
+6... c6
+{ Black recalls this from the earlier blitz: the idea is a setup with ...Bd6 and related development. It also avoids immediate tactical problems after e4. }
+( 6... Be7
+{ In the rapid game Black instead chose 6...Bb7 later, but here he discusses other theory branches. The point is to prevent White's dangerous e4 initiative as in the earlier line. }
+7. Bg5
+{ Black introduces this as one of the key rules of the Carlsbad/Karpov structure: White should first develop the bishop outside the pawn chain and only then secure the center with e3. }
+( 7. Bg5
+{ Same strategic point: bishop out first, then e3; that is a fundamental rule in this structure. }
+7... c6
+{ In the main structure, ...c6 supports the d5 pawn and builds the standard Carlsbad setup. }
+8. e3
+{ Part of the standard setup after White has already developed the bishop. }
+8... Nbd7 9. Bd3 O-O 10. O-O Re8 11. Rac1 Ne4
+{ Black discusses ...Ne4 as a typical maneuver in these positions. In some versions it can be met by Qxe4 with pressure on h7, so move-order matters a lot. }
+( 11... Nh5
+{ Another thematic idea Black considered: ...Nh5 to challenge White's bishop and prepare kingside play. }
+) ( 11... h6
+{ He notes that starting with ...h6 can allow White to avoid the bishop trade, for instance via retreat schemes and even h3/Bh2 in some lines. }
+12. Bf4 { Illustrates White sidestepping the bishop trade after ...h6. } ) (
+11... Nh5
+{ Black also examined the plan ...Nh5 followed by recapturing and then trying for kingside activity. }
+12. Bxe7 Qxe7 13. Rfe1 Ndf6 14. Na4 g6 15. Ne5 Ng7 16. f3
+{ White's typical plan in these structures: support e4 and prepare central expansion. }
+16... Bf5 17. Bf1 ) ( 11... Nf8
+{ Black later calls ...Nf8 a typical maneuver in these positions, aiming for ...Ne6 and only then ...Ne4, though in the game he felt it was too slow. }
+12. Na4 Ne6
+{ Part of the idea behind ...Nf8: reroute the knight toward e6 and then possibly to e4 or kingside operations. }
+13. Bh4 Ne4
+{ Black wanted to reach ...Ne4 eventually from the reroute, but later judged that if he wanted this break he should have played it immediately. }
+14. Bxe7 Rxe7 ( 14... Rxe7 15. Bxe4 ( 15. Nb6
+{ The knight on b6 appears in the video as a useful White outpost, tied to ideas like f3, b5, and queenside pressure, but Black later argues it can also turn into 'just a pretty piece' if momentum is lost. }
+15... Rb8
+{ The rook's placement on b8 later becomes an important tactical issue: it is repeatedly loose and limits Black's queen's freedom. }
+16. Bxe4 dxe4 17. Ne5
+{ White seeks active central play and pressure in these structures. } 17... Nc7
+{ A key defensive resource Black highlights later in the actual game as well: ...Nc7 stabilizes, prepares ...Be6 and ...f6, and robs White of momentum. }
+( 17... Nc7 18. Rxc6
+{ Black mentions this exchange idea as something he had to calculate: White can sacrifice on c6 to damage the queenside structure and exploit tactical details. }
+18... bxc6 ( 18... Rxe5 19. Rxc7 Qxc7 20. dxe5 Be6 21. Qb4 Qxe5 ) 19. Nxc6
+{ 915 } 19... Qd6 { 918 } 20. Nxb8 { 919 } ) ( 17... Nc7 18. Nxc8 Qxc8 19. f3
+{ Again a thematic White push to support e4 and undermine Black's central control. }
+19... exf3 ( 19... exf3 20. Rxf3
+{ This rook recapture motif later appears in the game's critical phase; Black says around there he was close to equalizing. }
+20... Ne6 ( 20... Nd5 21. Rxf7 ( 21. e4
+{ White carries out the standard central expansion plan. } 21... Nf6 22. Rxf6
+{ A sacrifice pattern Black later discusses in detail in the real game: White gives exchange/material to generate direct mating threats. }
+22... gxf6 ( 22... gxf6 23. Qg3+ Kh8 24. Ng4
+{ Black later praises the intuitive idea of a knight jump to g4 in attacking patterns of this type; such motifs can outweigh material. }
+( 24. Ng4 ) ) 23. Qg3+ Kh8 ( 23... Kh8 24. Ng4 ( 24. Qh4
+{ A recurring mating idea in the video: White's queen often aims for h4/h3/f5 to threaten mate on h7. }
+24... fxe5 25. Qxe7 Qe6
+{ Black repeatedly wanted to consolidate with ...Qe6 in the game, but tactical issues with the rook on b8 often prevented it. }
+26. Qxe6 fxe6 27. dxe5 Rd8 28. Rc2 ) ( 24. Ng4 Rxe4 ( 24... Rxe4 25. Nxf6 Qe6 )
+( 24... Qd8
+{ Black later explicitly says he missed a crucial defensive move ...Qd8 in the actual game; here too the move is emblematic of the needed queen retreat/defense. }
+25. Rd1 Rxe4 26. Nh6 ) 25. Nxf6 { 1278 } 25... Rxd4 { 1279 } 26. Qe5 { 1287 }
+26... Qd8 { 1291 } 27. Nd7+ { 1297 } ) ( 24. Ng4 Qc7
+{ In the game Black played ...Qc7 with the idea of meeting Qh4 by ...Qf4 and forcing queen trades, but it turned out too ambitious and insufficient. }
+25. Qh4
+{ A direct attacking setup aimed at h7, exactly the type of idea Black feared. }
+25... Qf4
+{ This is Black's intended defensive idea: trade queens and claim he is not worse, maybe even playing for a win. }
+( 25... Qc8 26. Qg3 Qc7 27. Qf2 Qd6
+{ Black later actually plays ...Qd6 in the game, only to realize White's attack remains very strong after Nf6. }
+28. Nxf6
+{ A critical attacking motif: White's knight lands on f6 to threaten immediate mating ideas. }
+28... Rd8 29. d5
+{ Black notes several times that White's d5 push is a major resource, opening lines while Black remains pinned and uncoordinated. }
+29... Kg7 30. Rf1 cxd5
+{ In the game Black finally tried ...cxd5 and prayed White would capture the pawn, so that queen trades might save him. }
+31. exd5 ( 31. Qh4 { Another mating setup on the kingside. } 31... h6 32. Qg4+
+Kh8 33. Qf5
+{ This kind of queen transfer to f5/h4 is exactly what Black describes near the end: White threatens mate and Black has no adequate defense. }
+) 31... Qe5
+{ Black hoped for queen-trade motifs with ...Qe5 if White got distracted by pawn-grabbing. }
+) 26. Qxf6+ Qxf6 27. Nxf6 Rd8 ) ( 24. Ng4 ) ) ) 21... Rxf7 { 1128 } 22. Nxf7
+{ 1128 } 22... Kxf7 { 1129 } 23. e4 { 1129 } 23... Qg4 { 1132 } 24. exd5
+{ 1137 } ( 24. Rf1+ { 1143 } 24... Kg8 { 1144 } 25. exd5 { 1145 } 25... Qxd4+
+{ 1146 } ) 24... Qxd4+ { 1138 } ) 21. d5 { 1061 } 21... Ng5 { 1062 } ) 20. Rxf3
+{ 992 } 20... Nd5 { 998 } ( 20... Qe6 { 1027 } 21. Nxc6 { 1031 } 21... Qxb3
+{ 1036 } 22. Nxe7+ { 1037 } ) ) ) ( 15. Nb6 Rb8
+{ Again the rook on b8 is a tactical target throughout these variations and in the game itself. }
+) 15... dxe4 16. Nd2 Ng5 ) 15. Bxe4
+{ Black cites this line with engine assistance: after Bxe4 and related continuations, White may keep a pull due to dark-square control and Black's shaky back rank. }
+15... dxe4 16. Nd2 Ng5 17. Qb6 Qd6 18. Nc4 Qg6
+{ Black says that if he could achieve ...Qg6 followed by ...h5, ...h4, ...Bh3, ...Nf3 and throw all pieces at the king, his attack would look excellent. }
+19. Qd8+
+{ But concretely, he says the back-rank issues spoil Black's attacking dreams in such lines. }
+) 12. Bxe4 { 657 } ( 12. Bxe7 { 666 } 12... Qxe7 { 668 } 13. Bxe4 { 668 } 13...
+dxe4 { 669 } 14. Nd2 { 670 } 14... Nf6 { 683 } 15. Qa3 { 684 } 15... Qxa3
+{ 693 } 16. bxa3 { 694 } ) 12... Bxg5 { 659 } ) ) 7. e4
+{ This is the dangerous central thrust Black remembered from the earlier blitz game: White wants dxe4, Ng5, Bc4 and a powerful initiative. }
+7... dxe4
+{ Black says this capture would be very dangerous because White's initiative after Ng5 and Bc4 is extremely strong. }
+( 7... Nxe4
+{ Therefore in the earlier game he chose to meet e4 by taking with the knight instead of the pawn. }
+8. Nxe4 Qe7
+{ An important intermediate move Black remembers from theory; there is a lot of sharp theory here. }
+9. Bd2
+{ In the blitz game Tomi chose Bd2. Black notes that if he recaptures with the pawn, White can calmly castle long, play Re1, Bc4, Rg1 and whip up dangerous pressure. }
+9... dxe4
+{ If Black takes with the pawn here, engine says he survives only with very precise defense, including ...Kd8 in some lines; practically Black would never choose that in rapid/blitz. }
+( 9... Qxe4+
+{ In the actual earlier blitz he instead took with the queen on e4 to avoid the scary practical attack. }
+10. Kd1 Qe7
+{ Black says he then retreated the queen and after checks/trades the game simplified. }
+11. Bd3 Qd8 12. Re1+ Be7 13. Bb4 Be6 14. Bf5 Bxb4 ) 10. O-O-O
+{ Illustrates the practical attacking setup Black wanted to avoid in rapid: White castles long and attacks quickly. }
+10... exf3 11. Re1
+{ Part of White's dangerous initiative against Black's king and center. } 11...
+Be6 12. Bc4 { Another key attacking move in the initiative Black feared. }
+12... fxg2 13. Rhg1 { White keeps all pieces flowing toward the kingside. }
+13... Kd8
+{ Engine's cold-blooded defensive resource in the dangerous line; Black says he would never willingly enter this in rapid/blitz just to hold equality. }
+14. Bxe6 fxe6 15. Rxe6 Qd7 16. Rge1 ) 8. Ng5
+{ This was the attacking point behind White's e4 idea: Ng5 followed by Bc4 generates a very dangerous initiative for White. }
+) 4... b5
+{ Black gets exactly the setup he wanted after ...a6: queenside space, anti-Catalan structure, and a dream version of the position. }
+5. b3
+{ Black had anticipated this type of setup: White fianchettoes, but Black still gets his intended queenside expansion. }
+5... Bb7
+{ This is the ideal development Black wanted against the Catalan structure. }
+6. Bg2 c5
+{ Black completes the perfect anti-Catalan setup: ...a6, ...b5, ...Bb7, ...c5, which he describes as the dream arrangement Black could hope for from the opening. }
+*
+

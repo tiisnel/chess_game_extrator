@@ -1,0 +1,142 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ Fisher started with E4 E6 and played D3. Fisher was well known for using the Kings Indian attack against the French and also sometimes against the Sicilian when black played the move E6 early on. }
+( 1. Nf3
+{ White starts with Knight F3, going directly for the Kings Indian attack - not going E4 but first fianchettoing. This idea is applicable when black is trying to play the Queens Gambit Declined setup. }
+1... d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O
+{ This is the position where the idea actually happens. } 6. Nbd2
+{ If white plays the automatic move Knight BD2 (part of the Kings Indian attack), black has a quite annoying character-changing move available. }
+( 6. a3
+{ The key idea seen at the Spanish Team Championship! A3 - putting together the Fisher idea of not allowing Black's A3, and also avoiding Black's character-changing plan with Knight C6. If now Knight C6 with the idea of E5, white has the move B4 - that's why A3 was necessary. B4 intends B5 so there is no E5 as then B5 and Knight D5 would win a pawn. }
+6... Nc6
+{ If Knight C6, white plays B4 intending B5. There is no E5 as B5 and Knight D5 would win a pawn. }
+( 6... c5
+{ If black plays C5 instead of Knight C6, white gets the King's Indian Attack with the useful A3 move already played, preventing Black's A4-A3 counterplay. }
+7. Nbd2 Nc6 8. e4
+{ White gets the King's Indian attack with the useful A3 already in place. When black starts advancing B5, A5 and so forth, black won't have the idea of A5-A4-A3 at his disposal because White's pawn is already on A3. }
+) ( 6... a5
+{ A5 - makes sense, stops B4. Maybe now black wants to go Knight C6 and E5. But here white can play Knight C3, aiming to take advantage of the B5 square that has been somewhat weakened, with ideas with E4 also valid. }
+7. Nc3
+{ Knight C3 - more in the spirit of the flexibility of White's position. It aims to take advantage of the B5 square that has been somewhat weakened. Ideas with E4 are also valid as the knight supports the advance. In case of D4, the knight nicely slots on B5 attacking the pawn on D4. }
+7... d4 ( 7... d4 8. Nb5 e5 9. a4
+{ Thanks to the move A5, white managed to establish control of these light squares. After C6 the knight drops back to A3 and then joins the game via C4 targeting the pawn on E5. White will undermine Black's center by F3 or maybe switch to Kings Indian structures with E4 and then go standard play. }
+) 8. Nb5 { Knight B5 - nicely slots in attacking the pawn on D4. } 8... e5 9.
+a4 { A4 - locking in these light squares on the queen side. } ) ( 6... b6
+{ B6 - a flexible way for black. Now white has a choice: Knight BD2 and then go for the E4 push, or more aggressively E4 immediately. The point being that white can use the somewhat weakened long diagonal by Black's last move B6 to execute the push immediately. }
+7. Nbd2
+{ Knight BD2 - one option. After Bishop B7, E4, D4 white will have to go something like Knight G5 and capture on E4 with the knight. }
+( 7. e4
+{ E4 immediately - more aggressive. The point being that white can use the somewhat weakened long diagonal by Black's B6 to execute the push immediately. Critical for black is to take on E4 because if not then white can go E5 and we have the King's Indian attack. Black has played B6 rather than B5 which means his queen side play comes in slower. }
+7... dxe4 8. dxe4 Nxe4
+{ Black accepts the pawn sacrifice. In either case black has pretty good play but let's check what happens if black takes the pawn. }
+( 8... Qxd1
+{ If black does not take the pawn and instead plays Queen takes D1 - let's see what happens. }
+9. Rxd1 Bb7 10. e5 { E5 - white goes E5 in King's Indian attack fashion. }
+10... Nfd7 11. Bf4 { Bishop F4 - the standard moves defending the pawn. } 11...
+h6 { H6 - threatening G5. } 12. h4 { H4 - standard stuff. } 12... Rd8
+{ Rook D8 to defend the knight on D7 so that the knight from B8 can develop. Otherwise the knight from B8 cannot develop because the knight on D7 is hanging. }
+( 12... Rd8 13. Nc3
+{ Knight C3 - we have a complex endgame but white is quite comfortable. Black is a bit cramped and still not easy to finish development, whereas white has the simple plan of just doubling on the D file and increasing the pressure on the knight and the D file in general. }
+) ) 9. Qxd8 Bxd8
+{ Bishop D8 - the better recapture! Not obvious but is the better recapture. }
+( 9... Rxd8
+{ Rook D8 - not the best recapture! After Rook D8, Knight G5 is very strong. The knight is attacked and pinned and the point of Knight G5 is that after Bishop takes G5, Bishop takes G5 the bishop is attacking the rook and the knight is hanging. }
+10. Ng5
+{ Knight G5 - very strong here since the bishop on G5 would attack the rook. }
+10... Bxg5 11. Bxg5 Nxg5 12. Bxa8 { White wins material. } ) ( 9... Bxd8
+{ Bishop D8 is the correct recapture. Now if Knight G5, Bishop takes G5, Bishop takes G5 - the bishop on G5 is not attacking anything so black can simply go Bishop B7 and defend the knight and then go Knight C5 or Knight D6 and remain a pawn up. }
+10. Ng5 Bxg5 11. Bxg5 Bb7
+{ Bishop B7 - defending the knight. Black can remain a pawn up with Knight C5 or Knight D6. }
+) ( 9... Bxd8 { The correct line after Bishop D8. } 10. Nfd2
+{ Knight FD2 - attacking the Knight on E4. } 10... Nxd2 11. Bxd2
+{ Bishop takes D2 - the rook is attacked. } 11... c6
+{ C6 - the only move as the rook is attacked. } 12. Bb4
+{ Bishop B4 - attacking the rook and using the fact that the pawn on C6 cannot close the diagonal because the rook is still hanging. }
+12... Re8 13. Nc3 { Knight C3 - very unpleasant position for black. } 13... Bb7
+{ Bishop B7 - black cannot move the C pawn because the bishop on B7 is hanging. In case of A5 the bishop can slot in on D6. }
+14. Rfd1
+{ Rook FD1 - white has very pleasant and comfortable compensation thanks to the weakening of the D6 square where the knight can land. Black has difficulties developing the knight on B8, which cannot actually move because that allows Rook D7. The pawn on C6 is pinned. White has good compensation for the pawn here. }
+) ) ) 7. b4
+{ B4! - the point of A3. After A6 Bishop B2 controlling D5 square. White has a quite comfortable ready position with this awkward Knight on C6. White can continue with C4, Knight C3 or Knight BD2 and C4 and so forth. Black is suffering from this awkward Knight on C6 and the still undeveloped light squared Bishop on C8. }
+7... a6 8. Bb2
+{ Bishop B2 - controlling D5 square. Now there isn't really a King's Indian attack on the board but white has a quite comfortable position. }
+) 6... Nc6
+{ Knight C6 - black won't play C5. The idea is to control D5 square and go for E5. If white goes E4, black can take on E4 and then go E5, and then there is no Kings Indian attack, there is nothing. Black successfully changes the character of the game. }
+( 6... c5
+{ If black plays C5 instead, white can go E4 - getting the desired King's Indian Attack position. }
+7. e4 ) ( 6... Nc6 7. e4 dxe4 8. dxe4 e5
+{ Black successfully changes the character of the game - there is no Kings Indian attack, no attack, nothing. }
+) ) 1... e6
+{ Black plays E6, limiting the activity of the light squared bishop and not allowing E5 in one go. }
+2. d3 { D3 - Fisher's choice, part of the Kings Indian attack setup. } 2... d5
+3. Nd2 Nf6 4. g3 c5 5. Bg2 Nc6 6. Ngf3 Be7 7. O-O
+{ We have the typical setup of the Kings Indian attack for White and the Queens Gambit Declined for black. }
+7... O-O
+{ We have the typical setup of the Kings Indian attack for White and the Queens Gambit Declined for black. }
+8. e5
+{ E5 by Fisher - the rook and knight will defend the pawn on E5 and then what follows is pretty straightforward. }
+8... Nd7 9. Re1
+{ The rook and the knight are defending the pawn on E5. The knight comes to F1 to free the path for the bishop to go to F4 from where it also defends E5. Then H4 is played, hopefully pushing all the way to H6 to weaken dark squares around the black king. }
+9... b5
+{ B5 - normal play for black, black will seek counterplay on the queen side. }
+10. Nf1 { Knight F1 - standard move, part of the king's Indian attack plan. }
+10... b4 11. h4
+{ H4 - standard move. All these moves can be played in different move orders but it doesn't really affect much as each side is playing on their own wing. }
+11... a5 12. Bf4 { Bishop F4 - standard move defending the pawn on E5. } 12...
+a4
+{ A4 - now we come to the critical moment. If left on their own devices, black will play A3 with the idea to dislodge the pawn from B2, whether by white capturing on A3 or more likely B3 closing the queen side. However after B3, black has the maneuver Knight A7, Knight B5 targeting C3 and D4 squares which will be rather weak after B3. }
+13. a3
+{ A3 by Fisher himself! He prefers to open the B file but not weaken the dark squares. This is the key idea - playing A3 proactively to stop Black's A3 counterplay. }
+13... bxa3 14. bxa3 Na5 15. Ne3 Ba6 16. Bh3
+{ Bishop H3 - white is targeting these pawns. Maybe at some point there may be a sacrifice, for example if the queen leaves the defense of the Knight on D7, Knight D5 can happen and if exD5 then the Knight on D7 is hanging. }
+16... d4 { D4 attacking the Knight on E3. } 17. Nf1
+{ Knight F1 - it was possible to put the Knight on G4 but Fisher wants to keep the D1-H5 diagonal open for the queen. He wants to go Knight G5 and then the queen can come to H5 targeting the H7 pawn. }
+17... Nb6
+{ Knight B6 - black could have done better, for example Bishop B7 and C4 were better options here. }
+18. Ng5
+{ Knight G5 - following the idea of an attack. The idea is to go Queen H5. The Knight on G5 and the bishop on H3 are targeting the pawn on A6. The sacrifice may not work but it's still a threat. }
+18... Nd5 { Knight D5 centralizing the Knight targeting the bishop. } 19. Bd2
+{ Bishop drops back to D2 covering C3 and keeping an eye on the Knight on A5. }
+19... Bxg5
+{ Black decides to eliminate the Knight because after Queen H5 he would have been forced to do so in view of the threat against the pawn on H7 with mate. }
+20. Bxg5 Qd7 21. Qh5 { Queen H5 - getting the queen closer to the king side. }
+21... Rfc8 22. Nd2
+{ Knight D2 - a very common theme in the King's Indian attack. This knight on F1 can stay there for a while but at a certain point will get activated. Fisher prefers D2 and then E4 because from E4 it targets F6 like from G4 but also targets the D6 pawn - more flexible. }
+22... Nc3
+{ Knight C3 - stopping Knight E4. But now the knight is no longer controlling the F6 square, which allows Fisher to start a very beautiful attack. }
+23. Bf6
+{ Bishop F6 - very often in the King's Indian attack white is aiming for the weakening of the dark squares around the black king. }
+23... gxf6
+{ G takes F6 - E takes F6 was just fatal because the king is too weak, there will be some mating threats. Otherwise the idea is to go Queen G5 and basically mate on G7. }
+( 23... Qe8 { Queen E8 - so that the queen can join the defense from F8. } 24.
+Ne4
+{ Knight E4 - Fisher invites the exchange of the knights because then the Rook can join the attack via E4 and G4. }
+24... g6 25. Qg5
+{ Queen G5 - the queen moves not to H6 because there is Queen F8, but to G5 and now H5 becomes an idea. }
+25... Nxe4 26. Rxe4 c4 27. h5
+{ H5 - and now the attack is unstoppable. Look at how many pieces are attacking. The Rook is coming to H4 and after H takes G6 the H file will be open with decisive effect. }
+27... cxd3 28. Rh4
+{ Rook H4 - Fisher is not wasting time on taking on D3. There is already an immediate threat: in case of D takes C2, H takes G6 leads to mate. }
+28... dxc2 ( 28... Ra7 { Rook A7 defending the seventh rank. } 29. Bg2
+{ Bishop G2 - a fantastic resource! The bishop is aiming for the E4 square. }
+29... dxc2 30. Qh6
+{ Queen H6 - now there is another threat: taking on G6 and mating on H8. }
+30... Qf8 { Queen F8 defending against mate on G7. } ( 30... Qf8 { 571 } 31.
+Qxh7+
+{ Queen takes H7 - a beautiful combination and the point of Bg2. One of the most famous combinations by Bobby Fisher. Black resigned because after taking on H7, H takes G6 is a check. }
+31... Kxh7 32. hxg6+
+{ H takes G6 check - if the King goes to G8 there is Rook H8 mate. } 32... Kxg6
+{ If the King takes on G6 there is Bishop E4 mate. } 33. Be4#
+{ Bishop E4 mate - so that was the idea of Bishop G2. A beautiful game, a beautiful combination and a very nice demonstration of White's attacking possibilities in the Kings Indian attack. }
+) ) 29. hxg6
+{ H takes G6 - if H takes G6 Rook h8 is mate immediately, whereas if F takes G6 Rook takes H7 and then Queen H4, Queen H8, Queen G7 mating. }
+29... hxg6 ( 29... fxg6 30. Rxh7 ) 30. Rh8# { Rook H8 is mate immediately. } )
+24. exf6 *
+

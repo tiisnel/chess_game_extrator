@@ -1,0 +1,145 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4 { White opens with the positional D4 move. } 1... Nf6
+{ The standard response to D4. The annotator mentions that against such a positional player as Tommy Nyback, he preferred a positional approach over his usual Dutch Defense. }
+( 1... Nf6 { 597 } 2. c4 { 598 } 2... e6 { 598 } 3. Nc3 { 599 } 3... d5 { 600 }
+4. cxd5 { 600 } 4... exd5 { 601 } 5. Bg5 { 602 } 5... Be7 { 602 } 6. e3 { 603 }
+6... c6 { 604 } ) 2. c4 e6 3. Nf3 a6
+{ A provocative move the player has used before. The main idea is to effectively kill the Catalan setup; if White plays G3, Black responds with B5 and B7, reaching a dream setup with C5. }
+4. g3 { 205 } ( 4. Nc3
+{ White includes Knight C3 in response to the A6/B5 setup. } 4... d5
+{ Black strikes in the center, intending to capture on C4 and secure the pawn with B5. }
+5. cxd5
+{ Almost everyone takes on D5 here. White accepts opening the light-square bishop in exchange for treating Black's E6 and A6 as a waste of time, leading to a Carlsbad pawn structure. }
+5... exd5 { Black recaptures, establishing the classic Carlsbad structure. } 6.
+Qb3
+{ Nyback plays Queen B3, which the annotator remembers from a previous Blitz game. It exerts pressure on the center and queen side. }
+6... c6
+{ Reinforcing the D5 pawn. The player recalls this move from a previous encounter where White responded with E4. }
+( 6... Be7
+{ In this tournament game, the player chose Bishop E7, feeling that E4 would no longer be a major threat. }
+7. Bg5
+{ A key rule in the Carlsbad structure: bring the bishop out before securing the center with E3. }
+( 7. Bg5 { 484 } 7... c6 { Protecting the pawn. } 8. e3
+{ White secures the center. } 8... Nbd7 9. Bd3 O-O 10. O-O
+{ Standard development in the Carlsbad. Black intends to attack on the king side while White targets the queen side. }
+10... Re8 11. Rac1
+{ White prepares the minority attack or pressure on the C-file. } 11... Ne4
+{ A typical maneuver, though tricky here because Queen B3 is different from the usual Queen C2 setups. }
+( 11... Nh5 { Another idea: trying to trade White's good bishop. } ) ( 11... h6
+12. Bf4 { White avoids the trade. } ) ( 11... Nh5 { 732 } 12. Bxe7 Qxe7 13.
+Rfe1 Ndf6 14. Na4 { White focuses on the minority attack. } 14... g6 15. Ne5
+Ng7 16. f3
+{ Preparing the E4 push to challenge the center and trade the 'bad' bishop. }
+16... Bf5 17. Bf1 ) ( 11... Nf8
+{ A typical maneuver to relocate the knight to E6 and then E4. However, the annotator later felt this was too slow compared to an immediate knight jump. }
+12. Na4 Ne6 13. Bh4 Ne4 { Black finally lands the knight on E4. } 14. Bxe7
+{ Nyback takes the bishop. } 14... Rxe7 ( 14... Rxe7 { Recapturing. } 15. Bxe4
+{ Nyback finds the right moment to take on E4. } ( 15. Nb6
+{ An inaccuracy, according to the annotator, but still very difficult to play against. }
+15... Rb8 16. Bxe4 dxe4 17. Ne5 { White jumps into the center. } 17... Nc7
+{ 878 } ( 17... Nc7 { The knight is heading to defend or counter. } 18. Rxc6
+{ A thematic sacrifice the player anticipated. If Black captures, White takes on C6 and B8 with crushing pressure. }
+18... bxc6 ( 18... Rxe5
+{ Black decides to eliminate the dangerous knight instead of taking the rook. }
+19. Rxc7 Qxc7 20. dxe5 Be6 { Activating the bishop. } 21. Qb4 Qxe5
+{ Black is up a pawn and fighting for a win. } ) 19. Nxc6 Qd6 20. Nxb8 ) (
+17... Nc7 { 975 } 18. Nxc8
+{ Nyback realized his original F3/D5 ideas weren't working perfectly, so he simplifies. }
+18... Qxc8
+{ Black must take with the queen because Queen B7 is a threat if the rook takes. }
+19. f3 { The critical phase begins. White strikes at the pawn chain. } 19...
+exf3
+{ Opening the king side. The player felt ambitious here as Nyback was low on time. }
+( 19... exf3 { 1044 } 20. Rxf3 { 1044 } 20... Ne6
+{ Trying to defend, but White's pieces are too active. } ( 20... Nd5
+{ The knight move visually makes sense, aiming for F6. } 21. Rxf7
+{ White ignores everything to sack on F7. If Black takes, the queen invasion is lethal. }
+( 21. e4 { Instead of sacking on F7 immediately, Nyback played E4 first. }
+21... Nf6 { Defending, but only for a moment. } 22. Rxf6
+{ The crusher. The player initially thought this was a panic move due to time, but it's very strong. }
+22... gxf6 ( 22... gxf6 { 1484 } 23. Qg3+
+{ Nyback's intuitive sacrifices like Knight G4 are a hallmark of his skill. }
+23... Kh8 24. Ng4
+{ The knight on G4 is worth more than the rook on E7 in this position. } ( 24.
+Ng4 { 1518 } ) ) 23. Qg3+ { White begins the heavy-piece assault. } 23... Kh8
+{ The king goes to the corner. The player notes that you generally want to go to the corner so the attack comes from only one direction. }
+( 23... Kh8 { 1198 } 24. Ng4
+{ White is two moves away from mate (Queen H4 and Knight F6). Black has limited options. }
+( 24. Qh4
+{ White should have played this directly according to the engine, but Knight G4 is practically winning. }
+24... fxe5 25. Qxe7 Qe6 26. Qxe6 fxe6 27. dxe5 Rd8 28. Rc2
+{ The position fizzles into a draw in this variation. } ) ( 24. Ng4 { 1248 }
+24... Rxe4 { Black grabs the central pawn, hoping for survival. } ( 24... Rxe4
+25. Nxf6 Qe6 { White's pieces coordinate perfectly against the exposed king. }
+) ( 24... Qd8
+{ The annotator missed this move during the game. It was the only way to hold the balance. }
+25. Rd1 Rxe4 26. Nh6 { White still has pressure, but Black is fighting. } ) 25.
+Nxf6 Rxd4 26. Qe5 Qd8 27. Nd7+ { The discovery is devastating. } ) ( 24. Ng4
+{ 1359 } 24... Qc7
+{ In the game, Black played Queen C7, hoping to trade queens with Queen F4. }
+25. Qh4 { Nyback continues the hunt. } 25... Qf4
+{ Black offers the trade, feeling very ambitious. } ( 25... Qc8
+{ Trying to maintain control of the dark squares. } 26. Qg3 Qc7 27. Qf2
+{ White maneuvers. } 27... Qd6
+{ Black realizes something is wrong. Things are escalating quickly. } 28. Nxf6
+{ Winning the pawn and destroying the king's cover. } 28... Rd8 29. d5
+{ The decisive breakthrough. } 29... Kg7 { Trying to step out of the pin. } 30.
+Rf1 cxd5 { Black captures, praying White takes back on D5. } 31. exd5 ( 31. Qh4
+{ Nyback ignores the pawn. He's going for mate. } 31... h6
+{ Trying to create air. } 32. Qg4+ { Checks begin. } 32... Kh8 33. Qf5
+{ The mate on H7 cannot be stopped. Black resigned. Tommy Nyback played a fantastic, intuitive game. }
+) 31... Qe5 { If White recaptures, Black can play for a win after Queen H3. } )
+26. Qxf6+ Qxf6 27. Nxf6 Rd8
+{ White is slightly better but the endgame might be a draw. } ) ( 24. Ng4
+{ 1462 } ) ) ) 21... Rxf7 22. Nxf7 Kxf7 23. e4 { Opening the diagonal. } 23...
+Qg4 { The player thought this counter-attack was working. } 24. exd5
+{ Nyback continues the assault. } ( 24. Rf1+
+{ The final rook joins the attack. } 24... Kg8 25. exd5 Qxd4+ ) 24... Qxd4+
+{ Black is up a pawn, but the king is totally exposed. } ) 21. d5
+{ White pushes the pawn to clear the path for the attack. } 21... Ng5
+{ Black knight reaches the kingside but it's too late. } ) 20. Rxf3 Nd5
+{ The player missed Queen D8 here, which would have neutralized White's attack. }
+( 20... Qe6
+{ Trying to block the annoying pin, but the rook on B8 is hanging. } 21. Nxc6
+{ White wins material. } 21... Qxb3 { A desperate intermediate check. } 22.
+Nxe7+ { White collects the queen; Black can resign. } ) ) ) ( 15. Nb6 { 970 }
+15... Rb8 { 970 } ) 15... dxe4 16. Nd2 Ng5 ) 15. Bxe4
+{ White eliminates the active knight. } 15... dxe4 16. Nd2 Ng5
+{ Black tries to initiate king side threats, but White's dark square control is strong. }
+17. Qb6 { Invading the queen side. } 17... Qd6 18. Nc4
+{ Domination on the dark squares. Black's back rank begins to feel the pressure. }
+18... Qg6 { An ambitious attacking move, but concretely, White is better. } 19.
+Qd8+ { A forcing sequence that keeps Black on his heels. } ) 12. Bxe4 { 657 } (
+12. Bxe7 Qxe7 13. Bxe4 dxe4 14. Nd2 Nf6 15. Qa3
+{ Exploiting the dark squares and offering a queen trade. } 15... Qxa3
+{ If Black trades, White has a free roll on the queen side. } 16. bxa3 ) 12...
+Bxg5 { Black trades off the dark-squared bishop. } ) ) 7. e4
+{ A sharp idea to open the center immediately. If Black takes on E4, White plays Knight G5 and Bishop C4 with a deadly initiative. }
+7... dxe4 { Accepting the central tension. } ( 7... Nxe4
+{ Black takes with the knight instead of the pawn in this variation. } 8. Nxe4
+{ White recaptures, still aiming for Knight G5 ideas. } 8... Qe7
+{ An important intermediate move according to the player's memory of the theory. }
+9. Bd2
+{ From a previous blitz game between the two. White prepares to castle long and exert massive pressure. }
+9... dxe4
+{ The engine suggests this is surviving for Black, but it leads to terrifying complications. }
+( 9... Qxe4+
+{ In the game, the player decided to capture the pawn instead of going into the king d8 lines. }
+10. Kd1 Qe7 { Retreating the queen. } 11. Bd3 { Developing the bishop. } 11...
+Qd8 12. Re1+ Be7 13. Bb4 Be6 14. Bf5
+{ Trades followed and the game eventually ended in a draw. } 14... Bxb4 ) 10.
+O-O-O { White castles long and prepares to use the open files. } 10... exf3 11.
+Re1 { A strong centralizing move to exploit the uncastled king. } 11... Be6 12.
+Bc4 { Increasing the pressure on the diagonal. } 12... fxg2 13. Rhg1 Kd8
+{ According to the engine, Black survives here, but it's nearly impossible for a human to navigate in rapid/blitz. }
+14. Bxe6 fxe6 15. Rxe6 Qd7 16. Rge1 ) 8. Ng5
+{ Threatening F7 and preparing a rapid assault. } ) 4... b5 { 206 } 5. b3
+{ 210 } 5... Bb7 { 211 } 6. Bg2 { 212 } 6... c5 { 212 } *
+

@@ -1,0 +1,139 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ Introduces Fischer's historical example; he starts with 1.e4 against the French. }
+( 1. Nf3
+{ Now the speaker returns to the modern idea. White begins with 1.Nf3, heading directly for a King's Indian Attack setup without starting with e4. }
+1... d5
+{ The idea is aimed against Black's Queen's Gambit Declined-type setup. } 2. g3
+Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O { This is the key tabiya for the new idea. }
+6. Nbd2
+{ Automatic KIA move, but here Black has an annoying character-changing reply: ...Nc6, intending ...e5 after exchanges, which avoids White's usual kingside attack. }
+( 6. a3
+{ The fresh idea. It has two points: like Fischer's a3, it prevents Black's later ...a3 queenside plan, and it also prepares b4 against Black's ...Nc6-e5 idea. }
+6... Nc6
+{ If Black tries the same character-changing plan now, White has a concrete response. }
+( 6... c5
+{ If Black instead continues in QGD/KIA style with ...c5, White can transpose to a KIA with a useful a3 already included. }
+7. Nbd2 Nc6 8. e4
+{ Leads to a King's Indian Attack where a3 is a useful extra move; Black will no longer have the ...a5-a4-a3 idea seen in the Fischer game. }
+) ( 6... a5
+{ Another possible try by Black: stop b4 and perhaps still aim for ...Nc6 and ...e5. }
+7. Nc3
+{ More in the spirit of White's flexibility than b3. It eyes the weakened b5-square, supports e4, and can exploit queenside light-square weaknesses. }
+7... d4 ( 7... d4 8. Nb5 e5 9. a4
+{ Locks in control of the queenside light squares. If ...c6, the knight can retreat to a3 and re-enter via c4 to hit e5; White can later undermine the center with e3 or switch to standard KIA play. }
+) 8. Nb5 { The knight jumps into the weakened b5-square and attacks d4. } 8...
+e5 { 908 } 9. a4 { 908 } ) ( 6... b6
+{ Another sensible, flexible setup for Black. } 7. Nbd2
+{ One option is to continue in normal KIA fashion and prepare e4. } ( 7. e4
+{ The speaker prefers this more aggressive immediate push, exploiting the somewhat weakened long diagonal created by ...b6. }
+7... dxe4
+{ Critical; otherwise White would simply play e5 and get the desired KIA attack. }
+8. dxe4 Nxe4
+{ Black can accept the pawn sacrifice, but White gets good practical compensation. }
+( 8... Qxd1
+{ If Black declines the pawn sacrifice and heads for an endgame, White still gets a comfortable version of the KIA. }
+9. Rxd1 Bb7 10. e5 { White gets the King's Indian Attack structure he wanted. }
+10... Nfd7 11. Bf4 { Standard KIA move, defending e5. } 11... h6
+{ Black hints at ...g5 and typical kingside countermeasures. } 12. h4
+{ Standard KIA attacking play. } 12... Rd8
+{ Defends the knight on d7 so the b8-knight can develop; otherwise the knight on d7 would hang. }
+( 12... Rd8 13. Nc3
+{ White remains quite comfortable in this complex endgame: Black is somewhat cramped and still struggles to finish development, while White can simply double on the d-file and increase pressure. }
+) ) 9. Qxd8 { White exchanges queens. } 9... Bxd8
+{ This bishop recapture is important and stronger than ...Rxd8. After ...Rxd8, Ng5 would be very strong because Bg5 would attack the rook while the knight on e4 hangs. }
+( 9... Rxd8
+{ Inferior recapture. Then Ng5 is strong: after ...Bxg5 Bxg5 ...Nxg5, White wins material with Bxa8 because Bg5 attacks the rook and the knight on e4 is pinned. }
+10. Ng5
+{ Tactical resource exploiting the pin on the e4-knight and pressure on the rook. }
+10... Bxg5 11. Bxg5 Nxg5 12. Bxa8 { White wins material in the ...Rxd8 line. }
+) ( 9... Bxd8
+{ Correct recapture; unlike ...Rxd8, it sidesteps the Ng5/Bg5 tactical problem. }
+10. Ng5 { White still tries the tactical idea. } 10... Bxg5 11. Bxg5 Bb7
+{ Now Black simply defends the knight and remains a pawn up; this shows why ...Bxd8 is important. }
+) ( 9... Bxd8 { 1079 } 10. Nfd2
+{ Main continuation after the correct ...Bxd8: White attacks the knight on e4 and seeks compensation. }
+10... Nxd2 11. Bxd2 c6 { Only move, since the rook remains under pressure. }
+12. Bb4
+{ Strong move attacking the rook and exploiting that the c6-pawn cannot close the diagonal because the rook is still hanging. }
+12... Re8 13. Nc3
+{ White has a very pleasant and uncomfortable-for-Black compensation: pressure on d6, the c-pawn is pinned, development is awkward, and Black's queenside pieces are tied up. }
+13... Bb7 14. Rfd1
+{ Increases pressure; Black still cannot easily move the c-pawn because the bishop on b7 would hang, and White's control of d6 gives enduring compensation. }
+) ) ) 7. b4
+{ The point of 6.a3. White intends b5, so Black cannot comfortably play ...e5 because b5 followed by Nd5 would win a pawn. }
+7... a6 { Black tries to restrain b5. } 8. Bb2
+{ Controls d5. White may not have a pure KIA now, but obtains a comfortable Reti-type position; Black's knight on c6 is awkward and the c8-bishop remains undeveloped. }
+) 6... Nc6
+{ Black's disruptive plan: control d5 and prepare ...e5 so that after e4 and exchanges White no longer gets a true KIA attack. }
+( 6... c5 { 676 } 7. e4 { 676 } ) ( 6... Nc6 { 681 } 7. e4
+{ If White plays the routine e4 here, Black can change the nature of the game. }
+7... dxe4 8. dxe4 e5
+{ Black successfully kills the King's Indian Attack concept by establishing ...e5. }
+) ) 1... e6
+{ Black replies ...e6, leading to structures where Fischer liked the King's Indian Attack. }
+2. d3 { Fischer chooses the King's Indian Attack setup against the French. }
+2... d5 3. Nd2 { Part of Fischer's standard KIA development. } 3... Nf6 4. g3
+{ Standard KIA fianchetto setup. } 4... c5 5. Bg2 Nc6 6. Ngf3 Be7 7. O-O O-O 8.
+e5 { Fischer grabs space; the typical KIA plan begins from here. } 8... Nd7 9.
+Re1
+{ The rook and knight support the e5-pawn. Typical KIA plan: Nf1, Bf4, then h4-h5-h6 to weaken dark squares around Black's king; the knight may later join via h2-g4 or e3-g4, or White may use g4-g5 if ...h6 is played. }
+9... b5 { Normal queenside counterplay by Black. } 10. Nf1
+{ Standard KIA maneuver, freeing the bishop's path to f4. } 10... b4 11. h4
+{ A standard attacking move in the KIA; White starts the kingside pawn storm. }
+11... a5 12. Bf4
+{ Typical bishop development in the KIA, supporting e5 and preparing the attack. }
+12... a4
+{ Critical moment. Black's plan is ...a3 to dislodge the b2-pawn; after b3 Black would have the maneuver ...Na7-b5, targeting the weakened c3 and d4 squares. }
+13. a3
+{ Key prophylactic move. Fischer opens the b-file himself but avoids weakening the dark squares with b3; this is the core idea later connected to Amin's early a3 concept. }
+13... bxa3 14. bxa3 Na5 15. Ne3
+{ Both sides continue playing on their respective wings. } 15... Ba6 16. Bh3
+{ White eyes Black's kingside pawns; tactical ideas like Nd5 can arise if Black's queen stops defending d7. }
+16... d4 { Attacks the knight on e3. } 17. Nf1
+{ Fischer keeps the d1-h5 diagonal open for the queen; he wants Ng5 followed by Qh5, so he prefers f1 over g4 for the knight. }
+17... Nb6
+{ The speaker notes Black had better options earlier, such as ...Bb7 or ...c4, but does not dwell on them. }
+18. Ng5
+{ Begins the direct attack. The idea is Qh5; knight on g5 and bishop on h3 target h7, creating sacrificial threats. }
+18... Nd5 { Centralizes the knight and hits the bishop. } 19. Bd2
+{ Retreats while covering c3 and keeping an eye on the a5-knight. } 19... Bxg5
+{ Black eliminates the knight because after Qh5 he would likely have had to do so anyway due to mating threats on h7. }
+20. Bxg5 Qd7 21. Qh5 { Brings the queen closer to the kingside attack. } 21...
+Rfc8 22. Nd2
+{ Typical KIA theme: the f1-knight finally activates. It could have gone via h2-g4, but Fischer prefers d2-e4, which hits f6 and also d6, making it more flexible. }
+22... Nc3
+{ Stops Ne4, but the knight no longer controls f6, allowing Fischer's beautiful attack. }
+23. Bf6
+{ Strong attacking sacrifice/theme. In the KIA White often aims to weaken the dark squares around Black's king; if ...gxf6 or ...exf6, the king position becomes fatally weak. }
+23... gxf6
+{ Accepting the bishop opens fatal dark-square weaknesses around the king. } (
+23... Qe8
+{ After 23.Bf6 in the main historical game, Black's best try was to defend with ...Qe8. }
+24. Ne4 { Fischer invites exchanges so the rook can enter via e4/g4. } 24... g6
+25. Qg5 { The queen shifts to g5; then h5 becomes a major threat. } 25... Nxe4
+26. Rxe4 c4 27. h5 { The attack crashes through. } 27... cxd3 28. Rh4
+{ Immediate attacking continuation. } 28... dxc2 ( 28... Ra7
+{ Another defensive try in the Fischer attack, defending the seventh rank. }
+29. Bg2
+{ Fantastic resource; the bishop aims at the e4-square, setting up the final combination. }
+29... dxc2 30. Qh6 { Renews the threat of taking on g6 and mating on h8. }
+30... Qf8 { Defends against mate on g7. } ( 30... Qf8 31. Qxh7+
+{ Fischer's famous queen sacrifice. Black resigns because after hxg6+ either Kg8 allows Rh8 mate, or Kxg6 allows Be4 mate. }
+31... Kxh7 { Forced in the line shown. } 32. hxg6+
+{ Check, opening the final mating net. } 32... Kxg6 33. Be4#
+{ Mate; this is the point of the earlier Bg2 resource. } ) ) 29. hxg6
+{ Powerful breakthrough on the h-file. } 29... hxg6 ( 29... fxg6
+{ Alternative defensive try, but it also loses. } 30. Rxh7
+{ Winning attack continues; the follow-up is Qh4, Qh8, Qg7 mate. } ) 30. Rh8#
+{ Mate. } ) 24. exf6
+{ If Black does not take with the g-pawn, the king is too weak and mating threats decide quickly. }
+*
+

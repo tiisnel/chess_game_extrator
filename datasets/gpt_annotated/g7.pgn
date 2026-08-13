@@ -1,0 +1,201 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ Introduces the repertoire series and says this video covers an aggressive, easy-to-learn system against the Sicilian. }
+( 1. e4 { 863 } 1... c5 { 863 } 2. Nc3 { 867 } 2... e6
+{ If Black plays ...e6 instead of ...d6, he warns that an immediate bishop to c4 can be met later by ...d5 with tempo, so more advanced players may consider Bb5 instead. }
+3. f4 { Still the Grand Prix setup: White keeps the same overall plan. } 3...
+Nc6 4. Nf3 { Part of the standard setup. } 4... d6
+{ Once Black commits to ...d6, White is again happy to place the bishop on c4. }
+( 4... Nf6
+{ This early development is discussed in the context of Black pinning or creating pressure; White may need to adjust move order. }
+5. Bb5
+{ Recommended when Black has not played ...d6 yet or if White wants to avoid losing time to ...d5. The bishop can pin and later trade for the knight without changing White's overall attacking plan. }
+5... d6
+{ Once ...d6 appears, the usual Grand Prix ideas still apply even if White used Bb5 first. }
+6. Bxc6+
+{ White trades the bishop for the c6-knight; he says this does not change the strategy much. }
+6... bxc6 7. d3 { White continues normal development after the trade. } 7...
+Be7 8. O-O { White castles and can continue with the usual attacking ideas. }
+8... O-O
+{ After Black castles, White can still aim for Qe1, f5, and a kingside attack. }
+) 5. Bc4
+{ With ...d6 in, bishop c4 is ideal and fits the normal attacking scheme. } ) (
+1. e4 { 939 } 1... c5 { 943 } 2. Nc3
+{ In the recap, he repeats that 2.Nc3 is the move he wants White to play against the Sicilian. }
+2... d6
+{ In the recap, he again notes that ...d6 makes bishop c4 especially appealing. }
+3. f4 { Begins the Grand Prix setup. } 3... g6 4. Nf3
+{ Develops into the standard structure. } 4... Bg7 5. Bc4
+{ Again develops to the active c4 square, pointing at f7. } 5... Nc6 6. O-O e6
+7. d3 { Standard support move in the Grand Prix structure. } 7... Nge7 8. Bb3
+{ In his example game, he explains dropping the bishop back can be a proactive choice if White expects ...d5, preserving future options rather than waiting to be hit with tempo. }
+( 8. Bb3
+{ Same bishop retreat idea: stepping back in advance can avoid being forced later by ...d5. }
+) ( 8. Bb3
+{ Same proactive bishop retreat as discussed in the real game example. } 8...
+O-O { Once Black castles, White can begin the standard attacking plan. } 9. Qe1
+{ Part of the recurring attacking recipe: Qe1 and f5 in either order are the core ideas. }
+9... a6 { A waiting move before White strikes. } ( 9... a6
+{ The same model line is revisited to reinforce the core attacking pattern. }
+10. f5
+{ Again emphasized as the key thrust that opens lines and ignores material concerns. }
+10... exf5 11. Qh4 { Queen lift toward h7. } 11... fxe4 12. Ng5
+{ The familiar knight jump threatening mate. } 12... h6 13. Nxf7
+{ Sacrifice to tear apart Black's defense. } 13... Rxf7
+{ Continuation of the sacrificial attack. } 14. Rxf7
+{ Continuation of the sacrificial attack. } 14... d5 15. Rxg7+
+{ Another forcing attacking move in the illustrative line. } 15... Kxg7 16.
+Bxh6+ { White continues checking and exposing the king. } 16... Kg8 17. Qf6
+{ Direct attack on the king, shown as part of the mating net. } 17... Nf5
+{ Defensive try. } 18. Qxg6+ { White maintains forcing play with checks. }
+18... Kh8 ) 10. f5
+{ The critical pawn thrust. White willingly offers the pawn to open attacking lines. }
+10... exf5
+{ Black takes the pawn; White still follows the attack without caring about material. }
+11. Qh4 { Queen comes to h4 to target h7. } 11... fxe4
+{ Black takes another pawn; White ignores it. } 12. Ng5
+{ The thematic knight jump, increasing pressure on h7 and f7. } 12... h6
+{ An attempted defensive move, but White's attack continues. } 13. Nxf7
+{ A sacrifice to rip open the defense; the presenter repeatedly emphasizes that such sacrifices are normal in the Grand Prix when they lead to attack. }
+13... Rxf7 ( 13... Rxf7 14. Rxf7
+{ White keeps sacrificing to strip defenders and continue the assault. } 14...
+d5 15. Rxg7+
+{ A further attacking sacrifice/example showing how direct the Grand Prix attack can become. }
+( 15. Rxg7+
+{ Same tactical continuation, highlighting the recurring attacking motifs. }
+15... Kxg7 16. Bxh6+
+{ White keeps opening lines against the king with sacrifice. } ( 16. Bxh6+
+{ The same attacking continuation remains focused purely on the king. } 16...
+Kg8 17. Qf6
+{ An attacking queen move from the analysis line, aiming directly at the king. }
+17... Nf5 { A defensive try by Black. } 18. Qxg6+
+{ White wins more tempi with checks and keeps the initiative. } 18... Kh8 19.
+dxe4 ( 19. Bg5 { Presented as an alternative attacking continuation. } ) ( 19.
+dxe4 dxe4 20. Rd1
+{ One continuation in the line; White keeps bringing pieces into the attack. }
+( 20. Bg7+ { A tactical resource shown in analysis. } 20... Nxg7 21. Qh6#
+{ Checkmate finishes the attack in the analysis line. } ) ( 20. Rd1
+{ Another attacking continuation from the analysis. } 20... Ncd4 21. Bg5
+{ White continues coordinating pieces on the kingside. } 21... Qf8 22. Bf6+
+{ Strong forcing move in the mating attack. } 22... Ng7 23. Qh6#
+{ Another mating finish from the attacking variation. } ) ) ) ) ) ) ) 1... c5
+{ Black chooses the Sicilian Defense, the opening this lesson addresses. } (
+1... c5
+{ Beginning of the main illustrative model game for the Grand Prix attack. } 2.
+Nc3 { The recommended anti-Sicilian move. } 2... Nc6 3. f4
+{ Starts the Grand Prix Attack with the aim of a kingside pawn storm. } 3... d6
+{ Signals that bishop c4 will be a good square. } 4. Nf3
+{ Part of the standard setup. } 4... g6 5. Bc4
+{ Develops actively against f7. } 5... Bg7 6. O-O Nf6 7. d3
+{ Completes the usual setup before attacking. } 7... O-O
+{ This is the key position from which White begins the Grand Prix assault. } 8.
+Qe1 { First major attacking idea: queen lift toward the kingside. } 8... a6
+{ Example of a non-critical move by Black before White attacks. } ( 8... a6
+{ Same waiting move used in the illustrative line. } ) ( 8... Nd4
+{ This is the knight jump attacking c2 and threatening the fork on White's rook. He specifically discusses that in some cases White can ignore this and keep attacking. }
+9. f5
+{ He highlights this as the correct Grand Prix mindset: continue the attack and do not worry that Black may take the rook on a1 later. }
+9... Nxc2 { Black grabs material, but White keeps initiative. } 10. Qh4
+{ Queen comes over anyway; the attack continues despite the rook threat. }
+10... Nxa1
+{ Black wins the rook, exactly the kind of material loss he says White may have to accept in return for attack. }
+11. fxg6 { White opens more lines toward the king. } 11... hxg6 12. Ng5
+{ The key attacking knight leap reappears. } 12... e6 ( 12... Nh5
+{ Mentioned as Black's better defensive resource in one line. } 13. Nxf7
+{ Alternative attacking continuation in the same sacrificial spirit. } 13...
+Rxf7 14. Bxf7+ { White keeps forcing checks in the attack. } 14... Kh7 15. Qg5
+{ Another attacking move shown in analysis. } ) 13. Rxf6
+{ A striking exchange sacrifice; White removes defenders and accelerates the mate. }
+13... Bxf6 14. Qh7#
+{ Checkmate. This shows that even after losing a rook, the attack can be fully sufficient. }
+) 9. f5 { Core pawn thrust, played to open lines rather than regain material. }
+9... gxf5 { Black accepts the pawn; White is happy because lines open. } 10.
+Qh4 { Queen switches to the kingside, lining up on h7. } 10... fxe4
+{ Black keeps taking pawns; White ignores material. } 11. Ng5
+{ White is already in a winning attacking position and threatens mate. } 11...
+exd3 { Black still takes material rather than defending the king. } 12. Rxf6
+{ The model exchange sacrifice to eliminate defenders and force mate. } 12...
+Bxf6 13. Qxh7# { The final mate of the model Grand Prix attack. } ) ( 1... c5
+{ 317 } 2. Nc3 { 318 } 2... Nc6 { 324 } 3. f4 { 325 } 3... d6
+{ He reiterates that after ...d6 White is happy with bishop c4. } ( 3... e6
+{ If Black plays ...e6, bishop c4 can be met by ...d5 later, costing White time. }
+4. Bc4
+{ He says this is playable but may allow Black to gain tempo with ...d5. } 4...
+Nf6 5. Nf3 d5
+{ This is exactly the problem with early Bc4 when Black has not committed to ...d6: Black can hit the bishop in one move and gain time. }
+) ( 3... d6 ) ( 3... e6
+{ Another reminder that ...e6 may call for more care with bishop development. }
+4. Nf3 d6 { Once ...d6 appears, c4 becomes more attractive for the bishop. } (
+4... Nge7 5. Ng1 Ng8 6. Bb5
+{ Example of the alternative bishop development to b5 when White wants to avoid being chased by ...d5. }
+6... Nf6 7. Bxc6
+{ Trading for the knight is fine and does not alter White's attacking plan much. }
+7... bxc6 ) ) ( 3... d6 4. Nf3 ( 4. Nf3 { 544 } 4... g6 5. Bc4 Bg7 6. d3 Bg4
+{ He notes that if the bishop pin comes later, after White's bishop is already on c4, tactical possibilities may exist. }
+( 6... Nf6 7. O-O Bg4
+{ This later pin is discussed as a case where White may use h3 or Qe1 and accept structural/material quirks. }
+8. h3 { One recommended response: force Black to decide on the bishop. } ( 8.
+Qe1
+{ Another option he mentions is simply playing Qe1 and allowing the bishop exchange. }
+8... Bxf3 { Black takes on f3. } 9. Rxf3
+{ White can recapture with the rook and still continue the attack-oriented plan. }
+9... Nd4
+{ The knight jump threatening the rook illustrates the theme that White may need either defense like Qf2 or to simply ignore the rook threat and attack. }
+) 8... Bxf3 { Black usually exchanges once challenged. } 9. Qxf3
+{ White recaptures naturally and keeps attacking chances. } 9... Nd4
+{ This knight jump attacks c2/a1 ideas and is one of the themes he warns about. }
+10. Qf2
+{ He mentions queen retreat ideas like Qf2 to defend the rook if White chooses not to ignore the threat. }
+) 7. Bxf7+
+{ A tactical shot he mentions to exploit the late pin when conditions are right. }
+7... Kxf7 8. Ng5+
+{ Continuation of the tactic, forcing the king and then winning the pinned bishop. }
+8... Kf8 9. Qxg4 { White collects the bishop after the tactical sequence. } )
+4... g6 ( 4... Bg4
+{ He discusses this early pin as annoying because combined with ...Nd4 ideas it can disrupt White's setup. }
+5. Bb5
+{ Recommended response to an early pin before White has moved the bishop: counterpin the knight and prepare to trade it off so ...Nd4 is no longer a problem. }
+5... a6 6. Bxc6+
+{ White simplifies by trading the pinned bishop for the c6-knight. } 6... bxc6
+7. O-O { White castles and prepares to continue normal play. } 7... Nf6 8. h3
+{ After castling, he recommends chasing the pinning bishop away. } 8... Bh5
+{ If the bishop retreats instead of taking, it can get trapped. } ( 8... Bxf3
+{ If Black exchanges, White recaptures and gets a well-placed queen. } 9. Qxf3
+{ He likes the queen on f3 in these structures because it supports kingside attacking chances. }
+) 9. g4
+{ This starts the trapping idea; he explicitly says remember g4 and f5 as a version of the Noah's Ark trap. }
+9... Bg6 { The bishop is being boxed in. } 10. f5
+{ Completes the trap motif on the bishop while also fitting the normal Grand Prix attacking plan. }
+) 5. Bc4 { Standard bishop placement against the ...d6 setup. } ) ( 3... d6 4.
+Nf3 g6 5. Bc4 Bg7 6. O-O Nf6 ) ) 2. Nc3
+{ White recommends 2.Nc3 against the Sicilian instead of the usual d4 setups. He describes this as the Closed Sicilian move order and says it often surprises lower-rated opponents. }
+( 2. Nc3
+{ Beginning of the final real-game example from blitz: White uses the Grand Prix setup in practice. }
+2... Nc6 3. f4 { White begins the Grand Prix setup in the real game. } 3... d6
+{ As soon as he saw ...d6 in the game, he knew bishop c4 would be a good square. }
+4. Nf3 { Standard development. } 4... g6 5. Bc4
+{ Bishop goes to the ideal c4 square because Black has committed to ...d6. }
+5... Bg7 6. O-O Nf6 7. d3 { Standard supportive move in the setup. } 7... O-O
+{ Black castles, inviting the typical kingside attack. } 8. Qe1
+{ He says viewers should have expected this: the standard queen lift toward the kingside. }
+8... a6 9. f5
+{ He stresses again that he does not care that multiple black pieces attack the pawn. The purpose is to open the bishop, open the rook, and create attacking lines against the king. }
+9... gxf5 { Black takes, helping make White's bishop more powerful. } 10. Qh4
+{ Queen heads straight for the kingside. He points out ideas like Ng5, Bg5, or Bh6 may follow. }
+10... fxe4
+{ A mistake according to the presenter because Black keeps grabbing pawns instead of addressing the attack. }
+11. Ng5
+{ The thematic move. White ignores recapturing and creates a triple attack on f7 plus mating threats. He says Black is already lost on move 12. }
+11... exd3 { Black still takes material, worsening the situation. } 12. Rxf6
+{ White can sacrifice the rook because material does not matter; only the attack matters. }
+12... Bxf6 13. Qxh7#
+{ In the model game this is mate, illustrating the core Grand Prix pattern. } )
+*
+

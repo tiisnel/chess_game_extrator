@@ -1,0 +1,73 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ White starts with e4, entering the Sicilian trap discussion from White's side. }
+1... c5 { Black replies c5, the Sicilian Defense. } 2. Nf3
+{ A development move, bringing the knight toward the center and helping control central squares. }
+2... d6 { A very common Sicilian setup move for Black. } 3. d4
+{ White pushes into the center with d4. } 3... cxd4
+{ Black captures in the center. } 4. Nxd4 { White recaptures with the knight. }
+4... Nf6
+{ Black develops with central influence and simultaneously attacks White's e4-pawn. }
+5. Nc3 { White develops, attacks the center, and defends the e4-pawn. } 5...
+Nc6 { Black mirrors with development and more central pressure. } 6. Bc4
+{ This is the Fischer variation. The bishop immediately eyes f7, a major early weakness in Black's camp because it is usually defended only by the king. }
+6... e6
+{ Presented as Black's better move: solid, somewhat passive, but it blocks White's bishop and makes direct pressure on f7 much harder. }
+( 6... g6
+{ This is identified as the mistake that leads into the Magnus Smith trap. Many players want to fianchetto the bishop to g7 for central and dark-square counterplay, but this setup is tactically vulnerable. }
+7. Nxc6 { White removes the c6-knight as the start of the tactical sequence. }
+7... bxc6 { Black recaptures with the b-pawn. } 8. e5
+{ This is the key move of the trap. It attacks the knight on f6 and creates tactical issues around Black's king and queen. }
+8... dxe5
+{ Black cannot really take this pawn safely. If Black captures with the d-pawn, White has a tactical shot based on Bxf7+ and then Qxd8 because the king was the queen's defender. }
+( 8... Ng4
+{ If the knight goes to g4 instead of allowing the queen-losing line, White has a strong continuation with e6, shutting out Black's c8-bishop and keeping Black's king exposed. }
+) ( 8... Ng4 { Alternative defensive try, but still unpleasant for Black. } 9.
+e6
+{ White blocks the c8-bishop, maintains attacking momentum, and keeps Black's king dangerously exposed. }
+9... Bxe6 { Black tries to eliminate the advanced pawn. } 10. Bxe6
+{ White recaptures and continues the attack. } 10... fxe6
+{ Black's structure and king position remain compromised. } 11. Qxg4
+{ White wins the knight and keeps a very strong attacking game; the black king is exposed and White is much better. }
+) ( 8... Nh5
+{ A more common retreat for the attacked knight. Fischer's recommendation from here is Qf3, increasing pressure on f7. }
+9. Qf3
+{ A very important move, adding another attacker to the weak f7-square. } 9...
+d5
+{ One defensive idea for Black is to block one of White's attackers, especially the bishop's line toward f7. }
+( 9... e6 { The other main defensive try is to block the bishop with e6. } ) (
+9... d5
+{ If Black uses d5 to block, White can still sacrifice because the attack is so strong. }
+10. Nxd5
+{ White sacrifices/activates the knight, relying on the powerful attack. If Black recaptures with the pawn, White can continue with Bxd5 supported by the queen, and Black struggles to meet all threats. }
+) ( 9... e6
+{ After e6, White can gain time by attacking the knight on h5 and keep Black tied down. }
+10. g4
+{ White drives the knight and seizes more space. This also makes Black's intended bishop development to g7 awkward. }
+10... Ng7
+{ The knight is forced back to g7. This is very passive and blocks Black's important dark-squared bishop, reducing Black's active piece count. }
+11. Ne4
+{ White continues energetically. The knight pressures d6 and also eyes f6, which would check the king; Black's position is very difficult. }
+11... Qa5+
+{ Described as a last-ditch try by Black, creating pressure on White's king and e5-pawn. }
+12. Bd2
+{ Simple development that meets the queen check and sets a trap for the black queen if it grabs on e5. }
+12... Qxe5
+{ If Black takes the pawn, it becomes another mistake because the queen can be trapped. }
+13. Bc3
+{ White traps Black's queen on the side of the board and is said to have a very easy game from here. }
+) ) 9. Bxf7+
+{ The tactical blow. White sacrifices the bishop on f7, forcing the king to move and removing the defender of Black's queen. }
+9... Kxf7
+{ Forced; the king cannot go to d7 because White's queen controls it. } 10.
+Qxd8
+{ White wins Black's queen because once the king moved from e8, the queen on d8 was no longer defended. }
+) *
+

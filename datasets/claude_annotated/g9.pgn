@@ -1,0 +1,120 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 { White plays e4, the starting position for the Nimzowitsch Defense. }
+1... Nc6
+{ The Nimzowitsch Defense - a very underrated and rare chess opening for black against e4. This move fights for the central dark squares without using a central pawn, which is a key idea. }
+2. Nf3
+{ The most common move from White in online chess - the Nimzowitsch Defense Declined. White decides not to push a pawn to d4, instead just developing the knight. }
+( 2. d4
+{ White plays d4 - here a big decision comes into play for black: the Scandinavian variation or the Kennedy variation. }
+2... d5
+{ The Scandinavian variation - played in about 60% of online games. The idea is to put immediate pressure on d4. If white takes, black captures back with the queen. }
+( 2... e5
+{ The Kennedy variation - what the presenter personally loves. Playing e5 after white has committed to d4 is different from just playing e5 after Nf3, because now white has already played d4. }
+3. Nf3
+{ White plays Nf3 - now we're in a Scotch game, likely not what white was expecting or prepared for. }
+( 3. dxe5
+{ White captures on e5 - in this case the presenter personally likes playing D6, transposing into a Charlotte Gambit type game (technically the Diset Gambit). Black is down a pawn but will keep developing rapidly and look to castle queenside. }
+3... d6
+{ Black plays d6 - the idea is after e takes, black recaptures with the bishop. This transposes into a Charlotte Gambit. Black is down a pawn but has rapid development and will castle queenside eyeing the queen with the rook. }
+4. exd6 { White captures on d6. } 4... Bxd6
+{ Black recaptures with the bishop, getting nice development and heading towards castling queenside. }
+5. Nf3
+{ White plays Nf3. Key idea: when the knight comes out, black wants to pin it on f3. }
+5... Nf6 { Black develops the knight. } 6. Nc3 { White plays Nc3. } 6... Qe7
+{ Black can play Qe7. } 7. Bd3 { White plays Bd3. } 7... Bg4
+{ Black pins the knight with Bg4 - the rook is eyeing the queen, the bishop is pinning the knight. If white plays h3, black can play h5 keeping the bishop active. }
+8. O-O { White castles kingside. } 8... O-O-O
+{ Black castles queenside - the rook is eyeing the queen. Black has a bishop eyeing the queen and a rook eyeing the queen. Ideas include Ne5 and other active moves. The most popular online move for white is Bg5 where black has Ne5 with an objectively better position. }
+9. h3
+{ If white plays h3 trying to challenge the bishop, black plays h5. The idea is not necessarily waiting for white to take on g4 - h5 keeps the bishop active and maintains the pin. If white does take on g4, hxg4 and the h-rook becomes a monster. Then if white moves the knight (e.g. Nd2), Queen e5 threatens mate in one. After g3, Qh5 creates a battery ram on the h-file. If f4, Bc5 with check and white only has one move; black can then play Qh5 threatening mate, and if Kf1 there's a forced mate. }
+) ( 3. d5
+{ The link Springer variation - white plays d5 and now the main idea for black is to get the knight to g6 as fast as possible. }
+3... Nce7
+{ Black plays Ne7, the first step in the plan to get the knight to g6. } 4. c4
+{ White plays c4. } 4... Ng6
+{ Black plays Ng6, completing the knight maneuver. This is the key idea - getting the knight to g6 as fast as possible. }
+5. Nc3 { White develops with Nc3. } 5... Bc5
+{ Black develops the bishop to c5. } 6. Nf3 { White plays Nf3. } 6... Nf6
+{ Black develops the knight. } 7. Bd3 { White plays Bd3. } 7... a5
+{ Key idea - black plays a5 before d6. Black doesn't want to play d6 right away because the bishop could get trapped. a5 gives the bishop an escape square, then d6 can be played safely. }
+8. O-O { White castles. } 8... d6
+{ Now that the bishop has an escape square (a7), black can safely play d6. } 9.
+a3 { White plays a3. } 9... O-O
+{ Black castles. Now the plan is to look towards Nh5 and Nf4. If white plays g3 to prevent that, the light squares become very weak. }
+10. Bg5
+{ White plays Bg5. Most players here will realize that taking on h6 is bad - it gives up the good bishop while the bad bishop remains, and f4 becomes Black's to control. }
+10... h6 { Black plays h6, challenging the bishop. } 11. Be3
+{ White retreats the bishop to e3. Black should not take here - if black takes, white recaptures with doubled pawns but then f4 is very well covered and the rook on f1 becomes active. }
+11... b6
+{ Black plays b6, preparing to capture on e3 towards the center when white takes. }
+12. Bxc5 { White captures on c5. } 12... bxc5
+{ Black recaptures towards the center with bxc5. } 13. Nb5
+{ Knight b5 is the most common move in online chess here, which is a little strange. Black has several good options here. }
+13... Nh5
+{ Black plays Nh5. Ideas include Rb8 to get the rook on a semi-open file, Bg4, Nh7 looking to bring the knight to g5, and Nh5. If white plays g3 to stop the knight, the light squares are weakened. }
+14. Nxe5
+{ If white tries to sacrifice the knight for the pawn with Nxe5, it just isn't going to work. }
+14... Nxe5 { Black captures back with the knight. } 15. Qxh5
+{ White takes the knight with Qxh5. } 15... Nxd3
+{ Black plays Nxd3 - if white had a pawn on h3, the bishop would be hanging. The Kennedy variation is a very strong chess opening for black with many dynamic ideas. }
+) 3... exd4 { Black captures on d4, entering Scotch game territory. } 4. Nxd4
+{ White recaptures with the knight. } 4... Nf6
+{ Black plays Nf6, the main line response. } 5. Nc3 { White plays Nc3. } 5...
+Bb4
+{ Black plays Bb4, pinning the knight - a key idea in these lines. Many opponents will struggle with this pin, especially with the e4 pawn being attacked by a 'defender' that's pinned. }
+6. Nxc6 { If white captures on c6 black takes back towards the center. } 6...
+bxc6
+{ Black captures towards the center - black has ideas like Qe7, d5, castling kingside with a great overall game. Black is only one step from castling. }
+) 3. exd5
+{ White captures - if white takes black captures back with the queen. } ( 3. e5
+{ If white pushes with e5, black should not play e6 because then the bishop on c8 is absolutely terrible, worse than a French bishop since there's no c5 square. Instead play Bf5 first. }
+3... Bf5
+{ Black plays Bf5 before e6, giving the bishop a good square. This is the right move order to avoid locking in the bishop. }
+4. Nf3 { White develops the knight. } 4... e6
+{ Now black can play e6, with the bishop already developed. } 5. Bd3
+{ White plays Bd3 defending the e5 pawn - black should not take it right away. }
+5... Nge7
+{ Black develops the knight, not taking on d3 to avoid letting white develop for free. }
+6. O-O { White castles kingside. } 6... Qd7
+{ Black plays Qd7, eyeing the kingside. Black is looking to castle queenside with a rook on g8 eyeing g1. The engine gives black the advantage here. }
+7. c3 { White plays c3. } 7... f6
+{ Black plays f6, adding more pressure and preparing to open the g-file. } 8.
+Bxf5 { White captures on f5 on their own time. } 8... Nxf5
+{ Black recaptures with the knight. } 9. exf6 { White captures on f6. } 9...
+gxf6
+{ Black recaptures with the g-pawn, opening the g-file and eyeing the white king on g1. Black can look to castle queenside, get a rook on g8, maybe put a bishop on d6. The engine gives the advantage to Black. }
+) 3... Qxd5 { Black recaptures with the queen, maintaining pressure on d4. } 4.
+Nf3 { White develops the knight. } 4... e5
+{ Black advances in the center, putting even more pressure on d4. } 5. Nc3
+{ White develops with Nc3. } 5... Bb4
+{ Black pins the knight - a key idea in these lines. } 6. Bd2
+{ White tries to unpin with Bd2. } 6... Bxc3 { Black captures the knight. } 7.
+Bxc3 { White recaptures. } 7... e4
+{ Black advances the e-pawn - black is just playing good chess here. } ) 2...
+e5
+{ One option for black - if you're an e4/e5 player you can play e5 here. Nothing wrong with it, the position now looks like a standard e4/e5 opening with Nf3 Nc6. White may go into Ruy Lopez, Italian, Scotch, etc. The engine considers this the most sound move. }
+( 2... d6
+{ The Williams variation - a popular choice among Nimzowitsch Defense players. Against d4 black keeps developing, against d5 the knight centralizes, and against e5 black can capture and look to play Ng4 threatening Nxf2 winning the rook. }
+3. d4 { White advances in the center. } 3... Nf6 { Black develops the knight. }
+4. e5 { White pushes the pawn forward. } 4... dxe5
+{ Black captures, opening up the d-file. } 5. dxe5
+{ White recaptures with the pawn. } 5... Qxd1+
+{ Black captures the queen with check. } 6. Kxd1
+{ White is forced to recapture with the king. } 6... Ng4
+{ Key idea - black plays Ng4. Now there are two attackers on e5, but the biggest threat is Nxf2 taking the rook. }
+7. Ke1 { White moves the king to stop the threat. } 7... Ngxe5
+{ Black captures on e5 and is up a pawn with a great position. } ) ( 2... f5
+{ The Colorado Counter Gambit - a very fun chess opening for black. Black puts pressure on e4. }
+3. exf5 { The best move for white is to take, which is what's usually seen. }
+3... d5 { Black plays d5, the main response in the Colorado Counter Gambit. }
+4. g4
+{ If white tries g4 to hold the pawn, black is better. Black has the strong response h5 putting pressure on the g4 pawn. If white pushes g5, f5 is weak and black is at even material with white's kingside overextended. If white captures on h5 it stays very weak. If h3, white loses the rook and it's only move 6 with a black rook on h1. }
+) *
+

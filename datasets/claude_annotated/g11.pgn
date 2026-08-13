@@ -1,0 +1,329 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4
+{ The Tarrasch Defense begins in the Queen's Gambit Declined. White plays d4 to control the center. }
+1... d5 { Black plays d5 to have a share in the center as well as white. } (
+1... Nf6 { Queen's Indian move order variation shown as a sidenote. } 2. c4 e6
+3. Nf3 b6 4. g3
+{ In the Queen's Indian, white usually plays g3 followed by bishop g2, giving a different flavor compared to the Tarrasch lines. }
+) 2. c4
+{ The Queen's Gambit. White offers the c4 pawn. If black takes, white can play e4 right away and will win the pawn back rather quickly. This gives white a lot of space if black takes. }
+( 2. c4 { 3184 } ) 2... dxc4
+{ If black takes, white can play e4 right away with pressure and will normally win the pawn back rather quickly. This does give white a lot of space. }
+( 2... e6
+{ This is the Queen's Gambit Declined. Black declines the gambit and plays e6 instead. }
+) ( 2... c6 { Pawn to c6 leads to the Slav Defense. } ) ( 2... e6
+{ Tonight's focus: e6, the Queen's Gambit Declined, leading into the Tarrasch Defense. }
+3. Nc3
+{ The most popular way for white to continue. Knight to c3 puts more pressure on the center and provides support on the e4 square in case white is able to play e4 right away. }
+3... Nf6
+{ Black plays knight f6 to put more control on e4, preventing white from playing e4 right away. The knight also puts more defense on d5. }
+4. Bg5
+{ To get into the Tarrasch, white plays bishop to g5. This is the most common move in this position, pinning the knight to the queen and removing some defense from d5. Capturing in the center will now force black to recapture with a pawn. }
+( 4. Nb1
+{ Alternative move order shown; white can get bishop g5 in various ways. } 4...
+Ng8 5. Nc3 Nf6 6. Bg5 ( 6. Nb1 Ng8 7. Nc3 Nf6 8. Bg5 Be7 9. Nf3 h6 10. Bh4 O-O
+11. e3 b6 12. Bd3 Bb7 13. O-O Nbd7 14. Qe2 Ne4 15. Bg3
+{ Bishop to g3 is recommended here. Retreating the bishop can be better than trading pieces off the board. }
+( 15. Qd1 Nef6 16. Qe2 Ne4 17. Bg3 c5 18. cxd5 ( 18. cxd5 exd5 19. Rad1 c4 20.
+Bb1
+{ If black plays c4 closing the position, bishop to b1 is an option so the rook isn't trapped in the corner. }
+) 18... exd5 ( 18... exd5 19. Rad1 ( 19. Rfd1 Nxg3 20. hxg3 c4 21. Bc2
+{ Bishop c2 makes sense here when black closes with c4. } ) ( 19. Rad1 c4 20.
+Bxe4 dxe4 21. Nd2 ) ( 19. Rfd1 c4 ( 19... Nxg3 ) ) ) ( 18... exd5 19. Rad1 Nxg3
+20. hxg3 c4 21. Bf5 ) 19. Rad1
+{ The rook goes to d1 to support the bishop and be on an open file. A somewhat mysterious move but makes sense once you see the plan. }
+( 19. Rad1 ) ( 19. Rac1 ) 19... cxd4 20. Nxd4 ) 15... f5
+{ Black plays f5 here, a question about this line was raised. F5 doesn't seem to work out well because of knight e5. }
+16. cxd5 exd5 17. Ne5
+{ Knight e5 is a strong response, trying to stop knight g6. } 17... Nxe5 18.
+Bxe5 { Now black loses the chance to get the bishop pair. } ) 6... Be7 7. Nf3
+h6 8. Bh4 O-O 9. e3 b6 10. Bd3 Bb7 11. O-O ( 11. Bf1 Bc8 ) 11... Nbd7 12. Qe2
+Ne4 13. Bg3
+{ Bishop to g3 is recommended - retreating rather than trading off pieces. } (
+13. Bg3 c5 14. cxd5 ( 14. cxd5 exd5 ( 14... exd5 ) 15. Rad1 f5 16. Ne5 ) ( 14.
+cxd5 exd5 15. Rad1 cxd4 16. Nxd4 ) 14... exd5 15. Rad1 Nxg3 ) 13... f5
+{ F5 doesn't work well with the bishop on b7 and putting pawns on the light squares is not going to help the bishop. }
+( 13... c5 ) ( 13... f5 14. cxd5 exd5 15. Ne5 ) 14. cxd5 exd5 15. Ne5 Nxe5 16.
+Bxe5 ) 4... Be7
+{ Black plays bishop to e7 to maintain defense on d5, break the pin, develop a piece, and get ready to castle. }
+5. Nf3 { White plays knight to f3. } 5... h6
+{ Black plays h6. This move order is not the only way to reach this position. Knight f3 can come before knight c3, bishop g5 can come later, e3 before knight f3, and black can even castle before playing h6. }
+6. Bh4
+{ The main move. Bishop retreats to h4, retaining the bishop pair and maintaining chances to build up pressure later. White can be more ambitious by leaving minor pieces on the board. }
+( 6. Bxf6
+{ This is the anti-Tarrasch. The idea is to remove a defender of d5 so that after black takes back, white can play e3, open a line for the bishop, then rook to c1. Black gets a semi-Slav type structure where the light square bishop is trapped behind the pawns. }
+6... Bxf6 { Black takes back with the bishop. } 7. e3
+{ Supporting the center and opening a line for the bishop. } 7... O-O
+{ Black castles. } 8. Rc1
+{ Rook to c1 puts the rook on a file which is going to open rather quickly either with white taking or black taking. }
+8... c6
+{ Black plays c6 to defend, getting a semi-Slav type structure with the light square bishop trapped behind the pawn. If black is not familiar with semi-Slav ideas, this could be rough for them. }
+9. Bd3 { Common development move. } 9... Nd7 10. O-O dxc4 11. Bxc4 e5
+{ Black can get away with an e5 break here. The pawn is sufficiently defended. }
+12. h3 exd4 13. exd4
+{ White gets an isolated queen pawn. White will normally try to develop pieces actively and time a d5 push. }
+13... Nb6
+{ Knight to b6 is a way to continue, opening up the diagonal for the bishop while putting pressure on white. }
+14. Bb3 { Bishop drops back to save it. } 14... Bf5 15. Re1 Re8 16. Rxe8+ Qxe8
+17. Qd2 Qd7 18. Re1
+{ Queen d2, queen d7, and rook e1 leads to an equal position. This is the anti-Tarrasch - just something black should be aware of if going with this move order. }
+) ( 6. Bh4
+{ Bishop h4 retains the bishop pair and chances to build pressure later. } 6...
+O-O { Black castles. } 7. e3 { White plays e3. } 7... b6
+{ This is the starting position for the Tarrasch Defense after b6. The idea is that the light square bishop is not having a great time on the c8-h3 diagonal because of the pawn on e6. Black plays b6 to get the light square bishop into the game. }
+( 7... b6 8. Qb3
+{ One of the older lines. Probably the least popular of the moves covered, but one of the better scoring options for white. Queen b3 puts more pressure on the center. As far as we know, this scores well for white. }
+( 8. cxd5 ) ( 8. Qb3 ) ( 8. cxd5
+{ Another option for white is to take on d5. This forces black to make a decision about when to take back with a pawn. }
+8... Nxd5
+{ The most popular way black plays is to take with the knight, which makes a threat on the bishop on h4. }
+( 8... Nxd5 9. Bxe7 { White must resolve the threat by taking on e7 first. }
+9... Qxe7 { 1187 } ( 9... Nxe7
+{ If the knight takes, black is undeveloping the knight and white is a bit ahead in development. }
+10. Bd3
+{ White is a bit ahead in development here with a little bit of space, ready to castle. }
+) ( 9... Qxe7
+{ It makes more sense for the queen to capture and then bring the rook over to d8. }
+10. Nxd5 ( 10. Nxd5 exd5 11. Rc1 Be6
+{ Instead of bishop b7, bishop e6 is the most popular move on the master level. It controls the center; maybe going to try c5 in the future. }
+12. Qa4 { Queen a4 puts some pressure on the position. } 12... c5
+{ Black plays c5, fighting in the center. } 13. Qa3
+{ Rather than take and give black hanging pawns right now, white plays queen to a3. This puts pressure on c5 and pins it - black cannot take on d4 because the queen would hang on e7. }
+13... Rc8 { Black plays rook to c8 to give the pawn a little more defense. }
+14. Be2
+{ White finishes development with bishop to e2 after the queen breaks the pin. }
+14... Rf8 { Black plays queen to f8 breaking the pin. } 15. Bf1 ) 10... exd5
+11. Rc1 { Rook to c1 putting pressure on c7. } 11... Be6
+{ Instead of bishop b7, bishop e6 controls the center and is the most popular move on the master level. }
+( 11... Bb7 { If bishop b7 instead, white can just continue with bishop d3. }
+12. Bd3 c5 13. dxc5 bxc5 14. O-O
+{ White castles; equal position. Black has scored better with bishop e6 according to the database. }
+) ( 11... Be6 12. Qa4 c5 13. dxc5 ( 13. Qa3 cxd4 ( 13... Rc8 14. Be2 Qf8 15.
+dxc5 bxc5 16. O-O Nd7
+{ Black would probably benefit most from developing the knight to d7 and adding more defense. }
+) 14. Qxe7 ) 13... bxc5 ) 12. Qa4 ) ) 9. Bxe7
+{ White takes on e7. You just take on e7 and this forces them to recapture with the queen. }
+9... Nxc3
+{ Knight takes c3 may be kind of a potzer's try to get an extra move with the knight while attacking the queen, but this is just losing. }
+10. Bxd8 { You trade queens. } 10... Nxd1 11. Be7
+{ Bishop e7 comes with tempo on the rook. } 11... Re8
+{ If rook to e8, you can retreat the bishop. } 12. Ba3
+{ The knight is trapped; there's nowhere it can go. Black is going to be losing a piece. }
+) ( 8. Rc1
+{ Rook to c1 was played by Short (believed). It focuses more on b4 play with queen side development. }
+8... Bb7 { Black normally continues bishop to b7. } 9. Bxf6
+{ White takes on f6 with the same idea as before - removing a defender of d5 so when you take they have to take with the pawn. }
+9... Bxf6
+{ You don't really want to take with the bishop mainly because of knight takes. }
+10. cxd5 ( 10. cxd5 exd5 11. b4
+{ Another idea you will get in the Tarrasch from white - if not fighting in the center to give hanging pawns, white can go b4. This prevents c5. }
+11... c6 { Black goes c6 instead. } 12. Bd3 Qd6 13. Qb3
+{ Queen side play develops. } 13... Nd7 14. O-O a5 15. a3 axb4 16. axb4 Be7
+{ Bishop e7 attacks the pawn. } 17. Rb1
+{ White is going to do fine after rook to b1. } 17... Rfe8 18. Rfe1
+{ This position is just so slightly better for white, but very very slightly. }
+) 10... exd5 ( 10... Bxd5 { You don't really want to take with the bishop. }
+11. Nxd5 Qxd5 12. Bc4 { Bishop c4 is already going to come with tempo. } 12...
+Qd8 13. O-O { White is just miles ahead in development here. } ) ) ( 8. Bd3 ) (
+8. Be2
+{ Bishop e2 is not as popular, but the idea is that if they take on c4, it doesn't come with tempo on the bishop. White has an extra move to just castle if they want. }
+) ( 8. Be2
+{ Bishop e2 - one idea is that if they take on c4, it doesn't come with tempo on the bishop. }
+8... dxc4
+{ If black takes, this is no problem - doesn't come with tempo on the bishop. }
+( 8... Bb7 { Black continues with bishop to b7. } 9. Bxf6
+{ Again, white captures on f6 with the same idea of removing a defender of d5. }
+9... Bxf6 10. cxd5 exd5 11. b4
+{ With bishop to e2, white can also see this b4 expansion. } 11... c6
+{ Black goes c6, similar to what we looked at with the rook c1 lines. } ( 11...
+c5
+{ There's also the opportunity to play c5, and part of this is because white's rook is now on c1 adding extra pressure. }
+12. bxc5 { If c5 is played and white takes... } 12... bxc5 ( 12... bxc5 13. Rb1
+{ White goes rook b1 - part of this is so if you do capture, there's no pin. But this doesn't protect the knight so you still can't capture. }
+13... Bc6
+{ Bishop to c6, just defending the bishop and moving it out of harm's way. }
+14. O-O { White castles, finishing some development. } 14... Nd7
+{ Black continues developing with knight d7. } 15. Bb5
+{ White trades off the light square bishops with bishop to b5. } 15... Qc7
+{ Black defends the bishop. } 16. Bxc6
+{ White can take. This will lead to an equal game. } 16... Qxc6 ) 13. Rb1 ( 13.
+dxc5
+{ White is not going to be looking to take back on c5 because of bishop c3 check and losing a massive amount of material. }
+13... Bxc3+
+{ Bishop c3 check - you'd be losing a massive amount of material. You can resign after taking. So you have to let this sit. }
+) ) ( 11... c6 { 1728 } 12. O-O { White castles. } 12... Re8
+{ Black plays rook to e8. } 13. Qb3
+{ Queen b3 follows the ideas of expanding on the queen side. } 13... a5
+{ Black tries to hit white with a5. } ( 13... Rf8 14. Qd1 ) 14. a3
+{ Pawn a3 is still playable, but black can just move the knight and develop. }
+( 14. bxa5 { Rather than play a3, you just take right away. } 14... Rxa5 15. a4
+{ A4 limits the space the rook has to operate, stopping any type of rook to b5, and gaining some space on the queen side. }
+( 15. Rab1 Nd7 ) ( 15. a4 Nd7
+{ Knight d7 putting control on b6. The only move that protects this pawn. } 16.
+Rfe1
+{ Rook f2 e1 - getting the rook off of f1 in case you need to drop the bishop back. }
+16... Qa8 17. Bd3
+{ Bishop to d3 controlling the back rank, and the rook is ready to help e4 maybe get played in the future. }
+17... c5
+{ Black has enough protection on c5 from the knight, rook, and pawn to play c5. }
+18. Bb5 { Bishop b5 pins the knight to the rook. } 18... Rd8
+{ Logical move - protect it and break the pin. } 19. Bxd7 Rxd7 20. Qxb6
+{ White looks to be going up a pawn in this line. } 20... Bc6
+{ After bishop to c6, white's queen is starting to run low on squares. } 21.
+Rab1 { Rook a to b1. Maybe trying to trade the queens. } 21... Kh7
+{ King h7 has been played here before - in a 2018 game between Rain and Diaz that ended in a draw. }
+) 15... Nd7 ) 14... Nd7 ) ) 9. Bxc4 { White takes back with the bishop. } ) (
+8. Bd3 ) ( 8. Bd3
+{ Bishop d3 is the main line - what you'll see most people playing in the Tarrasch. The most popular move next to bishop e2. }
+8... Bb7 { Black plays bishop to b7 - regular normal development. } ( 8... dxc4
+{ If black takes, no problem for white. White can just take back with the bishop. }
+9. Bxc4
+{ White takes back with the bishop. If they ever capture on f3, the queen can recapture. }
+9... Bb7 10. O-O Nbd7 11. Qe2
+{ Queen e2 - making sure the queen can recapture the knight and also connecting the rooks. }
+11... Ne4
+{ Knight to e4 looking to maybe trade the knights off the board, reminiscent of the Queen's Indian. }
+12. Bg3
+{ Bishop to g3 - retreating the bishop can be better than trading pieces off the board. }
+12... Nxg3
+{ If they take on g3, you just take back with the h pawn - structure is still very sound. }
+13. hxg3 c5 { Black plays c5. } 14. dxc5
+{ Rather than take the pawn, white has options. } ( 14. Rfd1
+{ Rather than take, white plays rook f to d1. } 14... Bxf3
+{ For some reason the most played move in the master's database is bishop takes f3, but the engine isn't a fan of it either. }
+15. Qxf3 { If you take with the queen, it's pretty equal. } ( 15. gxf3
+{ If you take with the pawn, white has a pretty substantial advantage of almost plus one. }
+15... cxd4 16. exd4
+{ You still have shelter around your king. Can go king g2, maybe rook to h1 to focus on the h file. }
+16... Nf6 17. d5 { White can play d5. } 17... exd5
+{ If e takes, knight takes. } 18. Bxd5
+{ This is actually a fork - hitting the rook and also threatening bishop takes f7 with check, which is a discovery on the queen. }
+( 18. Nxd5 Nxd5 ( 18... Bc5 { You can improve slowly with bishop c5. } 19. b4
+{ White can get queen side expansion with b4 right away, defended by the knight. White just has the space, king is safe, queen and rook doing well on open files. }
+) 19. Bxd5 ) ) ) ( 14. Rfd1 Nf6
+{ Rather than take on f3 with the bishop, black should probably just keep the pieces on the board and play knight f6. }
+15. dxc5 Qc7 16. cxb6 Qxc4
+{ Black could go ahead with this pawn sacrifice - a bit better than just taking on f3. }
+( 16... Qxb6 ) ) 14... Bxc5
+{ Taking with the bishop puts it on c5 pointing at the pawns without the range you want. Not ideal. }
+( 14... Nxc5 { Taking with the knight should be fine for black. } ) ) ( 8...
+Bb7
+{ Black doesn't normally take on c4 here. Instead they just go bishop to b7, regular normal development. }
+9. O-O
+{ White can castle here. This is one of those lines where white actually castles what seems early compared to what we've been looking at. }
+9... Nbd7 { Knight to d7 is the most played move. } 10. Qe2
+{ White should play queen to e2. A very flexible move that allows either rook setup (c1+d1 or d1+e1), maintains flexibility, connects the rooks, and provides support for an e4 push. }
+( 10. Rc1 { Also fine but queen e2 is more flexible. } ) ( 10. Qe2 c5
+{ Black can play c5. If c5, white has many moves and can capture in the center on c5 or d5. }
+( 10... Ne4 ) ( 10... c5 11. dxc5 ( 11. cxd5
+{ Capturing on d5 is a little bit better. } 11... exd5 ) 11... Nxc5 ) ( 10...
+Ne4
+{ Knight e4 is a little bit more forcing. You can go bishop to g3 - that's what is recommended. }
+11. Bxe7 { You can also take on e7 - definitely playable. } ( 11. Bg3
+{ Bishop to g3 is recommended. } 11... Nxg3 { Knight takes g3. } ( 11... c5
+{ Black also has c5 right away. This is the main line. } 12. cxd5 exd5 13. Rad1
+{ Rook a to d1. } ) 12. hxg3
+{ White takes back with the h pawn; structure still very sound. } 12... Nf6
+{ Black probably continues with knight to f6. } 13. cxd5
+{ White can capture in the center like normal. } 13... Nxd5
+{ Black would probably get knight captures. } 14. Nxd5
+{ The only difference is that if you do capture on d5 a lot, this doesn't hurt black because they don't have to take with the pawn. }
+14... Qxd5
+{ Knight d5 is fine whenever white can't trade enough to force e takes d5. } )
+11... Qxe7 12. cxd5 exd5 13. Rfd1 ( 13. Rac1 ) ( 13. Rfc1
+{ There are a lot of good moves here. } ) ) ) ) ( 8... Bb7 { 2464 } 9. O-O ( 9.
+O-O Nbd7 10. Qe2 Ne4 { Knight e4 is more forcing, leading into the main line. }
+( 10... dxc4 { If black takes on c4 instead of moving the knight up... } 11.
+Bxc4 Ne4 12. Bxe7 Qxe7 13. Nxe4 Bxe4 14. Rfd1 c5 15. Rac1
+{ White is just ahead in development. } ) ( 10... Ne4 11. Bg3 ( 11. Bg3 c5 12.
+cxd5 exd5 13. Rad1 { Rook a to d1. } 13... Nxg3 { Black can take on g3. } (
+13... Qc8
+{ Queen c8 has been played before - by Vasili Ivanchuk back in 2007. A lot of the pieces can trade off here and lead to an equal position. }
+14. Rc1
+{ Rook goes to c1, now lined up with the queen. It's a little odd because we just put the rook on d1, but this is now lined up with the queen. There's a risk if black opens up the center. }
+14... Rd8 15. Rfd1 { Now you get the c and d files instead of d and e files. }
+15... Ndf6 16. Ne5 { Knight e5 just getting the knight into the center. } 16...
+Qe6 17. Bh4 { Trying to avoid the capture. Maybe capture on f6. } 17... Rac8
+18. f3 cxd4 19. exd4 Nxc3 20. Rxc3 Rxc3
+{ Most of the pieces got traded off here and the game ultimately ended in a draw. }
+21. bxc3 Nd7 22. Bxe7 Qxe7 23. Nxd7 Rxd7 ) ( 13... Nxg3
+{ If black is trying to keep chances and be more ambitious, take on g3 with the knight. }
+14. hxg3 { White takes back with h pawn. } 14... Qc7
+{ Queen c7 is recommended here. This is where a lot of the theory kind of dissipates - not too many people have had games continuing from here. But now you should have a solid basis for how to play the Tarrasch. }
+) 14. hxg3 ) 11... c5 ( 11... Nxg3 12. hxg3 dxc4 13. Bxc4 ) ) 11. Bg3 c5
+{ Black plays c5 right away after bishop to g3. } 12. cxd5 exd5 ) 9... Nbd7 (
+9... dxc4 { If black takes right away, you can just take back. } 10. Bxc4 c5
+11. dxc5 Bxc5 12. Qe2
+{ White gets the open file. The center opens up in a way that's favorable for white. }
+) ( 9... Nbd7 10. Qe2 dxc4 11. Bxc4 ) ) ) 8... Bb7
+{ Black plays bishop to b7 after queen b3, reinforcing and developing the bishop. Pretty straightforward. }
+9. Bxf6
+{ White takes on f6. The reason is to force black to recapture on d5 with a pawn once the knight is off f6. This is important. Without the knight, we can almost force black into a hanging pawns structure. }
+9... Bxf6
+{ Bishop captures. If you take with the bishop, knight takes is not ideal. You kind of want to keep that bishop on the board. }
+10. cxd5 { White takes on d5 right away and the pawn should take. } ( 10. cxd5
+exd5 { The e pawn takes. } 11. Rd1
+{ Rook to d1. This looks a little awkward - you'd almost assume the rook should go to c1. But it makes sense once we see the plan develop. Part of it is to support the bishop and make sure it's not hanging. Also after c5, the rook is on an open file on d1. }
+11... Re8 12. Bd3 { Bishop to d3 gets the bishop in the game. } ( 12. Bd3 c5 (
+12... Rf8 13. Bf1 ) 13. dxc5 ( 13. dxc5 Nd7
+{ Knight d7 here because you can't take back right away. There are a couple tricks both sides need to be aware of. }
+( 13... d4
+{ Instead of knight d7, if they go d4, black's position starts to fall apart: too loose in the center, falling behind in development on the queen side, f7 is weak. }
+14. Bc4
+{ Bishop c4 attacks f7 with check. Black can't even take because they hang the queen. Black really needs to play knight d7 to maintain equality. }
+) 14. c6
+{ White plays c6 - trying to ruin black's position. Now the bishop has to take. You play c6 and fork some pieces. }
+( 14. c6 Bxc6 ) 14... Bxc6 { The bishop has to take. } 15. O-O
+{ Now white finally gets to castle after c6 bishop takes. } ) 13... Nd7 14. c6
+Bxc6 15. O-O ) 12... c5 { Black should play c5 here. } 13. dxc5
+{ White takes with the pawn. } 13... bxc5 ( 13... Nd7 ) ( 13... Nd7
+{ Knight d7 - but if white tries to win the pawn by taking... } 14. cxb6
+{ Taking here is actually a little blunder. } 14... Nc5
+{ It allows knight c5. Normally allowing knight c5 is not an issue because you can go queen c2, but here there's a different problem. }
+15. Qc2
+{ Normally you can just go queen c2 and after the knight takes the bishop, you take back with the queen. But here... }
+15... Nxd3+ 16. Qxd3 Qxb6
+{ Queen takes b6 and you have quite a bit of pressure on the queen side. } 17.
+O-O { You'd really like to castle, but the problem is bishop to a6. } 17... Ba6
+{ Bishop to a6 and now you're being skewered. Your queen has to move out of the way and you're losing an exchange. }
+18. Qd2 Bxf1 19. Kxf1
+{ Trying to win the pawn is a big mistake. Instead you're going to lose this pawn - might as well try and ruin black's position while you can. }
+) ( 13... Nd7 { 727 } 14. c6
+{ White plays c6 - this is another trap in the position that black can fall for. Knight c5 attacking the queen looks tempting but there's a trick. }
+14... Bxc6 { The bishop must take. } ( 14... Nc5
+{ Knight c5 attacking the queen, forking queen and bishop. But this is actually a blunder here. }
+15. Qxd5 { Queen takes doesn't work because of bishop takes c3 with check. } (
+15. cxb7
+{ The correct answer: pawn takes b7. Your queen is hanging, but black takes the queen, and now you take on a8 and make your own queen. }
+15... Nxb3 16. bxa8=Q { You take on a8 and make your own queen. } 16... Qxa8
+{ After they take your queen on a8... } 17. axb3
+{ You take the knight on b3. Now you have three minor pieces worth nine points plus a rook, versus black's queen and rook. White is up material - at least plus two according to Stockfish 13. }
+) 15... Bxc3+
+{ Bishop takes c3 with check. You have to resolve the check, and once you take, you've lost your defender of the queen. Not queen takes pawn. }
+16. bxc3 Qxd5
+{ This doesn't work because of the prior bishop takes c3 check. Just from not being able to castle. }
+) ( 14... Bxc6
+{ The bishop must take on c6. You can't go knight c5 here - this is why you must take on c6 with the bishop. }
+15. O-O { Now white finally gets to castle. } 15... Nc5
+{ Knight c5 - now you can just go queen to c2. } 16. Qc2 { Queen to c2. } 16...
+Rc8 { Rook to c8, lining up the rook with the queen. } ( 16... Nxd3
+{ If black tries to take the bishop, white can recapture with the queen. } 17.
+Qxd3
+{ White recaptures. White is slightly better because of the pressure on this isolated pawn. }
+) ( 16... Rc8 17. Nd4 { After rook to c8, you can get knight to d4. } 17...
+Bxd4 18. exd4 Nxd3 19. Qxd3
+{ This is an equal position. Black can take the bishop or move back, but they should probably just take the bishop. After queen takes this is equal - there are at least five moves black can play that are equal. }
+) ) ) ) ( 10. cxd5 { 1067 } 10... exd5 { 1067 } 11. Rd1 { 1067 } ) 10... exd5 (
+10... Bxd5
+{ If you take with the bishop, then knight takes is not ideal. You kind of want to keep that bishop on the board. }
+11. Nxd5 exd5 ) ) ) ) 3. e4
+{ One way white may continue after black takes on c4 is to play e4 right away, gaining space and pressure. }
+*
+

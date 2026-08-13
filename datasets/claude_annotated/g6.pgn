@@ -1,0 +1,105 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4
+{ Starting position - E4, E5, Nf3, Nc6, Bc4, Bc5 leads to a typical Italian game. }
+1... e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6
+{ This is the most common position at the amateur and beginner level. Everyone develops pieces and prepares to castle. }
+6. Bg5
+{ Bg5 is the most popular continuation in this position according to Lichess statistics - 2.5 million games. However, this is an inaccuracy. The strongest move for white here is Be3, or alternatively Nf4 to exchange the bishop. }
+( 6. Bg5
+{ Main line: Bg5 is inaccurate. Black should not respond with Bg4 immediately. }
+6... h6
+{ Correct response - ask white what they plan to do next. Do not play Bg4 immediately as that would make white happy. }
+7. Bxf6 { White essentially has to take the knight. } ( 7. Bh4
+{ Usually if white has already brought their bishop out to g5, they retreat to h4. }
+7... g5
+{ It's important not to be afraid to play g5. We haven't castled yet, so we're not afraid to push the pawns in front of our king. If the king were on g8, you'd have to watch out for a knight sacrifice, but here it's not dangerous. }
+8. Bg3 { White retreats to g3. } 8... Bg4
+{ Now we bring our bishop out to g4. The difference is that now if white tries h3, the g-pawn is blocked by white's own bishop on g3. The bishop has no prospects - it's trapped by pawns with no squares to go to. }
+9. h3
+{ If white plays h3 trying to chase the bishop, their g-pawn is blocked by their own bishop on g3. }
+9... Bh5
+{ We move the bishop back to h5. The bishop on g3 is trapped with no way out. }
+10. Qd2
+{ The most popular move here is Qd2, but after this we can capture on f3, ruin opponent's pawn structure, and place our knight on d4. This gives a very comfortable advantage for black. }
+( 10. Bh2
+{ Second most popular move - though quite hard to come up with. The bishop on h2 is still locked in. }
+10... Qe7
+{ Personal recommendation after Bh2 is to try Nf5 to exchange off the light-squared bishop. This is the main problem with the Bg5 move from white's side. }
+( 10... Bxf3 { Alternative: take on f3 and place the knight on d4. } 11. Qxf3
+Nd4
+{ Knight goes to d4 - roughly equal position but bishop on h2 is still locked in. }
+12. Qd1 ) 11. g4
+{ If white tries to clear the way for g4, we can try to bring the knight to a5 and exchange the light-squared bishop. }
+11... Bg6
+{ Our bishop ends up in a similar trapped situation. If we don't want to allow this, we can try taking on f3 and placing the knight on d4. }
+) ( 10. Qd2
+{ After Qd2, we can already capture the knight on f3, ruin our opponent's pawn structure, and place our knight on d4. }
+) ( 10. Bh2 ) 10... Bxf3
+{ We capture on f3, ruining the opponent's pawn structure. } 11. gxf3 Nd4
+{ Knight goes to d4. Then we bring out the queen, castle long, and the position is simply excellent. }
+) 7... Qxf6 { Black simply develops the queen after the exchange. } 8. Nd5
+{ If the knight moves forward like this... } 8... Qd8
+{ We can return to d8 to protect the pawn on c7 and continue developing as if nothing happened. }
+) ( 6. Bg5
+{ Bg5 is an extremely problematic decision from white. If playing as black and you see this, now you know what to do. }
+) ( 6. h3
+{ H3 is the second most popular move, precisely to prevent the bishop from coming out to g4 and pinning the knight. This is also an inaccuracy. }
+6... h6
+{ We mirror white's idea and play h6, not allowing the bishop to go to g5. } 7.
+Be3
+{ Be3 is a good continuation - after an exchange, white's pawns move closer to the center forming a strong pawn formation. That's why we should retreat the bishop to b6, keeping up the tension and not allowing exchanges on opponent's terms. }
+( 7. O-O { Most people here choose to castle. } 7... g5
+{ After castling, we find a strong unconventional move g5 - the fourth most popular move with a 62% win rate. Incredible - black just demolishes white. The idea: since we haven't castled yet, we push g4, exchange the h3 pawn, and launch a kingside attack bringing the knight into the center and rook along the g-file. }
+8. Nh2
+{ The strongest move for white, but practically impossible to find without prior knowledge. The knight retreats to prevent the g4 push. Then we can continue developing with Ba6, bring out the queen and castle long. Everything will be fine. }
+( 8. Be3 { If white plays Be3 instead, we show how the game might develop. }
+8... g4 { We play g4, forcing white to exchange. } 9. hxg4 { They take on g4. }
+9... Bxg4 { Bishop takes g4. } 10. Bxc5 { They take on c5. } 10... dxc5 11. Nd5
+{ If white plays Nd5 here - the most popular continuation - we simply play Nd4, pinning their knight. White's pawns will be ruined and their king exposed. }
+11... Nd4
+{ Knight to d4, pinning white's knight. On the next move white's pawns will be ruined and king exposed. }
+12. c3 Nxf3+ 13. gxf3 Bh3 { Bishop to h3. Next, our rook joins in on g8. } 14.
+Re1 { If they play Re1... } 14... Nxd5
+{ We simply take the knight and then deliver mate on g2. White's position is just lost - they either lose a huge amount of material or get mated in a few moves. }
+) ) ) ( 6. O-O
+{ If white castles, we can find strong unconventional moves to create problems. }
+6... Bg4 { We bring the bishop out to g4. } 7. h3 { White plays h3. } 7... Bh5
+{ We move the bishop to h5. We don't rush to castle ourselves. } 8. Be3
+{ The best continuation for white is Be3. This is a very good decision. } ( 8.
+g4
+{ But the opponent might be tempted by g4. If white plays g4, we have a very interesting sacrifice on g4. }
+8... Nxg4
+{ We sacrifice the knight on g4 - effective because the opponent has castled while we haven't committed yet. }
+9. hxg4 Bxg4 10. Be3 { The only correct move is Be3. } 10... Qf6
+{ We play Qf6 to apply pressure. The queen is ready to join in on f6, the knight is ready to go to d4. }
+11. Nd5 Qg6 { Bringing the queen into the attack. } 12. Nxc7+
+{ If the opponent is tempted by the fork, that's basically admitting defeat because you can't take the rook, otherwise checkmate follows against the white king. }
+( 12. Nc3 Qf6
+{ Putting pressure on the pin, which white can no longer get rid of. } 13. Bc1
+Qd8 ) 12... Kd7 ) ( 8. Bg5
+{ If after Bh5 the opponent plays Bg5, you already know what to do. } 8... h6
+{ We simply play h6. } 9. Bh4 { Bishop to h4. } 9... g5
+{ Then g5 because the opponent has to retreat the bishop to g3. } 10. Bg3
+{ White retreats the bishop to g3. } 10... Nd4
+{ We bring the knight into the attack against this pin, ruin the opponent's pawn structure and get a fantastic position. }
+11. a3 ( 11. Nd5
+{ The most popular move for white, Nd5, essentially loses the game. We can simply take this knight, drive the bishop away from d5 so it doesn't attack the b7 pawn, and then bring the queen out to f6. }
+11... Nxd5
+{ We take the knight, driving the bishop away from d5 so it doesn't attack the b7 pawn. }
+12. Bxd5 c6 13. Bc4 Qf6
+{ Bringing the queen out to f6, putting pressure on the pin which white can no longer get rid of. }
+14. c3 { For example c3. } 14... Nxf3+
+{ We take the knight and then push the outside pawn. We'll play h4, g4, bring in the rook, and white will have to fall back. }
+15. gxf3 Bxf3 16. Qd2 h5
+{ We push h5, then g4, bring in the rook, and white will have to fall back. The position is completely winning for black. }
+) 11... Qd7
+{ We can bring the queen to d7 first, threatening to take on f3 and ruin the pawns. The bishop on g3 won't be able to go anywhere anymore. }
+) ) *
+

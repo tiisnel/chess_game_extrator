@@ -1,0 +1,146 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. d4
+{ Tommy Nubeck opened with d4. The presenter decided against playing the Dutch Defense, opting for a more positional approach. }
+1... Nf6 ( 1... Nf6
+{ This is the start of a sideline showing the classical Carlsbad/KP structure: 1...Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 exd5 5.Bg5 Be7 6.e3 c6 - a very popular theoretical setup. }
+2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6
+{ This is the classical Carlsbad structure with huge theory, shown as a reference line. }
+) 2. c4 e6 3. Nf3 a6
+{ The presenter plays a6 with the idea of killing the Catalan: if White plays g3, Black responds with b5, getting the perfect setup. The idea is to play b5, dxc4, securing the pawn. }
+4. g3
+{ If White plays g3, Black responds with b5, and the plan is ...Bb7, ...c5, getting an ideal setup. This is the Catalan-killing idea behind a6. }
+( 4. Nc3
+{ Instead of g3, White includes Nc3. Now Black plays b5 and the idea is to play dxc4 and secure the pawn with b5. }
+4... d5 5. cxd5
+{ 99% if not 100% of players take on d5 here. White says: I'll treat your pawn on e6 as a waste of time by trading the c-pawn for the e-pawn and opening up the light-squared bishop. }
+5... exd5 { Black recaptures, leading to the KP/Carlsbad structure. } 6. Qb3
+{ Tommy plays Qb3. The presenter starts recalling a blitz game against Tommy in Tartu a couple of months ago where this exact position arose. He had not written down the game and forgot the preparation. }
+6... c6
+{ The presenter considered c6 from their previous blitz game against Tommy, intending Bd6 etc. But then White plays e4 with a very dangerous initiative. This was problematic. }
+( 6... Be7
+{ The presenter decides to try Bb7 instead, making sure e4 is not going to happen. If White plays e4, Black just takes dxe4 and castles short safely. }
+7. Bg5
+{ This is one of the most important rules of the KP/Carlsbad structure: you bring out the bishop first and then secure the center with e3, not the other way around. }
+( 7. Bg5
+{ Reference line showing the standard setup: Bg5, c6, e3, Nbd7, Bd3, O-O, O-O - the classical Carlsbad with huge theory. }
+7... c6 { Black plays c6 to protect the pawn on d5. } 8. e3
+{ White secures the center with e3 after developing the bishop - the correct move order in the Carlsbad structure. }
+8... Nbd7 9. Bd3 O-O 10. O-O
+{ Standard development. The key difference in this game is that White already has Qb3 and the knight on f3, and Black has committed the pawn to a6 instead of a7. }
+10... Re8
+{ The presenter plays Re8. He was not sure about the best plan and had multiple ideas. }
+11. Rac1 { White plays Rac1. } 11... Ne4
+{ One typical maneuver. But the presenter notes: if White had the queen on c2 instead of b3, this would be impossible because White would take on e4 and attack the pawn on h7. With queen on b3 this is possible. }
+( 11... Nh5
+{ Idea number two considered: knight h5 to force the bishop trade. If starting with h6 first, White can escape with the bishop, possibly playing h3 and Bh2. }
+) ( 11... h6
+{ If Black plays h6 first, White can avoid the bishop trade with Bf4 and escape. }
+12. Bf4
+{ White escapes the bishop trade. This is why knight h5 immediately makes more sense than playing h6 first. }
+) ( 11... Nh5
+{ Alternative: knight h5 immediately to force the bishop trade before White can escape. }
+12. Bxe7 Qxe7 13. Rfe1 Ndf6 14. Na4 g6 15. Ne5
+{ White carries out the typical plan with Ne5. } 15... Ng7
+{ Black plays Ng7 trying to organize with Bb5. } 16. f3
+{ White plays f3 carrying out the typical idea, wanting to play e4 and trade the bad bishop. }
+16... Bf5 17. Bf1
+{ White controls key squares. The presenter does not like this position for Black. }
+) ( 11... Nf8
+{ The presenter plays Nf8, a typical move in these positions. The idea is to put the knight on e6 and then play Ne4. But the presenter admits this was quite stupid - if he wanted to play Ne4, he should have done it immediately. }
+12. Na4
+{ White plays Na4, an accuracy, exploiting the dark squares rather than going for the traditional b4-b5 pawn minority attack. The presenter notes he was wrong about White's plan. }
+12... Ne6 13. Bh4 Ne4 14. Bxe7 { White takes on e7. } 14... Rxe7 ( 14... Rxe7
+15. Bxe4 ( 15. Nb6
+{ White plays Nb6 - an accuracy. The presenter notes Tommy knew the idea: after Black takes on e4, White plays Ne2 and then dominates the dark squares. But in a rapid game he could not figure it all out. }
+15... Rb8 16. Bxe4 dxe4 17. Ne5
+{ White plays Ne5. The presenter thinks Tommy originally wanted to use the knight on b6 as a nice piece, try F3 ideas, maybe b5 to open the position. But Black's pieces are awkward. }
+17... Nc7
+{ After Nc7, Black is about to play Be6 and f6, and White is losing the momentum. }
+( 17... Nc7 18. Rxc6
+{ White considers Rxc6 - the presenter saw this idea during the game. If Black takes, White takes on c6 and then takes on b8. }
+18... bxc6 ( 18... Rxe5 { Alternative: Black takes on e5 instead of bxc6. } 19.
+Rxc7 Qxc7 20. dxe5 Be6 21. Qb4 Qxe5 ) 19. Nxc6 Qd6 20. Nxb8 ) ( 17... Nc7
+{ After Nc7, White realizes the plan with Rxc6/d5/f3 does not work, so had to take on c8. }
+18. Nxc8
+{ Since the presenter could not take with the rook (queen b7 is a problem), he had to take with the queen. }
+18... Qxc8 { Black takes with the queen, forced. } 19. f3
+{ The critical phase of the game arises. White plays f3. The presenter notes he had come very close to equalizing. }
+19... exf3 ( 19... exf3 20. Rxf3 { White takes with the rook on f3. } 20... Ne6
+( 20... Nd5 21. Rxf7 { White tries Rxf7 here. } ( 21. e4
+{ Instead White plays e4. } 21... Nf6
+{ Black plays knight f6 - all Black needed was one move to play queen e6. } 22.
+Rxf6
+{ He played Rxf6. During the game the presenter did not think of this as a big deal and actually thought it was a panic move since Tommy was down to the last 30-40 seconds. }
+22... gxf6 { Black takes on f6. } ( 22... gxf6 23. Qg3+
+{ White gives a check. The presenter takes on f6 and does not want to play king f8; the king goes to the corner (h8). In theory you always want to go to the corner because you expect the attack from only one side. }
+23... Kh8
+{ King goes to h8 - to the corner to avoid attacks from multiple directions. }
+24. Ng4
+{ White plays Ng4. The presenter thinks there's no way this is working for White - he is two moves away from attacking the king and Black has time to react. }
+( 24. Ng4 ) ) 23. Qg3+ { 1182 } 23... Kh8 ( 23... Kh8 24. Ng4
+{ White plays Ng4. } ( 24. Qh4
+{ Engine says White should have played Qh4 here. Black takes on e5, sacrifices the pawn, queen e6, Black activates the rook, and White is slightly better because of the extra pawn. But objectively this game would finish in a draw. }
+24... fxe5
+{ Black takes on e5, sacrificing the pawn in this engine-recommended line. }
+25. Qxe7 Qe6 { Black activates the rook. } 26. Qxe6 fxe6 27. dxe5 Rd8 28. Rc2 )
+( 24. Ng4 Rxe4 { The presenter considers taking on e4. } ( 24... Rxe4 25. Nxf6
+Qe6 ) ( 24... Qd8
+{ The presenter missed this key defensive move queen d8! After Qd8, if White takes f6, Black takes on d4. And if White goes elsewhere, Black takes on e4 and White doesn't have knight f6. }
+25. Rd1 Rxe4 26. Nh6 ) 25. Nxf6 Rxd4 26. Qe5 Qd8 27. Nd7+ ) ( 24. Ng4 Qc7
+{ Instead of queen d8, the presenter plays Qc7 with the idea that if queen h4, he will play queen f4, trading queens. He was very ambitious at this moment, having 3 minutes while Tommy had 20-30 seconds. }
+25. Qh4 { White plays Qh4. } 25... Qf4
+{ Black plays queen f4, trying to trade queens. The presenter thought he was definitely not worse and had his chance to fight for victory. }
+( 25... Qc8 { Alternative: queen c8. } 26. Qg3 Qc7 27. Qf2 Qd6
+{ About here the presenter realized something was wrong after Nf6. } 28. Nxf6
+{ White plays Nxf6. The presenter realizes after Nf6: rook d8, d5, and he has nothing. Things escalated very quickly. }
+28... Rd8 { Black plays rook d8. } 29. d5
+{ White plays d5. The presenter notes White wants to play either queen h4 or queen f5 to deliver mate. }
+29... Kg7 { Black plays king g7. } 30. Rf1 cxd5
+{ Black plays cxd5, praying White takes on d5. If White takes on d5, Black plays queen e5, queen h3, trade of queens, maybe can win the game. }
+31. exd5 ( 31. Qh4 h6 32. Qg4+ Kh8 33. Qf5 ) 31... Qe5 ) 26. Qxf6+ Qxf6 27.
+Nxf6 Rd8 ) ( 24. Ng4 ) ) ) 21... Rxf7 22. Nxf7 Kxf7 23. e4 Qg4
+{ At least the presenter saw queen g4 that he is not in trouble. } 24. exd5 (
+24. Rf1+ { White could give a check on f1. } 24... Kg8 25. exd5 Qxd4+
+{ Black takes on d4 and is up a pawn. } ) 24... Qxd4+
+{ Black takes on d4 - up a pawn. The presenter was pretty sure Tommy was also somewhere in this line. }
+) 21. d5 Ng5 ) 20. Rxf3 { Black takes on f3. } 20... Nd5 ( 20... Qe6 21. Nxc6
+Qxb3
+{ Black cannot take the knight - the rook on b8 is hanging, and after queen xb3 with an in-between check, White collects the queen. So Black cannot play queen e6 and take on c6. }
+22. Nxe7+ { White collects the queen after the check. } ) ) ) ( 15. Nb6 Rb8 )
+15... dxe4 { 834 } 16. Nd2 { 835 } 16... Ng5 { 836 } ) 15. Bxe4 dxe4 16. Nd2
+{ The engine says after Bxe4, Ne2, Ng5, White keeps the better position after Qb6, Qd6, Nc4. But these lines are very concrete. }
+16... Ng5 17. Qb6 Qd6 18. Nc4 Qg6
+{ If Black could play Qg6, h5, h4, Bh3, Nf3, tossing every piece at the white king, the position looks pretty good. But concretely the back rank suffers. }
+19. Qd8+ ) 12. Bxe4 ( 12. Bxe7 Qxe7 13. Bxe4 dxe4 14. Nd2 Nf6 15. Qa3
+{ White tries to exploit the dark squares with queen a3. The presenter was worried about trading queens giving White a free roll on the queenside. }
+15... Qxa3 16. bxa3 ) 12... Bxg5 ) ) 7. e4
+{ White plays e4 with a very deadly initiative. This is very dangerous for Black. }
+7... dxe4 ( 7... Nxe4 { Black tries taking with the knight instead. } 8. Nxe4
+{ White takes back with the knight and still wants to play Ng5. } 8... Qe7
+{ The important intermezzo move queen e7. There's some total crazy theory here. }
+9. Bd2
+{ In that blitz game against Tommy, he played Bd2. If Black takes with a pawn, White casually castles long and plays Re1, Bc4, Rg1. }
+9... dxe4 ( 9... Qxe4+
+{ In the blitz game the presenter decided to take with the queen on e4. Even if knowing all the theory, he would never go to this line in rapid/blitz because all that matters is the temporary initiative. }
+10. Kd1 Qe7 { The presenter retreated with the queen to e7. } 11. Bd3 Qd8 12.
+Re1+ { White gave a check. } 12... Be7 13. Bb4 Be6 14. Bf5 Bxb4
+{ Trades occurred, White got back the pawn, the position was equal and the game finished in a draw. This was how the blitz game against Tommy in Tartu went. }
+) 10. O-O-O
+{ White castles long side, plays Re1, Bc4, Rg1. According to the engine, Black is surviving if he plays Kd8. }
+10... exf3 11. Re1 Be6 12. Bc4 fxg2 13. Rhg1 Kd8
+{ Engine says Black is surviving with Kd8. Even if knowing this line beforehand, the presenter would never go into it in rapid/blitz - he doesn't have time to find precise moves just to hold a draw. }
+14. Bxe6 fxe6 15. Rxe6 Qd7 16. Rge1 ) 8. Ng5
+{ White plays Ng5 with a very deadly initiative, developing a dangerous attack. }
+) 4... b5
+{ Black secures the extra pawn and gets the ideal setup with a6-b5 combination. }
+5. b3 Bb7 6. Bg2 c5
+{ Black achieves the perfect setup that Black could dream of from this position with a6, b5, Bb7, c5. }
+*
+
